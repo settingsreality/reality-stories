@@ -1,0 +1,145 @@
+{
+ "total": 80.92,
+ "lines": [
+  {
+   "scene": "r1",
+   "text": "There's a loading bar across the sky. Tonight it hit *99 percent.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 5.141
+  },
+  {
+   "scene": "r2",
+   "text": "It showed up on a Tuesday. A thin white line, from one side of the sky to the other. Everyone on Earth could see it.",
+   "voice": "n",
+   "start": 6.091,
+   "end": 12.565
+  },
+  {
+   "scene": "r2",
+   "text": "Under it, one word. *Updating.* One percent.",
+   "voice": "n",
+   "start": 13.065,
+   "end": 15.897
+  },
+  {
+   "scene": "r3",
+   "text": "Planes flew right through it. Telescopes couldn't focus on it. It was always the same distance away. Like a crack in a *screen.*",
+   "voice": "n",
+   "start": 16.847,
+   "end": 23.918
+  },
+  {
+   "scene": "r3",
+   "text": "It went up one percent a day. After a week, people got used to it. They made memes.",
+   "voice": "n",
+   "start": 24.418,
+   "end": 29.057
+  },
+  {
+   "scene": "r4",
+   "text": "At 50 percent, a few stars moved. Just a few. Like someone *rearranging the furniture.*",
+   "voice": "n",
+   "start": 30.007,
+   "end": 35.327
+  },
+  {
+   "scene": "r4",
+   "text": "At 80, the birds stopped flying. They sat on every wire in the world, all facing the bar. *Waiting.*",
+   "voice": "n",
+   "start": 35.827,
+   "end": 41.516
+  },
+  {
+   "scene": "r5",
+   "text": "Tonight it hit 99. And it stopped.",
+   "voice": "n",
+   "start": 42.766,
+   "end": 45.251
+  },
+  {
+   "scene": "r5",
+   "text": "A box opened in the sky, bigger than the moon. *Restart required.* Two buttons. *Now.* Or *tonight.*",
+   "voice": "n",
+   "start": 45.751,
+   "end": 51.239
+  },
+  {
+   "scene": "r6",
+   "text": "Everyone on Earth looked up at the same time. Nobody knew who was supposed to click.",
+   "voice": "n",
+   "start": 52.189,
+   "end": 56.774
+  },
+  {
+   "scene": "r6",
+   "text": "Then a cursor appeared. A little white arrow, the size of a city.",
+   "voice": "n",
+   "start": 57.274,
+   "end": 60.884
+  },
+  {
+   "scene": "r7",
+   "text": "It drifted across the sky. Over the oceans. Over the cities. Slowly. Like it was *looking* for someone.",
+   "voice": "n",
+   "start": 61.834,
+   "end": 67.498
+  },
+  {
+   "scene": "r7",
+   "text": "It stopped over my town. Over my street. Over *my house.*",
+   "voice": "n",
+   "start": 68.298,
+   "end": 71.725
+  },
+  {
+   "scene": "r8",
+   "text": "Then my phone lit up. One notification. *You choose.*",
+   "voice": "n",
+   "start": 73.375,
+   "end": 76.52
+  }
+ ],
+ "scenes": [
+  {
+   "id": "r1",
+   "start": 0,
+   "end": 6.041
+  },
+  {
+   "id": "r2",
+   "start": 6.091,
+   "end": 16.797
+  },
+  {
+   "id": "r3",
+   "start": 16.847,
+   "end": 29.957
+  },
+  {
+   "id": "r4",
+   "start": 30.007,
+   "end": 42.716
+  },
+  {
+   "id": "r5",
+   "start": 42.766,
+   "end": 52.139
+  },
+  {
+   "id": "r6",
+   "start": 52.189,
+   "end": 61.784
+  },
+  {
+   "id": "r7",
+   "start": 61.834,
+   "end": 73.325
+  },
+  {
+   "id": "r8",
+   "start": 73.375,
+   "end": 80.92
+  }
+ ]
+}

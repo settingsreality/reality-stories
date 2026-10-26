@@ -12,8 +12,7 @@ s=open(sys.argv[1]).read()
 for k,v in zip(['{{TITLE}}','{{TITLE_HTML}}','{{META_LEFT}}','{{END_LINE}}','{{END_QUESTION}}'],sys.argv[3:]): s=s.replace(k,v)
 open(sys.argv[2],'w').write(s)
 PY
-sed "s/{{TITLE}}/$title/" $P/scenes.template.js > "$D/www/scenes.js"
-sed "s/{{TITLE}}/$title/" $P/art.template.js > "$D/www/art.js"
+python3 -c "import sys;t=sys.argv[1];[open(o,'w').write(open(i).read().replace('{{TITLE}}',t)) for i,o in ((sys.argv[2],sys.argv[3]),(sys.argv[4],sys.argv[5]))]" "$title" $P/scenes.template.js "$D/www/scenes.js" $P/art.template.js "$D/www/art.js"
 cp $P/audio.template.py "$D/audio.py"
 cat > "$D/script.py" <<PY
 # $title. (scene, caption, voice) first person. *word* = orange italic emphasis on screen.

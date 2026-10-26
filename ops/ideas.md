@@ -20,6 +20,11 @@
 - Mimic: mimic octopus copies the night guard
 - Steps: phone counts 4,212 steps while you sleep, a worn ring around the bed
 - Witch Window: Vermont tilted window, something tilts its head to fit
+- Green Light: traffic-light road sensors + garage-door safety beam; an invisible car follows you home and parks next to you
+- Now Boarding: flight tracker; dad's cancelled flight lands, drives to your house, "Now boarding"
+- 100 Years Old: tsukumogami; your house turns 100 the week it's for sale and won't let you leave
+- Restart Required: loading bar across the sky; "Restart required: Now / Tonight"; the cursor stops over your house
+- Lost & Found: a box of things you haven't lost yet; "Don't open the small one" in your handwriting
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -32,12 +37,14 @@
 - Carbon monoxide "haunted house" (1921 case, widely retold)
 - People walking a circle in the fog (Reedsy "In Circles"); echolocation clicks (*The Last of Us* clickers)
 - Submarine at Point Nemo (*Aquaman: Andromeda*)
+- The sea giving back everything it ever took (Reedsy: "The Sea Returns Everything a Little Wrong", "When the Sea Finally Gives Back What It Took")
+- A shadow that lags, detaches or lives on its own (Andersen's "The Shadow", Peter Pan, many retellings)
+- Self-checkout / "unexpected item in the bagging area" horror (Doctor Who comic "Unexpected Enemy in Bagging Area"; Reedsy "The Eternal Beep")
+- Thermal-camera ghosts and cold spots (a ghost-hunting cliché)
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
-- **Green light**: at night a traffic light only changes when its road sensor (inductive loop) feels a car's metal. It's 3 a.m., I'm the only car, and the light for the empty lane beside me just turned green. Then mine. Then the one behind me.
 - **Musical road**: grooved roads that play a song when you drive over them (real: Lancaster, California). Driving home at night, it plays a song nobody wrote, and it plays when I'm standing on it.
-- **Unexpected item in the bagging area**: closing a store alone, the self-checkout scale keeps detecting weight on an empty platform; the weight goes up night by night (the scale reads in kg).
 - **Causeway**: a tidal causeway to an island (like Lindisfarne; refuge boxes on stilts for people caught by the tide). Footprints walk out across the flats as the tide comes in, and someone is waving from the refuge box.
 - **Microchip**: the vet scans a stray cat that keeps sleeping on my porch; the chip is registered to my address, under my name, from before I was born.
 - **Seed vault**: night guard at the Svalbard seed vault; the door log shows someone entered from the inside.
@@ -45,5 +52,9 @@
 - **Fish finder**: ice fishing at night, the sonar shows a shape rising slowly under the hole, matching my depth readings as I move.
 - **Satellite SOS**: my hiking messenger sends an SOS with GPS coordinates while it's in a drawer at home; the coordinates are a trail I'm hiking next week.
 - **Tsunami siren test**: the monthly siren test, same tone every first Monday at 11:45; this month a different tone, and only my street hears it.
-- **Thermal mirror**: a thermal camera can't see through glass (glass reflects heat); in the window's reflection there's a warm shape standing behind me.
 - **Pressure plate**: a museum's pressure-sensitive floor alarm logs a 4 kg step pattern at 2 a.m., walking from exhibit to exhibit in the closed gallery.
+- **Low Tide** (checked: not found): a tidal causeway (like Holy Island, England) with a refuge hut on stilts; stuck overnight, a light walks the old pilgrim path under the water; at dawn, wet footprints climb the ladder to the hut and none come down. "It was in the hut with me the whole night."
+- **90 Meters** (checked: turbine horror novels exist, this plot didn't turn up): alone in a wind-turbine nacelle at 2 a.m.; the service lift starts climbing; a voice in the lift and a voice on the radio both say they're your partner; "Which one would you let in?"
+- **Dead Pixel** (checked: not found): a dead pixel that's on every screen, then on the wall, a black square in the air that grows each night; toss something in and it's thrown back.
+- **Fictional high concepts to try:** the Moon gets a "terms of service" update; everyone's phone gets the same new contact overnight; a lost-pet poster with your face; gravity comes with a free trial that ends tonight; a hotel with a "do not disturb" sign on the outside of the building.
+- **Myths to retell (search each first):** Each-uisge (Scottish water horse: touch it and you stick to it; modern = a perfect classic car by the loch with the keys in it); Will-o'-the-wisp (lights that lead you off the path; modern = a hiking app's route that keeps adding a trail); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with questions).

@@ -43,13 +43,13 @@ The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 post
 - Length: **60–90 seconds**, about 12–16 narration lines.
 - Escalate every few seconds and end on a **twist line**.
 - The end card asks a question to drive comments ("Would you open the door?").
-- Build each story around **one real, checkable fact** (a real device, place, phenomenon or record) that turns sinister. Look at the examples:
-  - doorbell camera AI boxes (Person Detected)
-  - the mimic octopus (Mimic)
-  - phone step counters (Steps)
-  - Vermont witch windows (Witch Window)
+- Mix three kinds of premise (the owner likes all three, and said "be creative, it can be completely fake"):
+  - **Real thing turns sinister:** one real, checkable device, place or phenomenon. Examples: Person Detected (doorbell AI boxes), Mimic (the mimic octopus), Steps (step counters), Witch Window, Green Light (traffic-light road sensors + garage-door safety beam), Now Boarding (flight trackers).
+  - **Obviously fictional high concept:** a big, fun "what if" that is clearly made up. Examples: Restart Required (a loading bar across the sky; "Restart required: Now / Tonight"), Lost & Found (a box of things you haven't lost yet).
+  - **Myth or legend retold** in a modern first-person setting. Example: 100 Years Old (tsukumogami: things get a soul at 100; your house turns 100 the week it's for sale). Keep the legend's facts right and treat the culture respectfully.
 - **Never done before.** Before writing, web-search the core idea ("<idea> creepypasta", "<idea> horror story", "<idea> short film"). If someone has clearly done it, skip it and add it to the skip list in `ops/ideas.md`.
-- Check the real facts with a quick search. Numbers in narration must be right.
+- For real-world or myth premises, check the facts with a quick search. Numbers in narration must be right.
+- Endings that ask the viewer to choose or answer ("Now, or tonight?", "Would you open it?", "How old is your house?") drive comments; use them often.
 - No real tragedies with real victims, no real named private people, nothing gory. Keep it TikTok-safe: dread and twists, not violence.
 - Vary settings: don't post two stories about the same kind of device or place in the same week.
 
@@ -73,17 +73,18 @@ node pipeline/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<one-line
   - Scene tags must exactly match function names in `scenes.js` and keys in `SCENES`/`FADES`.
   - Lines with the same tag in a row share one scene.
 - **voices.json**:
-  - `n` is the narrator (Kokoro `af_heart`, speed 0.92–0.95).
+  - `n` is the narrator. The owner picked **`af_bella` (speed 0.95) and `am_onyx` (speed 0.9)**: alternate them story to story (check the last story's voices.json). Don't use `af_heart` for new stories.
   - `_say` maps on-screen text to spoken text (e.g. `"1961": "nineteen sixty-one"`).
   - `_gaps` adds extra seconds of silence *before* a line index (e.g. `{"12": 0.8}`) for dramatic pauses.
   - `_tail` is the seconds after the last line (default 4.4) for the end card.
-  - Other voices: `af_nicole` (whisper), `am_michael` (calm official), `bm_george` (old man), `am_onyx` (deep).
+  - Other voices for characters: `af_nicole` (whisper), `am_michael` (calm official), `bm_george` (old man), `am_onyx` with `"fx":"found"` and speed ~0.62 (a deep inhuman voice, used for the house in 100 Years Old).
   - Effects: `fx` = `radio`, `space`, `calm`, `close`, `girl`, `found`, `mic` (see `pipeline/refit.py`).
 - **Look**:
   - Vertical 1080×1920 page: title on top, a 16:9 picture band in the middle (1920×1080 world coordinates), karaoke captions underneath.
   - Dark palette, the main character is the orange-haired figure `YOU(...)`.
   - Helpers live in `pipeline/engine.js`: `wl`, `fillRR`, `circ`, `ell`, `line`, `poly`, `glow`, `text`, `person`, `YOU`, `PAL`, `rng`, `hash`, `lerp`, `ss`, `seg`, `clamp`.
-  - The four stories in `stories/` are complete, posted-quality examples; copy their patterns:
+  - The stories in `stories/` are complete, posted-quality examples. The newest (green-light, now-boarding, hundred-years, restart-required, lost-and-found) use the current pipeline, `sound.py` and `make.sh`; copy their patterns:
+    - app/phone UI and maps (`now-boarding/www/art.js`), giant sky UI and cursor (`restart-required`), top-down object layouts (`lost-and-found`), painted-scroll yokai and a talking wall (`hundred-years`), road/garage and windshield views (`green-light`)
     - camera overlays and night-vision pixel processing (`person-detected/www/cam.js`, `steps/www/bed.js`)
     - creature poses (`mimic/www/octo.js`)
     - rotated windows and old photos (`witch-window/www/farm.js`)

@@ -1,0 +1,138 @@
+{
+ "total": 74.693,
+ "lines": [
+  {
+   "scene": "l1",
+   "text": "A box showed up on my porch. It's full of things I haven't lost *yet.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 4.72
+  },
+  {
+   "scene": "l2",
+   "text": "A cardboard box. Old tape. A label in thick black marker. *Lost and Found.* And my name.",
+   "voice": "n",
+   "start": 5.67,
+   "end": 12.174
+  },
+  {
+   "scene": "l3",
+   "text": "On top, my house keys. But my keys are in my pocket. Same scratches. Same dumb bottle-opener keychain.",
+   "voice": "n",
+   "start": 13.124,
+   "end": 20.52
+  },
+  {
+   "scene": "l3",
+   "text": "My wallet. My headphones. My phone, with a cracked screen. *My* phone isn't cracked.",
+   "voice": "n",
+   "start": 21.02,
+   "end": 26.044
+  },
+  {
+   "scene": "l4",
+   "text": "The next morning, I dropped my phone. It cracked. *The exact same crack.*",
+   "voice": "n",
+   "start": 27.294,
+   "end": 31.765
+  },
+  {
+   "scene": "l4",
+   "text": "So the box isn't giving things back. It's *early.*",
+   "voice": "n",
+   "start": 32.265,
+   "end": 35.059
+  },
+  {
+   "scene": "l5",
+   "text": "I dug deeper. My watch. My glasses. My dog's collar. Her tag still jingles. She's asleep on the couch.",
+   "voice": "n",
+   "start": 36.009,
+   "end": 42.966
+  },
+  {
+   "scene": "l6",
+   "text": "Every day, something from the box goes missing for real. The keys on Tuesday. The headphones on Wednesday.",
+   "voice": "n",
+   "start": 43.916,
+   "end": 50.697
+  },
+  {
+   "scene": "l6",
+   "text": "And every night, something *new* shows up in the box.",
+   "voice": "n",
+   "start": 51.197,
+   "end": 53.957
+  },
+  {
+   "scene": "l7",
+   "text": "At the very bottom, there's a smaller box. Taped shut. With its own label.",
+   "voice": "n",
+   "start": 54.907,
+   "end": 59.328
+  },
+  {
+   "scene": "l7",
+   "text": "It just says my name. And *tomorrow's date.*",
+   "voice": "n",
+   "start": 60.128,
+   "end": 62.555
+  },
+  {
+   "scene": "l8",
+   "text": "Taped inside the lid of the big box, there's a note. In *my* handwriting.",
+   "voice": "n",
+   "start": 63.505,
+   "end": 67.722
+  },
+  {
+   "scene": "l8",
+   "text": "*Don't open the small one.*",
+   "voice": "n",
+   "start": 69.022,
+   "end": 70.293
+  }
+ ],
+ "scenes": [
+  {
+   "id": "l1",
+   "start": 0,
+   "end": 5.62
+  },
+  {
+   "id": "l2",
+   "start": 5.67,
+   "end": 13.074
+  },
+  {
+   "id": "l3",
+   "start": 13.124,
+   "end": 27.244
+  },
+  {
+   "id": "l4",
+   "start": 27.294,
+   "end": 35.959
+  },
+  {
+   "id": "l5",
+   "start": 36.009,
+   "end": 43.866
+  },
+  {
+   "id": "l6",
+   "start": 43.916,
+   "end": 54.857
+  },
+  {
+   "id": "l7",
+   "start": 54.907,
+   "end": 63.455
+  },
+  {
+   "id": "l8",
+   "start": 63.505,
+   "end": 74.693
+  }
+ ]
+}

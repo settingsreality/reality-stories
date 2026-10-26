@@ -1,0 +1,145 @@
+{
+ "total": 82.714,
+ "lines": [
+  {
+   "scene": "g1",
+   "text": "My garage door just stopped halfway down and went back up. It only does that when something is *in the way.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 6.564
+  },
+  {
+   "scene": "g2",
+   "text": "It started at a red light. At night, most lights don't run on a timer. They wait for a loop of wire under the road to feel the *metal* of a car.",
+   "voice": "n",
+   "start": 7.514,
+   "end": 15.509
+  },
+  {
+   "scene": "g2",
+   "text": "That's why bikes get stuck at red lights. They're too small for the loop to notice.",
+   "voice": "n",
+   "start": 16.009,
+   "end": 20.375
+  },
+  {
+   "scene": "g3",
+   "text": "It's 3 a.m. I'm the only car at the intersection. Then the light for the empty side street turns *green.*",
+   "voice": "n",
+   "start": 21.325,
+   "end": 27.718
+  },
+  {
+   "scene": "g3",
+   "text": "Nobody's there. But the loop feels something. Something big. Made of *metal.* With its lights off.",
+   "voice": "n",
+   "start": 28.218,
+   "end": 33.215
+  },
+  {
+   "scene": "g4",
+   "text": "Then the turn arrow beside me goes green. The lane beside me is empty.",
+   "voice": "n",
+   "start": 34.165,
+   "end": 38.204
+  },
+  {
+   "scene": "g4",
+   "text": "But I can hear an engine. *Idling.* Right outside my window.",
+   "voice": "n",
+   "start": 38.704,
+   "end": 42.163
+  },
+  {
+   "scene": "g5",
+   "text": "My light turns green. I floor it.",
+   "voice": "n",
+   "start": 43.413,
+   "end": 45.765
+  },
+  {
+   "scene": "g5",
+   "text": "Every light on the way home is already green when I get there. Every single one.",
+   "voice": "n",
+   "start": 46.265,
+   "end": 50.66
+  },
+  {
+   "scene": "g6",
+   "text": "My mirror stays empty the whole way. But at every corner, I hear it. *One car length back.*",
+   "voice": "n",
+   "start": 51.61,
+   "end": 56.822
+  },
+  {
+   "scene": "g7",
+   "text": "I pull into my garage and hit the button. Garage doors have a little beam across the bottom. If anything breaks it, the door goes back up.",
+   "voice": "n",
+   "start": 57.772,
+   "end": 65.433
+  },
+  {
+   "scene": "g7",
+   "text": "Halfway down, my door stops. And rolls back up.",
+   "voice": "n",
+   "start": 65.933,
+   "end": 68.943
+  },
+  {
+   "scene": "g8",
+   "text": "I turn off my engine. The garage goes quiet.",
+   "voice": "n",
+   "start": 70.393,
+   "end": 73.171
+  },
+  {
+   "scene": "g8",
+   "text": "Except in the empty half of my garage, *another engine* is still running.",
+   "voice": "n",
+   "start": 74.271,
+   "end": 78.314
+  }
+ ],
+ "scenes": [
+  {
+   "id": "g1",
+   "start": 0,
+   "end": 7.464
+  },
+  {
+   "id": "g2",
+   "start": 7.514,
+   "end": 21.275
+  },
+  {
+   "id": "g3",
+   "start": 21.325,
+   "end": 34.115
+  },
+  {
+   "id": "g4",
+   "start": 34.165,
+   "end": 43.363
+  },
+  {
+   "id": "g5",
+   "start": 43.413,
+   "end": 51.56
+  },
+  {
+   "id": "g6",
+   "start": 51.61,
+   "end": 57.722
+  },
+  {
+   "id": "g7",
+   "start": 57.772,
+   "end": 70.343
+  },
+  {
+   "id": "g8",
+   "start": 70.393,
+   "end": 82.714
+  }
+ ]
+}

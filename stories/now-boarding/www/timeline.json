@@ -1,0 +1,145 @@
+{
+ "total": 77.223,
+ "lines": [
+  {
+   "scene": "b1",
+   "text": "The plane my dad was supposed to be on just turned into *my driveway.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 4.614
+  },
+  {
+   "scene": "b2",
+   "text": "Every airliner broadcasts where it is, about twice a second. Apps pick up those signals, so you can watch any flight live. Even on the ground.",
+   "voice": "n",
+   "start": 5.564,
+   "end": 14.947
+  },
+  {
+   "scene": "b2",
+   "text": "Tonight I'm watching my dad's flight home. Flight 2207.",
+   "voice": "n",
+   "start": 15.447,
+   "end": 19.461
+  },
+  {
+   "scene": "b3",
+   "text": "11:42 p.m. It lands. It slows down. It turns off the runway. *Normal.*",
+   "voice": "n",
+   "start": 20.411,
+   "end": 26.239
+  },
+  {
+   "scene": "b3",
+   "text": "Then it rolls right past the gate. And keeps going.",
+   "voice": "n",
+   "start": 26.739,
+   "end": 29.62
+  },
+  {
+   "scene": "b4",
+   "text": "Through the fence. Across the highway. Thirty miles an hour, on the ground. Heading *east.*",
+   "voice": "n",
+   "start": 30.57,
+   "end": 35.858
+  },
+  {
+   "scene": "b4",
+   "text": "Toward my neighborhood.",
+   "voice": "n",
+   "start": 36.358,
+   "end": 37.387
+  },
+  {
+   "scene": "b5",
+   "text": "I call the airline. They say Flight 2207 was *cancelled.* It never left Denver.",
+   "voice": "n",
+   "start": 38.337,
+   "end": 44.017
+  },
+  {
+   "scene": "b5",
+   "text": "Then my phone buzzes. It's my dad. Stuck at the airport. Flight cancelled. Don't wait up.",
+   "voice": "n",
+   "start": 44.517,
+   "end": 49.908
+  },
+  {
+   "scene": "b6",
+   "text": "So what's on my screen? A plane with my dad's flight number, turning onto *my street.*",
+   "voice": "n",
+   "start": 50.858,
+   "end": 55.839
+  },
+  {
+   "scene": "b6",
+   "text": "I go to the window. The street is empty. No lights. No sound.",
+   "voice": "n",
+   "start": 56.639,
+   "end": 60.638
+  },
+  {
+   "scene": "b7",
+   "text": "On the app, the plane slows down. And turns into my driveway.",
+   "voice": "n",
+   "start": 61.588,
+   "end": 65.524
+  },
+  {
+   "scene": "b7",
+   "text": "Its status changes from *Taxiing* to *Arrived.*",
+   "voice": "n",
+   "start": 66.024,
+   "end": 68.442
+  },
+  {
+   "scene": "b8",
+   "text": "Then the app adds one more line. *Now boarding.*",
+   "voice": "n",
+   "start": 70.092,
+   "end": 72.823
+  }
+ ],
+ "scenes": [
+  {
+   "id": "b1",
+   "start": 0,
+   "end": 5.514
+  },
+  {
+   "id": "b2",
+   "start": 5.564,
+   "end": 20.361
+  },
+  {
+   "id": "b3",
+   "start": 20.411,
+   "end": 30.52
+  },
+  {
+   "id": "b4",
+   "start": 30.57,
+   "end": 38.287
+  },
+  {
+   "id": "b5",
+   "start": 38.337,
+   "end": 50.808
+  },
+  {
+   "id": "b6",
+   "start": 50.858,
+   "end": 61.538
+  },
+  {
+   "id": "b7",
+   "start": 61.588,
+   "end": 70.042
+  },
+  {
+   "id": "b8",
+   "start": 70.092,
+   "end": 77.223
+  }
+ ]
+}
