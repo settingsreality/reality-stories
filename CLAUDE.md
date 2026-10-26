@@ -31,8 +31,9 @@ The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 post
 5. **Update and push.**
    - Update `ops/schedule.md` (slot, slug, Metricool id) and `ops/ideas.md` (move the idea to Done).
    - Commit everything except videos/models (`git add --sparse ...` for the new video).
-   - Push to main.
+   - Push to main. Run `git pull --rebase -q` first, because another session may have pushed.
    - End commit messages with the attribution lines your session gives you.
+   - Push the video and cover as soon as each story is rendered (before scheduling it), then push the ops files at the end.
 6. **Finish with a short summary**: what was made, when each post goes out, and anything that went wrong. If a step failed, say so plainly. Never pretend a post was scheduled.
 
 ## What makes a story hook (the owner's direction)
