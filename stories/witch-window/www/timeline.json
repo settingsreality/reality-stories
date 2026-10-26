@@ -1,0 +1,145 @@
+{
+ "total": 85.916,
+ "lines": [
+  {
+   "scene": "w1",
+   "text": "There's a window in my bedroom that's tilted sideways. Last night, something outside tilted its head to *match it.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 7.263
+  },
+  {
+   "scene": "w2",
+   "text": "Old farmhouses in Vermont have them. Witch windows. The legend says a witch can't fly her broom through a crooked window.",
+   "voice": "n",
+   "start": 8.213,
+   "end": 15.747
+  },
+  {
+   "scene": "w2",
+   "text": "The real reason is boring. Builders tilted a normal window to squeeze it in under the roof.",
+   "voice": "n",
+   "start": 16.247,
+   "end": 21.538
+  },
+  {
+   "scene": "w3",
+   "text": "I bought this house last month. My witch window is upstairs, looking out over the dark field behind the barn.",
+   "voice": "n",
+   "start": 22.488,
+   "end": 28.651
+  },
+  {
+   "scene": "w3",
+   "text": "The first night, I heard scratching on the glass. Two floors off the ground.",
+   "voice": "n",
+   "start": 29.151,
+   "end": 33.354
+  },
+  {
+   "scene": "w4",
+   "text": "The second night, I saw it. A long, pale face, pressed against the glass. *Sideways.*",
+   "voice": "n",
+   "start": 34.304,
+   "end": 39.332
+  },
+  {
+   "scene": "w4",
+   "text": "Not like someone peeking in. Tilted at exactly the angle of the window. Like it was trying to *fit.*",
+   "voice": "n",
+   "start": 39.832,
+   "end": 45.681
+  },
+  {
+   "scene": "w5",
+   "text": "I asked the old man who sold me the house about it. He said his family never called it a witch window.",
+   "voice": "n",
+   "start": 46.631,
+   "end": 52.42
+  },
+  {
+   "scene": "w5",
+   "text": "They called it the coffin window. When someone died upstairs, they slid the coffin out through it. Sideways.",
+   "voice": "n",
+   "start": 52.92,
+   "end": 58.809
+  },
+  {
+   "scene": "w6",
+   "text": "So the dead wouldn't know the way back in through the door.",
+   "voice": "n",
+   "start": 59.759,
+   "end": 62.18
+  },
+  {
+   "scene": "w6",
+   "text": "I asked him who died in my bedroom. He said his father. In 1961.",
+   "voice": "n",
+   "start": 62.68,
+   "end": 67.21
+  },
+  {
+   "scene": "w7",
+   "text": "Last night the scratching stopped. I thought it had given up.",
+   "voice": "n",
+   "start": 68.56,
+   "end": 71.58800000000001
+  },
+  {
+   "scene": "w7",
+   "text": "Then I heard the window slide open. Slowly. And something long came in... *sideways.*",
+   "voice": "n",
+   "start": 72.08800000000001,
+   "end": 77.339
+  },
+  {
+   "scene": "w8",
+   "text": "It finally found the angle.",
+   "voice": "n",
+   "start": 78.889,
+   "end": 80.316
+  }
+ ],
+ "scenes": [
+  {
+   "id": "w1",
+   "start": 0,
+   "end": 8.163
+  },
+  {
+   "id": "w2",
+   "start": 8.213,
+   "end": 22.438
+  },
+  {
+   "id": "w3",
+   "start": 22.488,
+   "end": 34.254
+  },
+  {
+   "id": "w4",
+   "start": 34.304,
+   "end": 46.581
+  },
+  {
+   "id": "w5",
+   "start": 46.631,
+   "end": 59.709
+  },
+  {
+   "id": "w6",
+   "start": 59.759,
+   "end": 68.51
+  },
+  {
+   "id": "w7",
+   "start": 68.56,
+   "end": 78.839
+  },
+  {
+   "id": "w8",
+   "start": 78.889,
+   "end": 85.916
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "total": 83.997,
+ "lines": [
+  {
+   "scene": "e1",
+   "text": "At 3:12 last night, my doorbell camera sent me an alert: *Person detected.* I opened the clip. My porch was empty.",
+   "voice": "n",
+   "start": 0.7,
+   "end": 8.208
+  },
+  {
+   "scene": "e1",
+   "text": "Except for the little box the camera draws around a person. The box was there. *Around nothing.*",
+   "voice": "n",
+   "start": 8.708,
+   "end": 14.06
+  },
+  {
+   "scene": "e2",
+   "text": "These cameras don't see ghosts. They run a program that looks for the shape of a body. Head, shoulders, legs. When it finds one, it draws a box.",
+   "voice": "n",
+   "start": 15.01,
+   "end": 23.879
+  },
+  {
+   "scene": "e2",
+   "text": "So I watched the whole clip. The box stood on my porch for six minutes. Then it walked to my door.",
+   "voice": "n",
+   "start": 24.379,
+   "end": 29.875
+  },
+  {
+   "scene": "e3",
+   "text": "The next night, three alerts. *Driveway. Front door.* And then a camera I'd forgotten I even had.",
+   "voice": "n",
+   "start": 30.825,
+   "end": 36.603
+  },
+  {
+   "scene": "e3",
+   "text": "*Hallway.*",
+   "voice": "n",
+   "start": 37.603,
+   "end": 38.2
+  },
+  {
+   "scene": "e4",
+   "text": "I went through it frame by frame. Every frame, the box was a little closer to the camera. To my bedroom door.",
+   "voice": "n",
+   "start": 39.15,
+   "end": 45.846
+  },
+  {
+   "scene": "e4",
+   "text": "And then it got a name.",
+   "voice": "n",
+   "start": 46.346,
+   "end": 47.412
+  },
+  {
+   "scene": "e5",
+   "text": "My camera learns the faces of the people who live here, so it can tell family from strangers. I live alone.",
+   "voice": "n",
+   "start": 48.362,
+   "end": 54.693
+  },
+  {
+   "scene": "e5",
+   "text": "Last night it saved a new face. The photo is an empty box. And it labeled it *with my name.*",
+   "voice": "n",
+   "start": 55.193,
+   "end": 60.847
+  },
+  {
+   "scene": "e6",
+   "text": "This morning I walked into my kitchen, and my phone buzzed.",
+   "voice": "n",
+   "start": 61.797,
+   "end": 65.063
+  },
+  {
+   "scene": "e6",
+   "text": "*Unfamiliar person detected.* Kitchen.",
+   "voice": "n",
+   "start": 66.163,
+   "end": 68.693
+  },
+  {
+   "scene": "e7",
+   "text": "The clip shows me, in a red box. And at the table, in my chair, there's a green box. With my name on it.",
+   "voice": "n",
+   "start": 69.643,
+   "end": 76.008
+  },
+  {
+   "scene": "e7",
+   "text": "My house thinks I'm the stranger now.",
+   "voice": "n",
+   "start": 76.508,
+   "end": 78.39699999999999
+  }
+ ],
+ "scenes": [
+  {
+   "id": "e1",
+   "start": 0,
+   "end": 14.96
+  },
+  {
+   "id": "e2",
+   "start": 15.01,
+   "end": 30.775
+  },
+  {
+   "id": "e3",
+   "start": 30.825,
+   "end": 39.1
+  },
+  {
+   "id": "e4",
+   "start": 39.15,
+   "end": 48.312
+  },
+  {
+   "id": "e5",
+   "start": 48.362,
+   "end": 61.747
+  },
+  {
+   "id": "e6",
+   "start": 61.797,
+   "end": 69.59299999999999
+  },
+  {
+   "id": "e7",
+   "start": 69.643,
+   "end": 83.997
+  }
+ ]
+}

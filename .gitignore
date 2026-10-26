@@ -1,0 +1,9 @@
+models/
+__pycache__/
+stories/*/narration.wav
+stories/*/audio.wav
+stories/*/video.mp4
+stories/*/st/
+stories/*/render.log
+stories/*/grid.jpg
+*.tmp.mp4

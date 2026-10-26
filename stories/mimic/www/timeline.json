@@ -1,0 +1,150 @@
+{
+ "total": 90.655,
+ "lines": [
+  {
+   "scene": "m1",
+   "text": "This octopus can pretend to be eighteen different animals. Last night, on the security cameras, it pretended to be *me.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 8.024
+  },
+  {
+   "scene": "m2",
+   "text": "I'm the night guard at an aquarium. The mimic octopus is real. It was only discovered in 1998, in Indonesia, and when something scares it, it turns into something dangerous.",
+   "voice": "n",
+   "start": 8.974,
+   "end": 21.022
+  },
+  {
+   "scene": "m3",
+   "text": "Flatten out, and it's a poisonous flatfish. Spread its arms, a lionfish. Hide six arms in the sand, wave two, and it's a *sea snake.*",
+   "voice": "n",
+   "start": 21.522,
+   "end": 30.316
+  },
+  {
+   "scene": "m4",
+   "text": "A few weeks ago, it started doing a new one.",
+   "voice": "n",
+   "start": 31.266,
+   "end": 33.516
+  },
+  {
+   "scene": "m4",
+   "text": "It pulled itself up against the glass. Two arms pressed together, like legs. Two held out at its sides. And it *stood.*",
+   "voice": "n",
+   "start": 34.016,
+   "end": 40.984
+  },
+  {
+   "scene": "m5",
+   "text": "It was copying the only thing it sees every night. Me.",
+   "voice": "n",
+   "start": 41.934,
+   "end": 45.105
+  },
+  {
+   "scene": "m5",
+   "text": "When I walked past, it walked with me. When I checked my watch, it lifted an arm. When I waved, it *waved back.*",
+   "voice": "n",
+   "start": 45.605,
+   "end": 52.43
+  },
+  {
+   "scene": "m6",
+   "text": "Last night I fell asleep in the break room. When I woke up, it was 6 A.M. The tank was empty. The lid was still on.",
+   "voice": "n",
+   "start": 53.38,
+   "end": 60.449
+  },
+  {
+   "scene": "m7",
+   "text": "So I checked the cameras.",
+   "voice": "n",
+   "start": 61.399,
+   "end": 62.706
+  },
+  {
+   "scene": "m7",
+   "text": "At 4:10, I walk out of the break room. Down the gallery. Past the tanks. And out the staff door.",
+   "voice": "n",
+   "start": 63.606,
+   "end": 69.44200000000001
+  },
+  {
+   "scene": "m8",
+   "text": "It's my uniform. My walk. My little wave to the camera.",
+   "voice": "n",
+   "start": 70.39200000000001,
+   "end": 73.83000000000001
+  },
+  {
+   "scene": "m8",
+   "text": "But I was asleep at 4:10. And the footprints going out the door are *wet.*",
+   "voice": "n",
+   "start": 74.33000000000001,
+   "end": 78.548
+  },
+  {
+   "scene": "m9",
+   "text": "It learned everything it needed from watching me.",
+   "voice": "n",
+   "start": 79.498,
+   "end": 81.89800000000001
+  },
+  {
+   "scene": "m9",
+   "text": "And my car is gone from the parking lot.",
+   "voice": "n",
+   "start": 82.998,
+   "end": 85.055
+  }
+ ],
+ "scenes": [
+  {
+   "id": "m1",
+   "start": 0,
+   "end": 8.924
+  },
+  {
+   "id": "m2",
+   "start": 8.974,
+   "end": 21.471999999999998
+  },
+  {
+   "id": "m3",
+   "start": 21.522,
+   "end": 31.215999999999998
+  },
+  {
+   "id": "m4",
+   "start": 31.266,
+   "end": 41.884
+  },
+  {
+   "id": "m5",
+   "start": 41.934,
+   "end": 53.330000000000005
+  },
+  {
+   "id": "m6",
+   "start": 53.38,
+   "end": 61.349000000000004
+  },
+  {
+   "id": "m7",
+   "start": 61.399,
+   "end": 70.34200000000001
+  },
+  {
+   "id": "m8",
+   "start": 70.39200000000001,
+   "end": 79.44800000000001
+  },
+  {
+   "id": "m9",
+   "start": 79.498,
+   "end": 90.655
+  }
+ ]
+}

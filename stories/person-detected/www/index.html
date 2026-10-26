@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Person Detected</title><style>
+@font-face{font-family:'IS';src:url(fonts/instrument-serif-latin-400-normal.woff2)}
+@font-face{font-family:'IS';src:url(fonts/instrument-serif-latin-400-italic.woff2);font-style:italic}
+@font-face{font-family:'PM';src:url(fonts/ibm-plex-mono-latin-400-normal.woff2)}
+@font-face{font-family:'PM';src:url(fonts/ibm-plex-mono-latin-500-normal.woff2);font-weight:500}
+html,body{margin:0;background:#000;overflow:hidden}
+#stage{position:relative;width:540px;height:960px;overflow:hidden;color:#f2eee6;transform-origin:0 0;background:#050608}
+#bg{position:absolute;left:-40px;top:-40px;width:620px;height:1040px;filter:blur(16px) brightness(.36) saturate(.85)}
+#band{position:absolute;left:0;top:328px;width:540px;height:304px;box-shadow:0 0 40px rgba(0,0,0,.6)}
+.top{position:absolute;left:0;right:0;top:120px;text-align:center}
+.k{font:500 9px PM;letter-spacing:.34em;color:#f0683f}
+.t{font:400 40px/1 IS;margin-top:12px}.t i{font-style:italic}.t span{font-size:24px;color:rgba(242,238,230,.6)}
+.meta{position:absolute;left:12px;right:12px;top:336px;display:flex;justify-content:space-between;font:500 7px PM;letter-spacing:.2em;color:rgba(242,238,230,.75);text-shadow:0 0 6px rgba(0,0,0,.8)}
+#prog{position:absolute;left:0;top:632px;height:2px;background:#f0683f;opacity:.8}
+#cap{position:absolute;left:28px;right:28px;top:676px;text-align:center;font:400 26px/1.17 IS;text-shadow:0 2px 12px rgba(0,0,0,.6)}
+#cap .w{transition:none}#cap .e{color:#f0683f;font-style:italic}#cap b{font-weight:400;color:#f0683f;font-style:italic}
+#cap.big{font-size:44px;top:690px;font-style:italic}
+#end{position:absolute;left:0;top:328px;width:540px;height:304px;display:flex;flex-direction:column;align-items:center;justify-content:center;opacity:0}
+#end .a{font:500 8px PM;letter-spacing:.34em;color:#f0683f}#end .b{font:italic 400 40px/1 IS;margin-top:14px}#end .c{font:500 8px PM;letter-spacing:.3em;color:rgba(242,238,230,.6);margin-top:18px}
+#endcap{position:absolute;left:0;right:0;top:690px;text-align:center;font:400 26px/1.2 IS;opacity:0}#endcap i{color:#f0683f}
+</style></head><body>
+<div id="stage"><canvas id="bg" width="124" height="208"></canvas>
+<div class="top"><div class="k">STORY</div><div class="t">Person<br><i>Detected</i></div></div>
+<canvas id="band" width="1080" height="608"></canvas>
+<div class="meta"><span>PERSON DETECTED</span><span id="clk">3:12:00 A.M.</span></div>
+<div id="prog"></div><div id="cap"></div>
+<div id="end"><div class="a">THE END</div><div class="b">Check your cameras.</div><div class="c">FOLLOW FOR MORE STORIES</div></div>
+<div id="endcap">What would <i>you</i> do next?</div>
+</div>
+<script src="engine.js"></script><script src="cam.js"></script><script src="scenes.js"></script>
+<script>
+const RENDER=location.search.includes('render');let TL;
+const $=id=>document.getElementById(id);
+const band=$('band'),bgc=$('bg'),bgx=bgc.getContext('2d');
+MAIN=band.getContext('2d');OFF=document.createElement('canvas');OFF.width=1080;OFF.height=608;OFFX=OFF.getContext('2d');
+// captions: split each line into words with estimated timing (by length, with pauses after punctuation)
+let CAPS=[];
+function buildCaps(){CAPS=TL.lines.map((l,i)=>{const toks=[];let emph=false;
+  l.text.split(/\s+/).forEach(w=>{let e=emph;if(w.startsWith('*')){e=true;emph=true;w=w.slice(1);}let close=false;if(/\*[.,!?"…]*$/.test(w)){close=true;w=w.replace('*','');}toks.push({w,e});if(close)emph=false;});
+  const wt=toks.map(t=>t.w.length+1+(/[.?!…]["]?$/.test(t.w)?5:/,$/.test(t.w)?2:0));const tot=wt.reduce((a,b)=>a+b,0);let acc=0;
+  toks.forEach((t,j)=>{t.at=l.start+(l.end-l.start)*acc/tot;acc+=wt[j];});
+  const next=TL.lines[i+1];return{...l,toks,until:next?Math.min(next.start-.08,l.end+.9):l.end+1.0,big:false};});}
+let curCap=-1,spans=[];
+function updateCaps(t){let idx=-1;for(let i=0;i<CAPS.length;i++){const c=CAPS[i];if(t>=c.start-.25&&t<c.until){idx=i;break;}}
+  const cap=$('cap');if(idx!==curCap){curCap=idx;cap.innerHTML='';spans=[];if(idx>=0){const c=CAPS[idx];cap.className=c.big?'big':'';
+    c.toks.forEach((tk,j)=>{const s=document.createElement('span');s.className='w'+(tk.e?' e':'');s.textContent=tk.w;cap.appendChild(s);if(j<c.toks.length-1)cap.appendChild(document.createTextNode(' '));spans.push(s);});}}
+  if(idx<0){cap.style.opacity=0;return;}const c=CAPS[idx];cap.style.opacity=Math.min(ss(seg(t,c.start-.25,c.start)),1-ss(seg(t,c.until-.15,c.until)));
+  c.toks.forEach((tk,j)=>{spans[j].style.opacity=t>=tk.at-.04?1:.32;});}
+function sceneAt(t){for(const s of TL.scenes)if(t>=s.start&&t<s.end+.05)return s;return TL.scenes[TL.scenes.length-1];}
+function frame(t){t=clamp(t,0,TL.total-1e-3);
+  ctx=MAIN;ctx.setTransform(1,0,0,1,0,0);ctx.filter='none';ctx.globalAlpha=1;ctx.globalCompositeOperation='source-over';ctx.fillStyle='#000';ctx.fillRect(0,0,1080,608);ctx.setTransform(SC,0,0,SC,0,0);
+  const sc=sceneAt(t);SCENES[sc.id](t);
+  const[fi,fo]=FADES[sc.id];let b=0;if(fi>0)b=Math.max(b,1-ss(seg(t,sc.start,sc.start+fi)));if(fo>0)b=Math.max(b,ss(seg(t,sc.end-fo,sc.end)));
+  if(sc.id==='e1')b=Math.max(b,1-ss(seg(t,0,.15)));blackout(b);
+  // blurred copy behind everything
+  bgx.setTransform(1,0,0,1,0,0);bgx.drawImage(band,270,0,540,608,0,0,124,208);
+  // band meta + chrome
+  const ck=metaClock(t);$('clk').textContent=ck[0];$('clk').style.color=ck[1]?'#f0683f':'';
+  $('prog').style.width=(540*t/TL.total)+'px';
+  updateCaps(t);
+  const te=E(TL.lines.length-1)+1.7;const e=ss(seg(t,te,te+.7));$('end').style.opacity=e;$('endcap').style.opacity=ss(seg(t,te+.5,te+1.2));$('cap').style.visibility=t>te-.1?'hidden':'visible';}
+window.renderAt=t=>{frame(t);return new Promise(r=>requestAnimationFrame(()=>r(true)));};
+function fit(){const s=Math.min(innerWidth/540,innerHeight/960);$('stage').style.transform=RENDER?'none':`scale(${s})`;}
+addEventListener('resize',fit);fit();
+(async()=>{TL=await (await fetch('timeline.json')).json();buildCaps();await document.fonts.ready;window.READY=true;
+  if(!RENDER){const t0=performance.now();const loop=()=>{frame(((performance.now()-t0)/1000)%TL.total);requestAnimationFrame(loop);};loop();}else frame(0);})();
+</script></body></html>

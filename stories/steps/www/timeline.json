@@ -1,0 +1,152 @@
+{
+ "total": 81.41399999999999,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "Last night, my phone counted four thousand steps. I never left my bed. I know, because I filmed myself *sleeping.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 7.702
+  },
+  {
+   "scene": "s2",
+   "text": "I'd been waking up exhausted for weeks. Sore legs. Dirt on my sheets. So I set up a camera, with my phone on the nightstand.",
+   "voice": "n",
+   "start": 8.652,
+   "end": 16.445
+  },
+  {
+   "scene": "s2",
+   "text": "Phones count steps by feeling the bounce of someone walking. A phone sitting still counts *nothing.*",
+   "voice": "n",
+   "start": 16.945,
+   "end": 22.46
+  },
+  {
+   "scene": "s3",
+   "text": "In the video, I'm asleep all night. I barely move.",
+   "voice": "n",
+   "start": 23.41,
+   "end": 26.198
+  },
+  {
+   "scene": "s3",
+   "text": "But at 3:12, the phone on my nightstand is *gone.*",
+   "voice": "n",
+   "start": 26.998,
+   "end": 30.056
+  },
+  {
+   "scene": "s4",
+   "text": "Forty minutes later, it's back. Same spot. No hand ever comes into frame. It's just gone, and then it isn't.",
+   "voice": "n",
+   "start": 31.006,
+   "end": 37.989999999999995
+  },
+  {
+   "scene": "s5",
+   "text": "So I opened the step map. It draws every walk you take.",
+   "voice": "n",
+   "start": 38.94,
+   "end": 42.263999999999996
+  },
+  {
+   "scene": "s5",
+   "text": "Four thousand two hundred steps. Starting at my nightstand. And the route is a *circle.*",
+   "voice": "n",
+   "start": 42.763999999999996,
+   "end": 47.898999999999994
+  },
+  {
+   "scene": "s6",
+   "text": "Around my bed. Over and over. For forty minutes.",
+   "voice": "n",
+   "start": 48.849,
+   "end": 51.855
+  },
+  {
+   "scene": "s6",
+   "text": "Something picked up my phone, and walked circles around me while I slept.",
+   "voice": "n",
+   "start": 52.355,
+   "end": 56.132999999999996
+  },
+  {
+   "scene": "s7",
+   "text": "Then I looked down at the carpet.",
+   "voice": "n",
+   "start": 57.083,
+   "end": 58.602999999999994
+  },
+  {
+   "scene": "s7",
+   "text": "There's a path worn into it. A perfect ring around my bed. That doesn't happen in one night. That takes *weeks.*",
+   "voice": "n",
+   "start": 59.102999999999994,
+   "end": 65.738
+  },
+  {
+   "scene": "s8",
+   "text": "And now I know why I wake up so tired. Why my legs ache.",
+   "voice": "n",
+   "start": 66.688,
+   "end": 70.37899999999999
+  },
+  {
+   "scene": "s8",
+   "text": "Some nights, it doesn't carry the phone.",
+   "voice": "n",
+   "start": 71.47899999999998,
+   "end": 73.36899999999999
+  },
+  {
+   "scene": "s8",
+   "text": "Some nights, it carries *me.*",
+   "voice": "n",
+   "start": 74.36899999999999,
+   "end": 75.814
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 8.602
+  },
+  {
+   "id": "s2",
+   "start": 8.652,
+   "end": 23.36
+  },
+  {
+   "id": "s3",
+   "start": 23.41,
+   "end": 30.956
+  },
+  {
+   "id": "s4",
+   "start": 31.006,
+   "end": 38.89
+  },
+  {
+   "id": "s5",
+   "start": 38.94,
+   "end": 48.799
+  },
+  {
+   "id": "s6",
+   "start": 48.849,
+   "end": 57.032999999999994
+  },
+  {
+   "id": "s7",
+   "start": 57.083,
+   "end": 66.63799999999999
+  },
+  {
+   "id": "s8",
+   "start": 66.688,
+   "end": 81.41399999999999
+  }
+ ]
+}
