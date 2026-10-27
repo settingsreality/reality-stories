@@ -26,7 +26,8 @@ The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 post
 5. **Make each story** (see "Making a story" below).
    - Push the video and cover.
    - Schedule it into the **earliest empty slot** that fits:
-     - Scarier stories go at 18:00.
+     - **The day's strongest video goes at 18:00** (the audience's most active time); scarier stories and choice endings go there.
+     - Never more than 2 new videos a day: each good video needs room to keep getting pushed (the owner agreed, Oct 27).
      - Lighter or curious ones can go at 10:00.
      - If only one kind of slot is free in the next 3 days, use it.
 6. **Update and push.**
