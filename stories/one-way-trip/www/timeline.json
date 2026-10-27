@@ -1,0 +1,276 @@
+{
+ "total": 179.939,
+ "lines": [
+  {
+   "scene": "a1",
+   "text": "I left Earth two years ago. I just landed. And everyone I knew has been gone for a *hundred years.*",
+   "voice": "a",
+   "start": 0.7,
+   "end": 6.244
+  },
+  {
+   "scene": "a1",
+   "text": "This isn't science fiction. It's how time really works. And it's the real problem with traveling to the stars.",
+   "voice": "n",
+   "start": 7.044,
+   "end": 13.373
+  },
+  {
+   "scene": "b1",
+   "text": "Time doesn't tick the same for everyone. The faster you move through space, the slower you move through *time.*",
+   "voice": "n",
+   "start": 14.323,
+   "end": 20.3
+  },
+  {
+   "scene": "b2",
+   "text": "Picture the simplest clock possible. A flash of light, bouncing between two mirrors. Every bounce is one tick.",
+   "voice": "n",
+   "start": 21.25,
+   "end": 27.997
+  },
+  {
+   "scene": "b2",
+   "text": "Put that clock on a spaceship. On board, the light goes straight up and down. Same as always.",
+   "voice": "n",
+   "start": 28.497,
+   "end": 33.56
+  },
+  {
+   "scene": "b3",
+   "text": "But watch from Earth. The ship is moving, so the light has to travel on a slant to reach the other mirror. A *longer path.*",
+   "voice": "n",
+   "start": 34.51,
+   "end": 41.299
+  },
+  {
+   "scene": "b3",
+   "text": "And light has a speed limit. About 300,000 kilometers per second. The same for everyone, always.",
+   "voice": "n",
+   "start": 41.799,
+   "end": 48.341
+  },
+  {
+   "scene": "b4",
+   "text": "A longer path at the same speed takes longer. So from Earth, the ship's clock ticks *slower.*",
+   "voice": "n",
+   "start": 49.291,
+   "end": 54.334
+  },
+  {
+   "scene": "b4",
+   "text": "Everything on board slows with it. Your watch. Your heartbeat. You. And you'd never feel it.",
+   "voice": "n",
+   "start": 54.834,
+   "end": 59.985
+  },
+  {
+   "scene": "c1",
+   "text": "At normal speeds, it's tiny, but real. GPS satellites correct for it every day, or your map would drift about ten kilometers.",
+   "voice": "n",
+   "start": 60.935,
+   "end": 69.174
+  },
+  {
+   "scene": "c2",
+   "text": "But close to light speed, it explodes. At 90 percent, your clock runs at less than half speed.",
+   "voice": "n",
+   "start": 70.124,
+   "end": 75.72
+  },
+  {
+   "scene": "c2",
+   "text": "At 99 percent, one seventh. At 99.99 percent, *one seventieth.* One year for you. Seventy on Earth.",
+   "voice": "n",
+   "start": 76.22,
+   "end": 84.326
+  },
+  {
+   "scene": "d1",
+   "text": "So let's take a trip. A star fifty light-years away, at 99.99 percent of light speed, there and back.",
+   "voice": "n",
+   "start": 85.276,
+   "end": 92.592
+  },
+  {
+   "scene": "d1",
+   "text": "For you, the whole trip takes about a year and a half.",
+   "voice": "n",
+   "start": 93.092,
+   "end": 95.658
+  },
+  {
+   "scene": "d2",
+   "text": "On Earth, a hundred years pass. Everyone you said goodbye to is *gone.*",
+   "voice": "n",
+   "start": 96.608,
+   "end": 100.71
+  },
+  {
+   "scene": "d2",
+   "text": "And it's not just perspective. You're the one who turned around, so you're the one who's *younger.*",
+   "voice": "n",
+   "start": 101.21,
+   "end": 105.6
+  },
+  {
+   "scene": "d3",
+   "text": "Go bigger. Accelerate at a comfortable one g the whole way, and you reach the Andromeda galaxy in about 28 years.",
+   "voice": "n",
+   "start": 106.55,
+   "end": 113.62
+  },
+  {
+   "scene": "d3",
+   "text": "On Earth, two and a half million years go by. Humans might not even exist anymore.",
+   "voice": "n",
+   "start": 114.12,
+   "end": 118.956
+  },
+  {
+   "scene": "d4",
+   "text": "That's the real problem with space travel. It's not getting there. It's that there's *no one to come back to.*",
+   "voice": "n",
+   "start": 119.906,
+   "end": 125.713
+  },
+  {
+   "scene": "e1",
+   "text": "Unless you don't move through space at all. In 1994, physicist Miguel Alcubierre found a loophole in Einstein's equations.",
+   "voice": "n",
+   "start": 126.663,
+   "end": 135.035
+  },
+  {
+   "scene": "e2",
+   "text": "Squeeze space in front of the ship, stretch it out behind. The ship sits still in a bubble, and space itself carries it. Like a moving walkway.",
+   "voice": "n",
+   "start": 135.985,
+   "end": 143.983
+  },
+  {
+   "scene": "e3",
+   "text": "Since the ship isn't really moving through space, its clock doesn't slow down. You'd age right along with everyone at home.",
+   "voice": "n",
+   "start": 144.933,
+   "end": 151.435
+  },
+  {
+   "scene": "e3",
+   "text": "You could actually *come home.*",
+   "voice": "n",
+   "start": 151.935,
+   "end": 153.148
+  },
+  {
+   "scene": "e4",
+   "text": "The catch? It needs negative energy, which we don't know how to make, and may not exist in the amounts it would take.",
+   "voice": "n",
+   "start": 154.098,
+   "end": 160.394
+  },
+  {
+   "scene": "e4",
+   "text": "And faster-than-light travel could, in theory, let you arrive before you left. Breaking cause and effect.",
+   "voice": "n",
+   "start": 160.894,
+   "end": 166.764
+  },
+  {
+   "scene": "f1",
+   "text": "So for now, the stars are a one-way trip. Not in distance. In *time.*",
+   "voice": "n",
+   "start": 167.714,
+   "end": 171.921
+  },
+  {
+   "scene": "f1",
+   "text": "If you could leave tonight, and come back in two million years... would you go?",
+   "voice": "a",
+   "start": 172.721,
+   "end": 176.639
+  }
+ ],
+ "scenes": [
+  {
+   "id": "a1",
+   "start": 0,
+   "end": 14.273
+  },
+  {
+   "id": "b1",
+   "start": 14.323,
+   "end": 21.2
+  },
+  {
+   "id": "b2",
+   "start": 21.25,
+   "end": 34.46
+  },
+  {
+   "id": "b3",
+   "start": 34.51,
+   "end": 49.241
+  },
+  {
+   "id": "b4",
+   "start": 49.291,
+   "end": 60.885
+  },
+  {
+   "id": "c1",
+   "start": 60.935,
+   "end": 70.074
+  },
+  {
+   "id": "c2",
+   "start": 70.124,
+   "end": 85.226
+  },
+  {
+   "id": "d1",
+   "start": 85.276,
+   "end": 96.558
+  },
+  {
+   "id": "d2",
+   "start": 96.608,
+   "end": 106.5
+  },
+  {
+   "id": "d3",
+   "start": 106.55,
+   "end": 119.856
+  },
+  {
+   "id": "d4",
+   "start": 119.906,
+   "end": 126.613
+  },
+  {
+   "id": "e1",
+   "start": 126.663,
+   "end": 135.935
+  },
+  {
+   "id": "e2",
+   "start": 135.985,
+   "end": 144.883
+  },
+  {
+   "id": "e3",
+   "start": 144.933,
+   "end": 154.048
+  },
+  {
+   "id": "e4",
+   "start": 154.098,
+   "end": 167.664
+  },
+  {
+   "id": "f1",
+   "start": 167.714,
+   "end": 179.939
+  }
+ ]
+}

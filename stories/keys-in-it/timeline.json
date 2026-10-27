@@ -1,0 +1,145 @@
+{
+ "total": 78.79,
+ "lines": [
+  {
+   "scene": "k1",
+   "text": "There's a car parked at the edge of the loch. Engine running. Keys in it. And my hand is *stuck to the door.*",
+   "voice": "n",
+   "start": 0.7,
+   "end": 6.257
+  },
+  {
+   "scene": "k2",
+   "text": "In the Scottish Highlands, there's an old story about the each-uisge. The water horse.",
+   "voice": "n",
+   "start": 7.207,
+   "end": 11.989
+  },
+  {
+   "scene": "k2",
+   "text": "It waits by the loch, looking like the most beautiful horse you've ever seen. Saddled. Calm. Waiting for a rider.",
+   "voice": "n",
+   "start": 12.489,
+   "end": 18.774
+  },
+  {
+   "scene": "k3",
+   "text": "Touch it, and your hand sticks to its skin. Then it runs into the deepest water. And it doesn't stop.",
+   "voice": "n",
+   "start": 19.724,
+   "end": 25.34
+  },
+  {
+   "scene": "k3",
+   "text": "They say all that ever washes up is the liver.",
+   "voice": "n",
+   "start": 25.84,
+   "end": 28.497
+  },
+  {
+   "scene": "k4",
+   "text": "Nobody rides horses anymore. So I always wondered what it would look like now.",
+   "voice": "n",
+   "start": 29.447,
+   "end": 33.8
+  },
+  {
+   "scene": "k4",
+   "text": "Tonight I found out. A perfect old car, cherry red, parked right at the water. Not a scratch. Not one footprint around it.",
+   "voice": "n",
+   "start": 34.3,
+   "end": 40.895
+  },
+  {
+   "scene": "k5",
+   "text": "The engine was running. The headlights pointed straight at the loch. The keys were in it.",
+   "voice": "n",
+   "start": 41.845,
+   "end": 46.274
+  },
+  {
+   "scene": "k5",
+   "text": "I only meant to look through the window. I put my hand on the door.",
+   "voice": "n",
+   "start": 46.774,
+   "end": 50.206
+  },
+  {
+   "scene": "k6",
+   "text": "It was warm. It was *soft.* And my palm wouldn't come off.",
+   "voice": "n",
+   "start": 51.456,
+   "end": 54.605
+  },
+  {
+   "scene": "k6",
+   "text": "The door opened by itself. The seat was wet. The radio was playing water. Just... *water.*",
+   "voice": "n",
+   "start": 55.105,
+   "end": 60.319
+  },
+  {
+   "scene": "k7",
+   "text": "In one of the old stories, a boy's finger sticks to the water horse. He cuts it off to get away.",
+   "voice": "n",
+   "start": 61.269,
+   "end": 66.565
+  },
+  {
+   "scene": "k7",
+   "text": "I have a pocketknife. *And five fingers.*",
+   "voice": "n",
+   "start": 67.465,
+   "end": 69.783
+  },
+  {
+   "scene": "k8",
+   "text": "Then the gear stick moves into drive. *By itself.*",
+   "voice": "n",
+   "start": 71.433,
+   "end": 74.39
+  }
+ ],
+ "scenes": [
+  {
+   "id": "k1",
+   "start": 0,
+   "end": 7.157
+  },
+  {
+   "id": "k2",
+   "start": 7.207,
+   "end": 19.674
+  },
+  {
+   "id": "k3",
+   "start": 19.724,
+   "end": 29.397
+  },
+  {
+   "id": "k4",
+   "start": 29.447,
+   "end": 41.795
+  },
+  {
+   "id": "k5",
+   "start": 41.845,
+   "end": 51.406
+  },
+  {
+   "id": "k6",
+   "start": 51.456,
+   "end": 61.219
+  },
+  {
+   "id": "k7",
+   "start": 61.269,
+   "end": 71.383
+  },
+  {
+   "id": "k8",
+   "start": 71.433,
+   "end": 78.79
+  }
+ ]
+}
