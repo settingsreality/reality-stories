@@ -62,11 +62,11 @@ The owner sent 4 popular videos as the model (rules lists, timers/HUD counters, 
 pipeline/new_story2.sh <slug> "<Title>" "Follow &amp; comment below" "<Option A>|<small text A>" "<Option B>|<small text B>"
 # write stories/<slug>/script.py (lines + scene tags); voices.json is already voice 4
 python3 pipeline/elevoice.py stories/<slug> text          # prints the narration text (~1,000 characters)
-#   -> generate it ONCE with ElevenLabs creative_generate_speech(prompt=<that text>, model_id eleven_v4, voice_id MFZUKuGQUsGJPQjTS4wC)
-#      poll creative_get_flow_run_status until all_completed; take both content_url values (2 takes)
+#   -> generate it ONCE with ElevenLabs creative_generate_speech(prompt=<that text>, model_id eleven_v4, voice_id MFZUKuGQUsGJPQjTS4wC, generations_count 1)
+#      poll creative_get_flow_run_status until all_completed; take the content_url
 #   -> or with Speko audio_synthesize {text, intent:{language:'en',optimizeFor:'accuracy'}, voice:'MFZUKuGQUsGJPQjTS4wC',
 #      constraints:{allowedProviders:{tts:['elevenlabs:eleven_v4']}}} and use its url (valid 15 min) or decode audio_base64 from the saved tool-result file
-python3 pipeline/elevoice.py stories/<slug> build "n=<url1>,<url2>"   # picks the best take, cuts lines, word timings -> timeline.json (+ www/)
+python3 pipeline/elevoice.py stories/<slug> build "n=<url>"   # (or "n=<url1>,<url2>" to pick the better of 2 takes) cuts lines, word timings -> timeline.json (+ www/)
 # write www/art.js (places/things) and www/scenes.js (one function per scene tag)
 pipeline/make.sh <slug> stills "0.3,4,9,14,19,24,30,36,42,48,54,60,66,72" 5   # -> stories/<slug>/grid.jpg (full frames)
 # LOOK at grid.jpg with Read. Fix anything wrong, re-run stills.
