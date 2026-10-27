@@ -49,6 +49,20 @@
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
+- **Owner's picks (Oct 27): make these first, mixing stories and explainers.** Search each one first; check every number.
+  - **Second Moon** (story): Earth really caught a temporary mini-moon in 2024 (2024 PT5, about two months). A new one appears, closer and brighter every night, and it's lit on the side facing away from the Sun. "Would you look at it through a telescope?"
+  - **Weather Balloon** (story): stations launch radiosondes twice a day to about 30 km; yours starts reporting a heartbeat. "Bring it down, or let it pop?"
+  - **Dial-Up** (story): 3 a.m., the Wi-Fi router plays the dial-up modem screech, and keeps going when unplugged. "Unplug the house, or pick up the phone?"
+  - **Winter-Over** (story): South Pole station sealed for winter with 40 people, no flights for months; tonight's headcount is 41 and everyone you count is someone you know. "Recount, or lock your door?"
+  - **The Robotaxi** (story): a self-driving taxi at 3 a.m. takes a turn the map doesn't have; the screen says "Arriving at: Home"; it isn't your house, and a light is on. "Get out, or stay in?"
+  - **Midday** (myth): Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with a question) as a heatwave delivery driver whose GPS starts asking questions at 12:00. "What would you answer?"
+  - **Olo** (explainer): 2025, UC Berkeley's "Oz" laser system stimulated single cone cells and people saw a new color, "olo", a blue-green beyond anything natural; only a handful of people have seen it.
+  - **Bees hold elections** (explainer): honeybee swarms pick a new home by scouts dancing for sites until one wins (Seeley). "Would you trust a bee vote?"
+  - **The sound that rises forever** (explainer): the Shepard tone; the viewer hears it while it's explained (used in films for tension).
+  - **The mirror question** (explainer): why a mirror seems to flip left-right but not up-down (it actually flips front-back).
+  - **Physics Would You Rather** (explainer series): two awful options explained with real physics, the viewer picks ("fall into Jupiter or the Sun?", "a teaspoon of neutron star or a grain of black hole?").
+  - **A teaspoon of neutron star** (explainer), **Everyone who ever lived** (about 117 billion people ever born; explainer), **The 7-year myth** (your cells don't all replace every 7 years; explainer).
+  - The owner passed on: Carousel (suitcase on the baggage belt), Free Trial (gravity free trial ends at midnight). Don't make those.
 - **Musical road**: grooved roads that play a song when you drive over them (real: Lancaster, California). Driving home at night, it plays a song nobody wrote, and it plays when I'm standing on it.
 - **Microchip**: the vet scans a stray cat that keeps sleeping on my porch; the chip is registered to my address, under my name, from before I was born.
 - **Seed vault**: night guard at the Svalbard seed vault; the door log shows someone entered from the inside.
@@ -59,7 +73,7 @@
 - **Pressure plate**: a museum's pressure-sensitive floor alarm logs a 4 kg step pattern at 2 a.m., walking from exhibit to exhibit in the closed gallery.
 - **90 Meters** (checked: turbine horror novels exist, this plot didn't turn up): alone in a wind-turbine nacelle at 2 a.m.; the service lift starts climbing; a voice in the lift and a voice on the radio both say they're your partner; "Which one would you let in?"
 - **Dead Pixel** (checked: not found): a dead pixel that's on every screen, then on the wall, a black square in the air that grows each night; toss something in and it's thrown back.
-- **Fictional high concepts to try:** the Moon gets a "terms of service" update; everyone's phone gets the same new contact overnight; a lost-pet poster with your face; gravity comes with a free trial that ends tonight; a hotel with a "do not disturb" sign on the outside of the building.
+- **Fictional high concepts to try:** the Moon gets a "terms of service" update; everyone's phone gets the same new contact overnight; a lost-pet poster with your face; a hotel with a "do not disturb" sign on the outside of the building.
 - **Myths to retell (search each first):** Will-o'-the-wisp (lights that lead you off the path; modern = a hiking app's route that keeps adding a trail); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with questions).
 - **Vertical explainers in the How Time Works look** (the owner loves that style: clean diagrams, the toon characters, real numbers, a weird twist of real physics). Check every number before making one:
   - **Your head is older than your feet**: gravity slows time; NIST measured it over 33 cm; GPS +45/−7 = +38 µs a day. Ends "How tall are you?"
