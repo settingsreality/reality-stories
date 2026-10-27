@@ -76,7 +76,10 @@ pipeline/make.sh <slug> video      # ~6–10 min for 80 s; writes videos/<slug>.
 node pipeline/v2/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<short hook, key words in <i>…</i>>' '<TITLE>'
 ```
 
-- **ElevenLabs cost:** the owner's plan pays per character, and every connector call makes 2 takes (about 2,000 credits for a 1,000-character story). **Generate once per story.** Never call generation again to retry (it charges again); if a take is bad, use the other take, or Speko. Speko (about 8¢ per 1,000 characters, single take) is the backup when ElevenLabs credits run out or the connector fails.
+- **Voice budget (the owner: "use either voice, get the most use out of them as you can"):** both services give the exact same voice 4, so spend them to make as many videos as possible.
+  - **ElevenLabs first** (the owner's plan; credits reset monthly, so unused ones are wasted). Generate with **`generations_count: 1`** (one take = half the credits; the owner asked for maximum use). Before generating, call it once with `estimate_only: true`: if that shows a blocking error (out of credits), use Speko instead. Never call generation twice for the same text (each call charges).
+  - **Speko when ElevenLabs is out or fails**, and for long videos (over ~2,000 characters): `audio_synthesize` as below, about 8¢ per 1,000 characters. Check `credits_balance_get` first; if it's under $1, say so in the summary.
+  - If a take reads badly (`elevoice.py build` under 90% words matched), don't regenerate the whole story: fix only the bad line by giving it its own voice tag and generating just that line (see stories/universe-ends: the last line was re-done for about 120 credits).
 - **script.py**: `SCRIPT = [(scene_tag, caption, 'n'), ...]`.
   - `*word*` shows in yellow on screen and is spoken normally.
   - `[whispers]`, `[urgent]`, `[quietly]` etc. at the start of a line are ElevenLabs v4 direction: spoken as tone, never shown. Use sparingly (cold open, a radio voice, the final question).
