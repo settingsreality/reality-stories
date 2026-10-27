@@ -1,0 +1,1294 @@
+{
+ "total": 101.39,
+ "lines": [
+  {
+   "scene": "c1",
+   "text": "There are three ways the universe can end. And new data just changed which one is *winning.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.45,
+   "words": [
+    {
+     "w": "There",
+     "start": 0.17,
+     "end": 0.31
+    },
+    {
+     "w": "are",
+     "start": 0.31,
+     "end": 0.47
+    },
+    {
+     "w": "three",
+     "start": 0.47,
+     "end": 0.83
+    },
+    {
+     "w": "ways",
+     "start": 0.83,
+     "end": 1.21
+    },
+    {
+     "w": "the",
+     "start": 1.21,
+     "end": 1.41
+    },
+    {
+     "w": "universe",
+     "start": 1.41,
+     "end": 1.79
+    },
+    {
+     "w": "can",
+     "start": 1.79,
+     "end": 2.05
+    },
+    {
+     "w": "end.",
+     "start": 2.05,
+     "end": 2.45
+    },
+    {
+     "w": "And",
+     "start": 2.87,
+     "end": 3.05
+    },
+    {
+     "w": "new",
+     "start": 3.05,
+     "end": 3.27
+    },
+    {
+     "w": "data",
+     "start": 3.27,
+     "end": 3.57
+    },
+    {
+     "w": "just",
+     "start": 3.57,
+     "end": 3.97
+    },
+    {
+     "w": "changed",
+     "start": 3.97,
+     "end": 4.47
+    },
+    {
+     "w": "which",
+     "start": 4.47,
+     "end": 4.73
+    },
+    {
+     "w": "one",
+     "start": 4.73,
+     "end": 4.93
+    },
+    {
+     "w": "is",
+     "start": 4.93,
+     "end": 5.09
+    },
+    {
+     "w": "*winning.*",
+     "start": 5.09,
+     "end": 5.39
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "It all comes down to dark energy, the mysterious push that's driving every galaxy apart, faster and faster.",
+   "voice": "n",
+   "start": 6.11,
+   "end": 13.39,
+   "words": [
+    {
+     "w": "It",
+     "start": 6.11,
+     "end": 6.21
+    },
+    {
+     "w": "all",
+     "start": 6.21,
+     "end": 6.39
+    },
+    {
+     "w": "comes",
+     "start": 6.39,
+     "end": 6.61
+    },
+    {
+     "w": "down",
+     "start": 6.61,
+     "end": 6.91
+    },
+    {
+     "w": "to",
+     "start": 6.91,
+     "end": 7.17
+    },
+    {
+     "w": "dark",
+     "start": 7.17,
+     "end": 7.45
+    },
+    {
+     "w": "energy,",
+     "start": 7.45,
+     "end": 7.97
+    },
+    {
+     "w": "the",
+     "start": 8.45,
+     "end": 8.53
+    },
+    {
+     "w": "mysterious",
+     "start": 8.53,
+     "end": 8.97
+    },
+    {
+     "w": "push",
+     "start": 8.97,
+     "end": 9.53
+    },
+    {
+     "w": "that's",
+     "start": 9.53,
+     "end": 9.89
+    },
+    {
+     "w": "driving",
+     "start": 9.89,
+     "end": 10.15
+    },
+    {
+     "w": "every",
+     "start": 10.15,
+     "end": 10.67
+    },
+    {
+     "w": "galaxy",
+     "start": 10.67,
+     "end": 11.13
+    },
+    {
+     "w": "apart,",
+     "start": 11.13,
+     "end": 11.61
+    },
+    {
+     "w": "faster",
+     "start": 12.01,
+     "end": 12.39
+    },
+    {
+     "w": "and",
+     "start": 12.39,
+     "end": 12.87
+    },
+    {
+     "w": "faster.",
+     "start": 12.87,
+     "end": 13.39
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Ending one: the *Big Freeze.* Dark energy stays the same, and everything just keeps drifting apart.",
+   "voice": "n",
+   "start": 14.35,
+   "end": 20.99,
+   "words": [
+    {
+     "w": "Ending",
+     "start": 14.37,
+     "end": 14.55
+    },
+    {
+     "w": "one:",
+     "start": 14.55,
+     "end": 14.93
+    },
+    {
+     "w": "the",
+     "start": 15.43,
+     "end": 15.47
+    },
+    {
+     "w": "*Big",
+     "start": 15.47,
+     "end": 15.77
+    },
+    {
+     "w": "Freeze.*",
+     "start": 15.77,
+     "end": 16.23
+    },
+    {
+     "w": "Dark",
+     "start": 17.21,
+     "end": 17.31
+    },
+    {
+     "w": "energy",
+     "start": 17.31,
+     "end": 17.61
+    },
+    {
+     "w": "stays",
+     "start": 17.61,
+     "end": 17.99
+    },
+    {
+     "w": "the",
+     "start": 17.99,
+     "end": 18.23
+    },
+    {
+     "w": "same,",
+     "start": 18.23,
+     "end": 18.57
+    },
+    {
+     "w": "and",
+     "start": 18.87,
+     "end": 19.09
+    },
+    {
+     "w": "everything",
+     "start": 19.09,
+     "end": 19.49
+    },
+    {
+     "w": "just",
+     "start": 19.49,
+     "end": 19.79
+    },
+    {
+     "w": "keeps",
+     "start": 19.79,
+     "end": 20.11
+    },
+    {
+     "w": "drifting",
+     "start": 20.11,
+     "end": 20.51
+    },
+    {
+     "w": "apart.",
+     "start": 20.51,
+     "end": 20.91
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Other galaxies fade out of sight. In about a hundred trillion years, the last stars burn out.",
+   "voice": "n",
+   "start": 21.59,
+   "end": 27.72,
+   "words": [
+    {
+     "w": "Other",
+     "start": 21.61,
+     "end": 21.79
+    },
+    {
+     "w": "galaxies",
+     "start": 21.79,
+     "end": 22.27
+    },
+    {
+     "w": "fade",
+     "start": 22.27,
+     "end": 22.75
+    },
+    {
+     "w": "out",
+     "start": 22.75,
+     "end": 22.97
+    },
+    {
+     "w": "of",
+     "start": 22.97,
+     "end": 23.11
+    },
+    {
+     "w": "sight.",
+     "start": 23.11,
+     "end": 23.39
+    },
+    {
+     "w": "In",
+     "start": 23.89,
+     "end": 24.11
+    },
+    {
+     "w": "about",
+     "start": 24.11,
+     "end": 24.29
+    },
+    {
+     "w": "a",
+     "start": 24.29,
+     "end": 24.45
+    },
+    {
+     "w": "hundred",
+     "start": 24.45,
+     "end": 24.77
+    },
+    {
+     "w": "trillion",
+     "start": 24.77,
+     "end": 25.27
+    },
+    {
+     "w": "years,",
+     "start": 25.27,
+     "end": 25.81
+    },
+    {
+     "w": "the",
+     "start": 26.11,
+     "end": 26.25
+    },
+    {
+     "w": "last",
+     "start": 26.25,
+     "end": 26.55
+    },
+    {
+     "w": "stars",
+     "start": 26.55,
+     "end": 27.03
+    },
+    {
+     "w": "burn",
+     "start": 27.03,
+     "end": 27.39
+    },
+    {
+     "w": "out.",
+     "start": 27.39,
+     "end": 27.72
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Then even black holes slowly evaporate. And after that... nothing happens. *Forever.*",
+   "voice": "n",
+   "start": 28.22,
+   "end": 34.83,
+   "words": [
+    {
+     "w": "Then",
+     "start": 28.22,
+     "end": 28.43
+    },
+    {
+     "w": "even",
+     "start": 28.75,
+     "end": 28.99
+    },
+    {
+     "w": "black",
+     "start": 28.99,
+     "end": 29.31
+    },
+    {
+     "w": "holes",
+     "start": 29.31,
+     "end": 29.79
+    },
+    {
+     "w": "slowly",
+     "start": 29.79,
+     "end": 30.25
+    },
+    {
+     "w": "evaporate.",
+     "start": 30.25,
+     "end": 30.95
+    },
+    {
+     "w": "And",
+     "start": 31.49,
+     "end": 31.61
+    },
+    {
+     "w": "after",
+     "start": 31.61,
+     "end": 31.83
+    },
+    {
+     "w": "that...",
+     "start": 31.83,
+     "end": 32.13
+    },
+    {
+     "w": "nothing",
+     "start": 32.91,
+     "end": 33.17
+    },
+    {
+     "w": "happens.",
+     "start": 33.17,
+     "end": 33.69
+    },
+    {
+     "w": "*Forever.*",
+     "start": 33.69,
+     "end": 34.79
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Ending two: the *Big Rip.* Dark energy gets stronger, until the stretching beats everything.",
+   "voice": "n",
+   "start": 35.91,
+   "end": 42.42,
+   "words": [
+    {
+     "w": "Ending",
+     "start": 36.13,
+     "end": 36.13
+    },
+    {
+     "w": "two:",
+     "start": 36.13,
+     "end": 36.61
+    },
+    {
+     "w": "the",
+     "start": 37.11,
+     "end": 37.17
+    },
+    {
+     "w": "*Big",
+     "start": 37.17,
+     "end": 37.53
+    },
+    {
+     "w": "Rip.*",
+     "start": 37.53,
+     "end": 37.91
+    },
+    {
+     "w": "Dark",
+     "start": 37.91,
+     "end": 38.85
+    },
+    {
+     "w": "energy",
+     "start": 38.85,
+     "end": 39.15
+    },
+    {
+     "w": "gets",
+     "start": 39.15,
+     "end": 39.45
+    },
+    {
+     "w": "stronger,",
+     "start": 39.45,
+     "end": 40.03
+    },
+    {
+     "w": "until",
+     "start": 40.03,
+     "end": 40.53
+    },
+    {
+     "w": "the",
+     "start": 40.53,
+     "end": 40.69
+    },
+    {
+     "w": "stretching",
+     "start": 40.69,
+     "end": 41.17
+    },
+    {
+     "w": "beats",
+     "start": 41.17,
+     "end": 41.71
+    },
+    {
+     "w": "everything.",
+     "start": 41.71,
+     "end": 42.37
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "In one famous example, galaxies come apart sixty million years before the end. Our solar system, three months before.",
+   "voice": "n",
+   "start": 43.01,
+   "end": 50.84,
+   "words": [
+    {
+     "w": "In",
+     "start": 43.01,
+     "end": 43.11
+    },
+    {
+     "w": "one",
+     "start": 43.11,
+     "end": 43.29
+    },
+    {
+     "w": "famous",
+     "start": 43.29,
+     "end": 43.65
+    },
+    {
+     "w": "example,",
+     "start": 43.65,
+     "end": 44.19
+    },
+    {
+     "w": "galaxies",
+     "start": 44.83,
+     "end": 44.93
+    },
+    {
+     "w": "come",
+     "start": 44.93,
+     "end": 45.27
+    },
+    {
+     "w": "apart",
+     "start": 45.27,
+     "end": 45.59
+    },
+    {
+     "w": "sixty",
+     "start": 45.87,
+     "end": 45.92
+    },
+    {
+     "w": "million",
+     "start": 46.15,
+     "end": 46.53
+    },
+    {
+     "w": "years",
+     "start": 46.53,
+     "end": 47.03
+    },
+    {
+     "w": "before",
+     "start": 47.03,
+     "end": 47.45
+    },
+    {
+     "w": "the",
+     "start": 47.45,
+     "end": 47.65
+    },
+    {
+     "w": "end.",
+     "start": 47.65,
+     "end": 47.91
+    },
+    {
+     "w": "Our",
+     "start": 48.43,
+     "end": 48.63
+    },
+    {
+     "w": "solar",
+     "start": 48.63,
+     "end": 48.85
+    },
+    {
+     "w": "system,",
+     "start": 48.85,
+     "end": 49.33
+    },
+    {
+     "w": "three",
+     "start": 49.75,
+     "end": 49.99
+    },
+    {
+     "w": "months",
+     "start": 49.99,
+     "end": 50.31
+    },
+    {
+     "w": "before.",
+     "start": 50.31,
+     "end": 50.79
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Planets and stars rip in the final minutes. And in the last instant, even *atoms* tear open.",
+   "voice": "n",
+   "start": 51.41,
+   "end": 57.53,
+   "words": [
+    {
+     "w": "Planets",
+     "start": 51.55,
+     "end": 51.85
+    },
+    {
+     "w": "and",
+     "start": 51.85,
+     "end": 52.05
+    },
+    {
+     "w": "stars",
+     "start": 52.05,
+     "end": 52.43
+    },
+    {
+     "w": "rip",
+     "start": 52.43,
+     "end": 52.93
+    },
+    {
+     "w": "in",
+     "start": 52.93,
+     "end": 53.15
+    },
+    {
+     "w": "the",
+     "start": 53.15,
+     "end": 53.27
+    },
+    {
+     "w": "final",
+     "start": 53.27,
+     "end": 53.57
+    },
+    {
+     "w": "minutes.",
+     "start": 53.57,
+     "end": 53.95
+    },
+    {
+     "w": "And",
+     "start": 53.95,
+     "end": 54.53
+    },
+    {
+     "w": "in",
+     "start": 54.53,
+     "end": 54.63
+    },
+    {
+     "w": "the",
+     "start": 54.63,
+     "end": 54.79
+    },
+    {
+     "w": "last",
+     "start": 54.79,
+     "end": 55.11
+    },
+    {
+     "w": "instant,",
+     "start": 55.11,
+     "end": 55.63
+    },
+    {
+     "w": "even",
+     "start": 56.05,
+     "end": 56.23
+    },
+    {
+     "w": "*atoms*",
+     "start": 56.23,
+     "end": 56.79
+    },
+    {
+     "w": "tear",
+     "start": 56.79,
+     "end": 57.17
+    },
+    {
+     "w": "open.",
+     "start": 57.17,
+     "end": 57.53
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "Ending three: the *Big Crunch.* Dark energy weakens, gravity takes over, and everything falls back together.",
+   "voice": "n",
+   "start": 58.62,
+   "end": 66.22,
+   "words": [
+    {
+     "w": "Ending",
+     "start": 58.87,
+     "end": 58.87
+    },
+    {
+     "w": "three:",
+     "start": 58.87,
+     "end": 59.37
+    },
+    {
+     "w": "the",
+     "start": 59.87,
+     "end": 59.93
+    },
+    {
+     "w": "*Big",
+     "start": 59.93,
+     "end": 60.27
+    },
+    {
+     "w": "Crunch.*",
+     "start": 60.27,
+     "end": 60.73
+    },
+    {
+     "w": "Dark",
+     "start": 61.67,
+     "end": 61.71
+    },
+    {
+     "w": "energy",
+     "start": 61.71,
+     "end": 62.05
+    },
+    {
+     "w": "weakens,",
+     "start": 62.05,
+     "end": 62.71
+    },
+    {
+     "w": "gravity",
+     "start": 63.13,
+     "end": 63.29
+    },
+    {
+     "w": "takes",
+     "start": 63.29,
+     "end": 63.65
+    },
+    {
+     "w": "over,",
+     "start": 63.65,
+     "end": 64.03
+    },
+    {
+     "w": "and",
+     "start": 64.33,
+     "end": 64.47
+    },
+    {
+     "w": "everything",
+     "start": 64.47,
+     "end": 64.99
+    },
+    {
+     "w": "falls",
+     "start": 64.99,
+     "end": 65.45
+    },
+    {
+     "w": "back",
+     "start": 65.45,
+     "end": 65.79
+    },
+    {
+     "w": "together.",
+     "start": 65.79,
+     "end": 66.21
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "For decades, that looked ruled out. Then in 2025, two giant sky surveys found hints that dark energy is getting *weaker.*",
+   "voice": "n",
+   "start": 67.03,
+   "end": 75.36,
+   "words": [
+    {
+     "w": "For",
+     "start": 67.03,
+     "end": 67.13
+    },
+    {
+     "w": "decades,",
+     "start": 67.13,
+     "end": 67.53
+    },
+    {
+     "w": "that",
+     "start": 67.83,
+     "end": 68.03
+    },
+    {
+     "w": "looked",
+     "start": 68.03,
+     "end": 68.25
+    },
+    {
+     "w": "ruled",
+     "start": 68.25,
+     "end": 68.57
+    },
+    {
+     "w": "out.",
+     "start": 68.57,
+     "end": 68.87
+    },
+    {
+     "w": "Then",
+     "start": 69.43,
+     "end": 69.75
+    },
+    {
+     "w": "in",
+     "start": 69.75,
+     "end": 70.01
+    },
+    {
+     "w": "2025,",
+     "start": 70.365,
+     "end": 70.415
+    },
+    {
+     "w": "two",
+     "start": 70.72,
+     "end": 70.77
+    },
+    {
+     "w": "giant",
+     "start": 71.075,
+     "end": 71.125
+    },
+    {
+     "w": "sky",
+     "start": 71.61,
+     "end": 72.09
+    },
+    {
+     "w": "surveys",
+     "start": 72.09,
+     "end": 72.47
+    },
+    {
+     "w": "found",
+     "start": 72.47,
+     "end": 72.87
+    },
+    {
+     "w": "hints",
+     "start": 72.87,
+     "end": 73.25
+    },
+    {
+     "w": "that",
+     "start": 73.25,
+     "end": 73.63
+    },
+    {
+     "w": "dark",
+     "start": 73.63,
+     "end": 73.91
+    },
+    {
+     "w": "energy",
+     "start": 73.91,
+     "end": 74.17
+    },
+    {
+     "w": "is",
+     "start": 74.17,
+     "end": 74.55
+    },
+    {
+     "w": "getting",
+     "start": 74.55,
+     "end": 74.75
+    },
+    {
+     "w": "*weaker.*",
+     "start": 74.75,
+     "end": 74.93
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "One study used those hints to put a date on it. The universe stops growing in about eleven billion years, and collapses about *twenty billion years* from now.",
+   "voice": "n",
+   "start": 75.97,
+   "end": 84.92,
+   "words": [
+    {
+     "w": "One",
+     "start": 75.97,
+     "end": 76.15
+    },
+    {
+     "w": "study",
+     "start": 76.15,
+     "end": 76.41
+    },
+    {
+     "w": "used",
+     "start": 76.41,
+     "end": 76.77
+    },
+    {
+     "w": "those",
+     "start": 76.77,
+     "end": 77.03
+    },
+    {
+     "w": "hints",
+     "start": 77.03,
+     "end": 77.31
+    },
+    {
+     "w": "to",
+     "start": 77.31,
+     "end": 77.51
+    },
+    {
+     "w": "put",
+     "start": 77.51,
+     "end": 77.65
+    },
+    {
+     "w": "a",
+     "start": 77.65,
+     "end": 77.79
+    },
+    {
+     "w": "date",
+     "start": 77.79,
+     "end": 77.99
+    },
+    {
+     "w": "on",
+     "start": 77.99,
+     "end": 78.19
+    },
+    {
+     "w": "it.",
+     "start": 78.19,
+     "end": 78.39
+    },
+    {
+     "w": "The",
+     "start": 78.39,
+     "end": 79.01
+    },
+    {
+     "w": "universe",
+     "start": 79.01,
+     "end": 79.37
+    },
+    {
+     "w": "stops",
+     "start": 79.37,
+     "end": 79.79
+    },
+    {
+     "w": "growing",
+     "start": 79.79,
+     "end": 80.17
+    },
+    {
+     "w": "in",
+     "start": 80.17,
+     "end": 80.45
+    },
+    {
+     "w": "about",
+     "start": 80.45,
+     "end": 80.67
+    },
+    {
+     "w": "eleven",
+     "start": 80.67,
+     "end": 81.21
+    },
+    {
+     "w": "billion",
+     "start": 81.21,
+     "end": 81.55
+    },
+    {
+     "w": "years,",
+     "start": 81.55,
+     "end": 82.11
+    },
+    {
+     "w": "and",
+     "start": 82.11,
+     "end": 82.59
+    },
+    {
+     "w": "collapses",
+     "start": 82.59,
+     "end": 83.07
+    },
+    {
+     "w": "about",
+     "start": 83.07,
+     "end": 83.51
+    },
+    {
+     "w": "*twenty",
+     "start": 83.51,
+     "end": 83.93
+    },
+    {
+     "w": "billion",
+     "start": 83.93,
+     "end": 84.13
+    },
+    {
+     "w": "years*",
+     "start": 84.13,
+     "end": 84.51
+    },
+    {
+     "w": "from",
+     "start": 84.51,
+     "end": 84.69
+    },
+    {
+     "w": "now.",
+     "start": 84.69,
+     "end": 84.92
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "That would mean we're almost *halfway* through the universe's life. The hints aren't proof yet, and more data is coming.",
+   "voice": "n",
+   "start": 85.5,
+   "end": 91.86,
+   "words": [
+    {
+     "w": "That",
+     "start": 85.5,
+     "end": 85.65
+    },
+    {
+     "w": "would",
+     "start": 85.65,
+     "end": 85.79
+    },
+    {
+     "w": "mean",
+     "start": 85.79,
+     "end": 85.99
+    },
+    {
+     "w": "we're",
+     "start": 85.99,
+     "end": 86.23
+    },
+    {
+     "w": "almost",
+     "start": 86.23,
+     "end": 86.49
+    },
+    {
+     "w": "*halfway*",
+     "start": 86.49,
+     "end": 86.97
+    },
+    {
+     "w": "through",
+     "start": 86.97,
+     "end": 87.47
+    },
+    {
+     "w": "the",
+     "start": 87.47,
+     "end": 87.63
+    },
+    {
+     "w": "universe's",
+     "start": 87.63,
+     "end": 88.19
+    },
+    {
+     "w": "life.",
+     "start": 88.19,
+     "end": 88.47
+    },
+    {
+     "w": "The",
+     "start": 89.23,
+     "end": 89.33
+    },
+    {
+     "w": "hints",
+     "start": 89.33,
+     "end": 89.53
+    },
+    {
+     "w": "aren't",
+     "start": 89.53,
+     "end": 89.91
+    },
+    {
+     "w": "proof",
+     "start": 89.91,
+     "end": 90.15
+    },
+    {
+     "w": "yet,",
+     "start": 90.15,
+     "end": 90.45
+    },
+    {
+     "w": "and",
+     "start": 90.45,
+     "end": 90.87
+    },
+    {
+     "w": "more",
+     "start": 90.87,
+     "end": 91.07
+    },
+    {
+     "w": "data",
+     "start": 91.07,
+     "end": 91.31
+    },
+    {
+     "w": "is",
+     "start": 91.31,
+     "end": 91.55
+    },
+    {
+     "w": "coming.",
+     "start": 91.55,
+     "end": 91.85
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "So which ending would *you* rather have? Freeze, rip, or crunch?",
+   "voice": "q",
+   "start": 92.82,
+   "end": 97.39,
+   "words": [
+    {
+     "w": "So",
+     "start": 92.82,
+     "end": 93.03
+    },
+    {
+     "w": "which",
+     "start": 93.09,
+     "end": 93.39
+    },
+    {
+     "w": "ending",
+     "start": 93.39,
+     "end": 93.61
+    },
+    {
+     "w": "would",
+     "start": 93.61,
+     "end": 93.85
+    },
+    {
+     "w": "*you*",
+     "start": 93.85,
+     "end": 94.03
+    },
+    {
+     "w": "rather",
+     "start": 94.03,
+     "end": 94.25
+    },
+    {
+     "w": "have?",
+     "start": 94.25,
+     "end": 94.67
+    },
+    {
+     "w": "Freeze,",
+     "start": 95.25,
+     "end": 95.43
+    },
+    {
+     "w": "rip,",
+     "start": 95.99,
+     "end": 96.23
+    },
+    {
+     "w": "or",
+     "start": 96.77,
+     "end": 96.83
+    },
+    {
+     "w": "crunch?",
+     "start": 96.83,
+     "end": 97.17
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "c1",
+   "start": 0,
+   "end": 6.06
+  },
+  {
+   "id": "c2",
+   "start": 6.11,
+   "end": 14.3
+  },
+  {
+   "id": "c3",
+   "start": 14.35,
+   "end": 35.86
+  },
+  {
+   "id": "c4",
+   "start": 35.91,
+   "end": 58.57
+  },
+  {
+   "id": "c5",
+   "start": 58.62,
+   "end": 75.92
+  },
+  {
+   "id": "c6",
+   "start": 75.97,
+   "end": 85.45
+  },
+  {
+   "id": "c7",
+   "start": 85.5,
+   "end": 92.77
+  },
+  {
+   "id": "c8",
+   "start": 92.82,
+   "end": 101.39
+  }
+ ]
+}

@@ -104,7 +104,11 @@ def fit_take(a, lines):
         a0, a1 = approx[k][1] - .05, approx[k + 1][0] + .05
         f0, f1 = int(a0 * 100), int(a1 * 100)
         cuts.append((f0 + int(np.argmin(R[f0:f1]))) / 100 if f1 - f0 > 3 else (a0 + a1) / 2)
-    cuts.append(min(dur, approx[-1][1] + .8))
+    e0 = approx[-1][1]; f0, f1 = int((e0 - .05) * 100), min(len(R), int((e0 + .9) * 100))
+    after = np.nonzero(R[int((e0 + .25) * 100):f1] > thr)[0] if f1 > int((e0 + .25) * 100) else []
+    if len(after):  # more speech follows in this take (e.g. a line re-recorded separately): cut in the quiet gap before it
+        g1 = int((e0 + .25) * 100) + after[0]; cuts.append((f0 + int(np.argmin(R[f0:max(f0 + 1, g1)]))) / 100)
+    else: cuts.append(min(dur, e0 + .8))
     out = []
     for k in range(len(lines)):
         s0, s1 = cuts[k], cuts[k + 1]; f0, f1 = int(s0 * 100), max(int(s0 * 100) + 1, int(s1 * 100))
