@@ -1,0 +1,1106 @@
+{
+ "total": 78.83,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "There's a skier in my headlights. The mountain closed *six hours ago.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 4.68,
+   "words": [
+    {
+     "w": "There's",
+     "start": 0.17,
+     "end": 0.46
+    },
+    {
+     "w": "a",
+     "start": 0.46,
+     "end": 0.78
+    },
+    {
+     "w": "skier",
+     "start": 0.78,
+     "end": 1.02
+    },
+    {
+     "w": "in",
+     "start": 1.02,
+     "end": 1.22
+    },
+    {
+     "w": "my",
+     "start": 1.22,
+     "end": 1.38
+    },
+    {
+     "w": "headlights.",
+     "start": 1.38,
+     "end": 1.8
+    },
+    {
+     "w": "The",
+     "start": 2.74,
+     "end": 2.82
+    },
+    {
+     "w": "mountain",
+     "start": 2.82,
+     "end": 3.08
+    },
+    {
+     "w": "closed",
+     "start": 3.08,
+     "end": 3.48
+    },
+    {
+     "w": "*six",
+     "start": 3.48,
+     "end": 3.9
+    },
+    {
+     "w": "hours",
+     "start": 3.9,
+     "end": 4.3
+    },
+    {
+     "w": "ago.*",
+     "start": 4.3,
+     "end": 4.68
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "I'm the new night groomer. Midnight to nine, alone on the mountain.",
+   "voice": "n",
+   "start": 5.28,
+   "end": 9.22,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 5.28,
+     "end": 5.46
+    },
+    {
+     "w": "the",
+     "start": 5.46,
+     "end": 5.56
+    },
+    {
+     "w": "new",
+     "start": 5.56,
+     "end": 5.7
+    },
+    {
+     "w": "night",
+     "start": 5.7,
+     "end": 5.92
+    },
+    {
+     "w": "groomer.",
+     "start": 5.92,
+     "end": 6.4
+    },
+    {
+     "w": "Midnight",
+     "start": 6.96,
+     "end": 7.18
+    },
+    {
+     "w": "to",
+     "start": 7.18,
+     "end": 7.44
+    },
+    {
+     "w": "nine,",
+     "start": 7.44,
+     "end": 7.76
+    },
+    {
+     "w": "alone",
+     "start": 8.22,
+     "end": 8.52
+    },
+    {
+     "w": "on",
+     "start": 8.52,
+     "end": 8.74
+    },
+    {
+     "w": "the",
+     "start": 8.74,
+     "end": 8.84
+    },
+    {
+     "w": "mountain.",
+     "start": 8.84,
+     "end": 9.18
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "On my first night, the old groomer, Walt, taped three rules to my dashboard.",
+   "voice": "n",
+   "start": 10.24,
+   "end": 14.79,
+   "words": [
+    {
+     "w": "On",
+     "start": 10.24,
+     "end": 10.32
+    },
+    {
+     "w": "my",
+     "start": 10.32,
+     "end": 10.48
+    },
+    {
+     "w": "first",
+     "start": 10.48,
+     "end": 10.74
+    },
+    {
+     "w": "night,",
+     "start": 10.74,
+     "end": 11.1
+    },
+    {
+     "w": "the",
+     "start": 11.44,
+     "end": 11.48
+    },
+    {
+     "w": "old",
+     "start": 11.48,
+     "end": 11.74
+    },
+    {
+     "w": "groomer,",
+     "start": 11.74,
+     "end": 12.36
+    },
+    {
+     "w": "Walt,",
+     "start": 12.48,
+     "end": 12.58
+    },
+    {
+     "w": "taped",
+     "start": 12.86,
+     "end": 13.16
+    },
+    {
+     "w": "three",
+     "start": 13.16,
+     "end": 13.58
+    },
+    {
+     "w": "rules",
+     "start": 13.58,
+     "end": 13.92
+    },
+    {
+     "w": "to",
+     "start": 13.92,
+     "end": 14.14
+    },
+    {
+     "w": "my",
+     "start": 14.14,
+     "end": 14.28
+    },
+    {
+     "w": "dashboard.",
+     "start": 14.28,
+     "end": 14.72
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "One. If you see a skier after midnight, *don't stop.*",
+   "voice": "n",
+   "start": 15.49,
+   "end": 19.06,
+   "words": [
+    {
+     "w": "One.",
+     "start": 15.58,
+     "end": 15.74
+    },
+    {
+     "w": "If",
+     "start": 16.28,
+     "end": 16.38
+    },
+    {
+     "w": "you",
+     "start": 16.38,
+     "end": 16.5
+    },
+    {
+     "w": "see",
+     "start": 16.5,
+     "end": 16.74
+    },
+    {
+     "w": "a",
+     "start": 16.74,
+     "end": 16.88
+    },
+    {
+     "w": "skier",
+     "start": 16.88,
+     "end": 17.16
+    },
+    {
+     "w": "after",
+     "start": 17.16,
+     "end": 17.46
+    },
+    {
+     "w": "midnight,",
+     "start": 17.46,
+     "end": 17.88
+    },
+    {
+     "w": "*don't",
+     "start": 18.4,
+     "end": 18.58
+    },
+    {
+     "w": "stop.*",
+     "start": 18.58,
+     "end": 18.98
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Two. On Widow's Run, never *unhook the winch.*",
+   "voice": "n",
+   "start": 19.74,
+   "end": 23.17,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 19.74,
+     "end": 19.98
+    },
+    {
+     "w": "On",
+     "start": 20.56,
+     "end": 20.72
+    },
+    {
+     "w": "Widow's",
+     "start": 20.72,
+     "end": 21.14
+    },
+    {
+     "w": "Run,",
+     "start": 21.14,
+     "end": 21.32
+    },
+    {
+     "w": "never",
+     "start": 21.96,
+     "end": 22.1
+    },
+    {
+     "w": "*unhook",
+     "start": 22.1,
+     "end": 22.64
+    },
+    {
+     "w": "the",
+     "start": 22.64,
+     "end": 22.82
+    },
+    {
+     "w": "winch.*",
+     "start": 22.82,
+     "end": 23.17
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Three. If the radio says your name... *don't answer.*",
+   "voice": "n",
+   "start": 23.82,
+   "end": 27.3,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 23.82,
+     "end": 24.14
+    },
+    {
+     "w": "If",
+     "start": 24.7,
+     "end": 24.84
+    },
+    {
+     "w": "the",
+     "start": 24.84,
+     "end": 25.0
+    },
+    {
+     "w": "radio",
+     "start": 25.0,
+     "end": 25.26
+    },
+    {
+     "w": "says",
+     "start": 25.26,
+     "end": 25.56
+    },
+    {
+     "w": "your",
+     "start": 25.56,
+     "end": 25.76
+    },
+    {
+     "w": "name...",
+     "start": 25.76,
+     "end": 26.08
+    },
+    {
+     "w": "*don't",
+     "start": 26.74,
+     "end": 26.98
+    },
+    {
+     "w": "answer.*",
+     "start": 26.98,
+     "end": 27.3
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Widow's Run is so steep, the cat hangs from a steel cable over a kilometer long, anchored at the top.",
+   "voice": "n",
+   "start": 28.26,
+   "end": 34.43,
+   "words": [
+    {
+     "w": "Widow's",
+     "start": 28.26,
+     "end": 28.26
+    },
+    {
+     "w": "Run",
+     "start": 28.6,
+     "end": 28.8
+    },
+    {
+     "w": "is",
+     "start": 28.8,
+     "end": 29.02
+    },
+    {
+     "w": "so",
+     "start": 29.02,
+     "end": 29.38
+    },
+    {
+     "w": "steep,",
+     "start": 29.38,
+     "end": 29.82
+    },
+    {
+     "w": "the",
+     "start": 30.16,
+     "end": 30.2
+    },
+    {
+     "w": "cat",
+     "start": 30.2,
+     "end": 30.5
+    },
+    {
+     "w": "hangs",
+     "start": 30.5,
+     "end": 30.8
+    },
+    {
+     "w": "from",
+     "start": 30.8,
+     "end": 31.0
+    },
+    {
+     "w": "a",
+     "start": 31.0,
+     "end": 31.14
+    },
+    {
+     "w": "steel",
+     "start": 31.14,
+     "end": 31.48
+    },
+    {
+     "w": "cable",
+     "start": 31.48,
+     "end": 31.86
+    },
+    {
+     "w": "over",
+     "start": 31.86,
+     "end": 32.18
+    },
+    {
+     "w": "a",
+     "start": 32.18,
+     "end": 32.38
+    },
+    {
+     "w": "kilometer",
+     "start": 32.38,
+     "end": 32.92
+    },
+    {
+     "w": "long,",
+     "start": 32.92,
+     "end": 33.28
+    },
+    {
+     "w": "anchored",
+     "start": 33.28,
+     "end": 33.74
+    },
+    {
+     "w": "at",
+     "start": 33.74,
+     "end": 33.94
+    },
+    {
+     "w": "the",
+     "start": 33.94,
+     "end": 34.06
+    },
+    {
+     "w": "top.",
+     "start": 34.06,
+     "end": 34.36
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "At two a.m., I saw the first one. Red jacket. Standing perfectly still. *I didn't stop.*",
+   "voice": "n",
+   "start": 35.2,
+   "end": 42.19,
+   "words": [
+    {
+     "w": "At",
+     "start": 35.2,
+     "end": 35.3
+    },
+    {
+     "w": "two",
+     "start": 35.3,
+     "end": 35.56
+    },
+    {
+     "w": "a.m.,",
+     "start": 35.56,
+     "end": 35.68
+    },
+    {
+     "w": "I",
+     "start": 35.68,
+     "end": 36.18
+    },
+    {
+     "w": "saw",
+     "start": 36.18,
+     "end": 36.44
+    },
+    {
+     "w": "the",
+     "start": 36.44,
+     "end": 36.6
+    },
+    {
+     "w": "first",
+     "start": 36.6,
+     "end": 36.74
+    },
+    {
+     "w": "one.",
+     "start": 36.74,
+     "end": 37.0
+    },
+    {
+     "w": "Red",
+     "start": 37.0,
+     "end": 37.3
+    },
+    {
+     "w": "jacket.",
+     "start": 38.02,
+     "end": 38.1
+    },
+    {
+     "w": "Standing",
+     "start": 38.1,
+     "end": 38.52
+    },
+    {
+     "w": "perfectly",
+     "start": 39.0,
+     "end": 39.4
+    },
+    {
+     "w": "still.",
+     "start": 39.4,
+     "end": 40.04
+    },
+    {
+     "w": "*I",
+     "start": 40.04,
+     "end": 40.44
+    },
+    {
+     "w": "didn't",
+     "start": 41.3,
+     "end": 41.56
+    },
+    {
+     "w": "stop.*",
+     "start": 41.56,
+     "end": 41.78
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Every time I looked up, there was another one. *Closer to the anchor.*",
+   "voice": "n",
+   "start": 42.98,
+   "end": 46.5,
+   "words": [
+    {
+     "w": "Every",
+     "start": 42.98,
+     "end": 43.2
+    },
+    {
+     "w": "time",
+     "start": 43.2,
+     "end": 43.4
+    },
+    {
+     "w": "I",
+     "start": 43.4,
+     "end": 43.58
+    },
+    {
+     "w": "looked",
+     "start": 43.58,
+     "end": 43.74
+    },
+    {
+     "w": "up,",
+     "start": 43.74,
+     "end": 44.02
+    },
+    {
+     "w": "there",
+     "start": 44.28,
+     "end": 44.42
+    },
+    {
+     "w": "was",
+     "start": 44.42,
+     "end": 44.52
+    },
+    {
+     "w": "another",
+     "start": 44.52,
+     "end": 44.82
+    },
+    {
+     "w": "one.",
+     "start": 44.82,
+     "end": 45.16
+    },
+    {
+     "w": "*Closer",
+     "start": 45.42,
+     "end": 45.8
+    },
+    {
+     "w": "to",
+     "start": 45.8,
+     "end": 46.04
+    },
+    {
+     "w": "the",
+     "start": 46.04,
+     "end": 46.16
+    },
+    {
+     "w": "anchor.*",
+     "start": 46.16,
+     "end": 46.48
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "Then the winch started reeling in. *By itself.*",
+   "voice": "n",
+   "start": 47.32,
+   "end": 50.3,
+   "words": [
+    {
+     "w": "Then",
+     "start": 47.32,
+     "end": 47.54
+    },
+    {
+     "w": "the",
+     "start": 47.54,
+     "end": 47.74
+    },
+    {
+     "w": "winch",
+     "start": 47.74,
+     "end": 48.06
+    },
+    {
+     "w": "started",
+     "start": 48.06,
+     "end": 48.4
+    },
+    {
+     "w": "reeling",
+     "start": 48.4,
+     "end": 48.7
+    },
+    {
+     "w": "in.",
+     "start": 48.7,
+     "end": 49.14
+    },
+    {
+     "w": "*By",
+     "start": 49.46,
+     "end": 49.7
+    },
+    {
+     "w": "itself.*",
+     "start": 49.7,
+     "end": 50.16
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "It was dragging me up the slope... toward all of them. *Holding the cable.*",
+   "voice": "n",
+   "start": 50.99,
+   "end": 55.37,
+   "words": [
+    {
+     "w": "It",
+     "start": 50.99,
+     "end": 51.08
+    },
+    {
+     "w": "was",
+     "start": 51.08,
+     "end": 51.22
+    },
+    {
+     "w": "dragging",
+     "start": 51.22,
+     "end": 51.64
+    },
+    {
+     "w": "me",
+     "start": 51.64,
+     "end": 51.9
+    },
+    {
+     "w": "up",
+     "start": 51.9,
+     "end": 52.02
+    },
+    {
+     "w": "the",
+     "start": 52.02,
+     "end": 52.2
+    },
+    {
+     "w": "slope...",
+     "start": 52.2,
+     "end": 52.54
+    },
+    {
+     "w": "toward",
+     "start": 52.54,
+     "end": 53.32
+    },
+    {
+     "w": "all",
+     "start": 53.32,
+     "end": 53.7
+    },
+    {
+     "w": "of",
+     "start": 53.7,
+     "end": 53.84
+    },
+    {
+     "w": "them.",
+     "start": 53.84,
+     "end": 54.1
+    },
+    {
+     "w": "*Holding",
+     "start": 54.1,
+     "end": 54.72
+    },
+    {
+     "w": "the",
+     "start": 54.72,
+     "end": 55.0
+    },
+    {
+     "w": "cable.*",
+     "start": 55.0,
+     "end": 55.36
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "The radio crackled. It said my name.",
+   "voice": "n",
+   "start": 56.29,
+   "end": 58.4,
+   "words": [
+    {
+     "w": "The",
+     "start": 56.29,
+     "end": 56.36
+    },
+    {
+     "w": "radio",
+     "start": 56.36,
+     "end": 56.66
+    },
+    {
+     "w": "crackled.",
+     "start": 56.66,
+     "end": 57.2
+    },
+    {
+     "w": "It",
+     "start": 57.2,
+     "end": 57.7
+    },
+    {
+     "w": "said",
+     "start": 57.7,
+     "end": 57.92
+    },
+    {
+     "w": "my",
+     "start": 57.92,
+     "end": 58.1
+    },
+    {
+     "w": "name.",
+     "start": 58.1,
+     "end": 58.4
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "\"Kid. It's Walt. *Unhook the winch.* Now.\"",
+   "voice": "n",
+   "start": 58.97,
+   "end": 61.74,
+   "words": [
+    {
+     "w": "\"Kid.",
+     "start": 58.97,
+     "end": 59.2
+    },
+    {
+     "w": "It's",
+     "start": 59.2,
+     "end": 59.7
+    },
+    {
+     "w": "Walt.",
+     "start": 59.7,
+     "end": 59.96
+    },
+    {
+     "w": "*Unhook",
+     "start": 59.96,
+     "end": 60.7
+    },
+    {
+     "w": "the",
+     "start": 60.7,
+     "end": 60.86
+    },
+    {
+     "w": "winch.*",
+     "start": 60.86,
+     "end": 61.26
+    },
+    {
+     "w": "Now.\"",
+     "start": 61.26,
+     "end": 61.74
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Rule two says never unhook. Rule three says don't answer.",
+   "voice": "n",
+   "start": 62.42,
+   "end": 66.17,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 62.42,
+     "end": 62.6
+    },
+    {
+     "w": "two",
+     "start": 62.6,
+     "end": 62.9
+    },
+    {
+     "w": "says",
+     "start": 62.9,
+     "end": 63.16
+    },
+    {
+     "w": "never",
+     "start": 63.16,
+     "end": 63.58
+    },
+    {
+     "w": "unhook.",
+     "start": 63.58,
+     "end": 64.14
+    },
+    {
+     "w": "Rule",
+     "start": 64.14,
+     "end": 64.74
+    },
+    {
+     "w": "three",
+     "start": 64.74,
+     "end": 65.1
+    },
+    {
+     "w": "says",
+     "start": 65.1,
+     "end": 65.4
+    },
+    {
+     "w": "don't",
+     "start": 65.4,
+     "end": 65.76
+    },
+    {
+     "w": "answer.",
+     "start": 65.76,
+     "end": 66.16
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Then my headlights hit their jackets. Red. With a name tag. *Same as mine.*",
+   "voice": "n",
+   "start": 67.43,
+   "end": 72.32,
+   "words": [
+    {
+     "w": "Then",
+     "start": 67.43,
+     "end": 67.61
+    },
+    {
+     "w": "my",
+     "start": 67.61,
+     "end": 67.81
+    },
+    {
+     "w": "headlights",
+     "start": 67.81,
+     "end": 68.17
+    },
+    {
+     "w": "hit",
+     "start": 68.17,
+     "end": 68.41
+    },
+    {
+     "w": "their",
+     "start": 68.41,
+     "end": 68.57
+    },
+    {
+     "w": "jackets.",
+     "start": 68.57,
+     "end": 69.01
+    },
+    {
+     "w": "Red.",
+     "start": 69.01,
+     "end": 69.89
+    },
+    {
+     "w": "With",
+     "start": 69.89,
+     "end": 70.47
+    },
+    {
+     "w": "a",
+     "start": 70.47,
+     "end": 70.57
+    },
+    {
+     "w": "name",
+     "start": 70.783,
+     "end": 70.833
+    },
+    {
+     "w": "tag.",
+     "start": 70.997,
+     "end": 71.047
+    },
+    {
+     "w": "*Same",
+     "start": 71.21,
+     "end": 71.81
+    },
+    {
+     "w": "as",
+     "start": 71.81,
+     "end": 71.99
+    },
+    {
+     "w": "mine.*",
+     "start": 71.99,
+     "end": 72.32
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "Do you *unhook the winch?*",
+   "voice": "n",
+   "start": 73.74,
+   "end": 74.83,
+   "words": [
+    {
+     "w": "Do",
+     "start": 73.74,
+     "end": 73.83
+    },
+    {
+     "w": "you",
+     "start": 73.83,
+     "end": 73.99
+    },
+    {
+     "w": "*unhook",
+     "start": 73.99,
+     "end": 74.31
+    },
+    {
+     "w": "the",
+     "start": 74.31,
+     "end": 74.47
+    },
+    {
+     "w": "winch?*",
+     "start": 74.47,
+     "end": 74.83
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 5.23
+  },
+  {
+   "id": "s2",
+   "start": 5.28,
+   "end": 10.19
+  },
+  {
+   "id": "s3",
+   "start": 10.24,
+   "end": 15.44
+  },
+  {
+   "id": "s4",
+   "start": 15.49,
+   "end": 28.21
+  },
+  {
+   "id": "s5",
+   "start": 28.26,
+   "end": 35.15
+  },
+  {
+   "id": "s6",
+   "start": 35.2,
+   "end": 47.27
+  },
+  {
+   "id": "s7",
+   "start": 47.32,
+   "end": 50.94
+  },
+  {
+   "id": "s8",
+   "start": 50.99,
+   "end": 56.24
+  },
+  {
+   "id": "s9",
+   "start": 56.29,
+   "end": 62.37
+  },
+  {
+   "id": "s10",
+   "start": 62.42,
+   "end": 67.38
+  },
+  {
+   "id": "s11",
+   "start": 67.43,
+   "end": 73.69
+  },
+  {
+   "id": "s12",
+   "start": 73.74,
+   "end": 78.83
+  }
+ ]
+}
