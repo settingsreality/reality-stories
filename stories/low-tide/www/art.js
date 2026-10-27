@@ -117,6 +117,7 @@ function behindMe(t,o={}){fillAll('#0b0806');ctx.fillStyle=vgrad(0,1920,[[0,'#1a
   ctx.save();ctx.globalCompositeOperation='lighter';glow(0,900,900,'rgba(255,190,150,1)',.18);ctx.restore();
   // the dark corner behind me: something tall, two glints
   const g=o.glint??1;ctx.fillStyle='rgba(0,0,0,.6)';ctx.beginPath();ctx.ellipse(800,780,170,520,0,0,7);ctx.fill();
-  if(g>0){circ(770,520,7,'#f2efe6',g);circ(830,520,7,'#f2efe6',g);glow(800,520,60,'rgba(235,240,255,1)',.2*g);}
+  ctx.strokeStyle='rgba(150,170,200,.18)';ctx.lineWidth=4;ctx.beginPath();ctx.ellipse(800,780,170,520,0,0,7);ctx.stroke();
+  if(g>0){circ(770,520,10,'#f2efe6',g);circ(830,520,10,'#f2efe6',g);glow(800,520,90,'rgba(235,240,255,1)',.35*g);}
   for(let k=0;k<6;k++)footprint(820-k*60,1840-k*120,70,-.4,.5,{c:'rgba(6,10,16,.7)'});
   me2({x:430,y:2350,h:1850,brow:'scared',mouth:'flat',look:{x:-.2,y:.1},armL:[.1,.1],armR:[.1,.1]});}

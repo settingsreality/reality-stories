@@ -25,8 +25,8 @@ function s9(t){vl(vcam(540,lerp(1000,960,seg(t,T(11),E(11)+.5)),lerp(1.0,1.08,se
 function s10(t){vl(vcam(540,940,1.1),1,()=>behindMe(t,{glint:1}));}
 const SCENES={s1,s2,s3,s4,s5,s6,s7,s8,s9,s10};
 const FADES={};
-const CAPY={s7:.66};
-function hud(t){const sc=sceneAt(t).id;const times={s1:'3:12 AM',s2:'11:31 PM',s3:'11:50 PM',s4:'12:04 AM',s5:'12:20 AM',s6:'12:26 AM',s7:'6:02 AM',s8:'6:03 AM',s9:'6:03 AM',s10:'6:03 AM'};
-  const tide={s1:'2.1 M',s2:(lerp(0,.6,seg(t,T(1),E(1)))).toFixed(1)+' M',s3:(lerp(.6,1.2,seg(t,T(2),E(2)))).toFixed(1)+' M',s4:'1.8 M',s5:'2.0 M',s6:'2.0 M',s7:'0.4 M',s8:'0.4 M',s9:'0.4 M',s10:'0.4 M'}[sc];
+const CAPY={s5:.4,s7:.42,s8:.9};
+function hud(t){const sc=sceneAt(t).id;const times={s1:'6:03 AM',s2:'11:31 PM',s3:'11:50 PM',s4:'12:04 AM',s5:'12:20 AM',s6:'12:26 AM',s7:'6:02 AM',s8:'6:03 AM',s9:'6:03 AM',s10:'6:03 AM'};
+  const tide={s1:'0.4 M',s2:(lerp(0,.6,seg(t,T(1),E(1)))).toFixed(1)+' M',s3:(lerp(.6,1.2,seg(t,T(2),E(2)))).toFixed(1)+' M',s4:'1.8 M',s5:'2.0 M',s6:'2.0 M',s7:'0.4 M',s8:'0.4 M',s9:'0.4 M',s10:'0.4 M'}[sc];
   const hot=['s1','s5','s6','s9','s10'].includes(sc);
   return{chips:[{k:'TIME',v:times[sc]},{k:'TIDE',v:tide,hot},{k:'NEXT SAFE CROSSING',v:'5:40 AM'}],tag:sc==='s1'||sc==='s9'||sc==='s10'?'SOMETHING IS IN THE HUT':'HOLY ISLAND CAUSEWAY',tagRed:sc==='s1'||sc==='s9'||sc==='s10'};}
