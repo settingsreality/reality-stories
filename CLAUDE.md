@@ -52,7 +52,7 @@ The owner sent 4 popular videos as the model (rules lists, timers/HUD counters, 
   - **Myth or legend retold** in a modern first-person setting. Example: 100 Years Old (tsukumogami). Keep the legend's facts right and treat the culture respectfully.
 - **Never done before.** Before writing, web-search the core idea ("<idea> creepypasta", "<idea> horror story", "<idea> short film"). If someone has clearly done it, skip it and add it to the skip list in `ops/ideas.md`. Don't copy the plots of the owner's 4 example videos (zombie supermarket, Sundown cabin rules + lights on/off, The Copy, Tank 9 aquarium).
 - For real-world or myth premises, check the facts with a quick search. Numbers in narration must be right.
-- **About one run in four, make a physics/information explainer instead of a story**: same v2 look, narrator explaining step by step, real numbers checked with a search, under 3:00 so it fits Instagram Reels, cover kicker "REAL PHYSICS". Explainer ideas are in `ops/ideas.md`.
+- **About one run in four, make a physics/information explainer instead of a story**: vertical v2 page, but drawn like `stories/how-time-works` (the owner loves that look: clean diagrams on a dark grid, the toon characters, bars and clocks, big yellow numbers), narrator explaining step by step, real numbers checked with a search, 60–150 s (under 3:00 for Instagram Reels), cover kicker "REAL PHYSICS", end on a question. Explainer ideas are in `ops/ideas.md`.
 - No real tragedies with real victims, no real named private people, nothing gory. Keep it TikTok-safe: dread and twists, not violence.
 - Vary settings: don't post two stories about the same kind of device or place in the same week.
 
