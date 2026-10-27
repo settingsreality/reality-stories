@@ -25,6 +25,8 @@
 - 100 Years Old: tsukumogami; your house turns 100 the week it's for sale and won't let you leave
 - Restart Required: loading bar across the sky; "Restart required: Now / Tonight"; the cursor stops over your house
 - Lost & Found: a box of things you haven't lost yet; "Don't open the small one" in your handwriting
+- Keys In It: each-uisge (Highland water horse) as a cherry-red car by the loch; your hand sticks to the door; "Would you use the knife?"
+- No One to Come Back To (explainer): time dilation (light clock, GPS, 90/99/99.99% c, 50 ly round trip, twins, Andromeda at 1 g = 28 yrs vs 2.5 M yrs) and why an Alcubierre warp drive would avoid it (plus negative energy and causality catches)
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -57,4 +59,5 @@
 - **90 Meters** (checked: turbine horror novels exist, this plot didn't turn up): alone in a wind-turbine nacelle at 2 a.m.; the service lift starts climbing; a voice in the lift and a voice on the radio both say they're your partner; "Which one would you let in?"
 - **Dead Pixel** (checked: not found): a dead pixel that's on every screen, then on the wall, a black square in the air that grows each night; toss something in and it's thrown back.
 - **Fictional high concepts to try:** the Moon gets a "terms of service" update; everyone's phone gets the same new contact overnight; a lost-pet poster with your face; gravity comes with a free trial that ends tonight; a hotel with a "do not disturb" sign on the outside of the building.
-- **Myths to retell (search each first):** Each-uisge (Scottish water horse: touch it and you stick to it; modern = a perfect classic car by the loch with the keys in it); Will-o'-the-wisp (lights that lead you off the path; modern = a hiking app's route that keeps adding a trail); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with questions).
+- **Myths to retell (search each first):** Will-o'-the-wisp (lights that lead you off the path; modern = a hiking app's route that keeps adding a trail); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with questions).
+- **Explainer ideas (real physics, ≤ 3:00, voiceover):** what you'd see falling into a black hole (avoid: the owner already posted a black-hole fall sim, so do the time/photon-sphere angle only if fresh); why the night sky is dark (Olbers' paradox); how far you could see if the Earth were flat; what happens to sound in space and on other planets; why you can never touch anything (electron repulsion); how big the Sun would look from every planet.

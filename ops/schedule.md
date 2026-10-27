@@ -34,6 +34,17 @@ Slots: 10:00 and 18:00 America/New_York. TikTok + Instagram Reels unless noted. 
 | 2026-11-07 | 10:00 | glitch-01 | TikTok only (already on IG) | 407097617 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
+## Extra noon slot (one-off burst for the Oct 26 batch; the daily task still uses 10:00/18:00)
+| Date | Time | Slug | Notes | Metricool id |
+|---|---|---|---|---|
+| 2026-10-27 | 12:00 | one-way-trip | physics explainer (2:59) | (pending render) |
+| 2026-10-28 | 12:00 | restart-required | fictional | 407316590 |
+| 2026-10-29 | 12:00 | green-light | | 407316606 |
+| 2026-10-30 | 12:00 | lost-and-found | fictional | 407316620 |
+| 2026-10-31 | 12:00 | hundred-years | myth (tsukumogami), Halloween | 407316630 |
+| 2026-11-01 | 12:00 | now-boarding | | 407316645 |
+| 2026-11-02 | 12:00 | keys-in-it | myth (each-uisge) | 407316653 |
+
 ## Not auto-posted (the owner posts these by hand with a poll)
 - 2-7-seconds (pt. 1) + 2-7-seconds-pt2-A / -B
 - the-third-man-pt1 + the-third-man-pt2-A / -B

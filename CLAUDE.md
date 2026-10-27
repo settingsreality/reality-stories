@@ -49,6 +49,7 @@ The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 post
   - **Myth or legend retold** in a modern first-person setting. Example: 100 Years Old (tsukumogami: things get a soul at 100; your house turns 100 the week it's for sale). Keep the legend's facts right and treat the culture respectfully.
 - **Never done before.** Before writing, web-search the core idea ("<idea> creepypasta", "<idea> horror story", "<idea> short film"). If someone has clearly done it, skip it and add it to the skip list in `ops/ideas.md`.
 - For real-world or myth premises, check the facts with a quick search. Numbers in narration must be right.
+- **About one run in four, make a physics/information explainer instead of a story** (the owner asked for these too). Example: `stories/one-way-trip` (time dilation + warp drives): 2D motion graphics, a narrator explaining step by step, real numbers checked with a search, under 3:00 so it fits Instagram Reels, cover kicker "REAL PHYSICS". Explainer ideas are in `ops/ideas.md`.
 - Endings that ask the viewer to choose or answer ("Now, or tonight?", "Would you open it?", "How old is your house?") drive comments; use them often.
 - No real tragedies with real victims, no real named private people, nothing gory. Keep it TikTok-safe: dread and twists, not violence.
 - Vary settings: don't post two stories about the same kind of device or place in the same week.
@@ -125,5 +126,6 @@ node pipeline/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<one-line
 - Never post the poll stories automatically (2.7 Seconds, The Third Man). The owner posts those by hand with a TikTok poll.
 - `Glitch 01` is already on Instagram (TikTok only).
 - The owner already posted elsewhere: "the atmosphere disappears", "falling into a black hole", "something changed my reality settings" (= Glitch 01 on IG). Don't remake those.
+- There is an extra 12:00 slot during Oct 27 to Nov 2 for a one-off batch; ignore it and keep using 10:00/18:00.
 - Don't make 3D physics sims on autopilot (Three.js renders take 45+ min). Stories only.
 - Keep `ops/ideas.md` honest: Done list, skip list (already done by others), and the idea bank.
