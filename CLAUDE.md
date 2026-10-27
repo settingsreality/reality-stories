@@ -126,6 +126,6 @@ node pipeline/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<one-line
 - Never post the poll stories automatically (2.7 Seconds, The Third Man). The owner posts those by hand with a TikTok poll.
 - `Glitch 01` is already on Instagram (TikTok only).
 - The owner already posted elsewhere: "the atmosphere disappears", "falling into a black hole", "something changed my reality settings" (= Glitch 01 on IG). Don't remake those.
-- There is an extra 12:00 slot during Oct 27 to Nov 2 for a one-off batch; ignore it and keep using 10:00/18:00.
+- Through Nov 5 the old backlog posts 3 a day (10:00, 12:00, 18:00), as the owner asked. That 12:00 slot is only for the backlog: new stories keep using 10:00/18:00.
 - Don't make 3D physics sims on autopilot (Three.js renders take 45+ min). Stories only.
 - Keep `ops/ideas.md` honest: Done list, skip list (already done by others), and the idea bank.
