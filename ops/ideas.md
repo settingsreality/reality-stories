@@ -28,6 +28,7 @@
 - Keys In It: each-uisge (Highland water horse) as a cherry-red car by the loch; your hand sticks to the door; "Would you use the knife?"
 - Night Groomer (v2): snowcat winch on a steep run; rules card; red-jacket "skiers" reel the cat up to the anchor; they wear the same groomer jacket and name tag as you; "Unhook or hold on?"
 - No One to Come Back To (explainer): time dilation (light clock, GPS, 90/99/99.99% c, 50 ly round trip, twins, Andromeda at 1 g = 28 yrs vs 2.5 M yrs) and why an Alcubierre warp drive would avoid it (plus negative energy and causality catches)
+- Low Tide (v2): stuck in the Holy Island causeway refuge box overnight; a light walks the drowned pilgrim posts without a ripple; at dawn the coastguard finds wet footprints going up the ladder, none coming down; "Turn around / Don't"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -48,7 +49,6 @@
 
 ## Idea bank (search each one before using; move to Done or skip when used)
 - **Musical road**: grooved roads that play a song when you drive over them (real: Lancaster, California). Driving home at night, it plays a song nobody wrote, and it plays when I'm standing on it.
-- **Causeway**: a tidal causeway to an island (like Lindisfarne; refuge boxes on stilts for people caught by the tide). Footprints walk out across the flats as the tide comes in, and someone is waving from the refuge box.
 - **Microchip**: the vet scans a stray cat that keeps sleeping on my porch; the chip is registered to my address, under my name, from before I was born.
 - **Seed vault**: night guard at the Svalbard seed vault; the door log shows someone entered from the inside.
 - **52 Hz**: the loneliest whale sings at a frequency no other whale uses; a research hydrophone records a second voice at 52 Hz, closer to the boat every hour.
@@ -56,7 +56,6 @@
 - **Satellite SOS**: my hiking messenger sends an SOS with GPS coordinates while it's in a drawer at home; the coordinates are a trail I'm hiking next week.
 - **Tsunami siren test**: the monthly siren test, same tone every first Monday at 11:45; this month a different tone, and only my street hears it.
 - **Pressure plate**: a museum's pressure-sensitive floor alarm logs a 4 kg step pattern at 2 a.m., walking from exhibit to exhibit in the closed gallery.
-- **Low Tide** (checked: not found): a tidal causeway (like Holy Island, England) with a refuge hut on stilts; stuck overnight, a light walks the old pilgrim path under the water; at dawn, wet footprints climb the ladder to the hut and none come down. "It was in the hut with me the whole night."
 - **90 Meters** (checked: turbine horror novels exist, this plot didn't turn up): alone in a wind-turbine nacelle at 2 a.m.; the service lift starts climbing; a voice in the lift and a voice on the radio both say they're your partner; "Which one would you let in?"
 - **Dead Pixel** (checked: not found): a dead pixel that's on every screen, then on the wall, a black square in the air that grows each night; toss something in and it's thrown back.
 - **Fictional high concepts to try:** the Moon gets a "terms of service" update; everyone's phone gets the same new contact overnight; a lost-pet poster with your face; gravity comes with a free trial that ends tonight; a hotel with a "do not disturb" sign on the outside of the building.
