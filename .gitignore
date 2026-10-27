@@ -7,3 +7,4 @@ stories/*/st/
 stories/*/render.log
 stories/*/grid.jpg
 *.tmp.mp4
+stories/*/takes/
