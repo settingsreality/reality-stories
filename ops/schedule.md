@@ -13,7 +13,7 @@ TikTok + Instagram Reels unless noted. Metricool brand 7672487, America/New_York
 |---|---|---|---|---|
 | 2026-10-26 | 18:00 | person-detected | | 407094112 |
 | 2026-10-27 | 10:00 | brightness-01 | Phone Settings ep. 1 | 407095763 |
-| 2026-10-27 | 12:00 | one-way-trip | physics explainer (2:44) | (pending render) |
+| 2026-10-27 | 12:00 | one-way-trip | physics explainer (2:44) | 407344866 |
 | 2026-10-27 | 18:00 | nobody-awake-pt1 | series | 407095820 |
 | 2026-10-28 | 10:00 | blind-spot | interactive | 407095852 |
 | 2026-10-28 | 12:00 | restart-required | fictional | 407316590 |
