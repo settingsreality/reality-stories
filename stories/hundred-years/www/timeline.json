@@ -1,5 +1,5 @@
 {
- "total": 95.432,
+ "total": 95.411,
  "lines": [
   {
    "scene": "h1",
@@ -90,14 +90,14 @@
    "text": "*\"Stay.\"*",
    "voice": "house",
    "start": 80.749,
-   "end": 81.823
+   "end": 81.802
   },
   {
    "scene": "h8",
    "text": "This morning, there's no front door. Just smooth wall. And the For Sale sign is lying in the yard. *Snapped in half.*",
    "voice": "n",
-   "start": 83.673,
-   "end": 91.032
+   "start": 83.652,
+   "end": 91.011
   }
  ],
  "scenes": [
@@ -134,12 +134,12 @@
   {
    "id": "h7",
    "start": 70.013,
-   "end": 83.623
+   "end": 83.602
   },
   {
    "id": "h8",
-   "start": 83.673,
-   "end": 95.432
+   "start": 83.652,
+   "end": 95.411
   }
  ]
 }
