@@ -1,0 +1,6480 @@
+{
+ "total": 449.14,
+ "lines": [
+  {
+   "scene": "h0",
+   "text": "Right now, your head is aging *faster* than your feet.",
+   "voice": "c0",
+   "start": 0.42,
+   "end": 3.77,
+   "words": [
+    {
+     "w": "Right",
+     "start": 0.42,
+     "end": 0.61
+    },
+    {
+     "w": "now,",
+     "start": 0.61,
+     "end": 0.99
+    },
+    {
+     "w": "your",
+     "start": 1.23,
+     "end": 1.45
+    },
+    {
+     "w": "head",
+     "start": 1.45,
+     "end": 1.83
+    },
+    {
+     "w": "is",
+     "start": 1.83,
+     "end": 2.09
+    },
+    {
+     "w": "aging",
+     "start": 2.09,
+     "end": 2.45
+    },
+    {
+     "w": "*faster*",
+     "start": 2.45,
+     "end": 2.87
+    },
+    {
+     "w": "than",
+     "start": 2.87,
+     "end": 3.21
+    },
+    {
+     "w": "your",
+     "start": 3.21,
+     "end": 3.37
+    },
+    {
+     "w": "feet.",
+     "start": 3.37,
+     "end": 3.71
+    }
+   ]
+  },
+  {
+   "scene": "h0",
+   "text": "Not by much. Over a whole lifetime, less than a millionth of a second. But it's real, and we've measured it.",
+   "voice": "c0",
+   "start": 4.31,
+   "end": 10.87,
+   "words": [
+    {
+     "w": "Not",
+     "start": 4.31,
+     "end": 4.47
+    },
+    {
+     "w": "by",
+     "start": 4.47,
+     "end": 4.65
+    },
+    {
+     "w": "much.",
+     "start": 4.65,
+     "end": 5.03
+    },
+    {
+     "w": "Over",
+     "start": 5.45,
+     "end": 5.73
+    },
+    {
+     "w": "a",
+     "start": 5.73,
+     "end": 5.85
+    },
+    {
+     "w": "whole",
+     "start": 5.85,
+     "end": 6.09
+    },
+    {
+     "w": "lifetime,",
+     "start": 6.09,
+     "end": 6.57
+    },
+    {
+     "w": "less",
+     "start": 6.89,
+     "end": 7.15
+    },
+    {
+     "w": "than",
+     "start": 7.15,
+     "end": 7.37
+    },
+    {
+     "w": "a",
+     "start": 7.37,
+     "end": 7.51
+    },
+    {
+     "w": "millionth",
+     "start": 7.51,
+     "end": 8.05
+    },
+    {
+     "w": "of",
+     "start": 8.05,
+     "end": 8.13
+    },
+    {
+     "w": "a",
+     "start": 8.13,
+     "end": 8.27
+    },
+    {
+     "w": "second.",
+     "start": 8.27,
+     "end": 8.55
+    },
+    {
+     "w": "But",
+     "start": 9.07,
+     "end": 9.25
+    },
+    {
+     "w": "it's",
+     "start": 9.25,
+     "end": 9.45
+    },
+    {
+     "w": "real,",
+     "start": 9.45,
+     "end": 9.75
+    },
+    {
+     "w": "and",
+     "start": 10.09,
+     "end": 10.23
+    },
+    {
+     "w": "we've",
+     "start": 10.23,
+     "end": 10.45
+    },
+    {
+     "w": "measured",
+     "start": 10.45,
+     "end": 10.71
+    },
+    {
+     "w": "it.",
+     "start": 10.71,
+     "end": 10.87
+    }
+   ]
+  },
+  {
+   "scene": "h1",
+   "text": "Time does not tick the same for everyone. How fast it runs depends on how fast you're moving, and how close you are to something heavy.",
+   "voice": "c0",
+   "start": 11.51,
+   "end": 19.11,
+   "words": [
+    {
+     "w": "Time",
+     "start": 11.59,
+     "end": 11.75
+    },
+    {
+     "w": "does",
+     "start": 11.75,
+     "end": 11.99
+    },
+    {
+     "w": "not",
+     "start": 11.99,
+     "end": 12.33
+    },
+    {
+     "w": "tick",
+     "start": 12.33,
+     "end": 12.59
+    },
+    {
+     "w": "the",
+     "start": 12.59,
+     "end": 12.75
+    },
+    {
+     "w": "same",
+     "start": 12.75,
+     "end": 13.05
+    },
+    {
+     "w": "for",
+     "start": 13.05,
+     "end": 13.27
+    },
+    {
+     "w": "everyone.",
+     "start": 13.27,
+     "end": 13.69
+    },
+    {
+     "w": "How",
+     "start": 14.21,
+     "end": 14.37
+    },
+    {
+     "w": "fast",
+     "start": 14.37,
+     "end": 14.71
+    },
+    {
+     "w": "it",
+     "start": 14.71,
+     "end": 14.91
+    },
+    {
+     "w": "runs",
+     "start": 14.91,
+     "end": 15.23
+    },
+    {
+     "w": "depends",
+     "start": 15.23,
+     "end": 15.55
+    },
+    {
+     "w": "on",
+     "start": 15.55,
+     "end": 15.79
+    },
+    {
+     "w": "how",
+     "start": 15.79,
+     "end": 16.05
+    },
+    {
+     "w": "fast",
+     "start": 16.05,
+     "end": 16.31
+    },
+    {
+     "w": "you're",
+     "start": 16.31,
+     "end": 16.55
+    },
+    {
+     "w": "moving,",
+     "start": 16.55,
+     "end": 16.89
+    },
+    {
+     "w": "and",
+     "start": 17.23,
+     "end": 17.53
+    },
+    {
+     "w": "how",
+     "start": 17.53,
+     "end": 17.75
+    },
+    {
+     "w": "close",
+     "start": 17.75,
+     "end": 17.99
+    },
+    {
+     "w": "you",
+     "start": 17.99,
+     "end": 18.19
+    },
+    {
+     "w": "are",
+     "start": 18.19,
+     "end": 18.37
+    },
+    {
+     "w": "to",
+     "start": 18.37,
+     "end": 18.49
+    },
+    {
+     "w": "something",
+     "start": 18.49,
+     "end": 18.73
+    },
+    {
+     "w": "heavy.",
+     "start": 18.73,
+     "end": 19.03
+    }
+   ]
+  },
+  {
+   "scene": "h1",
+   "text": "This is how that works, why it gets truly weird, and whether a warp drive could cheat it.",
+   "voice": "c0",
+   "start": 19.76,
+   "end": 25.14,
+   "words": [
+    {
+     "w": "This",
+     "start": 19.76,
+     "end": 19.97
+    },
+    {
+     "w": "is",
+     "start": 19.97,
+     "end": 20.11
+    },
+    {
+     "w": "how",
+     "start": 20.11,
+     "end": 20.27
+    },
+    {
+     "w": "that",
+     "start": 20.27,
+     "end": 20.45
+    },
+    {
+     "w": "works,",
+     "start": 20.45,
+     "end": 20.81
+    },
+    {
+     "w": "why",
+     "start": 21.13,
+     "end": 21.49
+    },
+    {
+     "w": "it",
+     "start": 21.49,
+     "end": 21.59
+    },
+    {
+     "w": "gets",
+     "start": 21.59,
+     "end": 21.83
+    },
+    {
+     "w": "truly",
+     "start": 21.83,
+     "end": 22.33
+    },
+    {
+     "w": "weird,",
+     "start": 22.33,
+     "end": 22.83
+    },
+    {
+     "w": "and",
+     "start": 23.25,
+     "end": 23.43
+    },
+    {
+     "w": "whether",
+     "start": 23.43,
+     "end": 23.63
+    },
+    {
+     "w": "a",
+     "start": 23.63,
+     "end": 23.87
+    },
+    {
+     "w": "warp",
+     "start": 23.87,
+     "end": 24.11
+    },
+    {
+     "w": "drive",
+     "start": 24.11,
+     "end": 24.45
+    },
+    {
+     "w": "could",
+     "start": 24.45,
+     "end": 24.73
+    },
+    {
+     "w": "cheat",
+     "start": 25.03,
+     "end": 25.03
+    },
+    {
+     "w": "it.",
+     "start": 25.14,
+     "end": 25.14
+    }
+   ]
+  },
+  {
+   "scene": "r1",
+   "text": "Everything starts with one strange fact about light.",
+   "voice": "c1",
+   "start": 26.29,
+   "end": 29.47,
+   "words": [
+    {
+     "w": "Everything",
+     "start": 26.29,
+     "end": 26.65
+    },
+    {
+     "w": "starts",
+     "start": 26.65,
+     "end": 26.99
+    },
+    {
+     "w": "with",
+     "start": 26.99,
+     "end": 27.31
+    },
+    {
+     "w": "one",
+     "start": 27.31,
+     "end": 27.71
+    },
+    {
+     "w": "strange",
+     "start": 27.71,
+     "end": 28.25
+    },
+    {
+     "w": "fact",
+     "start": 28.25,
+     "end": 28.69
+    },
+    {
+     "w": "about",
+     "start": 28.69,
+     "end": 29.01
+    },
+    {
+     "w": "light.",
+     "start": 29.01,
+     "end": 29.39
+    }
+   ]
+  },
+  {
+   "scene": "r1",
+   "text": "Throw a ball forward from a moving train, and the ball's speed adds to the train's. Light doesn't do that.",
+   "voice": "c1",
+   "start": 30.14,
+   "end": 36.51,
+   "words": [
+    {
+     "w": "Throw",
+     "start": 30.14,
+     "end": 30.35
+    },
+    {
+     "w": "a",
+     "start": 30.35,
+     "end": 30.51
+    },
+    {
+     "w": "ball",
+     "start": 30.51,
+     "end": 30.69
+    },
+    {
+     "w": "forward",
+     "start": 30.69,
+     "end": 31.11
+    },
+    {
+     "w": "from",
+     "start": 31.11,
+     "end": 31.41
+    },
+    {
+     "w": "a",
+     "start": 31.41,
+     "end": 31.55
+    },
+    {
+     "w": "moving",
+     "start": 31.55,
+     "end": 31.79
+    },
+    {
+     "w": "train,",
+     "start": 31.79,
+     "end": 32.21
+    },
+    {
+     "w": "and",
+     "start": 32.45,
+     "end": 32.65
+    },
+    {
+     "w": "the",
+     "start": 32.65,
+     "end": 32.77
+    },
+    {
+     "w": "ball's",
+     "start": 32.77,
+     "end": 33.13
+    },
+    {
+     "w": "speed",
+     "start": 33.13,
+     "end": 33.45
+    },
+    {
+     "w": "adds",
+     "start": 33.45,
+     "end": 33.87
+    },
+    {
+     "w": "to",
+     "start": 33.87,
+     "end": 34.13
+    },
+    {
+     "w": "the",
+     "start": 34.13,
+     "end": 34.29
+    },
+    {
+     "w": "train's.",
+     "start": 34.29,
+     "end": 34.89
+    },
+    {
+     "w": "Light",
+     "start": 35.33,
+     "end": 35.63
+    },
+    {
+     "w": "doesn't",
+     "start": 35.63,
+     "end": 36.05
+    },
+    {
+     "w": "do",
+     "start": 36.05,
+     "end": 36.23
+    },
+    {
+     "w": "that.",
+     "start": 36.23,
+     "end": 36.51
+    }
+   ]
+  },
+  {
+   "scene": "r2",
+   "text": "Shine a flashlight from a rocket going half the speed of light, and the beam still moves at exactly the speed of light. Not one and a half times. The *same.*",
+   "voice": "c1",
+   "start": 37.09,
+   "end": 46.04,
+   "words": [
+    {
+     "w": "Shine",
+     "start": 37.21,
+     "end": 37.29
+    },
+    {
+     "w": "a",
+     "start": 37.29,
+     "end": 37.45
+    },
+    {
+     "w": "flashlight",
+     "start": 37.45,
+     "end": 37.93
+    },
+    {
+     "w": "from",
+     "start": 37.93,
+     "end": 38.19
+    },
+    {
+     "w": "a",
+     "start": 38.19,
+     "end": 38.35
+    },
+    {
+     "w": "rocket",
+     "start": 38.35,
+     "end": 38.63
+    },
+    {
+     "w": "going",
+     "start": 38.63,
+     "end": 38.93
+    },
+    {
+     "w": "half",
+     "start": 38.93,
+     "end": 39.29
+    },
+    {
+     "w": "the",
+     "start": 39.29,
+     "end": 39.49
+    },
+    {
+     "w": "speed",
+     "start": 39.49,
+     "end": 39.71
+    },
+    {
+     "w": "of",
+     "start": 39.71,
+     "end": 39.83
+    },
+    {
+     "w": "light,",
+     "start": 39.83,
+     "end": 40.11
+    },
+    {
+     "w": "and",
+     "start": 40.37,
+     "end": 40.63
+    },
+    {
+     "w": "the",
+     "start": 40.63,
+     "end": 40.75
+    },
+    {
+     "w": "beam",
+     "start": 40.75,
+     "end": 40.95
+    },
+    {
+     "w": "still",
+     "start": 40.95,
+     "end": 41.35
+    },
+    {
+     "w": "moves",
+     "start": 41.35,
+     "end": 41.69
+    },
+    {
+     "w": "at",
+     "start": 41.69,
+     "end": 41.97
+    },
+    {
+     "w": "exactly",
+     "start": 41.97,
+     "end": 42.47
+    },
+    {
+     "w": "the",
+     "start": 42.47,
+     "end": 42.85
+    },
+    {
+     "w": "speed",
+     "start": 42.85,
+     "end": 43.05
+    },
+    {
+     "w": "of",
+     "start": 43.05,
+     "end": 43.19
+    },
+    {
+     "w": "light.",
+     "start": 43.19,
+     "end": 43.43
+    },
+    {
+     "w": "Not",
+     "start": 43.85,
+     "end": 44.03
+    },
+    {
+     "w": "one",
+     "start": 44.03,
+     "end": 44.23
+    },
+    {
+     "w": "and",
+     "start": 44.23,
+     "end": 44.35
+    },
+    {
+     "w": "a",
+     "start": 44.35,
+     "end": 44.47
+    },
+    {
+     "w": "half",
+     "start": 44.47,
+     "end": 44.63
+    },
+    {
+     "w": "times.",
+     "start": 44.63,
+     "end": 44.93
+    },
+    {
+     "w": "The",
+     "start": 45.47,
+     "end": 45.57
+    },
+    {
+     "w": "*same.*",
+     "start": 45.57,
+     "end": 45.99
+    }
+   ]
+  },
+  {
+   "scene": "r2",
+   "text": "Everyone who measures it, no matter how fast they're moving, gets the same number: about three hundred thousand kilometers every second.",
+   "voice": "c1",
+   "start": 46.77,
+   "end": 54.15,
+   "words": [
+    {
+     "w": "Everyone",
+     "start": 46.77,
+     "end": 47.15
+    },
+    {
+     "w": "who",
+     "start": 47.15,
+     "end": 47.33
+    },
+    {
+     "w": "measures",
+     "start": 47.33,
+     "end": 47.61
+    },
+    {
+     "w": "it,",
+     "start": 47.61,
+     "end": 47.89
+    },
+    {
+     "w": "no",
+     "start": 48.01,
+     "end": 48.17
+    },
+    {
+     "w": "matter",
+     "start": 48.17,
+     "end": 48.33
+    },
+    {
+     "w": "how",
+     "start": 48.33,
+     "end": 48.67
+    },
+    {
+     "w": "fast",
+     "start": 48.67,
+     "end": 48.93
+    },
+    {
+     "w": "they're",
+     "start": 48.93,
+     "end": 49.19
+    },
+    {
+     "w": "moving,",
+     "start": 49.19,
+     "end": 49.51
+    },
+    {
+     "w": "gets",
+     "start": 49.67,
+     "end": 49.87
+    },
+    {
+     "w": "the",
+     "start": 49.87,
+     "end": 50.11
+    },
+    {
+     "w": "same",
+     "start": 50.11,
+     "end": 50.45
+    },
+    {
+     "w": "number:",
+     "start": 50.45,
+     "end": 50.79
+    },
+    {
+     "w": "about",
+     "start": 51.29,
+     "end": 51.53
+    },
+    {
+     "w": "three",
+     "start": 51.835,
+     "end": 51.885
+    },
+    {
+     "w": "hundred",
+     "start": 52.14,
+     "end": 52.19
+    },
+    {
+     "w": "thousand",
+     "start": 52.445,
+     "end": 52.495
+    },
+    {
+     "w": "kilometers",
+     "start": 52.75,
+     "end": 53.11
+    },
+    {
+     "w": "every",
+     "start": 53.11,
+     "end": 53.69
+    },
+    {
+     "w": "second.",
+     "start": 53.69,
+     "end": 54.09
+    }
+   ]
+  },
+  {
+   "scene": "r3",
+   "text": "That sounds harmless. It isn't. If the speed of light can't change, something else has to give. And that something is *time.*",
+   "voice": "c1",
+   "start": 54.88,
+   "end": 63.18,
+   "words": [
+    {
+     "w": "That",
+     "start": 54.88,
+     "end": 54.99
+    },
+    {
+     "w": "sounds",
+     "start": 54.99,
+     "end": 55.27
+    },
+    {
+     "w": "harmless.",
+     "start": 55.27,
+     "end": 55.73
+    },
+    {
+     "w": "It",
+     "start": 56.21,
+     "end": 56.61
+    },
+    {
+     "w": "isn't.",
+     "start": 56.61,
+     "end": 57.15
+    },
+    {
+     "w": "If",
+     "start": 57.57,
+     "end": 57.71
+    },
+    {
+     "w": "the",
+     "start": 57.71,
+     "end": 57.85
+    },
+    {
+     "w": "speed",
+     "start": 57.85,
+     "end": 58.11
+    },
+    {
+     "w": "of",
+     "start": 58.11,
+     "end": 58.25
+    },
+    {
+     "w": "light",
+     "start": 58.25,
+     "end": 58.51
+    },
+    {
+     "w": "can't",
+     "start": 58.51,
+     "end": 58.95
+    },
+    {
+     "w": "change,",
+     "start": 58.95,
+     "end": 59.29
+    },
+    {
+     "w": "something",
+     "start": 59.69,
+     "end": 59.91
+    },
+    {
+     "w": "else",
+     "start": 59.91,
+     "end": 60.15
+    },
+    {
+     "w": "has",
+     "start": 60.15,
+     "end": 60.37
+    },
+    {
+     "w": "to",
+     "start": 60.37,
+     "end": 60.55
+    },
+    {
+     "w": "give.",
+     "start": 60.55,
+     "end": 60.87
+    },
+    {
+     "w": "And",
+     "start": 61.47,
+     "end": 61.57
+    },
+    {
+     "w": "that",
+     "start": 61.57,
+     "end": 61.73
+    },
+    {
+     "w": "something",
+     "start": 61.73,
+     "end": 62.17
+    },
+    {
+     "w": "is",
+     "start": 62.17,
+     "end": 62.71
+    },
+    {
+     "w": "*time.*",
+     "start": 62.71,
+     "end": 63.07
+    }
+   ]
+  },
+  {
+   "scene": "k1",
+   "text": "Picture the simplest clock possible: a flash of light bouncing between two mirrors. Every bounce is one tick.",
+   "voice": "c2",
+   "start": 64.34,
+   "end": 71.75,
+   "words": [
+    {
+     "w": "Picture",
+     "start": 64.34,
+     "end": 64.55
+    },
+    {
+     "w": "the",
+     "start": 64.55,
+     "end": 64.79
+    },
+    {
+     "w": "simplest",
+     "start": 64.79,
+     "end": 65.33
+    },
+    {
+     "w": "clock",
+     "start": 65.33,
+     "end": 65.77
+    },
+    {
+     "w": "possible:",
+     "start": 65.77,
+     "end": 66.39
+    },
+    {
+     "w": "a",
+     "start": 66.89,
+     "end": 67.09
+    },
+    {
+     "w": "flash",
+     "start": 67.09,
+     "end": 67.37
+    },
+    {
+     "w": "of",
+     "start": 67.37,
+     "end": 67.57
+    },
+    {
+     "w": "light",
+     "start": 67.57,
+     "end": 67.83
+    },
+    {
+     "w": "bouncing",
+     "start": 67.83,
+     "end": 68.33
+    },
+    {
+     "w": "between",
+     "start": 68.33,
+     "end": 68.73
+    },
+    {
+     "w": "two",
+     "start": 68.73,
+     "end": 69.05
+    },
+    {
+     "w": "mirrors.",
+     "start": 69.05,
+     "end": 69.49
+    },
+    {
+     "w": "Every",
+     "start": 70.17,
+     "end": 70.39
+    },
+    {
+     "w": "bounce",
+     "start": 70.39,
+     "end": 70.73
+    },
+    {
+     "w": "is",
+     "start": 70.73,
+     "end": 71.13
+    },
+    {
+     "w": "one",
+     "start": 71.13,
+     "end": 71.47
+    },
+    {
+     "w": "tick.",
+     "start": 71.47,
+     "end": 71.75
+    }
+   ]
+  },
+  {
+   "scene": "k1",
+   "text": "Put that clock on a fast spaceship. To the astronaut, nothing changes. The light goes straight up and down. Tick. Tick.",
+   "voice": "c2",
+   "start": 72.54,
+   "end": 80.79,
+   "words": [
+    {
+     "w": "Put",
+     "start": 72.54,
+     "end": 72.65
+    },
+    {
+     "w": "that",
+     "start": 72.65,
+     "end": 72.89
+    },
+    {
+     "w": "clock",
+     "start": 72.89,
+     "end": 73.17
+    },
+    {
+     "w": "on",
+     "start": 73.17,
+     "end": 73.43
+    },
+    {
+     "w": "a",
+     "start": 73.43,
+     "end": 73.63
+    },
+    {
+     "w": "fast",
+     "start": 73.63,
+     "end": 73.93
+    },
+    {
+     "w": "spaceship.",
+     "start": 73.93,
+     "end": 74.53
+    },
+    {
+     "w": "To",
+     "start": 75.11,
+     "end": 75.31
+    },
+    {
+     "w": "the",
+     "start": 75.31,
+     "end": 75.43
+    },
+    {
+     "w": "astronaut,",
+     "start": 75.43,
+     "end": 75.89
+    },
+    {
+     "w": "nothing",
+     "start": 76.31,
+     "end": 76.47
+    },
+    {
+     "w": "changes.",
+     "start": 76.47,
+     "end": 76.93
+    },
+    {
+     "w": "The",
+     "start": 77.47,
+     "end": 77.61
+    },
+    {
+     "w": "light",
+     "start": 77.61,
+     "end": 77.79
+    },
+    {
+     "w": "goes",
+     "start": 77.79,
+     "end": 78.03
+    },
+    {
+     "w": "straight",
+     "start": 78.03,
+     "end": 78.41
+    },
+    {
+     "w": "up",
+     "start": 78.41,
+     "end": 78.65
+    },
+    {
+     "w": "and",
+     "start": 78.65,
+     "end": 78.97
+    },
+    {
+     "w": "down.",
+     "start": 78.97,
+     "end": 79.27
+    },
+    {
+     "w": "Tick.",
+     "start": 79.93,
+     "end": 79.95
+    },
+    {
+     "w": "Tick.",
+     "start": 80.55,
+     "end": 80.79
+    }
+   ]
+  },
+  {
+   "scene": "k2",
+   "text": "But watch from Earth. The ship is moving, so the light has to travel along a diagonal to reach the moving mirror. A *longer path.*",
+   "voice": "c2",
+   "start": 81.68,
+   "end": 89.55,
+   "words": [
+    {
+     "w": "But",
+     "start": 81.68,
+     "end": 81.75
+    },
+    {
+     "w": "watch",
+     "start": 81.75,
+     "end": 82.01
+    },
+    {
+     "w": "from",
+     "start": 82.01,
+     "end": 82.27
+    },
+    {
+     "w": "Earth.",
+     "start": 82.27,
+     "end": 82.61
+    },
+    {
+     "w": "The",
+     "start": 83.25,
+     "end": 83.43
+    },
+    {
+     "w": "ship",
+     "start": 83.43,
+     "end": 83.63
+    },
+    {
+     "w": "is",
+     "start": 83.63,
+     "end": 83.81
+    },
+    {
+     "w": "moving,",
+     "start": 83.81,
+     "end": 84.27
+    },
+    {
+     "w": "so",
+     "start": 84.53,
+     "end": 84.77
+    },
+    {
+     "w": "the",
+     "start": 84.77,
+     "end": 84.93
+    },
+    {
+     "w": "light",
+     "start": 84.93,
+     "end": 85.17
+    },
+    {
+     "w": "has",
+     "start": 85.17,
+     "end": 85.39
+    },
+    {
+     "w": "to",
+     "start": 85.39,
+     "end": 85.57
+    },
+    {
+     "w": "travel",
+     "start": 85.57,
+     "end": 85.85
+    },
+    {
+     "w": "along",
+     "start": 85.85,
+     "end": 86.15
+    },
+    {
+     "w": "a",
+     "start": 86.15,
+     "end": 86.33
+    },
+    {
+     "w": "diagonal",
+     "start": 86.33,
+     "end": 86.83
+    },
+    {
+     "w": "to",
+     "start": 86.83,
+     "end": 87.15
+    },
+    {
+     "w": "reach",
+     "start": 87.15,
+     "end": 87.31
+    },
+    {
+     "w": "the",
+     "start": 87.31,
+     "end": 87.55
+    },
+    {
+     "w": "moving",
+     "start": 87.55,
+     "end": 87.83
+    },
+    {
+     "w": "mirror.",
+     "start": 87.83,
+     "end": 88.15
+    },
+    {
+     "w": "A",
+     "start": 88.59,
+     "end": 88.75
+    },
+    {
+     "w": "*longer",
+     "start": 88.75,
+     "end": 89.07
+    },
+    {
+     "w": "path.*",
+     "start": 89.07,
+     "end": 89.55
+    }
+   ]
+  },
+  {
+   "scene": "k2",
+   "text": "Light can't speed up to cover that longer path. So each tick takes longer. From Earth, the ship's clock is running *slow.*",
+   "voice": "c2",
+   "start": 90.2,
+   "end": 98.26,
+   "words": [
+    {
+     "w": "Light",
+     "start": 90.2,
+     "end": 90.41
+    },
+    {
+     "w": "can't",
+     "start": 90.41,
+     "end": 90.83
+    },
+    {
+     "w": "speed",
+     "start": 90.83,
+     "end": 91.07
+    },
+    {
+     "w": "up",
+     "start": 91.07,
+     "end": 91.29
+    },
+    {
+     "w": "to",
+     "start": 91.29,
+     "end": 91.49
+    },
+    {
+     "w": "cover",
+     "start": 91.49,
+     "end": 91.71
+    },
+    {
+     "w": "that",
+     "start": 91.71,
+     "end": 91.95
+    },
+    {
+     "w": "longer",
+     "start": 91.95,
+     "end": 92.23
+    },
+    {
+     "w": "path.",
+     "start": 92.23,
+     "end": 92.61
+    },
+    {
+     "w": "So",
+     "start": 92.91,
+     "end": 93.29
+    },
+    {
+     "w": "each",
+     "start": 93.29,
+     "end": 93.73
+    },
+    {
+     "w": "tick",
+     "start": 93.73,
+     "end": 94.11
+    },
+    {
+     "w": "takes",
+     "start": 94.11,
+     "end": 94.45
+    },
+    {
+     "w": "longer.",
+     "start": 94.45,
+     "end": 94.93
+    },
+    {
+     "w": "From",
+     "start": 95.49,
+     "end": 95.65
+    },
+    {
+     "w": "Earth,",
+     "start": 95.65,
+     "end": 95.95
+    },
+    {
+     "w": "the",
+     "start": 96.39,
+     "end": 96.47
+    },
+    {
+     "w": "ship's",
+     "start": 96.47,
+     "end": 96.83
+    },
+    {
+     "w": "clock",
+     "start": 96.83,
+     "end": 97.09
+    },
+    {
+     "w": "is",
+     "start": 97.09,
+     "end": 97.39
+    },
+    {
+     "w": "running",
+     "start": 97.39,
+     "end": 97.71
+    },
+    {
+     "w": "*slow.*",
+     "start": 97.71,
+     "end": 98.21
+    }
+   ]
+  },
+  {
+   "scene": "k3",
+   "text": "And it's not just that clock. Heartbeats, thoughts, aging: everything on the ship slows by exactly the same amount. If it didn't, the astronaut could tell they were moving. They can't.",
+   "voice": "c2",
+   "start": 98.93,
+   "end": 110.74,
+   "words": [
+    {
+     "w": "And",
+     "start": 98.93,
+     "end": 99.01
+    },
+    {
+     "w": "it's",
+     "start": 99.01,
+     "end": 99.19
+    },
+    {
+     "w": "not",
+     "start": 99.19,
+     "end": 99.35
+    },
+    {
+     "w": "just",
+     "start": 99.35,
+     "end": 99.53
+    },
+    {
+     "w": "that",
+     "start": 99.53,
+     "end": 99.83
+    },
+    {
+     "w": "clock.",
+     "start": 99.83,
+     "end": 100.17
+    },
+    {
+     "w": "Heartbeats,",
+     "start": 100.73,
+     "end": 101.23
+    },
+    {
+     "w": "thoughts,",
+     "start": 101.57,
+     "end": 101.91
+    },
+    {
+     "w": "aging:",
+     "start": 102.49,
+     "end": 102.75
+    },
+    {
+     "w": "everything",
+     "start": 103.43,
+     "end": 103.77
+    },
+    {
+     "w": "on",
+     "start": 103.77,
+     "end": 104.03
+    },
+    {
+     "w": "the",
+     "start": 104.03,
+     "end": 104.17
+    },
+    {
+     "w": "ship",
+     "start": 104.17,
+     "end": 104.39
+    },
+    {
+     "w": "slows",
+     "start": 104.39,
+     "end": 104.77
+    },
+    {
+     "w": "by",
+     "start": 104.77,
+     "end": 105.09
+    },
+    {
+     "w": "exactly",
+     "start": 105.09,
+     "end": 105.57
+    },
+    {
+     "w": "the",
+     "start": 105.57,
+     "end": 105.93
+    },
+    {
+     "w": "same",
+     "start": 105.93,
+     "end": 106.13
+    },
+    {
+     "w": "amount.",
+     "start": 106.13,
+     "end": 106.51
+    },
+    {
+     "w": "If",
+     "start": 107.01,
+     "end": 107.19
+    },
+    {
+     "w": "it",
+     "start": 107.19,
+     "end": 107.31
+    },
+    {
+     "w": "didn't,",
+     "start": 107.31,
+     "end": 107.71
+    },
+    {
+     "w": "the",
+     "start": 108.05,
+     "end": 108.09
+    },
+    {
+     "w": "astronaut",
+     "start": 108.09,
+     "end": 108.47
+    },
+    {
+     "w": "could",
+     "start": 108.47,
+     "end": 108.75
+    },
+    {
+     "w": "tell",
+     "start": 108.75,
+     "end": 108.99
+    },
+    {
+     "w": "they",
+     "start": 108.99,
+     "end": 109.17
+    },
+    {
+     "w": "were",
+     "start": 109.17,
+     "end": 109.31
+    },
+    {
+     "w": "moving.",
+     "start": 109.31,
+     "end": 109.57
+    },
+    {
+     "w": "They",
+     "start": 110.15,
+     "end": 110.33
+    },
+    {
+     "w": "can't.",
+     "start": 110.33,
+     "end": 110.74
+    }
+   ]
+  },
+  {
+   "scene": "k4",
+   "text": "How much slower? At half the speed of light, about thirteen percent. At ninety percent, time runs at less than half speed. At ninety-nine percent, one year on the ship is seven years on Earth. At ninety-nine point nine nine percent, it's *seventy.*",
+   "voice": "c2",
+   "start": 111.43,
+   "end": 128.43,
+   "words": [
+    {
+     "w": "How",
+     "start": 111.43,
+     "end": 111.55
+    },
+    {
+     "w": "much",
+     "start": 111.55,
+     "end": 111.73
+    },
+    {
+     "w": "slower?",
+     "start": 111.73,
+     "end": 112.03
+    },
+    {
+     "w": "At",
+     "start": 112.61,
+     "end": 112.83
+    },
+    {
+     "w": "half",
+     "start": 112.83,
+     "end": 113.09
+    },
+    {
+     "w": "the",
+     "start": 113.09,
+     "end": 113.25
+    },
+    {
+     "w": "speed",
+     "start": 113.25,
+     "end": 113.49
+    },
+    {
+     "w": "of",
+     "start": 113.49,
+     "end": 113.63
+    },
+    {
+     "w": "light,",
+     "start": 113.63,
+     "end": 113.89
+    },
+    {
+     "w": "about",
+     "start": 114.27,
+     "end": 114.45
+    },
+    {
+     "w": "thirteen",
+     "start": 114.857,
+     "end": 114.907
+    },
+    {
+     "w": "percent.",
+     "start": 115.263,
+     "end": 115.313
+    },
+    {
+     "w": "At",
+     "start": 115.67,
+     "end": 116.31
+    },
+    {
+     "w": "ninety",
+     "start": 116.61,
+     "end": 116.66
+    },
+    {
+     "w": "percent,",
+     "start": 116.91,
+     "end": 116.96
+    },
+    {
+     "w": "time",
+     "start": 117.21,
+     "end": 117.73
+    },
+    {
+     "w": "runs",
+     "start": 117.73,
+     "end": 118.01
+    },
+    {
+     "w": "at",
+     "start": 118.01,
+     "end": 118.29
+    },
+    {
+     "w": "less",
+     "start": 118.29,
+     "end": 118.61
+    },
+    {
+     "w": "than",
+     "start": 118.61,
+     "end": 118.93
+    },
+    {
+     "w": "half",
+     "start": 118.93,
+     "end": 118.98
+    },
+    {
+     "w": "speed.",
+     "start": 118.93,
+     "end": 119.49
+    },
+    {
+     "w": "At",
+     "start": 120.675,
+     "end": 120.725
+    },
+    {
+     "w": "ninety-nine",
+     "start": 120.96,
+     "end": 121.01
+    },
+    {
+     "w": "percent,",
+     "start": 121.245,
+     "end": 121.295
+    },
+    {
+     "w": "one",
+     "start": 121.53,
+     "end": 122.17
+    },
+    {
+     "w": "year",
+     "start": 122.17,
+     "end": 122.41
+    },
+    {
+     "w": "on",
+     "start": 122.41,
+     "end": 122.57
+    },
+    {
+     "w": "the",
+     "start": 122.57,
+     "end": 122.71
+    },
+    {
+     "w": "ship",
+     "start": 122.71,
+     "end": 122.93
+    },
+    {
+     "w": "is",
+     "start": 122.93,
+     "end": 123.29
+    },
+    {
+     "w": "seven",
+     "start": 123.29,
+     "end": 123.71
+    },
+    {
+     "w": "years",
+     "start": 123.71,
+     "end": 123.97
+    },
+    {
+     "w": "on",
+     "start": 123.97,
+     "end": 124.21
+    },
+    {
+     "w": "Earth.",
+     "start": 124.21,
+     "end": 124.47
+    },
+    {
+     "w": "At",
+     "start": 125.05,
+     "end": 125.27
+    },
+    {
+     "w": "ninety-nine",
+     "start": 125.559,
+     "end": 125.609
+    },
+    {
+     "w": "point",
+     "start": 125.847,
+     "end": 125.897
+    },
+    {
+     "w": "nine",
+     "start": 126.136,
+     "end": 126.186
+    },
+    {
+     "w": "nine",
+     "start": 126.424,
+     "end": 126.474
+    },
+    {
+     "w": "percent,",
+     "start": 126.713,
+     "end": 126.763
+    },
+    {
+     "w": "it's",
+     "start": 127.001,
+     "end": 127.051
+    },
+    {
+     "w": "*seventy.*",
+     "start": 127.29,
+     "end": 128.05
+    }
+   ]
+  },
+  {
+   "scene": "m1",
+   "text": "This isn't a thought experiment. Nature runs the test above your head every second.",
+   "voice": "c3",
+   "start": 129.62,
+   "end": 134.59,
+   "words": [
+    {
+     "w": "This",
+     "start": 129.62,
+     "end": 129.79
+    },
+    {
+     "w": "isn't",
+     "start": 130.0,
+     "end": 130.05
+    },
+    {
+     "w": "a",
+     "start": 130.21,
+     "end": 130.29
+    },
+    {
+     "w": "thought",
+     "start": 130.29,
+     "end": 130.57
+    },
+    {
+     "w": "experiment.",
+     "start": 130.57,
+     "end": 131.13
+    },
+    {
+     "w": "Nature",
+     "start": 131.81,
+     "end": 131.93
+    },
+    {
+     "w": "runs",
+     "start": 131.93,
+     "end": 132.35
+    },
+    {
+     "w": "the",
+     "start": 132.35,
+     "end": 132.57
+    },
+    {
+     "w": "test",
+     "start": 132.57,
+     "end": 132.79
+    },
+    {
+     "w": "above",
+     "start": 132.79,
+     "end": 133.09
+    },
+    {
+     "w": "your",
+     "start": 133.09,
+     "end": 133.29
+    },
+    {
+     "w": "head",
+     "start": 133.29,
+     "end": 133.55
+    },
+    {
+     "w": "every",
+     "start": 133.55,
+     "end": 134.05
+    },
+    {
+     "w": "second.",
+     "start": 134.05,
+     "end": 134.57
+    }
+   ]
+  },
+  {
+   "scene": "m1",
+   "text": "When cosmic rays slam into the upper atmosphere, about fifteen kilometers up, they make particles called muons. A muon lives for about two millionths of a second, then falls apart.",
+   "voice": "c3",
+   "start": 135.26,
+   "end": 146.71,
+   "words": [
+    {
+     "w": "When",
+     "start": 135.26,
+     "end": 135.39
+    },
+    {
+     "w": "cosmic",
+     "start": 135.39,
+     "end": 135.83
+    },
+    {
+     "w": "rays",
+     "start": 135.83,
+     "end": 136.17
+    },
+    {
+     "w": "slam",
+     "start": 136.17,
+     "end": 136.63
+    },
+    {
+     "w": "into",
+     "start": 136.63,
+     "end": 136.91
+    },
+    {
+     "w": "the",
+     "start": 136.91,
+     "end": 137.05
+    },
+    {
+     "w": "upper",
+     "start": 137.05,
+     "end": 137.29
+    },
+    {
+     "w": "atmosphere,",
+     "start": 137.29,
+     "end": 137.83
+    },
+    {
+     "w": "about",
+     "start": 138.17,
+     "end": 138.35
+    },
+    {
+     "w": "fifteen",
+     "start": 138.59,
+     "end": 138.64
+    },
+    {
+     "w": "kilometers",
+     "start": 138.83,
+     "end": 139.25
+    },
+    {
+     "w": "up,",
+     "start": 139.25,
+     "end": 139.69
+    },
+    {
+     "w": "they",
+     "start": 140.03,
+     "end": 140.21
+    },
+    {
+     "w": "make",
+     "start": 140.21,
+     "end": 140.41
+    },
+    {
+     "w": "particles",
+     "start": 140.41,
+     "end": 140.87
+    },
+    {
+     "w": "called",
+     "start": 140.87,
+     "end": 141.27
+    },
+    {
+     "w": "muons.",
+     "start": 141.27,
+     "end": 141.91
+    },
+    {
+     "w": "A",
+     "start": 142.61,
+     "end": 142.73
+    },
+    {
+     "w": "muon",
+     "start": 142.73,
+     "end": 143.17
+    },
+    {
+     "w": "lives",
+     "start": 143.17,
+     "end": 143.39
+    },
+    {
+     "w": "for",
+     "start": 143.39,
+     "end": 143.65
+    },
+    {
+     "w": "about",
+     "start": 143.65,
+     "end": 143.87
+    },
+    {
+     "w": "two",
+     "start": 143.87,
+     "end": 144.21
+    },
+    {
+     "w": "millionths",
+     "start": 144.21,
+     "end": 144.87
+    },
+    {
+     "w": "of",
+     "start": 144.87,
+     "end": 144.97
+    },
+    {
+     "w": "a",
+     "start": 144.97,
+     "end": 145.09
+    },
+    {
+     "w": "second,",
+     "start": 145.09,
+     "end": 145.45
+    },
+    {
+     "w": "then",
+     "start": 145.61,
+     "end": 145.97
+    },
+    {
+     "w": "falls",
+     "start": 145.97,
+     "end": 146.31
+    },
+    {
+     "w": "apart.",
+     "start": 146.31,
+     "end": 146.71
+    }
+   ]
+  },
+  {
+   "scene": "m2",
+   "text": "Even at nearly the speed of light, two millionths of a second is only enough to travel about six hundred and sixty meters. They should all die high in the sky.",
+   "voice": "c3",
+   "start": 147.51,
+   "end": 156.67,
+   "words": [
+    {
+     "w": "Even",
+     "start": 147.51,
+     "end": 147.71
+    },
+    {
+     "w": "at",
+     "start": 147.71,
+     "end": 147.87
+    },
+    {
+     "w": "nearly",
+     "start": 147.87,
+     "end": 148.21
+    },
+    {
+     "w": "the",
+     "start": 148.21,
+     "end": 148.47
+    },
+    {
+     "w": "speed",
+     "start": 148.47,
+     "end": 148.75
+    },
+    {
+     "w": "of",
+     "start": 148.75,
+     "end": 148.89
+    },
+    {
+     "w": "light,",
+     "start": 148.89,
+     "end": 149.25
+    },
+    {
+     "w": "two",
+     "start": 149.73,
+     "end": 149.85
+    },
+    {
+     "w": "millionths",
+     "start": 149.85,
+     "end": 150.45
+    },
+    {
+     "w": "of",
+     "start": 150.45,
+     "end": 150.57
+    },
+    {
+     "w": "a",
+     "start": 150.57,
+     "end": 150.69
+    },
+    {
+     "w": "second",
+     "start": 150.69,
+     "end": 151.01
+    },
+    {
+     "w": "is",
+     "start": 151.01,
+     "end": 151.27
+    },
+    {
+     "w": "only",
+     "start": 151.27,
+     "end": 151.65
+    },
+    {
+     "w": "enough",
+     "start": 151.65,
+     "end": 151.89
+    },
+    {
+     "w": "to",
+     "start": 151.89,
+     "end": 152.07
+    },
+    {
+     "w": "travel",
+     "start": 152.07,
+     "end": 152.35
+    },
+    {
+     "w": "about",
+     "start": 152.35,
+     "end": 152.65
+    },
+    {
+     "w": "six",
+     "start": 152.822,
+     "end": 152.872
+    },
+    {
+     "w": "hundred",
+     "start": 152.994,
+     "end": 153.044
+    },
+    {
+     "w": "and",
+     "start": 153.166,
+     "end": 153.216
+    },
+    {
+     "w": "sixty",
+     "start": 153.338,
+     "end": 153.388
+    },
+    {
+     "w": "meters.",
+     "start": 153.51,
+     "end": 154.09
+    },
+    {
+     "w": "They",
+     "start": 154.75,
+     "end": 154.89
+    },
+    {
+     "w": "should",
+     "start": 154.89,
+     "end": 155.03
+    },
+    {
+     "w": "all",
+     "start": 155.03,
+     "end": 155.37
+    },
+    {
+     "w": "die",
+     "start": 155.37,
+     "end": 155.69
+    },
+    {
+     "w": "high",
+     "start": 155.69,
+     "end": 156.01
+    },
+    {
+     "w": "in",
+     "start": 156.01,
+     "end": 156.19
+    },
+    {
+     "w": "the",
+     "start": 156.19,
+     "end": 156.31
+    },
+    {
+     "w": "sky.",
+     "start": 156.31,
+     "end": 156.63
+    }
+   ]
+  },
+  {
+   "scene": "m3",
+   "text": "But they reach the ground all the time. Every minute, about one passes through each square centimeter of the floor you're on.",
+   "voice": "c3",
+   "start": 157.35,
+   "end": 164.42,
+   "words": [
+    {
+     "w": "But",
+     "start": 157.35,
+     "end": 157.41
+    },
+    {
+     "w": "they",
+     "start": 157.41,
+     "end": 157.57
+    },
+    {
+     "w": "reach",
+     "start": 157.57,
+     "end": 157.79
+    },
+    {
+     "w": "the",
+     "start": 157.79,
+     "end": 158.01
+    },
+    {
+     "w": "ground",
+     "start": 158.01,
+     "end": 158.31
+    },
+    {
+     "w": "all",
+     "start": 158.31,
+     "end": 158.75
+    },
+    {
+     "w": "the",
+     "start": 158.75,
+     "end": 158.95
+    },
+    {
+     "w": "time.",
+     "start": 158.95,
+     "end": 159.35
+    },
+    {
+     "w": "Every",
+     "start": 160.01,
+     "end": 160.21
+    },
+    {
+     "w": "minute,",
+     "start": 160.21,
+     "end": 160.55
+    },
+    {
+     "w": "about",
+     "start": 160.79,
+     "end": 160.99
+    },
+    {
+     "w": "one",
+     "start": 160.99,
+     "end": 161.37
+    },
+    {
+     "w": "passes",
+     "start": 161.37,
+     "end": 161.77
+    },
+    {
+     "w": "through",
+     "start": 161.77,
+     "end": 162.09
+    },
+    {
+     "w": "each",
+     "start": 162.09,
+     "end": 162.43
+    },
+    {
+     "w": "square",
+     "start": 162.43,
+     "end": 162.83
+    },
+    {
+     "w": "centimeter",
+     "start": 162.83,
+     "end": 163.41
+    },
+    {
+     "w": "of",
+     "start": 163.41,
+     "end": 163.61
+    },
+    {
+     "w": "the",
+     "start": 163.61,
+     "end": 163.73
+    },
+    {
+     "w": "floor",
+     "start": 163.73,
+     "end": 164.01
+    },
+    {
+     "w": "you're",
+     "start": 164.01,
+     "end": 164.25
+    },
+    {
+     "w": "on.",
+     "start": 164.25,
+     "end": 164.42
+    }
+   ]
+  },
+  {
+   "scene": "m3",
+   "text": "Their clocks are running slow. At ninety-nine point eight percent of light speed, a muon's two microseconds stretch to more than thirty, as we see it. Enough for many of them to make it *all the way down.*",
+   "voice": "c3",
+   "start": 165.09,
+   "end": 177.05,
+   "words": [
+    {
+     "w": "Their",
+     "start": 165.09,
+     "end": 165.19
+    },
+    {
+     "w": "clocks",
+     "start": 165.19,
+     "end": 165.61
+    },
+    {
+     "w": "are",
+     "start": 165.61,
+     "end": 165.89
+    },
+    {
+     "w": "running",
+     "start": 165.89,
+     "end": 166.13
+    },
+    {
+     "w": "slow.",
+     "start": 166.13,
+     "end": 166.59
+    },
+    {
+     "w": "At",
+     "start": 167.31,
+     "end": 167.39
+    },
+    {
+     "w": "ninety-nine",
+     "start": 167.39,
+     "end": 167.73
+    },
+    {
+     "w": "point",
+     "start": 167.73,
+     "end": 168.01
+    },
+    {
+     "w": "eight",
+     "start": 168.01,
+     "end": 168.23
+    },
+    {
+     "w": "percent",
+     "start": 168.23,
+     "end": 168.55
+    },
+    {
+     "w": "of",
+     "start": 168.55,
+     "end": 168.91
+    },
+    {
+     "w": "light",
+     "start": 168.91,
+     "end": 169.05
+    },
+    {
+     "w": "speed,",
+     "start": 169.05,
+     "end": 169.27
+    },
+    {
+     "w": "a",
+     "start": 169.27,
+     "end": 169.61
+    },
+    {
+     "w": "muon's",
+     "start": 170.05,
+     "end": 170.07
+    },
+    {
+     "w": "two",
+     "start": 170.07,
+     "end": 170.59
+    },
+    {
+     "w": "microseconds",
+     "start": 170.59,
+     "end": 170.83
+    },
+    {
+     "w": "stretch",
+     "start": 170.83,
+     "end": 171.53
+    },
+    {
+     "w": "to",
+     "start": 171.53,
+     "end": 172.05
+    },
+    {
+     "w": "more",
+     "start": 172.05,
+     "end": 172.27
+    },
+    {
+     "w": "than",
+     "start": 172.27,
+     "end": 172.47
+    },
+    {
+     "w": "thirty,",
+     "start": 172.47,
+     "end": 172.67
+    },
+    {
+     "w": "as",
+     "start": 172.67,
+     "end": 173.09
+    },
+    {
+     "w": "we",
+     "start": 173.09,
+     "end": 173.47
+    },
+    {
+     "w": "see",
+     "start": 173.47,
+     "end": 173.69
+    },
+    {
+     "w": "it.",
+     "start": 173.69,
+     "end": 173.89
+    },
+    {
+     "w": "Enough",
+     "start": 173.89,
+     "end": 174.23
+    },
+    {
+     "w": "for",
+     "start": 174.53,
+     "end": 174.77
+    },
+    {
+     "w": "many",
+     "start": 174.77,
+     "end": 175.01
+    },
+    {
+     "w": "of",
+     "start": 175.01,
+     "end": 175.31
+    },
+    {
+     "w": "them",
+     "start": 175.31,
+     "end": 175.49
+    },
+    {
+     "w": "to",
+     "start": 175.49,
+     "end": 175.65
+    },
+    {
+     "w": "make",
+     "start": 175.65,
+     "end": 175.85
+    },
+    {
+     "w": "it",
+     "start": 175.85,
+     "end": 176.03
+    },
+    {
+     "w": "*all",
+     "start": 176.03,
+     "end": 176.17
+    },
+    {
+     "w": "the",
+     "start": 176.17,
+     "end": 176.45
+    },
+    {
+     "w": "way",
+     "start": 176.45,
+     "end": 176.57
+    },
+    {
+     "w": "down.*",
+     "start": 176.57,
+     "end": 176.73
+    }
+   ]
+  },
+  {
+   "scene": "q1",
+   "text": "Now ask the muon. From its point of view, its clock is perfectly normal. So how does it reach the ground?",
+   "voice": "c4",
+   "start": 178.16,
+   "end": 185.0,
+   "words": [
+    {
+     "w": "Now",
+     "start": 178.16,
+     "end": 178.37
+    },
+    {
+     "w": "ask",
+     "start": 178.37,
+     "end": 178.69
+    },
+    {
+     "w": "the",
+     "start": 178.69,
+     "end": 178.89
+    },
+    {
+     "w": "muon.",
+     "start": 178.89,
+     "end": 179.37
+    },
+    {
+     "w": "From",
+     "start": 179.91,
+     "end": 180.03
+    },
+    {
+     "w": "its",
+     "start": 180.03,
+     "end": 180.27
+    },
+    {
+     "w": "point",
+     "start": 180.27,
+     "end": 180.53
+    },
+    {
+     "w": "of",
+     "start": 180.53,
+     "end": 180.67
+    },
+    {
+     "w": "view,",
+     "start": 180.67,
+     "end": 180.95
+    },
+    {
+     "w": "its",
+     "start": 181.19,
+     "end": 181.43
+    },
+    {
+     "w": "clock",
+     "start": 181.43,
+     "end": 181.69
+    },
+    {
+     "w": "is",
+     "start": 181.69,
+     "end": 181.91
+    },
+    {
+     "w": "perfectly",
+     "start": 181.91,
+     "end": 182.39
+    },
+    {
+     "w": "normal.",
+     "start": 182.39,
+     "end": 182.81
+    },
+    {
+     "w": "So",
+     "start": 183.33,
+     "end": 183.59
+    },
+    {
+     "w": "how",
+     "start": 183.59,
+     "end": 183.95
+    },
+    {
+     "w": "does",
+     "start": 183.95,
+     "end": 184.09
+    },
+    {
+     "w": "it",
+     "start": 184.09,
+     "end": 184.23
+    },
+    {
+     "w": "reach",
+     "start": 184.23,
+     "end": 184.39
+    },
+    {
+     "w": "the",
+     "start": 184.39,
+     "end": 184.59
+    },
+    {
+     "w": "ground?",
+     "start": 184.59,
+     "end": 184.87
+    }
+   ]
+  },
+  {
+   "scene": "q2",
+   "text": "Because from the muon's point of view, the atmosphere is squeezed. Those fifteen kilometers shrink to about *one.*",
+   "voice": "c4",
+   "start": 185.52,
+   "end": 192.45,
+   "words": [
+    {
+     "w": "Because",
+     "start": 185.52,
+     "end": 185.71
+    },
+    {
+     "w": "from",
+     "start": 185.71,
+     "end": 185.93
+    },
+    {
+     "w": "the",
+     "start": 185.93,
+     "end": 186.07
+    },
+    {
+     "w": "muon's",
+     "start": 186.07,
+     "end": 186.61
+    },
+    {
+     "w": "point",
+     "start": 186.61,
+     "end": 186.79
+    },
+    {
+     "w": "of",
+     "start": 186.79,
+     "end": 186.95
+    },
+    {
+     "w": "view,",
+     "start": 186.95,
+     "end": 187.21
+    },
+    {
+     "w": "the",
+     "start": 187.45,
+     "end": 187.59
+    },
+    {
+     "w": "atmosphere",
+     "start": 187.59,
+     "end": 188.13
+    },
+    {
+     "w": "is",
+     "start": 188.13,
+     "end": 188.47
+    },
+    {
+     "w": "squeezed.",
+     "start": 188.47,
+     "end": 188.97
+    },
+    {
+     "w": "Those",
+     "start": 189.67,
+     "end": 189.87
+    },
+    {
+     "w": "fifteen",
+     "start": 190.183,
+     "end": 190.233
+    },
+    {
+     "w": "kilometers",
+     "start": 190.497,
+     "end": 190.547
+    },
+    {
+     "w": "shrink",
+     "start": 190.81,
+     "end": 191.47
+    },
+    {
+     "w": "to",
+     "start": 191.47,
+     "end": 191.75
+    },
+    {
+     "w": "about",
+     "start": 191.75,
+     "end": 191.99
+    },
+    {
+     "w": "*one.*",
+     "start": 191.99,
+     "end": 192.43
+    }
+   ]
+  },
+  {
+   "scene": "q2",
+   "text": "Moving fast doesn't only slow your time. It shortens the distances in the direction you're moving. Two different views, one result: the muon makes it.",
+   "voice": "c4",
+   "start": 193.12,
+   "end": 202.62,
+   "words": [
+    {
+     "w": "Moving",
+     "start": 193.12,
+     "end": 193.39
+    },
+    {
+     "w": "fast",
+     "start": 193.39,
+     "end": 193.81
+    },
+    {
+     "w": "doesn't",
+     "start": 193.81,
+     "end": 194.27
+    },
+    {
+     "w": "only",
+     "start": 194.27,
+     "end": 194.53
+    },
+    {
+     "w": "slow",
+     "start": 194.53,
+     "end": 194.91
+    },
+    {
+     "w": "your",
+     "start": 194.91,
+     "end": 195.13
+    },
+    {
+     "w": "time.",
+     "start": 195.13,
+     "end": 195.51
+    },
+    {
+     "w": "It",
+     "start": 195.89,
+     "end": 196.03
+    },
+    {
+     "w": "shortens",
+     "start": 196.03,
+     "end": 196.51
+    },
+    {
+     "w": "the",
+     "start": 196.51,
+     "end": 196.73
+    },
+    {
+     "w": "distances",
+     "start": 196.73,
+     "end": 197.19
+    },
+    {
+     "w": "in",
+     "start": 197.19,
+     "end": 197.53
+    },
+    {
+     "w": "the",
+     "start": 197.53,
+     "end": 197.67
+    },
+    {
+     "w": "direction",
+     "start": 197.67,
+     "end": 197.93
+    },
+    {
+     "w": "you're",
+     "start": 197.93,
+     "end": 198.21
+    },
+    {
+     "w": "moving.",
+     "start": 198.21,
+     "end": 198.59
+    },
+    {
+     "w": "Two",
+     "start": 199.19,
+     "end": 199.37
+    },
+    {
+     "w": "different",
+     "start": 199.37,
+     "end": 199.65
+    },
+    {
+     "w": "views,",
+     "start": 199.65,
+     "end": 200.03
+    },
+    {
+     "w": "one",
+     "start": 200.45,
+     "end": 200.69
+    },
+    {
+     "w": "result:",
+     "start": 200.69,
+     "end": 201.11
+    },
+    {
+     "w": "the",
+     "start": 201.69,
+     "end": 201.79
+    },
+    {
+     "w": "muon",
+     "start": 201.79,
+     "end": 202.23
+    },
+    {
+     "w": "makes",
+     "start": 202.23,
+     "end": 202.47
+    },
+    {
+     "w": "it.",
+     "start": 202.47,
+     "end": 202.62
+    }
+   ]
+  },
+  {
+   "scene": "t1",
+   "text": "Which brings us to the most famous puzzle in physics. Two twins. One stays on Earth. The other flies to a star four light-years away, at ninety-nine and a half percent of the speed of light, and comes straight back.",
+   "voice": "c5",
+   "start": 203.8,
+   "end": 216.81,
+   "words": [
+    {
+     "w": "Which",
+     "start": 203.8,
+     "end": 203.95
+    },
+    {
+     "w": "brings",
+     "start": 203.95,
+     "end": 204.19
+    },
+    {
+     "w": "us",
+     "start": 204.19,
+     "end": 204.39
+    },
+    {
+     "w": "to",
+     "start": 204.39,
+     "end": 204.57
+    },
+    {
+     "w": "the",
+     "start": 204.57,
+     "end": 204.69
+    },
+    {
+     "w": "most",
+     "start": 204.69,
+     "end": 204.89
+    },
+    {
+     "w": "famous",
+     "start": 204.89,
+     "end": 205.37
+    },
+    {
+     "w": "puzzle",
+     "start": 205.37,
+     "end": 205.79
+    },
+    {
+     "w": "in",
+     "start": 205.79,
+     "end": 206.15
+    },
+    {
+     "w": "physics.",
+     "start": 206.15,
+     "end": 206.53
+    },
+    {
+     "w": "Two",
+     "start": 207.33,
+     "end": 207.45
+    },
+    {
+     "w": "twins.",
+     "start": 207.45,
+     "end": 207.83
+    },
+    {
+     "w": "One",
+     "start": 208.43,
+     "end": 208.69
+    },
+    {
+     "w": "stays",
+     "start": 208.69,
+     "end": 208.99
+    },
+    {
+     "w": "on",
+     "start": 208.99,
+     "end": 209.21
+    },
+    {
+     "w": "Earth.",
+     "start": 209.21,
+     "end": 209.45
+    },
+    {
+     "w": "The",
+     "start": 209.81,
+     "end": 210.01
+    },
+    {
+     "w": "other",
+     "start": 210.01,
+     "end": 210.27
+    },
+    {
+     "w": "flies",
+     "start": 210.27,
+     "end": 210.63
+    },
+    {
+     "w": "to",
+     "start": 210.63,
+     "end": 210.91
+    },
+    {
+     "w": "a",
+     "start": 211.03,
+     "end": 211.31
+    },
+    {
+     "w": "star",
+     "start": 211.31,
+     "end": 211.77
+    },
+    {
+     "w": "four",
+     "start": 211.77,
+     "end": 212.05
+    },
+    {
+     "w": "light-years",
+     "start": 212.05,
+     "end": 212.23
+    },
+    {
+     "w": "away,",
+     "start": 212.23,
+     "end": 212.63
+    },
+    {
+     "w": "at",
+     "start": 212.63,
+     "end": 213.09
+    },
+    {
+     "w": "ninety-nine",
+     "start": 213.313,
+     "end": 213.363
+    },
+    {
+     "w": "and",
+     "start": 213.536,
+     "end": 213.586
+    },
+    {
+     "w": "a",
+     "start": 213.759,
+     "end": 213.809
+    },
+    {
+     "w": "half",
+     "start": 213.981,
+     "end": 214.031
+    },
+    {
+     "w": "percent",
+     "start": 214.204,
+     "end": 214.254
+    },
+    {
+     "w": "of",
+     "start": 214.427,
+     "end": 214.477
+    },
+    {
+     "w": "the",
+     "start": 214.65,
+     "end": 214.81
+    },
+    {
+     "w": "speed",
+     "start": 214.81,
+     "end": 214.91
+    },
+    {
+     "w": "of",
+     "start": 214.91,
+     "end": 215.15
+    },
+    {
+     "w": "light,",
+     "start": 215.15,
+     "end": 215.27
+    },
+    {
+     "w": "and",
+     "start": 215.27,
+     "end": 215.55
+    },
+    {
+     "w": "comes",
+     "start": 215.55,
+     "end": 215.95
+    },
+    {
+     "w": "straight",
+     "start": 215.95,
+     "end": 216.13
+    },
+    {
+     "w": "back.",
+     "start": 216.13,
+     "end": 216.51
+    }
+   ]
+  },
+  {
+   "scene": "t2",
+   "text": "On Earth, a little over eight years pass. On the ship, less than *ten months.*",
+   "voice": "c5",
+   "start": 217.53,
+   "end": 222.62,
+   "words": [
+    {
+     "w": "On",
+     "start": 217.53,
+     "end": 217.65
+    },
+    {
+     "w": "Earth,",
+     "start": 217.65,
+     "end": 217.99
+    },
+    {
+     "w": "a",
+     "start": 218.29,
+     "end": 218.45
+    },
+    {
+     "w": "little",
+     "start": 218.45,
+     "end": 218.57
+    },
+    {
+     "w": "over",
+     "start": 218.57,
+     "end": 218.87
+    },
+    {
+     "w": "eight",
+     "start": 218.87,
+     "end": 219.17
+    },
+    {
+     "w": "years",
+     "start": 219.17,
+     "end": 219.53
+    },
+    {
+     "w": "pass.",
+     "start": 219.53,
+     "end": 219.87
+    },
+    {
+     "w": "On",
+     "start": 220.37,
+     "end": 220.59
+    },
+    {
+     "w": "the",
+     "start": 220.59,
+     "end": 220.75
+    },
+    {
+     "w": "ship,",
+     "start": 220.75,
+     "end": 220.97
+    },
+    {
+     "w": "less",
+     "start": 221.43,
+     "end": 221.57
+    },
+    {
+     "w": "than",
+     "start": 221.57,
+     "end": 221.87
+    },
+    {
+     "w": "*ten",
+     "start": 221.87,
+     "end": 222.13
+    },
+    {
+     "w": "months.*",
+     "start": 222.13,
+     "end": 222.41
+    }
+   ]
+  },
+  {
+   "scene": "t3",
+   "text": "But wait. From the ship, isn't Earth the one moving? Shouldn't Earth's clocks run slow instead?",
+   "voice": "c5",
+   "start": 223.22,
+   "end": 229.09,
+   "words": [
+    {
+     "w": "But",
+     "start": 223.22,
+     "end": 223.35
+    },
+    {
+     "w": "wait.",
+     "start": 223.35,
+     "end": 223.55
+    },
+    {
+     "w": "From",
+     "start": 224.05,
+     "end": 224.21
+    },
+    {
+     "w": "the",
+     "start": 224.21,
+     "end": 224.37
+    },
+    {
+     "w": "ship,",
+     "start": 224.37,
+     "end": 224.71
+    },
+    {
+     "w": "isn't",
+     "start": 225.05,
+     "end": 225.33
+    },
+    {
+     "w": "Earth",
+     "start": 225.33,
+     "end": 225.63
+    },
+    {
+     "w": "the",
+     "start": 225.63,
+     "end": 225.85
+    },
+    {
+     "w": "one",
+     "start": 225.85,
+     "end": 225.99
+    },
+    {
+     "w": "moving?",
+     "start": 225.99,
+     "end": 226.27
+    },
+    {
+     "w": "Shouldn't",
+     "start": 226.87,
+     "end": 227.13
+    },
+    {
+     "w": "Earth's",
+     "start": 227.13,
+     "end": 227.55
+    },
+    {
+     "w": "clocks",
+     "start": 227.55,
+     "end": 227.75
+    },
+    {
+     "w": "run",
+     "start": 227.75,
+     "end": 228.09
+    },
+    {
+     "w": "slow",
+     "start": 228.09,
+     "end": 228.57
+    },
+    {
+     "w": "instead?",
+     "start": 228.57,
+     "end": 228.99
+    }
+   ]
+  },
+  {
+   "scene": "t3",
+   "text": "The twins aren't equal. The Earth twin stays put the whole time. The traveler has to stop and turn around, and that turnaround changes which moment on Earth counts as *now.* For the traveler, Earth's clocks jump years ahead.",
+   "voice": "c5",
+   "start": 229.73,
+   "end": 244.01,
+   "words": [
+    {
+     "w": "The",
+     "start": 229.73,
+     "end": 229.85
+    },
+    {
+     "w": "twins",
+     "start": 229.85,
+     "end": 230.23
+    },
+    {
+     "w": "aren't",
+     "start": 230.23,
+     "end": 230.63
+    },
+    {
+     "w": "equal.",
+     "start": 230.63,
+     "end": 231.07
+    },
+    {
+     "w": "The",
+     "start": 231.07,
+     "end": 231.67
+    },
+    {
+     "w": "Earth",
+     "start": 231.67,
+     "end": 231.95
+    },
+    {
+     "w": "twin",
+     "start": 231.95,
+     "end": 232.23
+    },
+    {
+     "w": "stays",
+     "start": 232.23,
+     "end": 232.55
+    },
+    {
+     "w": "put",
+     "start": 232.55,
+     "end": 232.89
+    },
+    {
+     "w": "the",
+     "start": 232.89,
+     "end": 233.07
+    },
+    {
+     "w": "whole",
+     "start": 233.07,
+     "end": 233.27
+    },
+    {
+     "w": "time.",
+     "start": 233.27,
+     "end": 233.67
+    },
+    {
+     "w": "The",
+     "start": 234.21,
+     "end": 234.29
+    },
+    {
+     "w": "traveler",
+     "start": 234.29,
+     "end": 234.63
+    },
+    {
+     "w": "has",
+     "start": 234.63,
+     "end": 234.93
+    },
+    {
+     "w": "to",
+     "start": 234.93,
+     "end": 235.13
+    },
+    {
+     "w": "stop",
+     "start": 235.13,
+     "end": 235.49
+    },
+    {
+     "w": "and",
+     "start": 235.49,
+     "end": 235.75
+    },
+    {
+     "w": "turn",
+     "start": 235.75,
+     "end": 235.99
+    },
+    {
+     "w": "around,",
+     "start": 235.99,
+     "end": 236.41
+    },
+    {
+     "w": "and",
+     "start": 236.41,
+     "end": 236.89
+    },
+    {
+     "w": "that",
+     "start": 236.89,
+     "end": 237.05
+    },
+    {
+     "w": "turnaround",
+     "start": 237.05,
+     "end": 237.57
+    },
+    {
+     "w": "changes",
+     "start": 237.57,
+     "end": 238.11
+    },
+    {
+     "w": "which",
+     "start": 238.11,
+     "end": 238.49
+    },
+    {
+     "w": "moment",
+     "start": 238.49,
+     "end": 238.81
+    },
+    {
+     "w": "on",
+     "start": 238.81,
+     "end": 239.07
+    },
+    {
+     "w": "Earth",
+     "start": 239.07,
+     "end": 239.35
+    },
+    {
+     "w": "counts",
+     "start": 239.35,
+     "end": 239.75
+    },
+    {
+     "w": "as",
+     "start": 239.75,
+     "end": 240.05
+    },
+    {
+     "w": "*now.*",
+     "start": 240.05,
+     "end": 240.45
+    },
+    {
+     "w": "For",
+     "start": 241.01,
+     "end": 241.13
+    },
+    {
+     "w": "the",
+     "start": 241.13,
+     "end": 241.27
+    },
+    {
+     "w": "traveler,",
+     "start": 241.27,
+     "end": 241.69
+    },
+    {
+     "w": "Earth's",
+     "start": 242.19,
+     "end": 242.43
+    },
+    {
+     "w": "clocks",
+     "start": 242.43,
+     "end": 242.65
+    },
+    {
+     "w": "jump",
+     "start": 242.65,
+     "end": 243.03
+    },
+    {
+     "w": "years",
+     "start": 243.03,
+     "end": 243.47
+    },
+    {
+     "w": "ahead.",
+     "start": 243.47,
+     "end": 243.91
+    }
+   ]
+  },
+  {
+   "scene": "t4",
+   "text": "There's a cleaner way to see it. Draw time going up, and space going sideways. In this picture, the straight line has the *most* time on it. Any detour through space means less time. The traveler took the detour, so the traveler ages less.",
+   "voice": "c5",
+   "start": 244.65,
+   "end": 260.06,
+   "words": [
+    {
+     "w": "There's",
+     "start": 244.65,
+     "end": 244.79
+    },
+    {
+     "w": "a",
+     "start": 244.79,
+     "end": 244.93
+    },
+    {
+     "w": "cleaner",
+     "start": 244.93,
+     "end": 245.19
+    },
+    {
+     "w": "way",
+     "start": 245.19,
+     "end": 245.45
+    },
+    {
+     "w": "to",
+     "start": 245.45,
+     "end": 245.61
+    },
+    {
+     "w": "see",
+     "start": 245.61,
+     "end": 245.79
+    },
+    {
+     "w": "it.",
+     "start": 245.79,
+     "end": 246.11
+    },
+    {
+     "w": "Draw",
+     "start": 246.43,
+     "end": 246.61
+    },
+    {
+     "w": "time",
+     "start": 246.61,
+     "end": 247.03
+    },
+    {
+     "w": "going",
+     "start": 247.03,
+     "end": 247.35
+    },
+    {
+     "w": "up,",
+     "start": 247.35,
+     "end": 247.71
+    },
+    {
+     "w": "and",
+     "start": 247.71,
+     "end": 248.15
+    },
+    {
+     "w": "space",
+     "start": 248.15,
+     "end": 248.55
+    },
+    {
+     "w": "going",
+     "start": 248.55,
+     "end": 248.97
+    },
+    {
+     "w": "sideways.",
+     "start": 248.97,
+     "end": 249.41
+    },
+    {
+     "w": "In",
+     "start": 250.07,
+     "end": 250.23
+    },
+    {
+     "w": "this",
+     "start": 250.23,
+     "end": 250.39
+    },
+    {
+     "w": "picture,",
+     "start": 250.39,
+     "end": 250.73
+    },
+    {
+     "w": "the",
+     "start": 250.97,
+     "end": 251.17
+    },
+    {
+     "w": "straight",
+     "start": 251.17,
+     "end": 251.51
+    },
+    {
+     "w": "line",
+     "start": 251.51,
+     "end": 251.85
+    },
+    {
+     "w": "has",
+     "start": 251.85,
+     "end": 252.09
+    },
+    {
+     "w": "the",
+     "start": 252.09,
+     "end": 252.29
+    },
+    {
+     "w": "*most*",
+     "start": 252.29,
+     "end": 252.55
+    },
+    {
+     "w": "time",
+     "start": 252.55,
+     "end": 252.87
+    },
+    {
+     "w": "on",
+     "start": 252.87,
+     "end": 253.09
+    },
+    {
+     "w": "it.",
+     "start": 253.09,
+     "end": 253.43
+    },
+    {
+     "w": "Any",
+     "start": 253.63,
+     "end": 253.85
+    },
+    {
+     "w": "detour",
+     "start": 253.85,
+     "end": 254.31
+    },
+    {
+     "w": "through",
+     "start": 254.31,
+     "end": 254.57
+    },
+    {
+     "w": "space",
+     "start": 254.57,
+     "end": 254.97
+    },
+    {
+     "w": "means",
+     "start": 254.97,
+     "end": 255.39
+    },
+    {
+     "w": "less",
+     "start": 255.39,
+     "end": 255.71
+    },
+    {
+     "w": "time.",
+     "start": 255.71,
+     "end": 256.11
+    },
+    {
+     "w": "The",
+     "start": 256.11,
+     "end": 256.69
+    },
+    {
+     "w": "traveler",
+     "start": 256.69,
+     "end": 257.09
+    },
+    {
+     "w": "took",
+     "start": 257.09,
+     "end": 257.43
+    },
+    {
+     "w": "the",
+     "start": 257.43,
+     "end": 257.61
+    },
+    {
+     "w": "detour,",
+     "start": 257.61,
+     "end": 258.05
+    },
+    {
+     "w": "so",
+     "start": 258.31,
+     "end": 258.51
+    },
+    {
+     "w": "the",
+     "start": 258.51,
+     "end": 258.65
+    },
+    {
+     "w": "traveler",
+     "start": 258.65,
+     "end": 259.11
+    },
+    {
+     "w": "ages",
+     "start": 259.11,
+     "end": 259.51
+    },
+    {
+     "w": "less.",
+     "start": 259.51,
+     "end": 259.87
+    }
+   ]
+  },
+  {
+   "scene": "a1",
+   "text": "So let's compare two travelers, side by side. Each one gets two lines: one for time, and one for distance.",
+   "voice": "c6",
+   "start": 261.14,
+   "end": 268.25,
+   "words": [
+    {
+     "w": "So",
+     "start": 261.14,
+     "end": 261.27
+    },
+    {
+     "w": "let's",
+     "start": 261.27,
+     "end": 261.53
+    },
+    {
+     "w": "compare",
+     "start": 261.53,
+     "end": 261.81
+    },
+    {
+     "w": "two",
+     "start": 261.81,
+     "end": 262.19
+    },
+    {
+     "w": "travelers,",
+     "start": 262.19,
+     "end": 262.69
+    },
+    {
+     "w": "side",
+     "start": 262.69,
+     "end": 263.25
+    },
+    {
+     "w": "by",
+     "start": 263.25,
+     "end": 263.45
+    },
+    {
+     "w": "side.",
+     "start": 263.45,
+     "end": 263.89
+    },
+    {
+     "w": "Each",
+     "start": 264.37,
+     "end": 264.51
+    },
+    {
+     "w": "one",
+     "start": 264.51,
+     "end": 264.79
+    },
+    {
+     "w": "gets",
+     "start": 264.79,
+     "end": 265.05
+    },
+    {
+     "w": "two",
+     "start": 265.05,
+     "end": 265.37
+    },
+    {
+     "w": "lines:",
+     "start": 265.37,
+     "end": 265.83
+    },
+    {
+     "w": "one",
+     "start": 266.21,
+     "end": 266.45
+    },
+    {
+     "w": "for",
+     "start": 266.45,
+     "end": 266.63
+    },
+    {
+     "w": "time,",
+     "start": 266.63,
+     "end": 266.97
+    },
+    {
+     "w": "and",
+     "start": 266.97,
+     "end": 267.37
+    },
+    {
+     "w": "one",
+     "start": 267.37,
+     "end": 267.55
+    },
+    {
+     "w": "for",
+     "start": 267.55,
+     "end": 267.77
+    },
+    {
+     "w": "distance.",
+     "start": 267.77,
+     "end": 268.19
+    }
+   ]
+  },
+  {
+   "scene": "a2",
+   "text": "Traveler A flies the normal way, at ninety-nine and a half percent of light speed, to that star four light-years away.",
+   "voice": "c6",
+   "start": 268.82,
+   "end": 275.51,
+   "words": [
+    {
+     "w": "Traveler",
+     "start": 268.93,
+     "end": 269.27
+    },
+    {
+     "w": "A",
+     "start": 269.27,
+     "end": 269.51
+    },
+    {
+     "w": "flies",
+     "start": 269.51,
+     "end": 269.87
+    },
+    {
+     "w": "the",
+     "start": 269.87,
+     "end": 270.19
+    },
+    {
+     "w": "normal",
+     "start": 270.19,
+     "end": 270.43
+    },
+    {
+     "w": "way,",
+     "start": 270.43,
+     "end": 270.79
+    },
+    {
+     "w": "at",
+     "start": 270.79,
+     "end": 271.19
+    },
+    {
+     "w": "ninety-nine",
+     "start": 271.399,
+     "end": 271.449
+    },
+    {
+     "w": "and",
+     "start": 271.607,
+     "end": 271.657
+    },
+    {
+     "w": "a",
+     "start": 271.816,
+     "end": 271.866
+    },
+    {
+     "w": "half",
+     "start": 272.024,
+     "end": 272.074
+    },
+    {
+     "w": "percent",
+     "start": 272.441,
+     "end": 272.491
+    },
+    {
+     "w": "of",
+     "start": 272.65,
+     "end": 272.79
+    },
+    {
+     "w": "light",
+     "start": 272.79,
+     "end": 273.01
+    },
+    {
+     "w": "speed,",
+     "start": 273.01,
+     "end": 273.31
+    },
+    {
+     "w": "to",
+     "start": 273.31,
+     "end": 273.73
+    },
+    {
+     "w": "that",
+     "start": 273.73,
+     "end": 273.93
+    },
+    {
+     "w": "star",
+     "start": 273.93,
+     "end": 274.31
+    },
+    {
+     "w": "four",
+     "start": 274.31,
+     "end": 274.71
+    },
+    {
+     "w": "light-years",
+     "start": 274.71,
+     "end": 274.95
+    },
+    {
+     "w": "away.",
+     "start": 274.95,
+     "end": 275.13
+    }
+   ]
+  },
+  {
+   "scene": "a2",
+   "text": "On Earth, the trip takes about four years. On A's clock, about five months. And from A's point of view, the distance itself shrank, from four light-years to about *zero point four.*",
+   "voice": "c6",
+   "start": 276.15,
+   "end": 287.86,
+   "words": [
+    {
+     "w": "On",
+     "start": 276.15,
+     "end": 276.31
+    },
+    {
+     "w": "Earth,",
+     "start": 276.31,
+     "end": 276.59
+    },
+    {
+     "w": "the",
+     "start": 276.85,
+     "end": 277.01
+    },
+    {
+     "w": "trip",
+     "start": 277.01,
+     "end": 277.17
+    },
+    {
+     "w": "takes",
+     "start": 277.17,
+     "end": 277.43
+    },
+    {
+     "w": "about",
+     "start": 277.43,
+     "end": 277.69
+    },
+    {
+     "w": "four",
+     "start": 277.69,
+     "end": 278.03
+    },
+    {
+     "w": "years.",
+     "start": 278.03,
+     "end": 278.47
+    },
+    {
+     "w": "On",
+     "start": 278.91,
+     "end": 279.15
+    },
+    {
+     "w": "A's",
+     "start": 279.15,
+     "end": 279.51
+    },
+    {
+     "w": "clock,",
+     "start": 279.51,
+     "end": 279.79
+    },
+    {
+     "w": "about",
+     "start": 280.05,
+     "end": 280.27
+    },
+    {
+     "w": "five",
+     "start": 280.27,
+     "end": 280.59
+    },
+    {
+     "w": "months.",
+     "start": 280.59,
+     "end": 280.89
+    },
+    {
+     "w": "And",
+     "start": 281.59,
+     "end": 281.71
+    },
+    {
+     "w": "from",
+     "start": 281.71,
+     "end": 281.87
+    },
+    {
+     "w": "A's",
+     "start": 281.87,
+     "end": 282.23
+    },
+    {
+     "w": "point",
+     "start": 282.23,
+     "end": 282.41
+    },
+    {
+     "w": "of",
+     "start": 282.41,
+     "end": 282.53
+    },
+    {
+     "w": "view,",
+     "start": 282.53,
+     "end": 282.79
+    },
+    {
+     "w": "the",
+     "start": 283.09,
+     "end": 283.21
+    },
+    {
+     "w": "distance",
+     "start": 283.21,
+     "end": 283.61
+    },
+    {
+     "w": "itself",
+     "start": 283.61,
+     "end": 284.17
+    },
+    {
+     "w": "shrank,",
+     "start": 284.17,
+     "end": 284.79
+    },
+    {
+     "w": "from",
+     "start": 284.79,
+     "end": 285.35
+    },
+    {
+     "w": "four",
+     "start": 285.35,
+     "end": 285.71
+    },
+    {
+     "w": "light-years",
+     "start": 285.71,
+     "end": 285.93
+    },
+    {
+     "w": "to",
+     "start": 285.93,
+     "end": 286.17
+    },
+    {
+     "w": "about",
+     "start": 286.17,
+     "end": 286.57
+    },
+    {
+     "w": "*zero",
+     "start": 286.57,
+     "end": 286.81
+    },
+    {
+     "w": "point",
+     "start": 286.81,
+     "end": 287.21
+    },
+    {
+     "w": "four.*",
+     "start": 287.21,
+     "end": 287.26
+    }
+   ]
+  },
+  {
+   "scene": "a3",
+   "text": "So A's distance line got shorter, and A's time line got shorter. But Earth's time line didn't. That gap is the problem. Come home, and everyone you knew got *years older.*",
+   "voice": "c6",
+   "start": 288.48,
+   "end": 300.49,
+   "words": [
+    {
+     "w": "So",
+     "start": 288.48,
+     "end": 288.63
+    },
+    {
+     "w": "A's",
+     "start": 288.63,
+     "end": 289.07
+    },
+    {
+     "w": "distance",
+     "start": 289.07,
+     "end": 289.43
+    },
+    {
+     "w": "line",
+     "start": 289.43,
+     "end": 289.77
+    },
+    {
+     "w": "got",
+     "start": 289.77,
+     "end": 289.99
+    },
+    {
+     "w": "shorter,",
+     "start": 289.99,
+     "end": 290.45
+    },
+    {
+     "w": "and",
+     "start": 290.45,
+     "end": 291.03
+    },
+    {
+     "w": "A's",
+     "start": 291.03,
+     "end": 291.49
+    },
+    {
+     "w": "time",
+     "start": 291.623,
+     "end": 291.673
+    },
+    {
+     "w": "line",
+     "start": 291.757,
+     "end": 291.807
+    },
+    {
+     "w": "got",
+     "start": 291.89,
+     "end": 292.25
+    },
+    {
+     "w": "shorter.",
+     "start": 292.25,
+     "end": 292.65
+    },
+    {
+     "w": "But",
+     "start": 293.17,
+     "end": 293.33
+    },
+    {
+     "w": "Earth's",
+     "start": 293.33,
+     "end": 293.83
+    },
+    {
+     "w": "time",
+     "start": 293.943,
+     "end": 293.993
+    },
+    {
+     "w": "line",
+     "start": 294.057,
+     "end": 294.107
+    },
+    {
+     "w": "didn't.",
+     "start": 294.17,
+     "end": 294.79
+    },
+    {
+     "w": "That",
+     "start": 295.33,
+     "end": 295.51
+    },
+    {
+     "w": "gap",
+     "start": 295.51,
+     "end": 295.83
+    },
+    {
+     "w": "is",
+     "start": 295.83,
+     "end": 296.19
+    },
+    {
+     "w": "the",
+     "start": 296.19,
+     "end": 296.37
+    },
+    {
+     "w": "problem.",
+     "start": 296.37,
+     "end": 296.79
+    },
+    {
+     "w": "Come",
+     "start": 297.47,
+     "end": 297.63
+    },
+    {
+     "w": "home,",
+     "start": 297.63,
+     "end": 297.89
+    },
+    {
+     "w": "and",
+     "start": 297.89,
+     "end": 298.33
+    },
+    {
+     "w": "everyone",
+     "start": 298.33,
+     "end": 298.81
+    },
+    {
+     "w": "you",
+     "start": 298.81,
+     "end": 299.11
+    },
+    {
+     "w": "knew",
+     "start": 299.11,
+     "end": 299.33
+    },
+    {
+     "w": "got",
+     "start": 299.33,
+     "end": 299.59
+    },
+    {
+     "w": "*years",
+     "start": 299.59,
+     "end": 300.03
+    },
+    {
+     "w": "older.*",
+     "start": 300.03,
+     "end": 300.49
+    }
+   ]
+  },
+  {
+   "scene": "b1",
+   "text": "Traveler B has a warp drive. B doesn't push through space at all. B squeezes the space in front of the ship, stretches it out behind, and rides along in a calm bubble in the middle.",
+   "voice": "c6",
+   "start": 301.95,
+   "end": 313.58,
+   "words": [
+    {
+     "w": "Traveler",
+     "start": 302.03,
+     "end": 302.43
+    },
+    {
+     "w": "B",
+     "start": 302.43,
+     "end": 302.67
+    },
+    {
+     "w": "has",
+     "start": 302.67,
+     "end": 303.01
+    },
+    {
+     "w": "a",
+     "start": 303.01,
+     "end": 303.19
+    },
+    {
+     "w": "warp",
+     "start": 303.19,
+     "end": 303.41
+    },
+    {
+     "w": "drive.",
+     "start": 303.41,
+     "end": 303.77
+    },
+    {
+     "w": "B",
+     "start": 304.57,
+     "end": 304.63
+    },
+    {
+     "w": "doesn't",
+     "start": 304.63,
+     "end": 305.01
+    },
+    {
+     "w": "push",
+     "start": 305.01,
+     "end": 305.23
+    },
+    {
+     "w": "through",
+     "start": 305.23,
+     "end": 305.49
+    },
+    {
+     "w": "space",
+     "start": 305.49,
+     "end": 305.79
+    },
+    {
+     "w": "at",
+     "start": 305.79,
+     "end": 305.97
+    },
+    {
+     "w": "all.",
+     "start": 305.97,
+     "end": 306.23
+    },
+    {
+     "w": "B",
+     "start": 306.89,
+     "end": 306.97
+    },
+    {
+     "w": "squeezes",
+     "start": 306.97,
+     "end": 307.69
+    },
+    {
+     "w": "the",
+     "start": 307.69,
+     "end": 307.89
+    },
+    {
+     "w": "space",
+     "start": 307.89,
+     "end": 308.19
+    },
+    {
+     "w": "in",
+     "start": 308.19,
+     "end": 308.41
+    },
+    {
+     "w": "front",
+     "start": 308.41,
+     "end": 308.63
+    },
+    {
+     "w": "of",
+     "start": 308.63,
+     "end": 308.75
+    },
+    {
+     "w": "the",
+     "start": 308.75,
+     "end": 308.89
+    },
+    {
+     "w": "ship,",
+     "start": 308.89,
+     "end": 309.15
+    },
+    {
+     "w": "stretches",
+     "start": 309.55,
+     "end": 309.85
+    },
+    {
+     "w": "it",
+     "start": 309.85,
+     "end": 310.11
+    },
+    {
+     "w": "out",
+     "start": 310.11,
+     "end": 310.27
+    },
+    {
+     "w": "behind,",
+     "start": 310.27,
+     "end": 310.69
+    },
+    {
+     "w": "and",
+     "start": 311.07,
+     "end": 311.29
+    },
+    {
+     "w": "rides",
+     "start": 311.29,
+     "end": 311.63
+    },
+    {
+     "w": "along",
+     "start": 311.63,
+     "end": 311.93
+    },
+    {
+     "w": "in",
+     "start": 311.93,
+     "end": 312.15
+    },
+    {
+     "w": "a",
+     "start": 312.15,
+     "end": 312.41
+    },
+    {
+     "w": "calm",
+     "start": 312.41,
+     "end": 312.67
+    },
+    {
+     "w": "bubble",
+     "start": 312.67,
+     "end": 313.01
+    },
+    {
+     "w": "in",
+     "start": 313.01,
+     "end": 313.27
+    },
+    {
+     "w": "the",
+     "start": 313.27,
+     "end": 313.37
+    },
+    {
+     "w": "middle.",
+     "start": 313.37,
+     "end": 313.58
+    }
+   ]
+  },
+  {
+   "scene": "b2",
+   "text": "Inside the bubble, B is basically sitting still. And a clock that isn't moving through its own patch of space doesn't slow down.",
+   "voice": "c6",
+   "start": 314.19,
+   "end": 321.56,
+   "words": [
+    {
+     "w": "Inside",
+     "start": 314.23,
+     "end": 314.53
+    },
+    {
+     "w": "the",
+     "start": 314.53,
+     "end": 314.73
+    },
+    {
+     "w": "bubble,",
+     "start": 314.73,
+     "end": 315.03
+    },
+    {
+     "w": "B",
+     "start": 315.41,
+     "end": 315.49
+    },
+    {
+     "w": "is",
+     "start": 315.49,
+     "end": 315.69
+    },
+    {
+     "w": "basically",
+     "start": 315.69,
+     "end": 316.17
+    },
+    {
+     "w": "sitting",
+     "start": 316.17,
+     "end": 316.51
+    },
+    {
+     "w": "still.",
+     "start": 316.51,
+     "end": 316.91
+    },
+    {
+     "w": "And",
+     "start": 320.33,
+     "end": 320.93
+    },
+    {
+     "w": "a",
+     "start": 320.93,
+     "end": 320.93
+    },
+    {
+     "w": "clock",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "that",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "isn't",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "moving",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "through",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "its",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "own",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "patch",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "of",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "space",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "doesn't",
+     "start": 320.93,
+     "end": 320.98
+    },
+    {
+     "w": "slow",
+     "start": 320.93,
+     "end": 321.19
+    },
+    {
+     "w": "down.",
+     "start": 321.19,
+     "end": 321.56
+    }
+   ]
+  },
+  {
+   "scene": "b2",
+   "text": "So when the bubble carries B to the star, B's clock and Earth's clock tick together. If the trip takes a month for B, it takes a month on Earth too.",
+   "voice": "c6",
+   "start": 322.16,
+   "end": 331.14,
+   "words": [
+    {
+     "w": "So",
+     "start": 322.19,
+     "end": 322.27
+    },
+    {
+     "w": "when",
+     "start": 322.27,
+     "end": 322.41
+    },
+    {
+     "w": "the",
+     "start": 322.41,
+     "end": 322.55
+    },
+    {
+     "w": "bubble",
+     "start": 322.55,
+     "end": 322.77
+    },
+    {
+     "w": "carries",
+     "start": 322.77,
+     "end": 323.19
+    },
+    {
+     "w": "B",
+     "start": 323.19,
+     "end": 323.45
+    },
+    {
+     "w": "to",
+     "start": 323.45,
+     "end": 323.63
+    },
+    {
+     "w": "the",
+     "start": 323.63,
+     "end": 323.79
+    },
+    {
+     "w": "star,",
+     "start": 323.79,
+     "end": 324.19
+    },
+    {
+     "w": "B's",
+     "start": 324.75,
+     "end": 324.93
+    },
+    {
+     "w": "clock",
+     "start": 324.93,
+     "end": 325.21
+    },
+    {
+     "w": "and",
+     "start": 325.21,
+     "end": 325.49
+    },
+    {
+     "w": "Earth's",
+     "start": 325.49,
+     "end": 325.95
+    },
+    {
+     "w": "clock",
+     "start": 325.95,
+     "end": 326.19
+    },
+    {
+     "w": "tick",
+     "start": 326.19,
+     "end": 326.57
+    },
+    {
+     "w": "together.",
+     "start": 326.57,
+     "end": 327.05
+    },
+    {
+     "w": "If",
+     "start": 327.57,
+     "end": 327.73
+    },
+    {
+     "w": "the",
+     "start": 327.73,
+     "end": 327.87
+    },
+    {
+     "w": "trip",
+     "start": 327.87,
+     "end": 328.03
+    },
+    {
+     "w": "takes",
+     "start": 328.03,
+     "end": 328.27
+    },
+    {
+     "w": "a",
+     "start": 328.27,
+     "end": 328.51
+    },
+    {
+     "w": "month",
+     "start": 328.51,
+     "end": 328.67
+    },
+    {
+     "w": "for",
+     "start": 328.67,
+     "end": 328.91
+    },
+    {
+     "w": "B,",
+     "start": 328.91,
+     "end": 329.17
+    },
+    {
+     "w": "it",
+     "start": 329.45,
+     "end": 329.65
+    },
+    {
+     "w": "takes",
+     "start": 329.65,
+     "end": 329.83
+    },
+    {
+     "w": "a",
+     "start": 329.83,
+     "end": 330.07
+    },
+    {
+     "w": "month",
+     "start": 330.07,
+     "end": 330.23
+    },
+    {
+     "w": "on",
+     "start": 330.23,
+     "end": 330.47
+    },
+    {
+     "w": "Earth",
+     "start": 330.47,
+     "end": 330.71
+    },
+    {
+     "w": "too.",
+     "start": 330.71,
+     "end": 331.09
+    }
+   ]
+  },
+  {
+   "scene": "b3",
+   "text": "B's distance line is squeezed for real, not just from B's point of view. And both time lines shrink *together.* No gap. No one left behind.",
+   "voice": "c6",
+   "start": 331.69,
+   "end": 340.84,
+   "words": [
+    {
+     "w": "B's",
+     "start": 331.83,
+     "end": 332.07
+    },
+    {
+     "w": "distance",
+     "start": 332.07,
+     "end": 332.41
+    },
+    {
+     "w": "line",
+     "start": 332.41,
+     "end": 332.73
+    },
+    {
+     "w": "is",
+     "start": 332.73,
+     "end": 332.93
+    },
+    {
+     "w": "squeezed",
+     "start": 332.93,
+     "end": 333.37
+    },
+    {
+     "w": "for",
+     "start": 333.37,
+     "end": 333.73
+    },
+    {
+     "w": "real,",
+     "start": 333.73,
+     "end": 334.09
+    },
+    {
+     "w": "not",
+     "start": 334.41,
+     "end": 334.59
+    },
+    {
+     "w": "just",
+     "start": 334.59,
+     "end": 334.75
+    },
+    {
+     "w": "from",
+     "start": 334.75,
+     "end": 334.99
+    },
+    {
+     "w": "B's",
+     "start": 334.99,
+     "end": 335.29
+    },
+    {
+     "w": "point",
+     "start": 335.29,
+     "end": 335.45
+    },
+    {
+     "w": "of",
+     "start": 335.45,
+     "end": 335.57
+    },
+    {
+     "w": "view.",
+     "start": 335.57,
+     "end": 335.87
+    },
+    {
+     "w": "And",
+     "start": 336.33,
+     "end": 336.53
+    },
+    {
+     "w": "both",
+     "start": 336.53,
+     "end": 336.79
+    },
+    {
+     "w": "time",
+     "start": 336.977,
+     "end": 337.027
+    },
+    {
+     "w": "lines",
+     "start": 337.163,
+     "end": 337.213
+    },
+    {
+     "w": "shrink",
+     "start": 337.35,
+     "end": 337.73
+    },
+    {
+     "w": "*together.*",
+     "start": 337.73,
+     "end": 338.23
+    },
+    {
+     "w": "No",
+     "start": 338.73,
+     "end": 338.99
+    },
+    {
+     "w": "gap.",
+     "start": 338.99,
+     "end": 339.29
+    },
+    {
+     "w": "No",
+     "start": 339.77,
+     "end": 339.91
+    },
+    {
+     "w": "one",
+     "start": 339.91,
+     "end": 340.09
+    },
+    {
+     "w": "left",
+     "start": 340.09,
+     "end": 340.29
+    },
+    {
+     "w": "behind.",
+     "start": 340.29,
+     "end": 340.71
+    }
+   ]
+  },
+  {
+   "scene": "b4",
+   "text": "The catch: a warp bubble needs something called negative energy, which may not exist. And if it ever went faster than light, some observers would see B arrive *before* B left.",
+   "voice": "c6",
+   "start": 341.51,
+   "end": 352.96,
+   "words": [
+    {
+     "w": "The",
+     "start": 341.51,
+     "end": 341.61
+    },
+    {
+     "w": "catch:",
+     "start": 341.61,
+     "end": 341.85
+    },
+    {
+     "w": "a",
+     "start": 342.37,
+     "end": 342.57
+    },
+    {
+     "w": "warp",
+     "start": 342.57,
+     "end": 342.83
+    },
+    {
+     "w": "bubble",
+     "start": 342.83,
+     "end": 343.11
+    },
+    {
+     "w": "needs",
+     "start": 343.11,
+     "end": 343.35
+    },
+    {
+     "w": "something",
+     "start": 343.35,
+     "end": 343.69
+    },
+    {
+     "w": "called",
+     "start": 343.69,
+     "end": 344.07
+    },
+    {
+     "w": "negative",
+     "start": 344.07,
+     "end": 344.55
+    },
+    {
+     "w": "energy,",
+     "start": 344.55,
+     "end": 345.13
+    },
+    {
+     "w": "which",
+     "start": 345.45,
+     "end": 345.71
+    },
+    {
+     "w": "may",
+     "start": 345.71,
+     "end": 346.07
+    },
+    {
+     "w": "not",
+     "start": 346.07,
+     "end": 346.27
+    },
+    {
+     "w": "exist.",
+     "start": 346.27,
+     "end": 346.65
+    },
+    {
+     "w": "And",
+     "start": 347.29,
+     "end": 347.59
+    },
+    {
+     "w": "if",
+     "start": 347.59,
+     "end": 347.73
+    },
+    {
+     "w": "it",
+     "start": 347.73,
+     "end": 347.83
+    },
+    {
+     "w": "ever",
+     "start": 347.83,
+     "end": 348.11
+    },
+    {
+     "w": "went",
+     "start": 348.11,
+     "end": 348.31
+    },
+    {
+     "w": "faster",
+     "start": 348.31,
+     "end": 348.65
+    },
+    {
+     "w": "than",
+     "start": 348.65,
+     "end": 348.95
+    },
+    {
+     "w": "light,",
+     "start": 348.95,
+     "end": 349.25
+    },
+    {
+     "w": "some",
+     "start": 349.59,
+     "end": 349.83
+    },
+    {
+     "w": "observers",
+     "start": 349.89,
+     "end": 350.23
+    },
+    {
+     "w": "would",
+     "start": 350.23,
+     "end": 350.53
+    },
+    {
+     "w": "see",
+     "start": 350.53,
+     "end": 350.83
+    },
+    {
+     "w": "B",
+     "start": 350.83,
+     "end": 351.07
+    },
+    {
+     "w": "arrive",
+     "start": 351.07,
+     "end": 351.51
+    },
+    {
+     "w": "*before*",
+     "start": 351.51,
+     "end": 352.17
+    },
+    {
+     "w": "B",
+     "start": 352.17,
+     "end": 352.47
+    },
+    {
+     "w": "left.",
+     "start": 352.47,
+     "end": 352.79
+    }
+   ]
+  },
+  {
+   "scene": "g1",
+   "text": "Speed isn't the only thing that changes time. *Gravity* does too.",
+   "voice": "c7",
+   "start": 353.96,
+   "end": 358.06,
+   "words": [
+    {
+     "w": "Speed",
+     "start": 353.96,
+     "end": 354.37
+    },
+    {
+     "w": "isn't",
+     "start": 354.37,
+     "end": 354.75
+    },
+    {
+     "w": "the",
+     "start": 354.75,
+     "end": 354.93
+    },
+    {
+     "w": "only",
+     "start": 354.93,
+     "end": 355.19
+    },
+    {
+     "w": "thing",
+     "start": 355.19,
+     "end": 355.51
+    },
+    {
+     "w": "that",
+     "start": 355.51,
+     "end": 355.69
+    },
+    {
+     "w": "changes",
+     "start": 355.69,
+     "end": 356.01
+    },
+    {
+     "w": "time.",
+     "start": 356.01,
+     "end": 356.47
+    },
+    {
+     "w": "*Gravity*",
+     "start": 357.19,
+     "end": 357.31
+    },
+    {
+     "w": "does",
+     "start": 357.31,
+     "end": 357.63
+    },
+    {
+     "w": "too.",
+     "start": 357.63,
+     "end": 358.01
+    }
+   ]
+  },
+  {
+   "scene": "g1",
+   "text": "The closer you are to a heavy mass, the slower your time runs. That's why your feet, a little closer to the Earth, age a little slower than your head.",
+   "voice": "c7",
+   "start": 358.69,
+   "end": 367.61,
+   "words": [
+    {
+     "w": "The",
+     "start": 358.69,
+     "end": 358.79
+    },
+    {
+     "w": "closer",
+     "start": 358.79,
+     "end": 359.07
+    },
+    {
+     "w": "you",
+     "start": 359.07,
+     "end": 359.35
+    },
+    {
+     "w": "are",
+     "start": 359.35,
+     "end": 359.57
+    },
+    {
+     "w": "to",
+     "start": 359.57,
+     "end": 359.75
+    },
+    {
+     "w": "a",
+     "start": 359.75,
+     "end": 359.91
+    },
+    {
+     "w": "heavy",
+     "start": 359.91,
+     "end": 360.15
+    },
+    {
+     "w": "mass,",
+     "start": 360.15,
+     "end": 360.63
+    },
+    {
+     "w": "the",
+     "start": 360.91,
+     "end": 361.05
+    },
+    {
+     "w": "slower",
+     "start": 361.05,
+     "end": 361.45
+    },
+    {
+     "w": "your",
+     "start": 361.45,
+     "end": 361.75
+    },
+    {
+     "w": "time",
+     "start": 361.75,
+     "end": 362.01
+    },
+    {
+     "w": "runs.",
+     "start": 362.01,
+     "end": 362.35
+    },
+    {
+     "w": "That's",
+     "start": 362.97,
+     "end": 363.25
+    },
+    {
+     "w": "why",
+     "start": 363.25,
+     "end": 363.39
+    },
+    {
+     "w": "your",
+     "start": 363.39,
+     "end": 363.55
+    },
+    {
+     "w": "feet,",
+     "start": 363.55,
+     "end": 363.89
+    },
+    {
+     "w": "a",
+     "start": 364.11,
+     "end": 364.31
+    },
+    {
+     "w": "little",
+     "start": 364.31,
+     "end": 364.41
+    },
+    {
+     "w": "closer",
+     "start": 364.41,
+     "end": 364.75
+    },
+    {
+     "w": "to",
+     "start": 364.75,
+     "end": 364.99
+    },
+    {
+     "w": "the",
+     "start": 364.99,
+     "end": 365.15
+    },
+    {
+     "w": "Earth,",
+     "start": 365.15,
+     "end": 365.33
+    },
+    {
+     "w": "age",
+     "start": 365.79,
+     "end": 366.03
+    },
+    {
+     "w": "a",
+     "start": 366.03,
+     "end": 366.23
+    },
+    {
+     "w": "little",
+     "start": 366.23,
+     "end": 366.45
+    },
+    {
+     "w": "slower",
+     "start": 366.45,
+     "end": 366.91
+    },
+    {
+     "w": "than",
+     "start": 366.91,
+     "end": 367.11
+    },
+    {
+     "w": "your",
+     "start": 367.11,
+     "end": 367.27
+    },
+    {
+     "w": "head.",
+     "start": 367.27,
+     "end": 367.55
+    }
+   ]
+  },
+  {
+   "scene": "g2",
+   "text": "GPS satellites feel both effects. Their speed slows their clocks by about seven microseconds a day. But they orbit twenty thousand kilometers up, in weaker gravity, and that speeds their clocks up by about forty-five.",
+   "voice": "c7",
+   "start": 368.35,
+   "end": 382.36,
+   "words": [
+    {
+     "w": "GPS",
+     "start": 368.87,
+     "end": 368.87
+    },
+    {
+     "w": "satellites",
+     "start": 368.87,
+     "end": 369.37
+    },
+    {
+     "w": "feel",
+     "start": 369.37,
+     "end": 369.77
+    },
+    {
+     "w": "both",
+     "start": 369.77,
+     "end": 370.07
+    },
+    {
+     "w": "effects.",
+     "start": 370.07,
+     "end": 370.53
+    },
+    {
+     "w": "Their",
+     "start": 371.05,
+     "end": 371.27
+    },
+    {
+     "w": "speed",
+     "start": 371.27,
+     "end": 371.59
+    },
+    {
+     "w": "slows",
+     "start": 371.59,
+     "end": 372.05
+    },
+    {
+     "w": "their",
+     "start": 372.05,
+     "end": 372.29
+    },
+    {
+     "w": "clocks",
+     "start": 372.29,
+     "end": 372.61
+    },
+    {
+     "w": "by",
+     "start": 372.61,
+     "end": 372.93
+    },
+    {
+     "w": "about",
+     "start": 372.93,
+     "end": 373.13
+    },
+    {
+     "w": "seven",
+     "start": 373.13,
+     "end": 373.63
+    },
+    {
+     "w": "microseconds",
+     "start": 373.63,
+     "end": 374.21
+    },
+    {
+     "w": "a",
+     "start": 374.21,
+     "end": 374.53
+    },
+    {
+     "w": "day.",
+     "start": 374.53,
+     "end": 374.77
+    },
+    {
+     "w": "But",
+     "start": 375.13,
+     "end": 375.51
+    },
+    {
+     "w": "they",
+     "start": 375.51,
+     "end": 375.71
+    },
+    {
+     "w": "orbit",
+     "start": 375.71,
+     "end": 376.03
+    },
+    {
+     "w": "twenty",
+     "start": 376.03,
+     "end": 376.49
+    },
+    {
+     "w": "thousand",
+     "start": 376.763,
+     "end": 376.813
+    },
+    {
+     "w": "kilometers",
+     "start": 377.037,
+     "end": 377.087
+    },
+    {
+     "w": "up,",
+     "start": 377.31,
+     "end": 377.87
+    },
+    {
+     "w": "in",
+     "start": 378.11,
+     "end": 378.25
+    },
+    {
+     "w": "weaker",
+     "start": 378.25,
+     "end": 378.53
+    },
+    {
+     "w": "gravity,",
+     "start": 378.53,
+     "end": 379.01
+    },
+    {
+     "w": "and",
+     "start": 379.29,
+     "end": 379.61
+    },
+    {
+     "w": "that",
+     "start": 379.61,
+     "end": 379.89
+    },
+    {
+     "w": "speeds",
+     "start": 379.89,
+     "end": 380.29
+    },
+    {
+     "w": "their",
+     "start": 380.29,
+     "end": 380.49
+    },
+    {
+     "w": "clocks",
+     "start": 380.49,
+     "end": 380.75
+    },
+    {
+     "w": "up",
+     "start": 380.75,
+     "end": 381.13
+    },
+    {
+     "w": "by",
+     "start": 381.13,
+     "end": 381.37
+    },
+    {
+     "w": "about",
+     "start": 381.37,
+     "end": 381.59
+    },
+    {
+     "w": "forty-five.",
+     "start": 382.07,
+     "end": 382.12
+    }
+   ]
+  },
+  {
+   "scene": "g2",
+   "text": "Net result: thirty-eight microseconds fast, every day. GPS works by timing signals that travel at the speed of light, so left uncorrected, your position would drift about *ten kilometers a day.*",
+   "voice": "c7",
+   "start": 383.05,
+   "end": 396.29,
+   "words": [
+    {
+     "w": "Net",
+     "start": 383.05,
+     "end": 383.21
+    },
+    {
+     "w": "result:",
+     "start": 383.21,
+     "end": 383.55
+    },
+    {
+     "w": "thirty-eight",
+     "start": 383.89,
+     "end": 383.94
+    },
+    {
+     "w": "microseconds",
+     "start": 384.23,
+     "end": 384.28
+    },
+    {
+     "w": "fast,",
+     "start": 384.57,
+     "end": 385.21
+    },
+    {
+     "w": "every",
+     "start": 385.21,
+     "end": 385.77
+    },
+    {
+     "w": "day.",
+     "start": 385.77,
+     "end": 386.53
+    },
+    {
+     "w": "GPS",
+     "start": 386.53,
+     "end": 387.07
+    },
+    {
+     "w": "works",
+     "start": 388.11,
+     "end": 388.11
+    },
+    {
+     "w": "by",
+     "start": 388.11,
+     "end": 388.67
+    },
+    {
+     "w": "timing",
+     "start": 388.67,
+     "end": 389.01
+    },
+    {
+     "w": "signals",
+     "start": 389.01,
+     "end": 389.37
+    },
+    {
+     "w": "that",
+     "start": 389.37,
+     "end": 389.83
+    },
+    {
+     "w": "travel",
+     "start": 389.83,
+     "end": 390.07
+    },
+    {
+     "w": "at",
+     "start": 390.07,
+     "end": 390.35
+    },
+    {
+     "w": "the",
+     "start": 390.35,
+     "end": 390.57
+    },
+    {
+     "w": "speed",
+     "start": 390.57,
+     "end": 390.69
+    },
+    {
+     "w": "of",
+     "start": 390.69,
+     "end": 390.95
+    },
+    {
+     "w": "light,",
+     "start": 390.95,
+     "end": 391.11
+    },
+    {
+     "w": "so",
+     "start": 391.11,
+     "end": 391.41
+    },
+    {
+     "w": "left",
+     "start": 391.69,
+     "end": 392.07
+    },
+    {
+     "w": "uncorrected,",
+     "start": 392.07,
+     "end": 392.39
+    },
+    {
+     "w": "your",
+     "start": 392.39,
+     "end": 393.21
+    },
+    {
+     "w": "position",
+     "start": 393.21,
+     "end": 393.61
+    },
+    {
+     "w": "would",
+     "start": 393.61,
+     "end": 393.99
+    },
+    {
+     "w": "drift",
+     "start": 393.99,
+     "end": 394.23
+    },
+    {
+     "w": "about",
+     "start": 394.23,
+     "end": 394.63
+    },
+    {
+     "w": "*ten",
+     "start": 394.63,
+     "end": 394.91
+    },
+    {
+     "w": "kilometers",
+     "start": 394.91,
+     "end": 395.29
+    },
+    {
+     "w": "a",
+     "start": 395.29,
+     "end": 395.69
+    },
+    {
+     "w": "day.*",
+     "start": 395.69,
+     "end": 396.01
+    }
+   ]
+  },
+  {
+   "scene": "g3",
+   "text": "Every time your phone finds you on a map, it's using Einstein.",
+   "voice": "c7",
+   "start": 396.98,
+   "end": 400.5,
+   "words": [
+    {
+     "w": "Every",
+     "start": 396.98,
+     "end": 397.23
+    },
+    {
+     "w": "time",
+     "start": 397.23,
+     "end": 397.47
+    },
+    {
+     "w": "your",
+     "start": 397.47,
+     "end": 397.67
+    },
+    {
+     "w": "phone",
+     "start": 397.67,
+     "end": 397.93
+    },
+    {
+     "w": "finds",
+     "start": 397.93,
+     "end": 398.31
+    },
+    {
+     "w": "you",
+     "start": 398.31,
+     "end": 398.45
+    },
+    {
+     "w": "on",
+     "start": 398.45,
+     "end": 398.59
+    },
+    {
+     "w": "a",
+     "start": 398.59,
+     "end": 398.73
+    },
+    {
+     "w": "map,",
+     "start": 398.73,
+     "end": 398.99
+    },
+    {
+     "w": "it's",
+     "start": 398.99,
+     "end": 399.49
+    },
+    {
+     "w": "using",
+     "start": 399.49,
+     "end": 399.85
+    },
+    {
+     "w": "Einstein.",
+     "start": 399.85,
+     "end": 400.43
+    }
+   ]
+  },
+  {
+   "scene": "g4",
+   "text": "Near a black hole, it gets extreme. Close enough to the edge, one hour for you could be *years* for everyone far away.",
+   "voice": "c7",
+   "start": 401.38,
+   "end": 409.1,
+   "words": [
+    {
+     "w": "Near",
+     "start": 401.38,
+     "end": 401.53
+    },
+    {
+     "w": "a",
+     "start": 401.53,
+     "end": 401.69
+    },
+    {
+     "w": "black",
+     "start": 401.69,
+     "end": 401.91
+    },
+    {
+     "w": "hole,",
+     "start": 401.91,
+     "end": 402.35
+    },
+    {
+     "w": "it",
+     "start": 402.35,
+     "end": 402.75
+    },
+    {
+     "w": "gets",
+     "start": 402.75,
+     "end": 403.01
+    },
+    {
+     "w": "extreme.",
+     "start": 403.01,
+     "end": 403.65
+    },
+    {
+     "w": "Close",
+     "start": 405.21,
+     "end": 405.89
+    },
+    {
+     "w": "enough",
+     "start": 405.89,
+     "end": 405.94
+    },
+    {
+     "w": "to",
+     "start": 405.89,
+     "end": 405.94
+    },
+    {
+     "w": "the",
+     "start": 405.89,
+     "end": 405.94
+    },
+    {
+     "w": "edge,",
+     "start": 405.89,
+     "end": 405.94
+    },
+    {
+     "w": "one",
+     "start": 405.89,
+     "end": 405.97
+    },
+    {
+     "w": "hour",
+     "start": 405.97,
+     "end": 406.11
+    },
+    {
+     "w": "for",
+     "start": 406.11,
+     "end": 406.37
+    },
+    {
+     "w": "you",
+     "start": 406.37,
+     "end": 406.71
+    },
+    {
+     "w": "could",
+     "start": 406.71,
+     "end": 407.01
+    },
+    {
+     "w": "be",
+     "start": 407.01,
+     "end": 407.27
+    },
+    {
+     "w": "*years*",
+     "start": 407.27,
+     "end": 407.59
+    },
+    {
+     "w": "for",
+     "start": 407.59,
+     "end": 407.97
+    },
+    {
+     "w": "everyone",
+     "start": 407.97,
+     "end": 408.43
+    },
+    {
+     "w": "far",
+     "start": 408.43,
+     "end": 408.73
+    },
+    {
+     "w": "away.",
+     "start": 408.73,
+     "end": 409.03
+    }
+   ]
+  },
+  {
+   "scene": "n1",
+   "text": "And here's the strangest part. Because time stretches differently for everyone, there is no single *now* shared by the whole universe.",
+   "voice": "c8",
+   "start": 410.24,
+   "end": 418.37,
+   "words": [
+    {
+     "w": "And",
+     "start": 410.24,
+     "end": 410.35
+    },
+    {
+     "w": "here's",
+     "start": 410.35,
+     "end": 410.67
+    },
+    {
+     "w": "the",
+     "start": 410.67,
+     "end": 410.85
+    },
+    {
+     "w": "strangest",
+     "start": 410.85,
+     "end": 411.45
+    },
+    {
+     "w": "part.",
+     "start": 411.45,
+     "end": 411.75
+    },
+    {
+     "w": "Because",
+     "start": 412.27,
+     "end": 412.59
+    },
+    {
+     "w": "time",
+     "start": 412.59,
+     "end": 413.01
+    },
+    {
+     "w": "stretches",
+     "start": 413.01,
+     "end": 413.45
+    },
+    {
+     "w": "differently",
+     "start": 413.45,
+     "end": 413.89
+    },
+    {
+     "w": "for",
+     "start": 413.89,
+     "end": 414.19
+    },
+    {
+     "w": "everyone,",
+     "start": 414.19,
+     "end": 414.73
+    },
+    {
+     "w": "there",
+     "start": 415.23,
+     "end": 415.33
+    },
+    {
+     "w": "is",
+     "start": 415.33,
+     "end": 415.49
+    },
+    {
+     "w": "no",
+     "start": 415.49,
+     "end": 415.71
+    },
+    {
+     "w": "single",
+     "start": 415.71,
+     "end": 416.15
+    },
+    {
+     "w": "*now*",
+     "start": 416.15,
+     "end": 416.67
+    },
+    {
+     "w": "shared",
+     "start": 416.67,
+     "end": 417.13
+    },
+    {
+     "w": "by",
+     "start": 417.13,
+     "end": 417.37
+    },
+    {
+     "w": "the",
+     "start": 417.37,
+     "end": 417.47
+    },
+    {
+     "w": "whole",
+     "start": 417.47,
+     "end": 417.69
+    },
+    {
+     "w": "universe.",
+     "start": 417.69,
+     "end": 418.19
+    }
+   ]
+  },
+  {
+   "scene": "n1",
+   "text": "Two events that happen at the same moment for you can happen at different moments for someone moving past you. Neither of you is wrong.",
+   "voice": "c8",
+   "start": 418.95,
+   "end": 426.02,
+   "words": [
+    {
+     "w": "Two",
+     "start": 419.01,
+     "end": 419.09
+    },
+    {
+     "w": "events",
+     "start": 419.09,
+     "end": 419.41
+    },
+    {
+     "w": "that",
+     "start": 419.41,
+     "end": 419.61
+    },
+    {
+     "w": "happen",
+     "start": 419.61,
+     "end": 419.91
+    },
+    {
+     "w": "at",
+     "start": 419.91,
+     "end": 420.05
+    },
+    {
+     "w": "the",
+     "start": 420.05,
+     "end": 420.21
+    },
+    {
+     "w": "same",
+     "start": 420.21,
+     "end": 420.47
+    },
+    {
+     "w": "moment",
+     "start": 420.47,
+     "end": 420.75
+    },
+    {
+     "w": "for",
+     "start": 420.75,
+     "end": 420.99
+    },
+    {
+     "w": "you",
+     "start": 420.99,
+     "end": 421.37
+    },
+    {
+     "w": "can",
+     "start": 421.37,
+     "end": 421.81
+    },
+    {
+     "w": "happen",
+     "start": 421.81,
+     "end": 422.09
+    },
+    {
+     "w": "at",
+     "start": 422.09,
+     "end": 422.23
+    },
+    {
+     "w": "different",
+     "start": 422.23,
+     "end": 422.63
+    },
+    {
+     "w": "moments",
+     "start": 422.63,
+     "end": 422.99
+    },
+    {
+     "w": "for",
+     "start": 422.99,
+     "end": 423.19
+    },
+    {
+     "w": "someone",
+     "start": 423.19,
+     "end": 423.47
+    },
+    {
+     "w": "moving",
+     "start": 423.47,
+     "end": 423.77
+    },
+    {
+     "w": "past",
+     "start": 423.77,
+     "end": 424.05
+    },
+    {
+     "w": "you.",
+     "start": 424.05,
+     "end": 424.61
+    },
+    {
+     "w": "Neither",
+     "start": 425.05,
+     "end": 425.13
+    },
+    {
+     "w": "of",
+     "start": 425.13,
+     "end": 425.35
+    },
+    {
+     "w": "you",
+     "start": 425.35,
+     "end": 425.49
+    },
+    {
+     "w": "is",
+     "start": 425.49,
+     "end": 425.61
+    },
+    {
+     "w": "wrong.",
+     "start": 425.61,
+     "end": 425.93
+    }
+   ]
+  },
+  {
+   "scene": "n2",
+   "text": "Time isn't a river that flows the same everywhere. Everyone carries their own clock, and how fast it ticks depends on the path they take.",
+   "voice": "c8",
+   "start": 426.64,
+   "end": 435.03,
+   "words": [
+    {
+     "w": "Time",
+     "start": 426.69,
+     "end": 426.89
+    },
+    {
+     "w": "isn't",
+     "start": 426.89,
+     "end": 427.25
+    },
+    {
+     "w": "a",
+     "start": 427.25,
+     "end": 427.43
+    },
+    {
+     "w": "river",
+     "start": 427.43,
+     "end": 427.67
+    },
+    {
+     "w": "that",
+     "start": 427.67,
+     "end": 427.93
+    },
+    {
+     "w": "flows",
+     "start": 427.93,
+     "end": 428.23
+    },
+    {
+     "w": "the",
+     "start": 428.23,
+     "end": 428.49
+    },
+    {
+     "w": "same",
+     "start": 428.49,
+     "end": 428.83
+    },
+    {
+     "w": "everywhere.",
+     "start": 428.83,
+     "end": 429.39
+    },
+    {
+     "w": "Everyone",
+     "start": 430.11,
+     "end": 430.41
+    },
+    {
+     "w": "carries",
+     "start": 430.41,
+     "end": 430.85
+    },
+    {
+     "w": "their",
+     "start": 430.85,
+     "end": 431.07
+    },
+    {
+     "w": "own",
+     "start": 431.07,
+     "end": 431.41
+    },
+    {
+     "w": "clock,",
+     "start": 431.41,
+     "end": 431.83
+    },
+    {
+     "w": "and",
+     "start": 432.25,
+     "end": 432.43
+    },
+    {
+     "w": "how",
+     "start": 432.43,
+     "end": 432.63
+    },
+    {
+     "w": "fast",
+     "start": 432.63,
+     "end": 432.93
+    },
+    {
+     "w": "it",
+     "start": 432.93,
+     "end": 433.13
+    },
+    {
+     "w": "ticks",
+     "start": 433.13,
+     "end": 433.51
+    },
+    {
+     "w": "depends",
+     "start": 433.51,
+     "end": 434.01
+    },
+    {
+     "w": "on",
+     "start": 434.01,
+     "end": 434.21
+    },
+    {
+     "w": "the",
+     "start": 434.21,
+     "end": 434.33
+    },
+    {
+     "w": "path",
+     "start": 434.33,
+     "end": 434.57
+    },
+    {
+     "w": "they",
+     "start": 434.57,
+     "end": 434.79
+    },
+    {
+     "w": "take.",
+     "start": 434.79,
+     "end": 435.03
+    }
+   ]
+  },
+  {
+   "scene": "n3",
+   "text": "So if you could leave tonight, at nearly the speed of light, and come back to a future you'd never recognize... *would you go?*",
+   "voice": "c8",
+   "start": 436.34,
+   "end": 444.14,
+   "words": [
+    {
+     "w": "So",
+     "start": 436.34,
+     "end": 436.55
+    },
+    {
+     "w": "if",
+     "start": 436.81,
+     "end": 436.97
+    },
+    {
+     "w": "you",
+     "start": 436.97,
+     "end": 437.11
+    },
+    {
+     "w": "could",
+     "start": 437.11,
+     "end": 437.27
+    },
+    {
+     "w": "leave",
+     "start": 437.27,
+     "end": 437.55
+    },
+    {
+     "w": "tonight,",
+     "start": 437.55,
+     "end": 437.99
+    },
+    {
+     "w": "at",
+     "start": 438.35,
+     "end": 438.49
+    },
+    {
+     "w": "nearly",
+     "start": 438.49,
+     "end": 438.81
+    },
+    {
+     "w": "the",
+     "start": 438.81,
+     "end": 439.09
+    },
+    {
+     "w": "speed",
+     "start": 439.09,
+     "end": 439.35
+    },
+    {
+     "w": "of",
+     "start": 439.35,
+     "end": 439.51
+    },
+    {
+     "w": "light,",
+     "start": 439.51,
+     "end": 439.81
+    },
+    {
+     "w": "and",
+     "start": 440.21,
+     "end": 440.33
+    },
+    {
+     "w": "come",
+     "start": 440.33,
+     "end": 440.53
+    },
+    {
+     "w": "back",
+     "start": 440.53,
+     "end": 440.77
+    },
+    {
+     "w": "to",
+     "start": 440.77,
+     "end": 440.95
+    },
+    {
+     "w": "a",
+     "start": 440.95,
+     "end": 441.13
+    },
+    {
+     "w": "future",
+     "start": 441.13,
+     "end": 441.41
+    },
+    {
+     "w": "you'd",
+     "start": 441.41,
+     "end": 441.77
+    },
+    {
+     "w": "never",
+     "start": 441.77,
+     "end": 442.07
+    },
+    {
+     "w": "recognize...",
+     "start": 442.07,
+     "end": 442.71
+    },
+    {
+     "w": "*would",
+     "start": 443.49,
+     "end": 443.71
+    },
+    {
+     "w": "you",
+     "start": 443.71,
+     "end": 443.85
+    },
+    {
+     "w": "go?*",
+     "start": 443.85,
+     "end": 444.07
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "h0",
+   "start": 0,
+   "end": 11.46
+  },
+  {
+   "id": "h1",
+   "start": 11.51,
+   "end": 26.24
+  },
+  {
+   "id": "r1",
+   "start": 26.29,
+   "end": 37.04
+  },
+  {
+   "id": "r2",
+   "start": 37.09,
+   "end": 54.83
+  },
+  {
+   "id": "r3",
+   "start": 54.88,
+   "end": 64.29
+  },
+  {
+   "id": "k1",
+   "start": 64.34,
+   "end": 81.63
+  },
+  {
+   "id": "k2",
+   "start": 81.68,
+   "end": 98.88
+  },
+  {
+   "id": "k3",
+   "start": 98.93,
+   "end": 111.38
+  },
+  {
+   "id": "k4",
+   "start": 111.43,
+   "end": 129.57
+  },
+  {
+   "id": "m1",
+   "start": 129.62,
+   "end": 147.46
+  },
+  {
+   "id": "m2",
+   "start": 147.51,
+   "end": 157.3
+  },
+  {
+   "id": "m3",
+   "start": 157.35,
+   "end": 178.11
+  },
+  {
+   "id": "q1",
+   "start": 178.16,
+   "end": 185.47
+  },
+  {
+   "id": "q2",
+   "start": 185.52,
+   "end": 203.75
+  },
+  {
+   "id": "t1",
+   "start": 203.8,
+   "end": 217.48
+  },
+  {
+   "id": "t2",
+   "start": 217.53,
+   "end": 223.17
+  },
+  {
+   "id": "t3",
+   "start": 223.22,
+   "end": 244.6
+  },
+  {
+   "id": "t4",
+   "start": 244.65,
+   "end": 261.09
+  },
+  {
+   "id": "a1",
+   "start": 261.14,
+   "end": 268.77
+  },
+  {
+   "id": "a2",
+   "start": 268.82,
+   "end": 288.43
+  },
+  {
+   "id": "a3",
+   "start": 288.48,
+   "end": 301.9
+  },
+  {
+   "id": "b1",
+   "start": 301.95,
+   "end": 314.14
+  },
+  {
+   "id": "b2",
+   "start": 314.19,
+   "end": 331.64
+  },
+  {
+   "id": "b3",
+   "start": 331.69,
+   "end": 341.46
+  },
+  {
+   "id": "b4",
+   "start": 341.51,
+   "end": 353.91
+  },
+  {
+   "id": "g1",
+   "start": 353.96,
+   "end": 368.3
+  },
+  {
+   "id": "g2",
+   "start": 368.35,
+   "end": 396.93
+  },
+  {
+   "id": "g3",
+   "start": 396.98,
+   "end": 401.33
+  },
+  {
+   "id": "g4",
+   "start": 401.38,
+   "end": 410.19
+  },
+  {
+   "id": "n1",
+   "start": 410.24,
+   "end": 426.59
+  },
+  {
+   "id": "n2",
+   "start": 426.64,
+   "end": 436.29
+  },
+  {
+   "id": "n3",
+   "start": 436.34,
+   "end": 449.14
+  }
+ ]
+}

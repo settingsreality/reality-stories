@@ -42,6 +42,7 @@ TikTok + Instagram Reels unless noted. Metricool brand 7672487, America/New_York
 | 2026-11-05 | 10:00 | glitch-01 | TikTok only (already on IG) | 407340491 |
 | 2026-11-05 | 12:00 | siren-never-passes | | 407340500 |
 | 2026-11-05 | 18:00 | new-moon | | 407340505 |
+| 2026-11-06 | 18:00 | night-groomer | first new-style video (v2, voice 4) | 407360877 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)

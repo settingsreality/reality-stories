@@ -1,0 +1,57 @@
+<!doctype html><html><head><meta charset="utf-8"><title>{{TITLE}}</title><style>
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-700-normal.woff2);font-weight:700}
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-900-normal.woff2);font-weight:900}
+@font-face{font-family:'PM';src:url(fonts/ibm-plex-mono-latin-500-normal.woff2);font-weight:500}
+html,body{margin:0;background:#000;overflow:hidden}
+#stage{position:relative;width:960px;height:540px;overflow:hidden;color:#fff;transform-origin:0 0;background:#06070a;font-family:MS}
+#c{position:absolute;left:0;top:0;width:960px;height:540px}
+#chap{position:absolute;left:22px;top:20px;display:flex;align-items:center;gap:8px;opacity:0}
+#chap .n{font:900 11px MS;color:#14110a;background:#ffc93c;border-radius:4px;padding:3px 6px}
+#chap .t{font:800 11px MS;letter-spacing:.14em;color:rgba(255,255,255,.85);text-transform:uppercase}
+#sub{position:absolute;left:90px;right:90px;bottom:26px;text-align:center;font:700 19px/1.25 MS;-webkit-text-stroke:4px rgba(5,6,9,.9);paint-order:stroke fill;text-shadow:0 2px 10px rgba(0,0,0,.6)}
+#sub .e{color:#ffc93c}#sub .w{opacity:1}#sub .f{opacity:.55}
+#title{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;opacity:0;pointer-events:none}
+#title .a{font:800 12px MS;letter-spacing:.35em;color:#ffc93c}#title .b{font:900 54px/1 MS;margin-top:10px;text-transform:uppercase;text-align:center}
+.pre{position:absolute;left:-999px;top:0}
+</style></head><body>
+<div id="stage"><canvas id="c" width="1920" height="1080"></canvas>
+<div id="chap"><span class="n"></span><span class="t"></span></div><div id="title"><div class="a"></div><div class="b"></div></div><div id="sub"></div>
+<span class="pre" style="font:900 10px MS">a</span><span class="pre" style="font:800 10px MS">a</span><span class="pre" style="font:700 10px MS">a</span><span class="pre" style="font:600 10px MS">a</span><span class="pre" style="font:500 10px PM">a</span>
+</div>
+<script src="engine.js"></script><script src="engine2.js"></script><script src="art.js"></script><script src="scenes.js"></script>
+<script>
+const RENDER=location.search.includes('render');let TL;
+const $=id=>document.getElementById(id);
+MAIN=$('c').getContext('2d');OFF=document.createElement('canvas');OFF.width=1920;OFF.height=1080;OFFX=OFF.getContext('2d');SC=1;
+function blackout(a,c='#000'){if(a<=0)return;ctx.save();ctx.setTransform(1,0,0,1,0,0);ctx.globalAlpha=clamp(a);ctx.fillStyle=c;ctx.fillRect(0,0,1920,1080);ctx.restore();}
+// subtitles: phrases of up to ~8 words, timed by the spoken words; spoken words full white, upcoming dimmer; *word* = yellow
+let PH=[];
+function lineWords(l){if(l.words&&l.words.length)return l.words;const ws=l.text.split(/\s+/);return ws.map((w,j)=>({w,start:l.start+(l.end-l.start)*j/ws.length,end:l.start+(l.end-l.start)*(j+1)/ws.length}));}
+function buildSubs(){TL.lines.forEach((l,i)=>{let emph=false,cur=[];const toks=[];
+  lineWords(l).forEach(o=>{let w=o.w,e=emph;if(w.startsWith('*')){e=true;emph=true;w=w.slice(1);}if(/\*[.,!?"”…:;]*$/.test(w)){w=w.replace('*','');emph=false;}toks.push({w,e,start:o.start,end:o.end});});
+  const out=[];toks.forEach(tk=>{cur.push(tk);const len=cur.reduce((a,b)=>a+b.w.length+1,0);if((/[.?!:;…]$/.test(tk.w)&&cur.length>=3)||len>46||(/,$/.test(tk.w)&&len>30)){out.push(cur);cur=[];}});if(cur.length)out.push(cur);
+  const next=TL.lines[i+1];const lineEnd=next?Math.min(next.start-.05,l.end+.6):l.end+1.2;
+  out.forEach((c,j)=>PH.push({toks:c,start:c[0].start-.1,end:j<out.length-1?out[j+1][0].start-.1:lineEnd}));});}
+let curPh=-1,spans=[];
+function updateSubs(t){let idx=-1;for(let k=0;k<PH.length;k++)if(t>=PH[k].start&&t<PH[k].end){idx=k;break;}
+  const s=$('sub');if(idx!==curPh){curPh=idx;s.innerHTML='';spans=[];if(idx>=0)PH[idx].toks.forEach((tk,j)=>{const sp=document.createElement('span');sp.textContent=tk.w;if(tk.e)sp.className='e';s.appendChild(sp);if(j<PH[idx].toks.length-1)s.appendChild(document.createTextNode(' '));spans.push(sp);});}
+  if(idx<0){s.style.opacity=0;return;}s.style.opacity=ss(seg(t,PH[idx].start,PH[idx].start+.12));PH[idx].toks.forEach((tk,j)=>{spans[j].style.opacity=t>=tk.start-.05?1:.5;});}
+function sceneAt(t){for(const s of TL.scenes)if(t>=s.start&&t<s.end+.05)return s;return TL.scenes[TL.scenes.length-1];}
+let chapKey='';
+function frame(t){t=clamp(t,0,TL.total-1e-3);
+  ctx=MAIN;ctx.setTransform(1,0,0,1,0,0);ctx.filter='none';ctx.globalAlpha=1;ctx.globalCompositeOperation='source-over';ctx.fillStyle='#000';ctx.fillRect(0,0,1920,1080);
+  const sc=sceneAt(t);SCENES[sc.id](t);
+  const fd=((typeof FADES!=='undefined')?FADES:{})[sc.id]||[.3,.3];let b=0;if(fd[0]>0&&sc.start>0)b=Math.max(b,1-ss(seg(t,sc.start,sc.start+fd[0])));if(fd[1]>0)b=Math.max(b,ss(seg(t,sc.end-fd[1],sc.end)));blackout(b);
+  // chapter chip + chapter title cards
+  const ch=(typeof chapter==='function')?chapter(t):null;const key=ch?ch.n+ch.t:'';if(key!==chapKey){chapKey=key;if(ch){$('chap').querySelector('.n').textContent=ch.n;$('chap').querySelector('.t').textContent=ch.t;$('title').querySelector('.a').textContent=ch.n==='00'?'':'CHAPTER '+ch.n;$('title').querySelector('.b').textContent=ch.t;}}
+  $('chap').style.opacity=ch?1:0;const ta=ch&&ch.card?ss(seg(t,ch.at,ch.at+.3))*(1-ss(seg(t,ch.at+1.6,ch.at+2.0))):0;$('title').style.opacity=ta;if(ta>0)blackout(ta*.7);
+  updateSubs(t);}
+window.renderAt=t=>{frame(t);return new Promise(r=>requestAnimationFrame(()=>r(true)));};
+function fit(){const s=Math.min(innerWidth/960,innerHeight/540);$('stage').style.transform=RENDER?'none':`scale(${s})`;}
+addEventListener('resize',fit);fit();
+(async()=>{TL=await (await fetch('timeline.json')).json();if(window.initScenes)initScenes();buildSubs();await document.fonts.ready;
+  await Promise.all(['900 10px MS','800 10px MS','700 10px MS','600 10px MS','500 10px PM'].map(f=>document.fonts.load(f)));window.READY=true;
+  if(!RENDER){const t0=performance.now();const loop=()=>{frame(((performance.now()-t0)/1000)%TL.total);requestAnimationFrame(loop);};loop();}else frame(0);})();
+</script></body></html>
