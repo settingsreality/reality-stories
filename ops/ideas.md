@@ -27,6 +27,7 @@
 - Lost & Found: a box of things you haven't lost yet; "Don't open the small one" in your handwriting
 - Keys In It: each-uisge (Highland water horse) as a cherry-red car by the loch; your hand sticks to the door; "Would you use the knife?"
 - Night Groomer (v2): snowcat winch on a steep run; rules card; red-jacket "skiers" reel the cat up to the anchor; they wear the same groomer jacket and name tag as you; "Unhook or hold on?"
+- How the Universe Ends (vertical explainer): Big Freeze / Big Rip (Caldwell 2003 timeline) / Big Crunch (2025 DESI+DES hints, Cornell 'Lifespan of our Universe': max size in ~11 B yrs, crunch ~20 B yrs); ends "Which ending would you rather have?"
 - No One to Come Back To (explainer): time dilation (light clock, GPS, 90/99/99.99% c, 50 ly round trip, twins, Andromeda at 1 g = 28 yrs vs 2.5 M yrs) and why an Alcubierre warp drive would avoid it (plus negative energy and causality catches)
 - Low Tide (v2): stuck in the Holy Island causeway refuge box overnight; a light walks the drowned pilgrim posts without a ripple; at dawn the coastguard finds wet footprints going up the ladder, none coming down; "Turn around / Don't"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
