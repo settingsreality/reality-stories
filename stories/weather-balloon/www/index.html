@@ -1,0 +1,85 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Weather Balloon</title><style>
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-700-normal.woff2);font-weight:700}
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:'MS';src:url(fonts/montserrat-latin-900-normal.woff2);font-weight:900}
+@font-face{font-family:'AN';src:url(fonts/anton-latin-400-normal.woff2)}
+@font-face{font-family:'PM';src:url(fonts/ibm-plex-mono-latin-500-normal.woff2);font-weight:500}
+html,body{margin:0;background:#000;overflow:hidden}
+#stage{position:relative;width:540px;height:960px;overflow:hidden;color:#fff;transform-origin:0 0;background:#06070a;font-family:MS}
+#c{position:absolute;left:0;top:0;width:540px;height:960px}
+#vig{position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 78% 62% at 50% 46%,rgba(0,0,0,0) 55%,rgba(0,0,0,.55) 100%)}
+#dim{position:absolute;inset:0;background:#05060a;opacity:0}
+#hud{position:absolute;left:16px;top:58px;display:flex;flex-direction:column;align-items:flex-start;gap:6px}
+#hud .row{display:flex;gap:6px}
+.chip{background:rgba(10,12,16,.82);border:1px solid rgba(255,255,255,.14);border-radius:6px;padding:4px 8px 5px;min-width:30px}
+.chip .k{font:700 6px MS;letter-spacing:.16em;color:rgba(255,255,255,.55)}
+.chip .v{font:800 14px/1.05 MS;letter-spacing:.02em;color:#fff;margin-top:2px}
+.chip.hot{border-color:#ff4d3d}.chip.hot .v{color:#ff5a48}
+.tag{font:800 8px MS;letter-spacing:.14em;color:#14110a;background:#ffc93c;border-radius:4px;padding:3px 6px 3px}
+.tag.red{background:#ff4d3d;color:#fff}
+#cap{position:absolute;left:40px;right:40px;top:576px;text-align:center;font:900 33px/1.08 MS;text-transform:uppercase;letter-spacing:.005em;
+  -webkit-text-stroke:5px #07080b;paint-order:stroke fill;text-shadow:0 4px 0 rgba(0,0,0,.55),0 0 22px rgba(0,0,0,.55);transform-origin:50% 60%}
+#cap .e{color:#ffc93c}
+#end{position:absolute;left:0;right:0;top:300px;display:flex;flex-direction:column;align-items:center;opacity:0}
+#end .h{font:900 25px/1.1 MS;text-align:center;text-transform:uppercase;text-shadow:0 3px 0 rgba(0,0,0,.6)}
+#end .opts{display:flex;gap:12px;margin-top:16px}
+#end .o{background:#f4f1ea;color:#121317;border-radius:10px;padding:10px 12px 9px;width:168px;text-align:center;box-shadow:0 6px 0 rgba(0,0,0,.45)}
+#end .o .a{font:900 24px/1 MS;text-transform:uppercase}
+#end .o .b{font:700 9px/1.3 MS;letter-spacing:.08em;text-transform:uppercase;color:#5d5f66;margin-top:5px}
+#end .f{font:700 7px MS;letter-spacing:.3em;color:rgba(255,255,255,.45);margin-top:20px}
+.pre{position:absolute;left:-999px;top:0}
+</style></head><body>
+<div id="stage"><canvas id="c" width="1080" height="1920"></canvas><div id="vig"></div><div id="dim"></div>
+<div id="hud"></div><div id="cap"></div>
+<div id="end"><div class="h">Follow &amp; comment below</div><div class="opts"><div class="o"><div class="a">Bring it down</div><div class="b">Mae&#x27;s way</div></div><div class="o"><div class="a">Let it pop</div><div class="b">rule three</div></div></div><div class="f">WEATHER BALLOON</div></div>
+<span class="pre" style="font:900 10px MS">a</span><span class="pre" style="font:800 10px MS">a</span><span class="pre" style="font:700 10px MS">a</span><span class="pre" style="font:600 10px MS">a</span><span class="pre" style="font:10px AN">a</span><span class="pre" style="font:500 10px PM">a</span>
+</div>
+<script src="engine.js"></script><script src="engine2.js"></script><script src="art.js"></script><script src="scenes.js"></script>
+<script>
+const RENDER=location.search.includes('render');let TL;
+const $=id=>document.getElementById(id);
+MAIN=$('c').getContext('2d');OFF=document.createElement('canvas');OFF.width=1080;OFF.height=1920;OFFX=OFF.getContext('2d');SC=1;
+// ---------- captions: 1-3 word chunks timed to the spoken words; *word* = yellow ----------
+let CH=[];
+function lineWords(l){if(l.words&&l.words.length)return l.words.map(w=>({w:w.w,start:w.start,end:w.end}));
+  const ws=l.text.split(/\s+/),wt=ws.map(w=>w.length+1+(/[.?!…]["”]?$/.test(w)?5:/,$/.test(w)?2:0)),tot=wt.reduce((a,b)=>a+b,0);let acc=0;
+  return ws.map((w,j)=>{const s=l.start+(l.end-l.start)*acc/tot;acc+=wt[j];return{w,start:s,end:l.start+(l.end-l.start)*acc/tot};});}
+function buildCaps(){CH=[];TL.lines.forEach((l,i)=>{let emph=false;const toks=[];
+  lineWords(l).forEach(o=>{let w=o.w,e=emph;if(w.startsWith('*')){e=true;emph=true;w=w.slice(1);}
+    if(/\*[.,!?"”…:;]*$/.test(w)){w=w.replace('*','');emph=false;}
+    if(/^[.…]+$/.test(w)&&toks.length){toks[toks.length-1].w+='…';return;}
+    toks.push({w,e,start:o.start,end:o.end});});
+  let cur=[];const out=[];const flush=()=>{if(cur.length)out.push(cur);cur=[];};
+  toks.forEach(tk=>{const len=cur.reduce((a,b)=>a+b.w.length+1,0);if(cur.length>=3||(cur.length&&len+tk.w.length>15))flush();cur.push(tk);if(/[.?!,:;…"”]$/.test(tk.w))flush();});flush();
+  const next=TL.lines[i+1];const lineEnd=next?Math.min(next.start-.03,l.end+.45):l.end+.8;
+  out.forEach((c,j)=>CH.push({i,toks:c,start:c[0].start-.06,end:j<out.length-1?out[j+1][0].start-.06:lineEnd}));});}
+let curCh=-1;
+function updateCaps(t){let idx=-1;for(let k=0;k<CH.length;k++)if(t>=CH[k].start&&t<CH[k].end){idx=k;break;}
+  const cap=$('cap');if(idx!==curCh){curCh=idx;cap.innerHTML=idx<0?'':CH[idx].toks.map(tk=>tk.e?`<span class="e">${tk.w}</span>`:tk.w).join(' ');}
+  if(idx<0){cap.style.opacity=0;return;}const c=CH[idx],sc=TL.lines[c.i].scene;
+  const y=(typeof CAPY!=='undefined'&&CAPY[sc]!=null)?CAPY[sc]:.6;cap.style.top=(960*y)+'px';
+  const k=seg(t,c.start,c.start+.13);cap.style.opacity=ss(seg(t,c.start,c.start+.05));cap.style.transform=`scale(${1.14-.14*ss(k)})`;}
+// ---------- HUD chips: window.hud(t) -> {chips:[{k,v,hot}], tag, tagRed} ----------
+let hudKey='';
+function updateHud(t){const h=(typeof hud==='function')?hud(t):null;const key=JSON.stringify(h);if(key===hudKey)return;hudKey=key;
+  if(!h){$('hud').innerHTML='';return;}
+  $('hud').innerHTML=`<div class="row">${(h.chips||[]).map(c=>`<div class="chip${c.hot?' hot':''}"><div class="k">${c.k}</div><div class="v">${c.v}</div></div>`).join('')}</div>`+(h.tag?`<div class="tag${h.tagRed?' red':''}">${h.tag}</div>`:'');}
+function sceneAt(t){for(const s of TL.scenes)if(t>=s.start&&t<s.end+.05)return s;return TL.scenes[TL.scenes.length-1];}
+function frame(t){t=clamp(t,0,TL.total-1e-3);
+  ctx=MAIN;ctx.setTransform(1,0,0,1,0,0);ctx.filter='none';ctx.globalAlpha=1;ctx.globalCompositeOperation='source-over';ctx.fillStyle='#000';ctx.fillRect(0,0,1080,1920);
+  const sc=sceneAt(t);const first=sc.id===TL.scenes[0].id;
+  // punch-in on every hard cut (not the cold open)
+  const pk=first?0:1-ss(seg(t,sc.start,sc.start+.22));const z=1+.045*pk;ctx.setTransform(z,0,0,z,540*(1-z),960*(1-z));
+  SCENES[sc.id](t);
+  const fd=((typeof FADES!=='undefined')?FADES:{})[sc.id]||[0,0];let b=0;if(fd[0]>0)b=Math.max(b,1-ss(seg(t,sc.start,sc.start+fd[0])));if(fd[1]>0)b=Math.max(b,ss(seg(t,sc.end-fd[1],sc.end)));blackout(b);
+  updateHud(t);updateCaps(t);
+  const te=((typeof END_AT!=='undefined'&&END_AT!=null)?END_AT:T(TL.lines.length-1))+((typeof END_DELAY!=='undefined')?END_DELAY:0);const e=ss(seg(t,te,te+.35));
+  $('end').style.opacity=e;$('end').style.transform=`scale(${1.06-.06*e})`;$('dim').style.opacity=e*.55;}
+window.renderAt=t=>{frame(t);return new Promise(r=>requestAnimationFrame(()=>r(true)));};
+function fit(){const s=Math.min(innerWidth/540,innerHeight/960);$('stage').style.transform=RENDER?'none':`scale(${s})`;}
+addEventListener('resize',fit);fit();
+(async()=>{TL=await (await fetch('timeline.json')).json();if(window.initScenes)initScenes();buildCaps();await document.fonts.ready;
+  await Promise.all(['900 10px MS','800 10px MS','700 10px MS','600 10px MS','10px AN','500 10px PM'].map(f=>document.fonts.load(f)));window.READY=true;
+  if(!RENDER){const t0=performance.now();const loop=()=>{frame(((performance.now()-t0)/1000)%TL.total);requestAnimationFrame(loop);};loop();}else frame(0);})();
+</script></body></html>
