@@ -21,7 +21,7 @@ The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 post
    - Call Metricool `getScheduledPosts` (brandId `7672487`, timezone `America/New_York`) from now to 14 days out.
    - Slots are **10:00** and **18:00** New York time, every day. (Through Nov 5 the old backlog also uses 12:00; never put new stories at 12:00.)
    - List the empty slots. Skip reserved ones in `ops/schedule.md`.
-   - A slot counts as filled when it has a **TikTok/Instagram** post. YouTube-only posts don't fill slots (through Nov 4 YouTube also has a 15:00 catch-up post each day; ignore those).
+   - A slot counts as filled when it has a **TikTok/Instagram** post that isn't a draft (`"draft":true` posts never publish). YouTube-only posts don't fill slots (through Nov 4 YouTube also has a 15:00 catch-up post each day; ignore those).
 4. **Decide how many stories to make.**
    - If every slot for the next 7 days is filled, make **1** story.
    - Otherwise make **2** (never more than 2 per run).
@@ -136,7 +136,7 @@ node pipeline/v2/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<short
   "category":"ENTERTAINMENT","madeForKids":false,"isAiGeneratedContent":true}}
 ```
 
-- YouTube: category `ENTERTAINMENT` for stories, `SCIENCE_TECHNOLOGY` for explainers. No `videoThumbnailUrl` (the channel isn't verified; Metricool can reject the whole post for it). Shorts must be **3:00 or shorter**: a longer video becomes a normal video (`"type":"video"`, no #shorts).
+- YouTube: category `ENTERTAINMENT` for stories, `SCIENCE_TECHNOLOGY` for explainers. No `videoThumbnailUrl` (the channel isn't verified; Metricool can reject the whole post for it). **Every YouTube post must be a Short (the owner)**, and YouTube only treats videos of **3:00 or shorter** as Shorts. Keep new videos under 3:00; if one is longer, make a sped-up copy for YouTube (`ffmpeg -filter_complex "[0:v]setpts=PTS/<k>,fps=30[v];[0:a]atempo=<k>[a]"` with k = duration/178) saved as `videos/<slug>-short.mp4`, as done for nobody-awake-pt1/pt2.
 - Push the video and cover to GitHub **before** scheduling; Metricool copies the files when the post is created.
 - The response shows `static.metricool.com` media URLs. If it errors, wait a minute (the raw URL can lag after a push) and retry once.
 - Keep the AI labels on (`isAiGenerated`, `isAigc`, `isAiGeneratedContent`): the owner wants them.
@@ -146,6 +146,7 @@ node pipeline/v2/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<short
 ## Rules
 
 - Series parts go on **consecutive days in the same slot**, in order.
+- `rizz-x2` is on hold (see `ops/schedule.md`): never schedule or un-draft it on autopilot.
 - Never post the poll stories automatically (2.7 Seconds, The Third Man). The owner posts those by hand with a TikTok poll.
 - `Glitch 01` is already on Instagram (TikTok and YouTube only).
 - Every existing video is already scheduled on YouTube (Oct 29 to Nov 18, see `ops/schedule.md`). Don't add them again.

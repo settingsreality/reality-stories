@@ -5,6 +5,9 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 - **Backlog (to Nov 5): 3 a day at 10:00, 12:00 and 18:00.** The owner asked to post the existing videos fast ("spam em 3 a day") so the better new-format videos come after them.
 - **New videos (Nov 6 on): 2 a day at 10:00 and 18:00.**
 
+## On hold (don't schedule)
+- rizz-x2: the owner wants a crazier, effects-heavy opening and is sending his own audio. Its Nov 7 10:00 posts are Metricool **drafts** (410471371 TikTok/IG, 410471383 YouTube) and won't publish; the slot is free.
+
 ## Reserved
 - 2026-11-18 18:00: one-light-day (Voyager 1 reaches one light-day from Earth that week)
 
@@ -44,7 +47,6 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-05 | 18:00 | new-moon | | 407340505 |
 | 2026-11-06 | 10:00 | universe-ends | vertical explainer (How Time Works look), voice 4 | 408232815 |
 | 2026-11-06 | 18:00 | night-groomer | first new-style video (v2, voice 4) | 407360877 |
-| 2026-11-07 | 10:00 | rizz-x2 | funny what-if (v2, voice 4, original beat + SFX) | 409705147 |
 | 2026-11-07 | 18:00 | weather-balloon | v2, voice 4 | 409655811 |
 | 2026-11-08 | 10:00 | olo | vertical explainer (How Time Works look), voice 4 | 409880265 |
 | 2026-11-08 | 18:00 | low-tide | v2, voice 4 (Nov 7 18:00 skipped: Sea Sparkle footprints-from-the-sea posts Nov 2) | 407626446 |
@@ -60,11 +62,12 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 |---|---|---|---|---|
 | 2026-10-29 | 10:00 | brightness-01 | Phone Settings ep. 1 | 409644475 |
 | 2026-10-29 | 12:00 | green-light |  | 409644813 |
-| 2026-10-29 | 15:00 | nobody-awake-pt1 | series, 3:29 so a regular video | 409644856 |
+| 2026-10-29 | 15:00 | nobody-awake-pt1 | went up as a regular video (3:29, youtu.be/yG06_oG9E14) | 409644856 |
+| 2026-10-29 | 16:15 | nobody-awake-pt1-short | the 2:57 Short version (1.18x) | 410472171 |
 | 2026-10-29 | 18:00 | volume-02 | Phone Settings ep. 2 | 409644890 |
 | 2026-10-30 | 10:00 | point-nemo |  | 409644898 |
 | 2026-10-30 | 12:00 | lost-and-found |  | 409644909 |
-| 2026-10-30 | 15:00 | nobody-awake-pt2 | series, 3:28 so a regular video | 409644922 |
+| 2026-10-30 | 15:00 | nobody-awake-pt2 | Short version (2:57, nobody-awake-pt2-short.mp4) | 410472215 |
 | 2026-10-30 | 18:00 | steps |  | 409644937 |
 | 2026-10-31 | 10:00 | mimic |  | 409644960 |
 | 2026-10-31 | 12:00 | hundred-years |  | 409644972 |
@@ -91,7 +94,6 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-05 | 18:00 | new-moon |  | 409645866 |
 | 2026-11-06 | 10:00 | universe-ends |  | 409645878 |
 | 2026-11-06 | 18:00 | night-groomer |  | 409645899 |
-| 2026-11-07 | 10:00 | rizz-x2 |  | 409705152 |
 | 2026-11-07 | 18:00 | weather-balloon |  | 409655839 |
 | 2026-11-08 | 10:00 | olo |  | 409880378 |
 | 2026-11-08 | 18:00 | low-tide |  | 409645912 |
