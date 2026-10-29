@@ -32,6 +32,7 @@
 - Low Tide (v2): stuck in the Holy Island causeway refuge box overnight; a light walks the drowned pilgrim posts without a ripple; at dawn the coastguard finds wet footprints going up the ladder, none coming down; "Turn around / Don't"
 - Weather Balloon (v2): night tech at a plains weather station; Mae's rules card; tonight's radiosonde stops at 58,112 ft, reads 98.6°F and the pressure pulses 72 a minute; Mae on the radio says bring it down; the heartbeat keeps time with yours; "Bring it down / Let it pop"
 - Rizz x2 (funny "what if", the owner's pick Oct 29): my rizz doubles every day (day n = ×2^n); barista heart, crush's paragraph, pigeons in line, an A on a test I didn't take, clouds part for my jawline, GPS reroutes the city, the Moon (drifts ~3.8 cm/yr) comes back, more rizz than people on Earth, "can't be turned off, only shared"; the sun rises twice; "Keep it / Share it". Original ElevenLabs beat + meme-style SFX
+- Olo (vertical explainer, Oct 29): the color only 5 people have seen (Fong/Roorda/Ng, Science Advances 2025); rules card (bite plate, hold still, laser), S/M/L cones, M-L overlap so M never fires alone, Oz maps the cones and hits only M (up to 1,000 at once), teal so saturated nature looks pale, jitter test makes it vanish, name = LMS 0-1-0; "Let it in / No thanks"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -58,7 +59,6 @@
   - **Dial-Up** (story): 3 a.m., the Wi-Fi router plays the dial-up modem screech, and keeps going when unplugged. "Unplug the house, or pick up the phone?"
   - **Winter-Over** (story): South Pole station sealed for winter with 40 people, no flights for months; tonight's headcount is 41 and everyone you count is someone you know. "Recount, or lock your door?"
   - **Midday** (myth): Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with a question) as a heatwave delivery driver whose GPS starts asking questions at 12:00. "What would you answer?"
-  - **Olo** (explainer): 2025, UC Berkeley's "Oz" laser system stimulated single cone cells and people saw a new color, "olo", a blue-green beyond anything natural; only a handful of people have seen it.
   - **Bees hold elections** (explainer): honeybee swarms pick a new home by scouts dancing for sites until one wins (Seeley). "Would you trust a bee vote?"
   - **The sound that rises forever** (explainer): the Shepard tone; the viewer hears it while it's explained (used in films for tension).
   - **The mirror question** (explainer): why a mirror seems to flip left-right but not up-down (it actually flips front-back).

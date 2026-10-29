@@ -46,6 +46,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-06 | 18:00 | night-groomer | first new-style video (v2, voice 4) | 407360877 |
 | 2026-11-07 | 10:00 | rizz-x2 | funny what-if (v2, voice 4, original beat + SFX) | 409705147 |
 | 2026-11-07 | 18:00 | weather-balloon | v2, voice 4 | 409655811 |
+| 2026-11-08 | 10:00 | olo | vertical explainer (How Time Works look), voice 4 | 409880265 |
 | 2026-11-08 | 18:00 | low-tide | v2, voice 4 (Nov 7 18:00 skipped: Sea Sparkle footprints-from-the-sea posts Nov 2) | 407626446 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
@@ -92,6 +93,7 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-06 | 18:00 | night-groomer |  | 409645899 |
 | 2026-11-07 | 10:00 | rizz-x2 |  | 409705152 |
 | 2026-11-07 | 18:00 | weather-balloon |  | 409655839 |
+| 2026-11-08 | 10:00 | olo |  | 409880378 |
 | 2026-11-08 | 18:00 | low-tide |  | 409645912 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
