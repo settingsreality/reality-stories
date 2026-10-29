@@ -1,6 +1,6 @@
 # Posting calendar
 
-TikTok + Instagram Reels unless noted. Metricool brand 7672487, America/New_York.
+TikTok + Instagram Reels unless noted (YouTube has its own table below). Metricool brand 7672487, America/New_York.
 
 - **Backlog (to Nov 5): 3 a day at 10:00, 12:00 and 18:00.** The owner asked to post the existing videos fast ("spam em 3 a day") so the better new-format videos come after them.
 - **New videos (Nov 6 on): 2 a day at 10:00 and 18:00.**
@@ -46,6 +46,50 @@ TikTok + Instagram Reels unless noted. Metricool brand 7672487, America/New_York
 | 2026-11-06 | 18:00 | night-groomer | first new-style video (v2, voice 4) | 407360877 |
 | 2026-11-08 | 18:00 | low-tide | v2, voice 4 (Nov 7 18:00 skipped: Sea Sparkle footprints-from-the-sea posts Nov 2) | 407626446 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
+
+## YouTube (Universe Settings, @Universe.Settings)
+YouTube-only Shorts posts, separate from the TikTok/Instagram posts. They follow the same slots, except:
+- the 7 videos posted before YouTube was connected go in a 15:00 catch-up slot (Oct 29 to Nov 4);
+- series stay in order (Nobody Else Is Awake at 15:00 Oct 29 to 31; Phone Settings ep. 1 before ep. 2 on Oct 29).
+New videos: one YouTube post at the same slot as the TikTok/Instagram post.
+
+| Date | Time | Slug | Notes | Metricool id |
+|---|---|---|---|---|
+| 2026-10-29 | 10:00 | brightness-01 | Phone Settings ep. 1 | 409644475 |
+| 2026-10-29 | 12:00 | green-light |  | 409644813 |
+| 2026-10-29 | 15:00 | nobody-awake-pt1 | series, 3:29 so a regular video | 409644856 |
+| 2026-10-29 | 18:00 | volume-02 | Phone Settings ep. 2 | 409644890 |
+| 2026-10-30 | 10:00 | point-nemo |  | 409644898 |
+| 2026-10-30 | 12:00 | lost-and-found |  | 409644909 |
+| 2026-10-30 | 15:00 | nobody-awake-pt2 | series, 3:28 so a regular video | 409644922 |
+| 2026-10-30 | 18:00 | steps |  | 409644937 |
+| 2026-10-31 | 10:00 | mimic |  | 409644960 |
+| 2026-10-31 | 12:00 | hundred-years |  | 409644972 |
+| 2026-10-31 | 15:00 | nobody-awake-pt3 | series | 409644997 |
+| 2026-10-31 | 18:00 | witch-window |  | 409645010 |
+| 2026-11-01 | 10:00 | zoom-03 |  | 409645348 |
+| 2026-11-01 | 12:00 | now-boarding |  | 409645354 |
+| 2026-11-01 | 15:00 | person-detected | catch-up | 409645369 |
+| 2026-11-01 | 18:00 | dead-mans-switch |  | 409645379 |
+| 2026-11-02 | 10:00 | sea-sparkle |  | 409645393 |
+| 2026-11-02 | 12:00 | keys-in-it |  | 409645413 |
+| 2026-11-02 | 15:00 | one-way-trip | catch-up | 409645434 |
+| 2026-11-02 | 18:00 | 19-hertz |  | 409645453 |
+| 2026-11-03 | 10:00 | storage-04 |  | 409645462 |
+| 2026-11-03 | 12:00 | tomorrow-island |  | 409645468 |
+| 2026-11-03 | 15:00 | blind-spot | catch-up | 409645483 |
+| 2026-11-03 | 18:00 | silt-out |  | 409645492 |
+| 2026-11-04 | 10:00 | duel-01 |  | 409645780 |
+| 2026-11-04 | 12:00 | every-93-minutes |  | 409645796 |
+| 2026-11-04 | 15:00 | restart-required | catch-up | 409645808 |
+| 2026-11-04 | 18:00 | 457-khz |  | 409645820 |
+| 2026-11-05 | 10:00 | glitch-01 |  | 409645839 |
+| 2026-11-05 | 12:00 | siren-never-passes |  | 409645850 |
+| 2026-11-05 | 18:00 | new-moon |  | 409645866 |
+| 2026-11-06 | 10:00 | universe-ends |  | 409645878 |
+| 2026-11-06 | 18:00 | night-groomer |  | 409645899 |
+| 2026-11-08 | 18:00 | low-tide |  | 409645912 |
+| 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
 - 2-7-seconds (pt. 1) + 2-7-seconds-pt2-A / -B

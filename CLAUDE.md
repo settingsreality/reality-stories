@@ -1,6 +1,7 @@
 # Reality Stories: daily autopilot
 
-This repo makes short scary/interesting story videos and schedules them to TikTok + Instagram Reels through Metricool.
+This repo makes short scary/interesting story videos and schedules them to TikTok + Instagram Reels + YouTube Shorts through Metricool.
+YouTube is the channel **Universe Settings** (@Universe.Settings; "reality" names were refused by YouTube), connected to the same Metricool brand since Oct 28.
 The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 posts a day**. Nobody reviews before posting, so quality checks below are not optional.
 
 ## The daily run, step by step
@@ -20,6 +21,7 @@ The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 post
    - Call Metricool `getScheduledPosts` (brandId `7672487`, timezone `America/New_York`) from now to 14 days out.
    - Slots are **10:00** and **18:00** New York time, every day. (Through Nov 5 the old backlog also uses 12:00; never put new stories at 12:00.)
    - List the empty slots. Skip reserved ones in `ops/schedule.md`.
+   - A slot counts as filled when it has a **TikTok/Instagram** post. YouTube-only posts don't fill slots (through Nov 4 YouTube also has a 15:00 catch-up post each day; ignore those).
 4. **Decide how many stories to make.**
    - If every slot for the next 7 days is filled, make **1** story.
    - Otherwise make **2** (never more than 2 per run).
@@ -30,8 +32,9 @@ The owner (GitHub `settingsreality`) chose **fully automatic** posting, **2 post
      - Never more than 2 new videos a day: each good video needs room to keep getting pushed (the owner agreed, Oct 27).
      - Lighter or curious ones can go at 10:00.
      - If only one kind of slot is free in the next 3 days, use it.
+   - Then schedule the **same video on YouTube at the same slot**, as a separate YouTube-only post (template under "Scheduling with Metricool"). Separate posts keep a YouTube failure from touching TikTok/Instagram.
 6. **Update and push.**
-   - Update `ops/schedule.md` (slot, slug, Metricool id) and `ops/ideas.md` (move the idea to Done).
+   - Update `ops/schedule.md` (slot, slug, Metricool id in the main table; the YouTube id in the YouTube table) and `ops/ideas.md` (move the idea to Done).
    - Commit everything except videos/models (`git add --sparse ...` for the new video).
    - Push to main. Run `git pull --rebase -q` first, because another session may have pushed.
    - End commit messages with the attribution lines your session gives you.
@@ -118,17 +121,33 @@ node pipeline/v2/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<short
  "tiktokData":{"privacyOption":"PUBLIC_TO_EVERYONE","title":"<Title>","isAigc":true,"disableComment":false,"disableDuet":false,"disableStitch":false,"autoAddMusic":false}}
 ```
 
+**YouTube Shorts post** (a second, YouTube-only post at the same `date`):
+
+```json
+{"autoPublish":true,"draft":false,"descendants":[],"firstCommentText":"","hasNotReadNotes":false,
+ "media":["https://raw.githubusercontent.com/settingsreality/reality-stories/main/videos/<slug>.mp4"],
+ "mediaAltText":[],"providers":[{"network":"youtube"}],
+ "publicationDate":{"dateTime":"2026-11-08T18:00:00","timezone":"America/New_York"},
+ "shortener":false,"smartLinkData":{"ids":[]},
+ "text":"<same caption, with #fyp replaced by #shorts>",
+ "youtubeData":{"title":"<hook-style title, max 100 characters, e.g. 'A skier in my headlights, on a mountain that closed 6 hours ago'>",
+  "type":"short","privacy":"public","tags":["<the caption's hashtags without #, minus fyp>"],
+  "category":"ENTERTAINMENT","madeForKids":false,"isAiGeneratedContent":true}}
+```
+
+- YouTube: category `ENTERTAINMENT` for stories, `SCIENCE_TECHNOLOGY` for explainers. No `videoThumbnailUrl` (the channel isn't verified; Metricool can reject the whole post for it). Shorts must be **3:00 or shorter**: a longer video becomes a normal video (`"type":"video"`, no #shorts).
 - Push the video and cover to GitHub **before** scheduling; Metricool copies the files when the post is created.
 - The response shows `static.metricool.com` media URLs. If it errors, wait a minute (the raw URL can lag after a push) and retry once.
-- Keep the AI labels on (`isAiGenerated`, `isAigc`): the owner wants them.
-- Never schedule the same slug twice. Check `ops/schedule.md` and `getScheduledPosts`.
+- Keep the AI labels on (`isAiGenerated`, `isAigc`, `isAiGeneratedContent`): the owner wants them.
+- Never schedule the same slug twice on the same network. Check `ops/schedule.md` (both tables) and `getScheduledPosts`.
 - Don't touch posts already scheduled unless one is clearly broken.
 
 ## Rules
 
 - Series parts go on **consecutive days in the same slot**, in order.
 - Never post the poll stories automatically (2.7 Seconds, The Third Man). The owner posts those by hand with a TikTok poll.
-- `Glitch 01` is already on Instagram (TikTok only).
+- `Glitch 01` is already on Instagram (TikTok and YouTube only).
+- Every existing video is already scheduled on YouTube (Oct 29 to Nov 18, see `ops/schedule.md`). Don't add them again.
 - The owner already posted elsewhere: "the atmosphere disappears", "falling into a black hole", "something changed my reality settings" (= Glitch 01 on IG). Don't remake those.
 - Through Nov 5 the old backlog posts 3 a day (10:00, 12:00, 18:00), as the owner asked. That 12:00 slot is only for the backlog: new stories use 10:00/18:00.
 - Don't make 3D physics sims on autopilot (Three.js renders take 45+ min). Stories only.
