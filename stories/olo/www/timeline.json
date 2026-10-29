@@ -1,0 +1,1354 @@
+{
+ "total": 90.99,
+ "lines": [
+  {
+   "scene": "c1",
+   "text": "In 2025, five people saw a color that no human had ever seen before. It's called *olo.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 7.07,
+   "words": [
+    {
+     "w": "In",
+     "start": 0.17,
+     "end": 0.29
+    },
+    {
+     "w": "2025,",
+     "start": 0.67,
+     "end": 0.72
+    },
+    {
+     "w": "five",
+     "start": 1.05,
+     "end": 1.1
+    },
+    {
+     "w": "people",
+     "start": 1.43,
+     "end": 1.48
+    },
+    {
+     "w": "saw",
+     "start": 1.81,
+     "end": 1.97
+    },
+    {
+     "w": "a",
+     "start": 1.97,
+     "end": 2.39
+    },
+    {
+     "w": "color",
+     "start": 2.39,
+     "end": 2.73
+    },
+    {
+     "w": "that",
+     "start": 2.73,
+     "end": 3.09
+    },
+    {
+     "w": "no",
+     "start": 3.09,
+     "end": 3.09
+    },
+    {
+     "w": "human",
+     "start": 3.29,
+     "end": 3.65
+    },
+    {
+     "w": "had",
+     "start": 3.65,
+     "end": 4.03
+    },
+    {
+     "w": "ever",
+     "start": 4.03,
+     "end": 4.27
+    },
+    {
+     "w": "seen",
+     "start": 4.27,
+     "end": 4.65
+    },
+    {
+     "w": "before.",
+     "start": 4.65,
+     "end": 4.95
+    },
+    {
+     "w": "It's",
+     "start": 4.95,
+     "end": 5.41
+    },
+    {
+     "w": "called",
+     "start": 5.85,
+     "end": 6.17
+    },
+    {
+     "w": "*olo.*",
+     "start": 6.17,
+     "end": 6.47
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "To see it, you bite down on a plate, hold perfectly still, and let a laser fire straight into your *eye.*",
+   "voice": "n",
+   "start": 7.67,
+   "end": 14.01,
+   "words": [
+    {
+     "w": "To",
+     "start": 7.67,
+     "end": 7.77
+    },
+    {
+     "w": "see",
+     "start": 7.77,
+     "end": 8.01
+    },
+    {
+     "w": "it,",
+     "start": 8.01,
+     "end": 8.21
+    },
+    {
+     "w": "you",
+     "start": 8.55,
+     "end": 8.59
+    },
+    {
+     "w": "bite",
+     "start": 8.59,
+     "end": 8.87
+    },
+    {
+     "w": "down",
+     "start": 8.87,
+     "end": 9.11
+    },
+    {
+     "w": "on",
+     "start": 9.11,
+     "end": 9.27
+    },
+    {
+     "w": "a",
+     "start": 9.27,
+     "end": 9.39
+    },
+    {
+     "w": "plate,",
+     "start": 9.39,
+     "end": 9.67
+    },
+    {
+     "w": "hold",
+     "start": 10.01,
+     "end": 10.17
+    },
+    {
+     "w": "perfectly",
+     "start": 10.17,
+     "end": 10.77
+    },
+    {
+     "w": "still,",
+     "start": 10.77,
+     "end": 11.19
+    },
+    {
+     "w": "and",
+     "start": 11.57,
+     "end": 11.75
+    },
+    {
+     "w": "let",
+     "start": 11.75,
+     "end": 11.87
+    },
+    {
+     "w": "a",
+     "start": 11.87,
+     "end": 12.07
+    },
+    {
+     "w": "laser",
+     "start": 12.07,
+     "end": 12.39
+    },
+    {
+     "w": "fire",
+     "start": 12.39,
+     "end": 12.77
+    },
+    {
+     "w": "straight",
+     "start": 12.77,
+     "end": 13.29
+    },
+    {
+     "w": "into",
+     "start": 13.29,
+     "end": 13.53
+    },
+    {
+     "w": "your",
+     "start": 13.53,
+     "end": 13.71
+    },
+    {
+     "w": "*eye.*",
+     "start": 13.71,
+     "end": 14.01
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Here's why you've never seen it. Your eye has three kinds of color cells, called *cones.* Short, medium, and long.",
+   "voice": "n",
+   "start": 14.75,
+   "end": 22.18,
+   "words": [
+    {
+     "w": "Here's",
+     "start": 14.75,
+     "end": 14.93
+    },
+    {
+     "w": "why",
+     "start": 14.93,
+     "end": 15.09
+    },
+    {
+     "w": "you've",
+     "start": 15.09,
+     "end": 15.29
+    },
+    {
+     "w": "never",
+     "start": 15.29,
+     "end": 15.47
+    },
+    {
+     "w": "seen",
+     "start": 15.47,
+     "end": 15.75
+    },
+    {
+     "w": "it.",
+     "start": 15.75,
+     "end": 16.09
+    },
+    {
+     "w": "Your",
+     "start": 16.65,
+     "end": 16.77
+    },
+    {
+     "w": "eye",
+     "start": 16.77,
+     "end": 17.11
+    },
+    {
+     "w": "has",
+     "start": 17.11,
+     "end": 17.35
+    },
+    {
+     "w": "three",
+     "start": 17.35,
+     "end": 17.73
+    },
+    {
+     "w": "kinds",
+     "start": 17.73,
+     "end": 18.03
+    },
+    {
+     "w": "of",
+     "start": 18.03,
+     "end": 18.31
+    },
+    {
+     "w": "color",
+     "start": 18.31,
+     "end": 18.49
+    },
+    {
+     "w": "cells,",
+     "start": 18.49,
+     "end": 18.93
+    },
+    {
+     "w": "called",
+     "start": 19.15,
+     "end": 19.41
+    },
+    {
+     "w": "*cones.*",
+     "start": 19.41,
+     "end": 20.73
+    },
+    {
+     "w": "Short,",
+     "start": 19.41,
+     "end": 20.73
+    },
+    {
+     "w": "medium,",
+     "start": 21.13,
+     "end": 21.41
+    },
+    {
+     "w": "and",
+     "start": 21.61,
+     "end": 21.89
+    },
+    {
+     "w": "long.",
+     "start": 21.89,
+     "end": 22.17
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Every color you've ever seen is just a mix of how hard those three are firing.",
+   "voice": "n",
+   "start": 22.79,
+   "end": 27.06,
+   "words": [
+    {
+     "w": "Every",
+     "start": 22.79,
+     "end": 23.05
+    },
+    {
+     "w": "color",
+     "start": 23.05,
+     "end": 23.31
+    },
+    {
+     "w": "you've",
+     "start": 23.31,
+     "end": 23.61
+    },
+    {
+     "w": "ever",
+     "start": 23.61,
+     "end": 23.89
+    },
+    {
+     "w": "seen",
+     "start": 23.89,
+     "end": 24.25
+    },
+    {
+     "w": "is",
+     "start": 24.25,
+     "end": 24.57
+    },
+    {
+     "w": "just",
+     "start": 24.57,
+     "end": 24.77
+    },
+    {
+     "w": "a",
+     "start": 24.77,
+     "end": 24.97
+    },
+    {
+     "w": "mix",
+     "start": 24.97,
+     "end": 25.17
+    },
+    {
+     "w": "of",
+     "start": 25.17,
+     "end": 25.37
+    },
+    {
+     "w": "how",
+     "start": 25.37,
+     "end": 25.63
+    },
+    {
+     "w": "hard",
+     "start": 25.63,
+     "end": 25.99
+    },
+    {
+     "w": "those",
+     "start": 25.99,
+     "end": 26.21
+    },
+    {
+     "w": "three",
+     "start": 26.21,
+     "end": 26.49
+    },
+    {
+     "w": "are",
+     "start": 26.49,
+     "end": 26.65
+    },
+    {
+     "w": "firing.",
+     "start": 26.65,
+     "end": 27.06
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "But the medium and long cones overlap so much that any light that hits the medium ones *also* hits the long ones.",
+   "voice": "n",
+   "start": 27.67,
+   "end": 34.28,
+   "words": [
+    {
+     "w": "But",
+     "start": 27.67,
+     "end": 27.73
+    },
+    {
+     "w": "the",
+     "start": 27.73,
+     "end": 27.87
+    },
+    {
+     "w": "medium",
+     "start": 27.87,
+     "end": 28.21
+    },
+    {
+     "w": "and",
+     "start": 28.21,
+     "end": 28.47
+    },
+    {
+     "w": "long",
+     "start": 28.47,
+     "end": 28.77
+    },
+    {
+     "w": "cones",
+     "start": 28.77,
+     "end": 29.11
+    },
+    {
+     "w": "overlap",
+     "start": 29.11,
+     "end": 29.67
+    },
+    {
+     "w": "so",
+     "start": 29.67,
+     "end": 30.07
+    },
+    {
+     "w": "much",
+     "start": 30.07,
+     "end": 30.47
+    },
+    {
+     "w": "that",
+     "start": 30.47,
+     "end": 30.93
+    },
+    {
+     "w": "any",
+     "start": 30.93,
+     "end": 31.23
+    },
+    {
+     "w": "light",
+     "start": 31.23,
+     "end": 31.47
+    },
+    {
+     "w": "that",
+     "start": 31.47,
+     "end": 31.63
+    },
+    {
+     "w": "hits",
+     "start": 31.63,
+     "end": 31.81
+    },
+    {
+     "w": "the",
+     "start": 31.81,
+     "end": 32.01
+    },
+    {
+     "w": "medium",
+     "start": 32.01,
+     "end": 32.35
+    },
+    {
+     "w": "ones",
+     "start": 32.35,
+     "end": 32.73
+    },
+    {
+     "w": "*also*",
+     "start": 32.73,
+     "end": 33.15
+    },
+    {
+     "w": "hits",
+     "start": 33.15,
+     "end": 33.49
+    },
+    {
+     "w": "the",
+     "start": 33.49,
+     "end": 33.71
+    },
+    {
+     "w": "long",
+     "start": 33.71,
+     "end": 33.91
+    },
+    {
+     "w": "ones.",
+     "start": 33.91,
+     "end": 34.25
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "So there's one signal your brain has never received: the medium cones, *completely alone.*",
+   "voice": "n",
+   "start": 34.78,
+   "end": 40.39,
+   "words": [
+    {
+     "w": "So",
+     "start": 34.83,
+     "end": 34.91
+    },
+    {
+     "w": "there's",
+     "start": 34.91,
+     "end": 35.15
+    },
+    {
+     "w": "one",
+     "start": 35.15,
+     "end": 35.43
+    },
+    {
+     "w": "signal",
+     "start": 35.43,
+     "end": 35.81
+    },
+    {
+     "w": "your",
+     "start": 35.81,
+     "end": 36.05
+    },
+    {
+     "w": "brain",
+     "start": 36.05,
+     "end": 36.31
+    },
+    {
+     "w": "has",
+     "start": 36.31,
+     "end": 36.51
+    },
+    {
+     "w": "never",
+     "start": 36.51,
+     "end": 36.91
+    },
+    {
+     "w": "received:",
+     "start": 36.91,
+     "end": 37.43
+    },
+    {
+     "w": "the",
+     "start": 38.05,
+     "end": 38.13
+    },
+    {
+     "w": "medium",
+     "start": 38.13,
+     "end": 38.49
+    },
+    {
+     "w": "cones,",
+     "start": 38.49,
+     "end": 38.99
+    },
+    {
+     "w": "*completely",
+     "start": 39.81,
+     "end": 40.05
+    },
+    {
+     "w": "alone.*",
+     "start": 40.05,
+     "end": 40.37
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "A team at UC Berkeley built a machine to send it anyway. They called it *Oz.*",
+   "voice": "n",
+   "start": 41.15,
+   "end": 46.04,
+   "words": [
+    {
+     "w": "A",
+     "start": 41.23,
+     "end": 41.25
+    },
+    {
+     "w": "team",
+     "start": 41.25,
+     "end": 41.47
+    },
+    {
+     "w": "at",
+     "start": 41.47,
+     "end": 41.61
+    },
+    {
+     "w": "UC",
+     "start": 41.737,
+     "end": 41.787
+    },
+    {
+     "w": "Berkeley",
+     "start": 41.863,
+     "end": 41.913
+    },
+    {
+     "w": "built",
+     "start": 41.99,
+     "end": 42.39
+    },
+    {
+     "w": "a",
+     "start": 42.39,
+     "end": 42.67
+    },
+    {
+     "w": "machine",
+     "start": 42.67,
+     "end": 42.85
+    },
+    {
+     "w": "to",
+     "start": 42.85,
+     "end": 43.15
+    },
+    {
+     "w": "send",
+     "start": 43.15,
+     "end": 43.39
+    },
+    {
+     "w": "it",
+     "start": 43.39,
+     "end": 43.65
+    },
+    {
+     "w": "anyway.",
+     "start": 43.65,
+     "end": 43.81
+    },
+    {
+     "w": "They",
+     "start": 43.81,
+     "end": 44.19
+    },
+    {
+     "w": "called",
+     "start": 44.65,
+     "end": 44.87
+    },
+    {
+     "w": "it",
+     "start": 44.87,
+     "end": 45.11
+    },
+    {
+     "w": "*Oz.*",
+     "start": 45.11,
+     "end": 45.51
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "First, it maps the back of your eye, one cone at a time, and labels every single one.",
+   "voice": "n",
+   "start": 46.65,
+   "end": 51.98,
+   "words": [
+    {
+     "w": "First,",
+     "start": 46.65,
+     "end": 46.93
+    },
+    {
+     "w": "it",
+     "start": 47.27,
+     "end": 47.37
+    },
+    {
+     "w": "maps",
+     "start": 47.37,
+     "end": 47.67
+    },
+    {
+     "w": "the",
+     "start": 47.67,
+     "end": 47.91
+    },
+    {
+     "w": "back",
+     "start": 47.91,
+     "end": 48.15
+    },
+    {
+     "w": "of",
+     "start": 48.15,
+     "end": 48.31
+    },
+    {
+     "w": "your",
+     "start": 48.31,
+     "end": 48.45
+    },
+    {
+     "w": "eye,",
+     "start": 48.45,
+     "end": 48.71
+    },
+    {
+     "w": "one",
+     "start": 48.99,
+     "end": 49.23
+    },
+    {
+     "w": "cone",
+     "start": 49.23,
+     "end": 49.53
+    },
+    {
+     "w": "at",
+     "start": 49.53,
+     "end": 49.69
+    },
+    {
+     "w": "a",
+     "start": 49.69,
+     "end": 49.83
+    },
+    {
+     "w": "time,",
+     "start": 49.83,
+     "end": 50.13
+    },
+    {
+     "w": "and",
+     "start": 50.27,
+     "end": 50.53
+    },
+    {
+     "w": "labels",
+     "start": 50.53,
+     "end": 50.87
+    },
+    {
+     "w": "every",
+     "start": 50.87,
+     "end": 51.33
+    },
+    {
+     "w": "single",
+     "start": 51.33,
+     "end": 51.67
+    },
+    {
+     "w": "one.",
+     "start": 51.67,
+     "end": 51.98
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "Then it follows your eye as it moves, and fires tiny laser pulses at only the *medium* cones. Up to a thousand at once.",
+   "voice": "n",
+   "start": 52.52,
+   "end": 60.23,
+   "words": [
+    {
+     "w": "Then",
+     "start": 52.52,
+     "end": 52.77
+    },
+    {
+     "w": "it",
+     "start": 52.91,
+     "end": 53.05
+    },
+    {
+     "w": "follows",
+     "start": 53.05,
+     "end": 53.39
+    },
+    {
+     "w": "your",
+     "start": 53.39,
+     "end": 53.69
+    },
+    {
+     "w": "eye",
+     "start": 53.69,
+     "end": 53.87
+    },
+    {
+     "w": "as",
+     "start": 53.87,
+     "end": 54.01
+    },
+    {
+     "w": "it",
+     "start": 54.01,
+     "end": 54.17
+    },
+    {
+     "w": "moves,",
+     "start": 54.17,
+     "end": 54.47
+    },
+    {
+     "w": "and",
+     "start": 54.81,
+     "end": 55.01
+    },
+    {
+     "w": "fires",
+     "start": 55.01,
+     "end": 55.33
+    },
+    {
+     "w": "tiny",
+     "start": 55.33,
+     "end": 55.85
+    },
+    {
+     "w": "laser",
+     "start": 55.85,
+     "end": 56.25
+    },
+    {
+     "w": "pulses",
+     "start": 56.25,
+     "end": 56.63
+    },
+    {
+     "w": "at",
+     "start": 56.63,
+     "end": 56.93
+    },
+    {
+     "w": "only",
+     "start": 56.93,
+     "end": 57.31
+    },
+    {
+     "w": "the",
+     "start": 57.31,
+     "end": 57.53
+    },
+    {
+     "w": "*medium*",
+     "start": 57.53,
+     "end": 57.85
+    },
+    {
+     "w": "cones.",
+     "start": 57.85,
+     "end": 58.19
+    },
+    {
+     "w": "Up",
+     "start": 58.75,
+     "end": 58.89
+    },
+    {
+     "w": "to",
+     "start": 58.89,
+     "end": 59.07
+    },
+    {
+     "w": "a",
+     "start": 59.07,
+     "end": 59.15
+    },
+    {
+     "w": "thousand",
+     "start": 59.15,
+     "end": 59.55
+    },
+    {
+     "w": "at",
+     "start": 59.55,
+     "end": 59.81
+    },
+    {
+     "w": "once.",
+     "start": 59.81,
+     "end": 60.19
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "What people saw was a teal so intense that the most saturated color in nature looked *pale* next to it.",
+   "voice": "n",
+   "start": 60.88,
+   "end": 66.82,
+   "words": [
+    {
+     "w": "What",
+     "start": 60.88,
+     "end": 60.99
+    },
+    {
+     "w": "people",
+     "start": 60.99,
+     "end": 61.23
+    },
+    {
+     "w": "saw",
+     "start": 61.23,
+     "end": 61.69
+    },
+    {
+     "w": "was",
+     "start": 61.69,
+     "end": 61.97
+    },
+    {
+     "w": "a",
+     "start": 61.97,
+     "end": 62.19
+    },
+    {
+     "w": "teal",
+     "start": 62.19,
+     "end": 62.47
+    },
+    {
+     "w": "so",
+     "start": 62.47,
+     "end": 62.85
+    },
+    {
+     "w": "intense",
+     "start": 62.85,
+     "end": 63.33
+    },
+    {
+     "w": "that",
+     "start": 63.33,
+     "end": 63.79
+    },
+    {
+     "w": "the",
+     "start": 63.79,
+     "end": 63.89
+    },
+    {
+     "w": "most",
+     "start": 63.89,
+     "end": 64.05
+    },
+    {
+     "w": "saturated",
+     "start": 64.05,
+     "end": 64.67
+    },
+    {
+     "w": "color",
+     "start": 64.67,
+     "end": 65.03
+    },
+    {
+     "w": "in",
+     "start": 65.03,
+     "end": 65.25
+    },
+    {
+     "w": "nature",
+     "start": 65.25,
+     "end": 65.63
+    },
+    {
+     "w": "looked",
+     "start": 65.63,
+     "end": 65.91
+    },
+    {
+     "w": "*pale*",
+     "start": 65.91,
+     "end": 66.31
+    },
+    {
+     "w": "next",
+     "start": 66.31,
+     "end": 66.57
+    },
+    {
+     "w": "to",
+     "start": 66.57,
+     "end": 66.79
+    },
+    {
+     "w": "it.",
+     "start": 66.79,
+     "end": 66.82
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "And when the laser hit random cones instead, the color vanished. Olo only exists *inside your head.*",
+   "voice": "n",
+   "start": 67.36,
+   "end": 73.9,
+   "words": [
+    {
+     "w": "And",
+     "start": 67.36,
+     "end": 67.45
+    },
+    {
+     "w": "when",
+     "start": 67.45,
+     "end": 67.57
+    },
+    {
+     "w": "the",
+     "start": 67.57,
+     "end": 67.71
+    },
+    {
+     "w": "laser",
+     "start": 67.71,
+     "end": 67.97
+    },
+    {
+     "w": "hit",
+     "start": 67.97,
+     "end": 68.21
+    },
+    {
+     "w": "random",
+     "start": 68.21,
+     "end": 68.63
+    },
+    {
+     "w": "cones",
+     "start": 68.63,
+     "end": 68.97
+    },
+    {
+     "w": "instead,",
+     "start": 68.97,
+     "end": 69.45
+    },
+    {
+     "w": "the",
+     "start": 69.89,
+     "end": 70.09
+    },
+    {
+     "w": "color",
+     "start": 70.09,
+     "end": 70.31
+    },
+    {
+     "w": "vanished.",
+     "start": 70.31,
+     "end": 70.79
+    },
+    {
+     "w": "Olo",
+     "start": 71.71,
+     "end": 71.87
+    },
+    {
+     "w": "only",
+     "start": 71.87,
+     "end": 72.35
+    },
+    {
+     "w": "exists",
+     "start": 72.35,
+     "end": 72.83
+    },
+    {
+     "w": "*inside",
+     "start": 72.83,
+     "end": 73.41
+    },
+    {
+     "w": "your",
+     "start": 73.41,
+     "end": 73.65
+    },
+    {
+     "w": "head.*",
+     "start": 73.65,
+     "end": 73.9
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "Even the name is the code: zero, one, zero. Long off. Medium *on.* Short off.",
+   "voice": "n",
+   "start": 74.48,
+   "end": 81.03,
+   "words": [
+    {
+     "w": "Even",
+     "start": 74.48,
+     "end": 74.65
+    },
+    {
+     "w": "the",
+     "start": 74.65,
+     "end": 74.81
+    },
+    {
+     "w": "name",
+     "start": 74.81,
+     "end": 75.05
+    },
+    {
+     "w": "is",
+     "start": 75.05,
+     "end": 75.21
+    },
+    {
+     "w": "the",
+     "start": 75.21,
+     "end": 75.37
+    },
+    {
+     "w": "code:",
+     "start": 75.37,
+     "end": 75.71
+    },
+    {
+     "w": "zero,",
+     "start": 76.4,
+     "end": 76.45
+    },
+    {
+     "w": "one,",
+     "start": 77.09,
+     "end": 77.14
+    },
+    {
+     "w": "zero.",
+     "start": 77.78,
+     "end": 77.83
+    },
+    {
+     "w": "Long",
+     "start": 78.47,
+     "end": 78.65
+    },
+    {
+     "w": "off.",
+     "start": 78.65,
+     "end": 78.95
+    },
+    {
+     "w": "Medium",
+     "start": 79.49,
+     "end": 79.61
+    },
+    {
+     "w": "*on.*",
+     "start": 79.61,
+     "end": 80.07
+    },
+    {
+     "w": "Short",
+     "start": 80.51,
+     "end": 80.67
+    },
+    {
+     "w": "off.",
+     "start": 80.67,
+     "end": 81.01
+    }
+   ]
+  },
+  {
+   "scene": "c9",
+   "text": "So if you could see a brand new color, just once, would *you* let the laser in?",
+   "voice": "n",
+   "start": 82.1,
+   "end": 86.99,
+   "words": [
+    {
+     "w": "So",
+     "start": 82.1,
+     "end": 82.29
+    },
+    {
+     "w": "if",
+     "start": 82.43,
+     "end": 82.63
+    },
+    {
+     "w": "you",
+     "start": 82.63,
+     "end": 82.79
+    },
+    {
+     "w": "could",
+     "start": 82.79,
+     "end": 82.93
+    },
+    {
+     "w": "see",
+     "start": 82.93,
+     "end": 83.15
+    },
+    {
+     "w": "a",
+     "start": 83.15,
+     "end": 83.33
+    },
+    {
+     "w": "brand",
+     "start": 83.33,
+     "end": 83.59
+    },
+    {
+     "w": "new",
+     "start": 83.59,
+     "end": 83.83
+    },
+    {
+     "w": "color,",
+     "start": 83.83,
+     "end": 84.19
+    },
+    {
+     "w": "just",
+     "start": 84.59,
+     "end": 84.77
+    },
+    {
+     "w": "once,",
+     "start": 84.77,
+     "end": 85.25
+    },
+    {
+     "w": "would",
+     "start": 85.85,
+     "end": 85.99
+    },
+    {
+     "w": "*you*",
+     "start": 85.99,
+     "end": 86.11
+    },
+    {
+     "w": "let",
+     "start": 86.11,
+     "end": 86.27
+    },
+    {
+     "w": "the",
+     "start": 86.27,
+     "end": 86.41
+    },
+    {
+     "w": "laser",
+     "start": 86.41,
+     "end": 86.65
+    },
+    {
+     "w": "in?",
+     "start": 86.65,
+     "end": 86.95
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "c1",
+   "start": 0,
+   "end": 7.62
+  },
+  {
+   "id": "c2",
+   "start": 7.67,
+   "end": 14.7
+  },
+  {
+   "id": "c3",
+   "start": 14.75,
+   "end": 27.62
+  },
+  {
+   "id": "c4",
+   "start": 27.67,
+   "end": 41.1
+  },
+  {
+   "id": "c5",
+   "start": 41.15,
+   "end": 46.6
+  },
+  {
+   "id": "c6",
+   "start": 46.65,
+   "end": 60.83
+  },
+  {
+   "id": "c7",
+   "start": 60.88,
+   "end": 67.31
+  },
+  {
+   "id": "c8",
+   "start": 67.36,
+   "end": 82.05
+  },
+  {
+   "id": "c9",
+   "start": 82.1,
+   "end": 90.99
+  }
+ ]
+}
