@@ -30,6 +30,7 @@
 - How the Universe Ends (vertical explainer): Big Freeze / Big Rip (Caldwell 2003 timeline) / Big Crunch (2025 DESI+DES hints, Cornell 'Lifespan of our Universe': max size in ~11 B yrs, crunch ~20 B yrs); ends "Which ending would you rather have?"
 - No One to Come Back To (explainer): time dilation (light clock, GPS, 90/99/99.99% c, 50 ly round trip, twins, Andromeda at 1 g = 28 yrs vs 2.5 M yrs) and why an Alcubierre warp drive would avoid it (plus negative energy and causality catches)
 - Low Tide (v2): stuck in the Holy Island causeway refuge box overnight; a light walks the drowned pilgrim posts without a ripple; at dawn the coastguard finds wet footprints going up the ladder, none coming down; "Turn around / Don't"
+- Weather Balloon (v2): night tech at a plains weather station; Mae's rules card; tonight's radiosonde stops at 58,112 ft, reads 98.6°F and the pressure pulses 72 a minute; Mae on the radio says bring it down; the heartbeat keeps time with yours; "Bring it down / Let it pop"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -46,15 +47,14 @@
 - A shadow that lags, detaches or lives on its own (Andersen's "The Shadow", Peter Pan, many retellings)
 - Self-checkout / "unexpected item in the bagging area" horror (Doctor Who comic "Unexpected Enemy in Bagging Area"; Reedsy "The Eternal Beep")
 - Thermal-camera ghosts and cold spots (a ghost-hunting cliché)
+- Robotaxi taking the wrong way home at night (horror film *Autonomous*, 2026, robot ride-share that takes a horridly wrong way home)
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
 - **Owner's picks (Oct 27): make these first, mixing stories and explainers.** Search each one first; check every number.
   - **Second Moon** (story): Earth really caught a temporary mini-moon in 2024 (2024 PT5, about two months). A new one appears, closer and brighter every night, and it's lit on the side facing away from the Sun. "Would you look at it through a telescope?"
-  - **Weather Balloon** (story): stations launch radiosondes twice a day to about 30 km; yours starts reporting a heartbeat. "Bring it down, or let it pop?"
   - **Dial-Up** (story): 3 a.m., the Wi-Fi router plays the dial-up modem screech, and keeps going when unplugged. "Unplug the house, or pick up the phone?"
   - **Winter-Over** (story): South Pole station sealed for winter with 40 people, no flights for months; tonight's headcount is 41 and everyone you count is someone you know. "Recount, or lock your door?"
-  - **The Robotaxi** (story): a self-driving taxi at 3 a.m. takes a turn the map doesn't have; the screen says "Arriving at: Home"; it isn't your house, and a light is on. "Get out, or stay in?"
   - **Midday** (myth): Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with a question) as a heatwave delivery driver whose GPS starts asking questions at 12:00. "What would you answer?"
   - **Olo** (explainer): 2025, UC Berkeley's "Oz" laser system stimulated single cone cells and people saw a new color, "olo", a blue-green beyond anything natural; only a handful of people have seen it.
   - **Bees hold elections** (explainer): honeybee swarms pick a new home by scouts dancing for sites until one wins (Seeley). "Would you trust a bee vote?"
