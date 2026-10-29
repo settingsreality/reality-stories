@@ -31,6 +31,7 @@
 - No One to Come Back To (explainer): time dilation (light clock, GPS, 90/99/99.99% c, 50 ly round trip, twins, Andromeda at 1 g = 28 yrs vs 2.5 M yrs) and why an Alcubierre warp drive would avoid it (plus negative energy and causality catches)
 - Low Tide (v2): stuck in the Holy Island causeway refuge box overnight; a light walks the drowned pilgrim posts without a ripple; at dawn the coastguard finds wet footprints going up the ladder, none coming down; "Turn around / Don't"
 - Weather Balloon (v2): night tech at a plains weather station; Mae's rules card; tonight's radiosonde stops at 58,112 ft, reads 98.6°F and the pressure pulses 72 a minute; Mae on the radio says bring it down; the heartbeat keeps time with yours; "Bring it down / Let it pop"
+- Rizz x2 (funny "what if", the owner's pick Oct 29): my rizz doubles every day (day n = ×2^n); barista heart, crush's paragraph, pigeons in line, an A on a test I didn't take, clouds part for my jawline, GPS reroutes the city, the Moon (drifts ~3.8 cm/yr) comes back, more rizz than people on Earth, "can't be turned off, only shared"; the sun rises twice; "Keep it / Share it". Original ElevenLabs beat + meme-style SFX
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -51,6 +52,7 @@
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
+- **Funny "what if" doubling/counter format** (the owner saw "aura per step" and "looks double every day" videos and wanted funny trend ones; Rizz x2 was the first). Same v2 look: a DAY/STEP counter in the HUD, a big DAY pop each scene, deadpan narration, meme-style sound effects, a choice ending. Not picked yet, offered Oct 29: every step twice as long as the last (step 30 passes the Moon, ~39 the Sun); $1 that doubles daily while you halve in height (day 31: ~$1 B and ~1.6 nm tall, thinner than DNA); +1 inch every time someone says "6-7"; every gym rep doubles your strength (~80 reps to lift the Earth, you push yourself off it instead); aura as real light (~day 89 as bright as the Sun); 1 gram lighter per like (~70k likes = weightless); "highkey" doubles your volume; the Mannequin Challenge never ended (2016 nostalgia trend). Skip looks/looksmaxxing versions (body-image trend).
 - **Owner's picks (Oct 27): make these first, mixing stories and explainers.** Search each one first; check every number.
   - **Second Moon** (story): Earth really caught a temporary mini-moon in 2024 (2024 PT5, about two months). A new one appears, closer and brighter every night, and it's lit on the side facing away from the Sun. "Would you look at it through a telescope?"
   - **Dial-Up** (story): 3 a.m., the Wi-Fi router plays the dial-up modem screech, and keeps going when unplugged. "Unplug the house, or pick up the phone?"
