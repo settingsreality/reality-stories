@@ -33,6 +33,7 @@
 - Weather Balloon (v2): night tech at a plains weather station; Mae's rules card; tonight's radiosonde stops at 58,112 ft, reads 98.6°F and the pressure pulses 72 a minute; Mae on the radio says bring it down; the heartbeat keeps time with yours; "Bring it down / Let it pop"
 - Rizz x2 (funny "what if", the owner's pick Oct 29): my rizz doubles every day (day n = ×2^n); barista heart, crush's paragraph, pigeons in line, an A on a test I didn't take, clouds part for my jawline, GPS reroutes the city, the Moon (drifts ~3.8 cm/yr) comes back, more rizz than people on Earth, "can't be turned off, only shared"; the sun rises twice; "Keep it / Share it". Original ElevenLabs beat + meme-style SFX
 - Olo (vertical explainer, Oct 29): the color only 5 people have seen (Fong/Roorda/Ng, Science Advances 2025); rules card (bite plate, hold still, laser), S/M/L cones, M-L overlap so M never fires alone, Oz maps the cones and hits only M (up to 1,000 at once), teal so saturated nature looks pale, jitter test makes it vanish, name = LMS 0-1-0; "Let it in / No thanks"
+- Lady Midday (v2 myth, Oct 30): Lady Midday / Południca (Slavic noon field spirit in white with a sickle, asks hard questions, punishes a changed subject; personifies sunstroke) as a heatwave delivery route; Grandma's rules card; at noon the GPS turns white and asks questions, the van stops by the wheat, she's a row closer with every answer; Grandma texts "Stop answering. Drive." (reading it = changing the subject); Grandma doesn't text, she's in hospital with heatstroke; "Answer / Drive"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -50,15 +51,14 @@
 - Self-checkout / "unexpected item in the bagging area" horror (Doctor Who comic "Unexpected Enemy in Bagging Area"; Reedsy "The Eternal Beep")
 - Thermal-camera ghosts and cold spots (a ghost-hunting cliché)
 - Robotaxi taking the wrong way home at night (horror film *Autonomous*, 2026, robot ride-share that takes a horridly wrong way home)
+- Dial-up modem screech horror (horror film *Modem*, Raindance 2026)
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
 - **Funny "what if" doubling/counter format** (the owner saw "aura per step" and "looks double every day" videos and wanted funny trend ones; Rizz x2 was the first). Same v2 look: a DAY/STEP counter in the HUD, a big DAY pop each scene, deadpan narration, meme-style sound effects, a choice ending. Not picked yet, offered Oct 29: every step twice as long as the last (step 30 passes the Moon, ~39 the Sun); $1 that doubles daily while you halve in height (day 31: ~$1 B and ~1.6 nm tall, thinner than DNA); +1 inch every time someone says "6-7"; every gym rep doubles your strength (~80 reps to lift the Earth, you push yourself off it instead); aura as real light (~day 89 as bright as the Sun); 1 gram lighter per like (~70k likes = weightless); "highkey" doubles your volume; the Mannequin Challenge never ended (2016 nostalgia trend). Skip looks/looksmaxxing versions (body-image trend).
 - **Owner's picks (Oct 27): make these first, mixing stories and explainers.** Search each one first; check every number.
   - **Second Moon** (story): Earth really caught a temporary mini-moon in 2024 (2024 PT5, about two months). A new one appears, closer and brighter every night, and it's lit on the side facing away from the Sun. "Would you look at it through a telescope?"
-  - **Dial-Up** (story): 3 a.m., the Wi-Fi router plays the dial-up modem screech, and keeps going when unplugged. "Unplug the house, or pick up the phone?"
   - **Winter-Over** (story): South Pole station sealed for winter with 40 people, no flights for months; tonight's headcount is 41 and everyone you count is someone you know. "Recount, or lock your door?"
-  - **Midday** (myth): Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with a question) as a heatwave delivery driver whose GPS starts asking questions at 12:00. "What would you answer?"
   - **Bees hold elections** (explainer): honeybee swarms pick a new home by scouts dancing for sites until one wins (Seeley). "Would you trust a bee vote?"
   - **The sound that rises forever** (explainer): the Shepard tone; the viewer hears it while it's explained (used in films for tension).
   - **The mirror question** (explainer): why a mirror seems to flip left-right but not up-down (it actually flips front-back).
@@ -76,7 +76,7 @@
 - **90 Meters** (checked: turbine horror novels exist, this plot didn't turn up): alone in a wind-turbine nacelle at 2 a.m.; the service lift starts climbing; a voice in the lift and a voice on the radio both say they're your partner; "Which one would you let in?"
 - **Dead Pixel** (checked: not found): a dead pixel that's on every screen, then on the wall, a black square in the air that grows each night; toss something in and it's thrown back.
 - **Fictional high concepts to try:** the Moon gets a "terms of service" update; everyone's phone gets the same new contact overnight; a lost-pet poster with your face; a hotel with a "do not disturb" sign on the outside of the building.
-- **Myths to retell (search each first):** Will-o'-the-wisp (lights that lead you off the path; modern = a hiking app's route that keeps adding a trail); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); Lady Midday / Poludnitsa (Slavic field spirit who stops workers at noon with questions).
+- **Myths to retell (search each first):** Will-o'-the-wisp (lights that lead you off the path; modern = a hiking app's route that keeps adding a trail); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); (Lady Midday: done Oct 30).
 - **Vertical explainers in the How Time Works look** (the owner loves that style: clean diagrams, the toon characters, real numbers, a weird twist of real physics). Check every number before making one:
   - **Your head is older than your feet**: gravity slows time; NIST measured it over 33 cm; GPS +45/−7 = +38 µs a day. Ends "How tall are you?"
   - **A tunnel through Earth takes 42 minutes**: drop through any straight tunnel through a uniform Earth and the trip takes about 42 minutes, short tunnel or long (about 38 min straight through the real Earth).

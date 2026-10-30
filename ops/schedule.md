@@ -6,7 +6,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 - **New videos (Nov 6 on): 2 a day at 10:00 and 18:00.**
 
 ## On hold (don't schedule)
-- rizz-x2: the owner wants a crazier, effects-heavy opening and is sending his own audio. Its Nov 7 10:00 posts are Metricool **drafts** (410471371 TikTok/IG, 410471383 YouTube) and won't publish; the slot is free.
+- rizz-x2: the owner wants a crazier, effects-heavy opening and is sending his own audio. Its Nov 7 10:00 posts are Metricool **drafts** (410471371 TikTok/IG, 410471383 YouTube) and won't publish. The slot now has lady-midday (Oct 30).
 
 ## Reserved
 - 2026-11-18 18:00: one-light-day (Voyager 1 reaches one light-day from Earth that week)
@@ -47,6 +47,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-05 | 18:00 | new-moon | | 407340505 |
 | 2026-11-06 | 10:00 | universe-ends | vertical explainer (How Time Works look), voice 4 | 408232815 |
 | 2026-11-06 | 18:00 | night-groomer | first new-style video (v2, voice 4) | 407360877 |
+| 2026-11-07 | 10:00 | lady-midday | v2 myth (Lady Midday / Południca), voice 4 | 411023169 |
 | 2026-11-07 | 18:00 | weather-balloon | v2, voice 4 | 409655811 |
 | 2026-11-08 | 10:00 | olo | vertical explainer (How Time Works look), voice 4 | 409880265 |
 | 2026-11-08 | 18:00 | low-tide | v2, voice 4 (Nov 7 18:00 skipped: Sea Sparkle footprints-from-the-sea posts Nov 2) | 407626446 |
@@ -94,6 +95,7 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-05 | 18:00 | new-moon |  | 409645866 |
 | 2026-11-06 | 10:00 | universe-ends |  | 409645878 |
 | 2026-11-06 | 18:00 | night-groomer |  | 409645899 |
+| 2026-11-07 | 10:00 | lady-midday |  | 411023249 |
 | 2026-11-07 | 18:00 | weather-balloon |  | 409655839 |
 | 2026-11-08 | 10:00 | olo |  | 409880378 |
 | 2026-11-08 | 18:00 | low-tide |  | 409645912 |
