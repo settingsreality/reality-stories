@@ -1,0 +1,1375 @@
+{
+ "total": 90.81,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "The road outside my truck is playing music. *Nobody is driving on it.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 4.52,
+   "words": [
+    {
+     "w": "The",
+     "start": 0.17,
+     "end": 0.27
+    },
+    {
+     "w": "road",
+     "start": 0.27,
+     "end": 0.51
+    },
+    {
+     "w": "outside",
+     "start": 0.51,
+     "end": 0.93
+    },
+    {
+     "w": "my",
+     "start": 0.93,
+     "end": 1.17
+    },
+    {
+     "w": "truck",
+     "start": 1.17,
+     "end": 1.49
+    },
+    {
+     "w": "is",
+     "start": 1.49,
+     "end": 1.69
+    },
+    {
+     "w": "playing",
+     "start": 1.69,
+     "end": 1.97
+    },
+    {
+     "w": "music.",
+     "start": 1.97,
+     "end": 2.51
+    },
+    {
+     "w": "*Nobody",
+     "start": 3.25,
+     "end": 3.39
+    },
+    {
+     "w": "is",
+     "start": 3.39,
+     "end": 3.73
+    },
+    {
+     "w": "driving",
+     "start": 3.73,
+     "end": 4.03
+    },
+    {
+     "w": "on",
+     "start": 4.03,
+     "end": 4.35
+    },
+    {
+     "w": "it.*",
+     "start": 4.35,
+     "end": 4.52
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "Musical roads are real. Grooves cut into the asphalt *hum notes* under your tires.",
+   "voice": "n",
+   "start": 5.35,
+   "end": 10.73,
+   "words": [
+    {
+     "w": "Musical",
+     "start": 5.47,
+     "end": 5.75
+    },
+    {
+     "w": "roads",
+     "start": 5.75,
+     "end": 6.19
+    },
+    {
+     "w": "are",
+     "start": 6.19,
+     "end": 6.53
+    },
+    {
+     "w": "real.",
+     "start": 6.53,
+     "end": 6.97
+    },
+    {
+     "w": "Grooves",
+     "start": 7.79,
+     "end": 7.89
+    },
+    {
+     "w": "cut",
+     "start": 7.89,
+     "end": 8.13
+    },
+    {
+     "w": "into",
+     "start": 8.13,
+     "end": 8.35
+    },
+    {
+     "w": "the",
+     "start": 8.35,
+     "end": 8.53
+    },
+    {
+     "w": "asphalt",
+     "start": 8.53,
+     "end": 8.93
+    },
+    {
+     "w": "*hum",
+     "start": 8.93,
+     "end": 9.29
+    },
+    {
+     "w": "notes*",
+     "start": 9.29,
+     "end": 9.71
+    },
+    {
+     "w": "under",
+     "start": 9.71,
+     "end": 9.95
+    },
+    {
+     "w": "your",
+     "start": 9.95,
+     "end": 10.15
+    },
+    {
+     "w": "tires.",
+     "start": 10.15,
+     "end": 10.59
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "There's one in Lancaster, California. Drive it right, and it plays the *William Tell Overture.* Badly out of tune.",
+   "voice": "n",
+   "start": 11.25,
+   "end": 17.68,
+   "words": [
+    {
+     "w": "There's",
+     "start": 11.25,
+     "end": 11.39
+    },
+    {
+     "w": "one",
+     "start": 11.39,
+     "end": 11.55
+    },
+    {
+     "w": "in",
+     "start": 11.55,
+     "end": 11.75
+    },
+    {
+     "w": "Lancaster,",
+     "start": 11.75,
+     "end": 12.07
+    },
+    {
+     "w": "California.",
+     "start": 12.43,
+     "end": 12.79
+    },
+    {
+     "w": "Drive",
+     "start": 13.47,
+     "end": 13.51
+    },
+    {
+     "w": "it",
+     "start": 13.51,
+     "end": 13.65
+    },
+    {
+     "w": "right,",
+     "start": 13.65,
+     "end": 13.89
+    },
+    {
+     "w": "and",
+     "start": 13.89,
+     "end": 14.29
+    },
+    {
+     "w": "it",
+     "start": 14.29,
+     "end": 14.39
+    },
+    {
+     "w": "plays",
+     "start": 14.39,
+     "end": 14.61
+    },
+    {
+     "w": "the",
+     "start": 14.61,
+     "end": 14.83
+    },
+    {
+     "w": "*William",
+     "start": 14.83,
+     "end": 15.21
+    },
+    {
+     "w": "Tell",
+     "start": 15.21,
+     "end": 15.47
+    },
+    {
+     "w": "Overture.*",
+     "start": 15.47,
+     "end": 16.09
+    },
+    {
+     "w": "Badly",
+     "start": 16.63,
+     "end": 16.89
+    },
+    {
+     "w": "out",
+     "start": 16.89,
+     "end": 17.21
+    },
+    {
+     "w": "of",
+     "start": 17.21,
+     "end": 17.37
+    },
+    {
+     "w": "tune.",
+     "start": 17.37,
+     "end": 17.59
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Our county has one too, out in the desert. I'm the night crew that keeps its *grooves clean.*",
+   "voice": "n",
+   "start": 18.43,
+   "end": 23.0,
+   "words": [
+    {
+     "w": "Our",
+     "start": 18.47,
+     "end": 18.57
+    },
+    {
+     "w": "county",
+     "start": 18.57,
+     "end": 18.79
+    },
+    {
+     "w": "has",
+     "start": 18.79,
+     "end": 19.05
+    },
+    {
+     "w": "one",
+     "start": 19.05,
+     "end": 19.25
+    },
+    {
+     "w": "too,",
+     "start": 19.25,
+     "end": 19.55
+    },
+    {
+     "w": "out",
+     "start": 19.77,
+     "end": 19.93
+    },
+    {
+     "w": "in",
+     "start": 19.93,
+     "end": 20.05
+    },
+    {
+     "w": "the",
+     "start": 20.05,
+     "end": 20.15
+    },
+    {
+     "w": "desert.",
+     "start": 20.15,
+     "end": 20.45
+    },
+    {
+     "w": "I'm",
+     "start": 20.97,
+     "end": 21.15
+    },
+    {
+     "w": "the",
+     "start": 21.15,
+     "end": 21.27
+    },
+    {
+     "w": "night",
+     "start": 21.27,
+     "end": 21.45
+    },
+    {
+     "w": "crew",
+     "start": 21.45,
+     "end": 21.67
+    },
+    {
+     "w": "that",
+     "start": 21.67,
+     "end": 21.83
+    },
+    {
+     "w": "keeps",
+     "start": 21.83,
+     "end": 22.05
+    },
+    {
+     "w": "its",
+     "start": 22.05,
+     "end": 22.29
+    },
+    {
+     "w": "*grooves",
+     "start": 22.29,
+     "end": 22.59
+    },
+    {
+     "w": "clean.*",
+     "start": 22.59,
+     "end": 22.95
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "On my first night, the old foreman, Ray, taped three rules to my dashboard.",
+   "voice": "n",
+   "start": 23.68,
+   "end": 27.98,
+   "words": [
+    {
+     "w": "On",
+     "start": 23.68,
+     "end": 23.77
+    },
+    {
+     "w": "my",
+     "start": 23.77,
+     "end": 23.93
+    },
+    {
+     "w": "first",
+     "start": 23.93,
+     "end": 24.17
+    },
+    {
+     "w": "night,",
+     "start": 24.17,
+     "end": 24.51
+    },
+    {
+     "w": "the",
+     "start": 24.75,
+     "end": 24.85
+    },
+    {
+     "w": "old",
+     "start": 24.85,
+     "end": 25.01
+    },
+    {
+     "w": "foreman,",
+     "start": 25.01,
+     "end": 25.45
+    },
+    {
+     "w": "Ray,",
+     "start": 25.83,
+     "end": 25.87
+    },
+    {
+     "w": "taped",
+     "start": 26.17,
+     "end": 26.39
+    },
+    {
+     "w": "three",
+     "start": 26.39,
+     "end": 26.81
+    },
+    {
+     "w": "rules",
+     "start": 26.81,
+     "end": 27.17
+    },
+    {
+     "w": "to",
+     "start": 27.17,
+     "end": 27.37
+    },
+    {
+     "w": "my",
+     "start": 27.37,
+     "end": 27.53
+    },
+    {
+     "w": "dashboard.",
+     "start": 27.53,
+     "end": 27.98
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "One. Drive it at exactly *fifty-five.*",
+   "voice": "n",
+   "start": 28.01,
+   "end": 31.5,
+   "words": [
+    {
+     "w": "One.",
+     "start": 28.01,
+     "end": 28.99
+    },
+    {
+     "w": "Drive",
+     "start": 29.65,
+     "end": 29.79
+    },
+    {
+     "w": "it",
+     "start": 29.79,
+     "end": 29.95
+    },
+    {
+     "w": "at",
+     "start": 29.95,
+     "end": 30.13
+    },
+    {
+     "w": "exactly",
+     "start": 30.13,
+     "end": 30.71
+    },
+    {
+     "w": "*fifty-five.*",
+     "start": 31.097,
+     "end": 31.147
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Two. If it plays a song you don't know, *don't slow down.*",
+   "voice": "n",
+   "start": 32.18,
+   "end": 35.68,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 32.18,
+     "end": 32.41
+    },
+    {
+     "w": "If",
+     "start": 32.91,
+     "end": 33.03
+    },
+    {
+     "w": "it",
+     "start": 33.03,
+     "end": 33.13
+    },
+    {
+     "w": "plays",
+     "start": 33.13,
+     "end": 33.33
+    },
+    {
+     "w": "a",
+     "start": 33.33,
+     "end": 33.53
+    },
+    {
+     "w": "song",
+     "start": 33.53,
+     "end": 33.71
+    },
+    {
+     "w": "you",
+     "start": 33.71,
+     "end": 33.89
+    },
+    {
+     "w": "don't",
+     "start": 33.89,
+     "end": 34.13
+    },
+    {
+     "w": "know,",
+     "start": 34.13,
+     "end": 34.41
+    },
+    {
+     "w": "*don't",
+     "start": 34.81,
+     "end": 35.07
+    },
+    {
+     "w": "slow",
+     "start": 35.07,
+     "end": 35.29
+    },
+    {
+     "w": "down.*",
+     "start": 35.29,
+     "end": 35.68
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Three. Never *stand on the grooves* after dark.",
+   "voice": "n",
+   "start": 36.34,
+   "end": 39.2,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 36.34,
+     "end": 36.67
+    },
+    {
+     "w": "Never",
+     "start": 37.39,
+     "end": 37.57
+    },
+    {
+     "w": "*stand",
+     "start": 37.57,
+     "end": 37.93
+    },
+    {
+     "w": "on",
+     "start": 37.93,
+     "end": 38.13
+    },
+    {
+     "w": "the",
+     "start": 38.13,
+     "end": 38.27
+    },
+    {
+     "w": "grooves*",
+     "start": 38.27,
+     "end": 38.63
+    },
+    {
+     "w": "after",
+     "start": 38.63,
+     "end": 38.91
+    },
+    {
+     "w": "dark.",
+     "start": 38.91,
+     "end": 39.2
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "Tonight, at fifty-five, it didn't play our song. It played a slow one. *I'd never heard it.*",
+   "voice": "n",
+   "start": 40.16,
+   "end": 45.72,
+   "words": [
+    {
+     "w": "Tonight,",
+     "start": 40.19,
+     "end": 40.43
+    },
+    {
+     "w": "at",
+     "start": 40.73,
+     "end": 40.83
+    },
+    {
+     "w": "fifty-five,",
+     "start": 41.143,
+     "end": 41.193
+    },
+    {
+     "w": "it",
+     "start": 41.457,
+     "end": 41.507
+    },
+    {
+     "w": "didn't",
+     "start": 41.77,
+     "end": 41.99
+    },
+    {
+     "w": "play",
+     "start": 41.99,
+     "end": 42.29
+    },
+    {
+     "w": "our",
+     "start": 42.29,
+     "end": 42.49
+    },
+    {
+     "w": "song.",
+     "start": 42.49,
+     "end": 42.69
+    },
+    {
+     "w": "It",
+     "start": 42.69,
+     "end": 42.99
+    },
+    {
+     "w": "played",
+     "start": 43.49,
+     "end": 43.67
+    },
+    {
+     "w": "a",
+     "start": 43.67,
+     "end": 43.85
+    },
+    {
+     "w": "slow",
+     "start": 43.85,
+     "end": 44.01
+    },
+    {
+     "w": "one.",
+     "start": 44.01,
+     "end": 44.27
+    },
+    {
+     "w": "*I'd",
+     "start": 44.27,
+     "end": 44.51
+    },
+    {
+     "w": "never",
+     "start": 45.01,
+     "end": 45.19
+    },
+    {
+     "w": "heard",
+     "start": 45.19,
+     "end": 45.39
+    },
+    {
+     "w": "it.*",
+     "start": 45.39,
+     "end": 45.61
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "Then the engine died. *Right in the middle of the grooves.*",
+   "voice": "n",
+   "start": 46.45,
+   "end": 49.97,
+   "words": [
+    {
+     "w": "Then",
+     "start": 46.45,
+     "end": 46.69
+    },
+    {
+     "w": "the",
+     "start": 46.99,
+     "end": 47.09
+    },
+    {
+     "w": "engine",
+     "start": 47.09,
+     "end": 47.41
+    },
+    {
+     "w": "died.",
+     "start": 47.41,
+     "end": 47.77
+    },
+    {
+     "w": "*Right",
+     "start": 48.33,
+     "end": 48.59
+    },
+    {
+     "w": "in",
+     "start": 48.59,
+     "end": 48.81
+    },
+    {
+     "w": "the",
+     "start": 48.81,
+     "end": 48.97
+    },
+    {
+     "w": "middle",
+     "start": 48.97,
+     "end": 49.15
+    },
+    {
+     "w": "of",
+     "start": 49.15,
+     "end": 49.35
+    },
+    {
+     "w": "the",
+     "start": 49.35,
+     "end": 49.49
+    },
+    {
+     "w": "grooves.*",
+     "start": 49.49,
+     "end": 49.93
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "But the music didn't stop. One note... then another. *Like footsteps.*",
+   "voice": "n",
+   "start": 50.66,
+   "end": 55.86,
+   "words": [
+    {
+     "w": "But",
+     "start": 50.66,
+     "end": 50.73
+    },
+    {
+     "w": "the",
+     "start": 50.73,
+     "end": 50.85
+    },
+    {
+     "w": "music",
+     "start": 50.85,
+     "end": 51.17
+    },
+    {
+     "w": "didn't",
+     "start": 51.17,
+     "end": 51.59
+    },
+    {
+     "w": "stop.",
+     "start": 51.59,
+     "end": 51.89
+    },
+    {
+     "w": "One",
+     "start": 52.57,
+     "end": 52.85
+    },
+    {
+     "w": "note...",
+     "start": 52.85,
+     "end": 53.17
+    },
+    {
+     "w": "then",
+     "start": 53.65,
+     "end": 53.89
+    },
+    {
+     "w": "another.",
+     "start": 53.89,
+     "end": 54.25
+    },
+    {
+     "w": "*Like",
+     "start": 54.93,
+     "end": 55.09
+    },
+    {
+     "w": "footsteps.*",
+     "start": 55.09,
+     "end": 55.49
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "The notes were coming from the far end of the road. *Toward my truck.*",
+   "voice": "n",
+   "start": 56.55,
+   "end": 60.12,
+   "words": [
+    {
+     "w": "The",
+     "start": 56.55,
+     "end": 56.65
+    },
+    {
+     "w": "notes",
+     "start": 56.65,
+     "end": 56.83
+    },
+    {
+     "w": "were",
+     "start": 56.83,
+     "end": 57.07
+    },
+    {
+     "w": "coming",
+     "start": 57.07,
+     "end": 57.29
+    },
+    {
+     "w": "from",
+     "start": 57.29,
+     "end": 57.55
+    },
+    {
+     "w": "the",
+     "start": 57.55,
+     "end": 57.71
+    },
+    {
+     "w": "far",
+     "start": 57.71,
+     "end": 57.97
+    },
+    {
+     "w": "end",
+     "start": 57.97,
+     "end": 58.17
+    },
+    {
+     "w": "of",
+     "start": 58.17,
+     "end": 58.29
+    },
+    {
+     "w": "the",
+     "start": 58.29,
+     "end": 58.39
+    },
+    {
+     "w": "road.",
+     "start": 58.39,
+     "end": 58.71
+    },
+    {
+     "w": "*Toward",
+     "start": 59.23,
+     "end": 59.55
+    },
+    {
+     "w": "my",
+     "start": 59.55,
+     "end": 59.79
+    },
+    {
+     "w": "truck.*",
+     "start": 59.79,
+     "end": 60.12
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Rule two says don't slow down. I'm stopped. Rule three says never stand on the grooves. *To run, I'd have to.*",
+   "voice": "n",
+   "start": 61.14,
+   "end": 68.99,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 61.17,
+     "end": 61.29
+    },
+    {
+     "w": "two",
+     "start": 61.29,
+     "end": 61.59
+    },
+    {
+     "w": "says",
+     "start": 61.59,
+     "end": 61.87
+    },
+    {
+     "w": "don't",
+     "start": 61.87,
+     "end": 62.33
+    },
+    {
+     "w": "slow",
+     "start": 62.33,
+     "end": 62.51
+    },
+    {
+     "w": "down.",
+     "start": 62.51,
+     "end": 62.91
+    },
+    {
+     "w": "I'm",
+     "start": 63.41,
+     "end": 63.67
+    },
+    {
+     "w": "stopped.",
+     "start": 63.67,
+     "end": 64.03
+    },
+    {
+     "w": "Rule",
+     "start": 64.73,
+     "end": 64.87
+    },
+    {
+     "w": "three",
+     "start": 64.87,
+     "end": 65.25
+    },
+    {
+     "w": "says",
+     "start": 65.25,
+     "end": 65.53
+    },
+    {
+     "w": "never",
+     "start": 65.53,
+     "end": 65.87
+    },
+    {
+     "w": "stand",
+     "start": 65.87,
+     "end": 66.21
+    },
+    {
+     "w": "on",
+     "start": 66.21,
+     "end": 66.37
+    },
+    {
+     "w": "the",
+     "start": 66.37,
+     "end": 66.51
+    },
+    {
+     "w": "grooves.",
+     "start": 66.51,
+     "end": 66.95
+    },
+    {
+     "w": "*To",
+     "start": 67.43,
+     "end": 67.67
+    },
+    {
+     "w": "run,",
+     "start": 67.67,
+     "end": 67.93
+    },
+    {
+     "w": "I'd",
+     "start": 68.41,
+     "end": 68.53
+    },
+    {
+     "w": "have",
+     "start": 68.53,
+     "end": 68.73
+    },
+    {
+     "w": "to.*",
+     "start": 68.73,
+     "end": 68.99
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "The radio clicked on. It was Ray.",
+   "voice": "n",
+   "start": 70.0,
+   "end": 72.13,
+   "words": [
+    {
+     "w": "The",
+     "start": 70.0,
+     "end": 70.09
+    },
+    {
+     "w": "radio",
+     "start": 70.09,
+     "end": 70.41
+    },
+    {
+     "w": "clicked",
+     "start": 70.41,
+     "end": 70.71
+    },
+    {
+     "w": "on.",
+     "start": 70.71,
+     "end": 70.99
+    },
+    {
+     "w": "It",
+     "start": 71.47,
+     "end": 71.65
+    },
+    {
+     "w": "was",
+     "start": 71.65,
+     "end": 71.81
+    },
+    {
+     "w": "Ray.",
+     "start": 71.81,
+     "end": 72.05
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "\"Stay in the truck. It only plays *what's walking on it.*\"",
+   "voice": "n",
+   "start": 72.57,
+   "end": 75.19,
+   "words": [
+    {
+     "w": "\"Stay",
+     "start": 72.57,
+     "end": 72.83
+    },
+    {
+     "w": "in",
+     "start": 72.83,
+     "end": 72.95
+    },
+    {
+     "w": "the",
+     "start": 72.95,
+     "end": 73.07
+    },
+    {
+     "w": "truck.",
+     "start": 73.07,
+     "end": 73.31
+    },
+    {
+     "w": "It",
+     "start": 73.61,
+     "end": 73.71
+    },
+    {
+     "w": "only",
+     "start": 73.71,
+     "end": 73.97
+    },
+    {
+     "w": "plays",
+     "start": 73.97,
+     "end": 74.31
+    },
+    {
+     "w": "*what's",
+     "start": 74.31,
+     "end": 74.59
+    },
+    {
+     "w": "walking",
+     "start": 74.59,
+     "end": 74.93
+    },
+    {
+     "w": "on",
+     "start": 74.93,
+     "end": 75.17
+    },
+    {
+     "w": "it.*\"",
+     "start": 75.17,
+     "end": 75.19
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "Then the last note played, right outside my door. And I knew the song. *It's the one I hum when I'm alone.*",
+   "voice": "n",
+   "start": 76.21,
+   "end": 82.68,
+   "words": [
+    {
+     "w": "Then",
+     "start": 76.26,
+     "end": 76.46
+    },
+    {
+     "w": "the",
+     "start": 76.46,
+     "end": 76.72
+    },
+    {
+     "w": "last",
+     "start": 76.72,
+     "end": 77.04
+    },
+    {
+     "w": "note",
+     "start": 77.04,
+     "end": 77.32
+    },
+    {
+     "w": "played,",
+     "start": 77.32,
+     "end": 77.68
+    },
+    {
+     "w": "right",
+     "start": 77.68,
+     "end": 78.2
+    },
+    {
+     "w": "outside",
+     "start": 78.2,
+     "end": 78.58
+    },
+    {
+     "w": "my",
+     "start": 78.58,
+     "end": 78.82
+    },
+    {
+     "w": "door.",
+     "start": 78.82,
+     "end": 79.1
+    },
+    {
+     "w": "And",
+     "start": 79.3,
+     "end": 79.7
+    },
+    {
+     "w": "I",
+     "start": 79.7,
+     "end": 79.82
+    },
+    {
+     "w": "knew",
+     "start": 79.82,
+     "end": 80.06
+    },
+    {
+     "w": "the",
+     "start": 80.06,
+     "end": 80.28
+    },
+    {
+     "w": "song.",
+     "start": 80.28,
+     "end": 80.58
+    },
+    {
+     "w": "*It's",
+     "start": 81.12,
+     "end": 81.26
+    },
+    {
+     "w": "the",
+     "start": 81.26,
+     "end": 81.38
+    },
+    {
+     "w": "one",
+     "start": 81.38,
+     "end": 81.5
+    },
+    {
+     "w": "I",
+     "start": 81.5,
+     "end": 81.64
+    },
+    {
+     "w": "hum",
+     "start": 81.64,
+     "end": 81.9
+    },
+    {
+     "w": "when",
+     "start": 81.9,
+     "end": 82.12
+    },
+    {
+     "w": "I'm",
+     "start": 82.12,
+     "end": 82.28
+    },
+    {
+     "w": "alone.*",
+     "start": 82.28,
+     "end": 82.64
+    }
+   ]
+  },
+  {
+   "scene": "s14",
+   "text": "Do I *stay in the truck,* or run across the grooves?",
+   "voice": "n",
+   "start": 83.95,
+   "end": 86.81,
+   "words": [
+    {
+     "w": "Do",
+     "start": 83.95,
+     "end": 84.04
+    },
+    {
+     "w": "I",
+     "start": 84.04,
+     "end": 84.14
+    },
+    {
+     "w": "*stay",
+     "start": 84.14,
+     "end": 84.42
+    },
+    {
+     "w": "in",
+     "start": 84.42,
+     "end": 84.54
+    },
+    {
+     "w": "the",
+     "start": 84.54,
+     "end": 84.66
+    },
+    {
+     "w": "truck,*",
+     "start": 84.66,
+     "end": 84.98
+    },
+    {
+     "w": "or",
+     "start": 84.98,
+     "end": 85.52
+    },
+    {
+     "w": "run",
+     "start": 85.52,
+     "end": 85.72
+    },
+    {
+     "w": "across",
+     "start": 85.72,
+     "end": 86.04
+    },
+    {
+     "w": "the",
+     "start": 86.04,
+     "end": 86.26
+    },
+    {
+     "w": "grooves?",
+     "start": 86.26,
+     "end": 86.72
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 5.3
+  },
+  {
+   "id": "s2",
+   "start": 5.35,
+   "end": 11.2
+  },
+  {
+   "id": "s3",
+   "start": 11.25,
+   "end": 18.38
+  },
+  {
+   "id": "s4",
+   "start": 18.43,
+   "end": 23.63
+  },
+  {
+   "id": "s5",
+   "start": 23.68,
+   "end": 27.96
+  },
+  {
+   "id": "s6",
+   "start": 28.01,
+   "end": 40.11
+  },
+  {
+   "id": "s7",
+   "start": 40.16,
+   "end": 46.4
+  },
+  {
+   "id": "s8",
+   "start": 46.45,
+   "end": 50.61
+  },
+  {
+   "id": "s9",
+   "start": 50.66,
+   "end": 56.5
+  },
+  {
+   "id": "s10",
+   "start": 56.55,
+   "end": 61.09
+  },
+  {
+   "id": "s11",
+   "start": 61.14,
+   "end": 69.95
+  },
+  {
+   "id": "s12",
+   "start": 70.0,
+   "end": 76.16
+  },
+  {
+   "id": "s13",
+   "start": 76.21,
+   "end": 83.9
+  },
+  {
+   "id": "s14",
+   "start": 83.95,
+   "end": 90.81
+  }
+ ]
+}

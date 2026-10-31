@@ -1,0 +1,20 @@
+# Musical Road. (scene, caption, voice). First person. *word* = yellow on screen. [whispers] etc. = ElevenLabs direction, never shown.
+SCRIPT = [
+ ('s1', "[whispers] The road outside my truck is playing music. *Nobody is driving on it.*", 'n'),
+ ('s2', "Musical roads are real. Grooves cut into the asphalt *hum notes* under your tires.", 'n'),
+ ('s3', "There's one in Lancaster, California. Drive it right, and it plays the *William Tell Overture.* Badly out of tune.", 'n'),
+ ('s4', "Our county has one too, out in the desert. I'm the night crew that keeps its *grooves clean.*", 'n'),
+ ('s5', "On my first night, the old foreman, Ray, taped three rules to my dashboard.", 'n'),
+ ('s6', "One. Drive it at exactly *fifty-five.*", 'n'),
+ ('s6', "Two. If it plays a song you don't know, *don't slow down.*", 'n'),
+ ('s6', "Three. Never *stand on the grooves* after dark.", 'n'),
+ ('s7', "Tonight, at fifty-five, it didn't play our song. It played a slow one. *I'd never heard it.*", 'n'),
+ ('s8', "Then the engine died. *Right in the middle of the grooves.*", 'n'),
+ ('s9', "But the music didn't stop. One note... then another. *Like footsteps.*", 'n'),
+ ('s10', "The notes were coming from the far end of the road. *Toward my truck.*", 'n'),
+ ('s11', "Rule two says don't slow down. I'm stopped. Rule three says never stand on the grooves. *To run, I'd have to.*", 'n'),
+ ('s12', "The radio clicked on. It was Ray.", 'n'),
+ ('s12', "[urgent] \"Stay in the truck. It only plays *what's walking on it.*\"", 'n'),
+ ('s13', "Then the last note played, right outside my door. And I knew the song. *It's the one I hum when I'm alone.*", 'n'),
+ ('s14', "[quietly] Do I *stay in the truck,* or run across the grooves?", 'n'),
+]
