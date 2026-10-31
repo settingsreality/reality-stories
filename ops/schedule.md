@@ -51,6 +51,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-07 | 18:00 | weather-balloon | v2, voice 4 | 409655811 |
 | 2026-11-08 | 10:00 | olo | vertical explainer (How Time Works look), voice 4 | 409880265 |
 | 2026-11-08 | 18:00 | low-tide | v2, voice 4 (Nov 7 18:00 skipped: Sea Sparkle footprints-from-the-sea posts Nov 2) | 407626446 |
+| 2026-11-09 | 18:00 | musical-road | v2, voice 4 (Nov 9 10:00 still open) | 412040920 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
@@ -99,6 +100,7 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-07 | 18:00 | weather-balloon |  | 409655839 |
 | 2026-11-08 | 10:00 | olo |  | 409880378 |
 | 2026-11-08 | 18:00 | low-tide |  | 409645912 |
+| 2026-11-09 | 18:00 | musical-road |  | 412040964 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
