@@ -1,0 +1,1397 @@
+{
+ "total": 92.7,
+ "lines": [
+  {
+   "scene": "c1",
+   "text": "Ten thousand bees are hanging from a branch right now, and they're *holding an election.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.01,
+   "words": [
+    {
+     "w": "Ten",
+     "start": 0.17,
+     "end": 0.42
+    },
+    {
+     "w": "thousand",
+     "start": 0.71,
+     "end": 0.76
+    },
+    {
+     "w": "bees",
+     "start": 1.0,
+     "end": 1.3
+    },
+    {
+     "w": "are",
+     "start": 1.3,
+     "end": 1.58
+    },
+    {
+     "w": "hanging",
+     "start": 1.58,
+     "end": 1.84
+    },
+    {
+     "w": "from",
+     "start": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "a",
+     "start": 2.16,
+     "end": 2.36
+    },
+    {
+     "w": "branch",
+     "start": 2.36,
+     "end": 2.62
+    },
+    {
+     "w": "right",
+     "start": 2.62,
+     "end": 2.98
+    },
+    {
+     "w": "now,",
+     "start": 2.98,
+     "end": 3.48
+    },
+    {
+     "w": "and",
+     "start": 3.82,
+     "end": 4.0
+    },
+    {
+     "w": "they're",
+     "start": 4.0,
+     "end": 4.14
+    },
+    {
+     "w": "*holding",
+     "start": 4.14,
+     "end": 4.4
+    },
+    {
+     "w": "an",
+     "start": 4.4,
+     "end": 4.58
+    },
+    {
+     "w": "election.*",
+     "start": 4.58,
+     "end": 5.01
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "Every spring, a crowded hive splits. The old queen leaves with about *half* the colony.",
+   "voice": "n",
+   "start": 5.8,
+   "end": 11.2,
+   "words": [
+    {
+     "w": "Every",
+     "start": 5.82,
+     "end": 6.04
+    },
+    {
+     "w": "spring,",
+     "start": 6.04,
+     "end": 6.46
+    },
+    {
+     "w": "a",
+     "start": 6.82,
+     "end": 6.94
+    },
+    {
+     "w": "crowded",
+     "start": 6.94,
+     "end": 7.3
+    },
+    {
+     "w": "hive",
+     "start": 7.3,
+     "end": 7.64
+    },
+    {
+     "w": "splits.",
+     "start": 7.64,
+     "end": 8.14
+    },
+    {
+     "w": "The",
+     "start": 8.84,
+     "end": 8.98
+    },
+    {
+     "w": "old",
+     "start": 8.98,
+     "end": 9.18
+    },
+    {
+     "w": "queen",
+     "start": 9.18,
+     "end": 9.5
+    },
+    {
+     "w": "leaves",
+     "start": 9.5,
+     "end": 9.86
+    },
+    {
+     "w": "with",
+     "start": 9.86,
+     "end": 10.1
+    },
+    {
+     "w": "about",
+     "start": 10.1,
+     "end": 10.32
+    },
+    {
+     "w": "*half*",
+     "start": 10.32,
+     "end": 10.62
+    },
+    {
+     "w": "the",
+     "start": 10.62,
+     "end": 10.82
+    },
+    {
+     "w": "colony.",
+     "start": 10.82,
+     "end": 11.16
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "They hang on a branch with no home, and they get *one* pick. Choose badly, and the colony can die in winter.",
+   "voice": "n",
+   "start": 11.77,
+   "end": 18.29,
+   "words": [
+    {
+     "w": "They",
+     "start": 11.77,
+     "end": 11.86
+    },
+    {
+     "w": "hang",
+     "start": 11.86,
+     "end": 12.06
+    },
+    {
+     "w": "on",
+     "start": 12.06,
+     "end": 12.2
+    },
+    {
+     "w": "a",
+     "start": 12.2,
+     "end": 12.32
+    },
+    {
+     "w": "branch",
+     "start": 12.32,
+     "end": 12.6
+    },
+    {
+     "w": "with",
+     "start": 12.6,
+     "end": 12.78
+    },
+    {
+     "w": "no",
+     "start": 12.78,
+     "end": 13.1
+    },
+    {
+     "w": "home,",
+     "start": 13.1,
+     "end": 13.48
+    },
+    {
+     "w": "and",
+     "start": 13.82,
+     "end": 13.96
+    },
+    {
+     "w": "they",
+     "start": 13.96,
+     "end": 14.06
+    },
+    {
+     "w": "get",
+     "start": 14.06,
+     "end": 14.22
+    },
+    {
+     "w": "*one*",
+     "start": 14.22,
+     "end": 14.6
+    },
+    {
+     "w": "pick.",
+     "start": 14.6,
+     "end": 14.92
+    },
+    {
+     "w": "Choose",
+     "start": 15.54,
+     "end": 15.7
+    },
+    {
+     "w": "badly,",
+     "start": 15.7,
+     "end": 16.12
+    },
+    {
+     "w": "and",
+     "start": 16.18,
+     "end": 16.7
+    },
+    {
+     "w": "the",
+     "start": 16.7,
+     "end": 16.8
+    },
+    {
+     "w": "colony",
+     "start": 16.8,
+     "end": 17.18
+    },
+    {
+     "w": "can",
+     "start": 17.18,
+     "end": 17.4
+    },
+    {
+     "w": "die",
+     "start": 17.4,
+     "end": 17.76
+    },
+    {
+     "w": "in",
+     "start": 17.76,
+     "end": 17.96
+    },
+    {
+     "w": "winter.",
+     "start": 17.96,
+     "end": 18.26
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "So a few hundred *scouts* fly out to search. And the election has rules.",
+   "voice": "n",
+   "start": 18.89,
+   "end": 23.5,
+   "words": [
+    {
+     "w": "So",
+     "start": 18.89,
+     "end": 19.1
+    },
+    {
+     "w": "a",
+     "start": 19.3,
+     "end": 19.4
+    },
+    {
+     "w": "few",
+     "start": 19.4,
+     "end": 19.58
+    },
+    {
+     "w": "hundred",
+     "start": 19.58,
+     "end": 19.84
+    },
+    {
+     "w": "*scouts*",
+     "start": 19.84,
+     "end": 20.22
+    },
+    {
+     "w": "fly",
+     "start": 20.22,
+     "end": 20.6
+    },
+    {
+     "w": "out",
+     "start": 20.6,
+     "end": 20.8
+    },
+    {
+     "w": "to",
+     "start": 20.8,
+     "end": 20.98
+    },
+    {
+     "w": "search.",
+     "start": 20.98,
+     "end": 21.24
+    },
+    {
+     "w": "And",
+     "start": 21.9,
+     "end": 22.04
+    },
+    {
+     "w": "the",
+     "start": 22.04,
+     "end": 22.14
+    },
+    {
+     "w": "election",
+     "start": 22.14,
+     "end": 22.46
+    },
+    {
+     "w": "has",
+     "start": 22.46,
+     "end": 22.86
+    },
+    {
+     "w": "rules.",
+     "start": 22.86,
+     "end": 23.26
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Rule one. Find a good spot, fly back, and *dance* for it.",
+   "voice": "n",
+   "start": 24.0,
+   "end": 27.72,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 24.06,
+     "end": 24.18
+    },
+    {
+     "w": "one.",
+     "start": 24.18,
+     "end": 24.54
+    },
+    {
+     "w": "Find",
+     "start": 24.98,
+     "end": 25.22
+    },
+    {
+     "w": "a",
+     "start": 25.22,
+     "end": 25.36
+    },
+    {
+     "w": "good",
+     "start": 25.36,
+     "end": 25.48
+    },
+    {
+     "w": "spot,",
+     "start": 25.48,
+     "end": 25.84
+    },
+    {
+     "w": "fly",
+     "start": 26.14,
+     "end": 26.38
+    },
+    {
+     "w": "back,",
+     "start": 26.38,
+     "end": 26.66
+    },
+    {
+     "w": "and",
+     "start": 26.94,
+     "end": 27.1
+    },
+    {
+     "w": "*dance*",
+     "start": 27.1,
+     "end": 27.38
+    },
+    {
+     "w": "for",
+     "start": 27.38,
+     "end": 27.66
+    },
+    {
+     "w": "it.",
+     "start": 27.66,
+     "end": 27.72
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Rule two. The better the spot, the *longer* you dance.",
+   "voice": "n",
+   "start": 28.33,
+   "end": 31.58,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 28.33,
+     "end": 28.5
+    },
+    {
+     "w": "two.",
+     "start": 28.5,
+     "end": 28.82
+    },
+    {
+     "w": "The",
+     "start": 29.3,
+     "end": 29.4
+    },
+    {
+     "w": "better",
+     "start": 29.4,
+     "end": 29.6
+    },
+    {
+     "w": "the",
+     "start": 29.6,
+     "end": 29.8
+    },
+    {
+     "w": "spot,",
+     "start": 29.8,
+     "end": 30.1
+    },
+    {
+     "w": "the",
+     "start": 30.46,
+     "end": 30.54
+    },
+    {
+     "w": "*longer*",
+     "start": 30.54,
+     "end": 30.86
+    },
+    {
+     "w": "you",
+     "start": 30.86,
+     "end": 31.14
+    },
+    {
+     "w": "dance.",
+     "start": 31.14,
+     "end": 31.58
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Rule three. Never trust a dance. *Go see it yourself.*",
+   "voice": "n",
+   "start": 32.11,
+   "end": 35.56,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 32.14,
+     "end": 32.28
+    },
+    {
+     "w": "three.",
+     "start": 32.28,
+     "end": 32.66
+    },
+    {
+     "w": "Never",
+     "start": 33.34,
+     "end": 33.52
+    },
+    {
+     "w": "trust",
+     "start": 33.52,
+     "end": 33.9
+    },
+    {
+     "w": "a",
+     "start": 33.9,
+     "end": 34.1
+    },
+    {
+     "w": "dance.",
+     "start": 34.1,
+     "end": 34.42
+    },
+    {
+     "w": "*Go",
+     "start": 34.78,
+     "end": 34.9
+    },
+    {
+     "w": "see",
+     "start": 34.9,
+     "end": 35.08
+    },
+    {
+     "w": "it",
+     "start": 35.08,
+     "end": 35.18
+    },
+    {
+     "w": "yourself.*",
+     "start": 35.18,
+     "end": 35.54
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "In one study, a great site got a hundred dance laps. A mediocre one got *twelve.*",
+   "voice": "n",
+   "start": 36.3,
+   "end": 41.44,
+   "words": [
+    {
+     "w": "In",
+     "start": 36.34,
+     "end": 36.4
+    },
+    {
+     "w": "one",
+     "start": 36.4,
+     "end": 36.62
+    },
+    {
+     "w": "study,",
+     "start": 36.62,
+     "end": 36.96
+    },
+    {
+     "w": "a",
+     "start": 37.24,
+     "end": 37.36
+    },
+    {
+     "w": "great",
+     "start": 37.36,
+     "end": 37.7
+    },
+    {
+     "w": "site",
+     "start": 37.7,
+     "end": 37.98
+    },
+    {
+     "w": "got",
+     "start": 37.98,
+     "end": 38.22
+    },
+    {
+     "w": "a",
+     "start": 38.22,
+     "end": 38.27
+    },
+    {
+     "w": "hundred",
+     "start": 38.22,
+     "end": 38.76
+    },
+    {
+     "w": "dance",
+     "start": 38.76,
+     "end": 39.14
+    },
+    {
+     "w": "laps.",
+     "start": 39.14,
+     "end": 39.4
+    },
+    {
+     "w": "A",
+     "start": 39.82,
+     "end": 40.0
+    },
+    {
+     "w": "mediocre",
+     "start": 40.0,
+     "end": 40.36
+    },
+    {
+     "w": "one",
+     "start": 40.36,
+     "end": 40.72
+    },
+    {
+     "w": "got",
+     "start": 40.72,
+     "end": 40.98
+    },
+    {
+     "w": "*twelve.*",
+     "start": 40.98,
+     "end": 41.38
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "And when a scout catches a bee dancing for a rival site, she *head-butts* her, with a tiny beep.",
+   "voice": "n",
+   "start": 42.04,
+   "end": 47.29,
+   "words": [
+    {
+     "w": "And",
+     "start": 42.04,
+     "end": 42.12
+    },
+    {
+     "w": "when",
+     "start": 42.12,
+     "end": 42.26
+    },
+    {
+     "w": "a",
+     "start": 42.26,
+     "end": 42.5
+    },
+    {
+     "w": "scout",
+     "start": 42.5,
+     "end": 42.62
+    },
+    {
+     "w": "catches",
+     "start": 42.62,
+     "end": 43.02
+    },
+    {
+     "w": "a",
+     "start": 43.02,
+     "end": 43.22
+    },
+    {
+     "w": "bee",
+     "start": 43.22,
+     "end": 43.36
+    },
+    {
+     "w": "dancing",
+     "start": 43.36,
+     "end": 43.72
+    },
+    {
+     "w": "for",
+     "start": 43.72,
+     "end": 44.02
+    },
+    {
+     "w": "a",
+     "start": 44.02,
+     "end": 44.18
+    },
+    {
+     "w": "rival",
+     "start": 44.18,
+     "end": 44.54
+    },
+    {
+     "w": "site,",
+     "start": 44.54,
+     "end": 44.84
+    },
+    {
+     "w": "she",
+     "start": 45.16,
+     "end": 45.32
+    },
+    {
+     "w": "*head-butts*",
+     "start": 45.513,
+     "end": 45.563
+    },
+    {
+     "w": "her,",
+     "start": 45.707,
+     "end": 45.757
+    },
+    {
+     "w": "with",
+     "start": 45.9,
+     "end": 46.06
+    },
+    {
+     "w": "a",
+     "start": 46.06,
+     "end": 46.44
+    },
+    {
+     "w": "tiny",
+     "start": 46.44,
+     "end": 46.62
+    },
+    {
+     "w": "beep.",
+     "start": 46.62,
+     "end": 46.88
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "Weak sites lose dancers. Strong sites gain them. Until about *fifteen* scouts are waiting at one site at once.",
+   "voice": "n",
+   "start": 47.79,
+   "end": 54.63,
+   "words": [
+    {
+     "w": "Weak",
+     "start": 48.0,
+     "end": 48.0
+    },
+    {
+     "w": "sites",
+     "start": 48.0,
+     "end": 48.28
+    },
+    {
+     "w": "lose",
+     "start": 48.28,
+     "end": 48.74
+    },
+    {
+     "w": "dancers.",
+     "start": 48.74,
+     "end": 49.26
+    },
+    {
+     "w": "Strong",
+     "start": 49.98,
+     "end": 50.0
+    },
+    {
+     "w": "sites",
+     "start": 50.0,
+     "end": 50.38
+    },
+    {
+     "w": "gain",
+     "start": 50.38,
+     "end": 50.66
+    },
+    {
+     "w": "them.",
+     "start": 50.66,
+     "end": 51.1
+    },
+    {
+     "w": "Until",
+     "start": 51.34,
+     "end": 51.64
+    },
+    {
+     "w": "about",
+     "start": 51.64,
+     "end": 51.88
+    },
+    {
+     "w": "*fifteen*",
+     "start": 52.15,
+     "end": 52.2
+    },
+    {
+     "w": "scouts",
+     "start": 52.42,
+     "end": 52.86
+    },
+    {
+     "w": "are",
+     "start": 52.86,
+     "end": 53.1
+    },
+    {
+     "w": "waiting",
+     "start": 53.1,
+     "end": 53.3
+    },
+    {
+     "w": "at",
+     "start": 53.3,
+     "end": 53.5
+    },
+    {
+     "w": "one",
+     "start": 53.5,
+     "end": 53.74
+    },
+    {
+     "w": "site",
+     "start": 53.74,
+     "end": 54.02
+    },
+    {
+     "w": "at",
+     "start": 54.02,
+     "end": 54.16
+    },
+    {
+     "w": "once.",
+     "start": 54.16,
+     "end": 54.56
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "That's the quorum. Scouts buzz their flight muscles to warm the whole swarm to *ninety-five degrees.*",
+   "voice": "n",
+   "start": 55.02,
+   "end": 60.69,
+   "words": [
+    {
+     "w": "That's",
+     "start": 55.02,
+     "end": 55.32
+    },
+    {
+     "w": "the",
+     "start": 55.32,
+     "end": 55.48
+    },
+    {
+     "w": "quorum.",
+     "start": 55.48,
+     "end": 55.88
+    },
+    {
+     "w": "Scouts",
+     "start": 55.88,
+     "end": 56.64
+    },
+    {
+     "w": "buzz",
+     "start": 56.64,
+     "end": 57.06
+    },
+    {
+     "w": "their",
+     "start": 57.06,
+     "end": 57.3
+    },
+    {
+     "w": "flight",
+     "start": 57.3,
+     "end": 57.54
+    },
+    {
+     "w": "muscles",
+     "start": 57.54,
+     "end": 57.88
+    },
+    {
+     "w": "to",
+     "start": 57.88,
+     "end": 58.12
+    },
+    {
+     "w": "warm",
+     "start": 58.12,
+     "end": 58.36
+    },
+    {
+     "w": "the",
+     "start": 58.36,
+     "end": 58.54
+    },
+    {
+     "w": "whole",
+     "start": 58.54,
+     "end": 58.88
+    },
+    {
+     "w": "swarm",
+     "start": 58.88,
+     "end": 59.26
+    },
+    {
+     "w": "to",
+     "start": 59.26,
+     "end": 59.48
+    },
+    {
+     "w": "*ninety-five",
+     "start": 59.68,
+     "end": 59.73
+    },
+    {
+     "w": "degrees.*",
+     "start": 59.88,
+     "end": 59.93
+    }
+   ]
+  },
+  {
+   "scene": "c9",
+   "text": "Then ten thousand bees take off together. In that study, the vote took about *sixteen hours,* and swarms almost always picked the best site.",
+   "voice": "n",
+   "start": 61.09,
+   "end": 69.8,
+   "words": [
+    {
+     "w": "Then",
+     "start": 61.36,
+     "end": 61.36
+    },
+    {
+     "w": "ten",
+     "start": 61.36,
+     "end": 61.96
+    },
+    {
+     "w": "thousand",
+     "start": 62.26,
+     "end": 62.31
+    },
+    {
+     "w": "bees",
+     "start": 62.56,
+     "end": 62.8
+    },
+    {
+     "w": "take",
+     "start": 62.8,
+     "end": 63.14
+    },
+    {
+     "w": "off",
+     "start": 63.14,
+     "end": 63.38
+    },
+    {
+     "w": "together.",
+     "start": 63.38,
+     "end": 63.8
+    },
+    {
+     "w": "In",
+     "start": 64.26,
+     "end": 64.46
+    },
+    {
+     "w": "that",
+     "start": 64.46,
+     "end": 64.62
+    },
+    {
+     "w": "study,",
+     "start": 64.62,
+     "end": 65.0
+    },
+    {
+     "w": "the",
+     "start": 65.26,
+     "end": 65.4
+    },
+    {
+     "w": "vote",
+     "start": 65.4,
+     "end": 65.6
+    },
+    {
+     "w": "took",
+     "start": 65.6,
+     "end": 65.78
+    },
+    {
+     "w": "about",
+     "start": 65.78,
+     "end": 66.04
+    },
+    {
+     "w": "*sixteen",
+     "start": 66.31,
+     "end": 66.36
+    },
+    {
+     "w": "hours,*",
+     "start": 66.58,
+     "end": 67.0
+    },
+    {
+     "w": "and",
+     "start": 67.0,
+     "end": 67.54
+    },
+    {
+     "w": "swarms",
+     "start": 67.54,
+     "end": 67.9
+    },
+    {
+     "w": "almost",
+     "start": 67.9,
+     "end": 68.32
+    },
+    {
+     "w": "always",
+     "start": 68.32,
+     "end": 68.86
+    },
+    {
+     "w": "picked",
+     "start": 68.86,
+     "end": 69.14
+    },
+    {
+     "w": "the",
+     "start": 69.14,
+     "end": 69.32
+    },
+    {
+     "w": "best",
+     "start": 69.32,
+     "end": 69.5
+    },
+    {
+     "w": "site.",
+     "start": 69.8,
+     "end": 69.8
+    }
+   ]
+  },
+  {
+   "scene": "c10",
+   "text": "Here's the weird part. The queen doesn't vote. Most scouts only ever see *one* site. Nobody compares them all.",
+   "voice": "n",
+   "start": 70.74,
+   "end": 77.84,
+   "words": [
+    {
+     "w": "Here's",
+     "start": 70.74,
+     "end": 70.9
+    },
+    {
+     "w": "the",
+     "start": 70.9,
+     "end": 71.04
+    },
+    {
+     "w": "weird",
+     "start": 71.04,
+     "end": 71.28
+    },
+    {
+     "w": "part.",
+     "start": 71.28,
+     "end": 71.64
+    },
+    {
+     "w": "The",
+     "start": 72.12,
+     "end": 72.24
+    },
+    {
+     "w": "queen",
+     "start": 72.24,
+     "end": 72.58
+    },
+    {
+     "w": "doesn't",
+     "start": 72.58,
+     "end": 73.26
+    },
+    {
+     "w": "vote.",
+     "start": 73.26,
+     "end": 73.54
+    },
+    {
+     "w": "Most",
+     "start": 74.1,
+     "end": 74.32
+    },
+    {
+     "w": "scouts",
+     "start": 74.32,
+     "end": 74.64
+    },
+    {
+     "w": "only",
+     "start": 74.64,
+     "end": 74.94
+    },
+    {
+     "w": "ever",
+     "start": 74.94,
+     "end": 75.2
+    },
+    {
+     "w": "see",
+     "start": 75.2,
+     "end": 75.5
+    },
+    {
+     "w": "*one*",
+     "start": 75.5,
+     "end": 75.78
+    },
+    {
+     "w": "site.",
+     "start": 76.24,
+     "end": 76.29
+    },
+    {
+     "w": "Nobody",
+     "start": 76.7,
+     "end": 76.92
+    },
+    {
+     "w": "compares",
+     "start": 76.92,
+     "end": 77.38
+    },
+    {
+     "w": "them",
+     "start": 77.38,
+     "end": 77.6
+    },
+    {
+     "w": "all.",
+     "start": 77.6,
+     "end": 77.84
+    }
+   ]
+  },
+  {
+   "scene": "c11",
+   "text": "Scientists say it works like the neurons in your brain. Dances excite. Head-butts *hold back.*",
+   "voice": "n",
+   "start": 78.35,
+   "end": 84.06,
+   "words": [
+    {
+     "w": "Scientists",
+     "start": 78.48,
+     "end": 78.7
+    },
+    {
+     "w": "say",
+     "start": 78.7,
+     "end": 79.04
+    },
+    {
+     "w": "it",
+     "start": 79.04,
+     "end": 79.16
+    },
+    {
+     "w": "works",
+     "start": 79.16,
+     "end": 79.34
+    },
+    {
+     "w": "like",
+     "start": 79.34,
+     "end": 79.58
+    },
+    {
+     "w": "the",
+     "start": 79.58,
+     "end": 79.74
+    },
+    {
+     "w": "neurons",
+     "start": 79.74,
+     "end": 80.14
+    },
+    {
+     "w": "in",
+     "start": 80.14,
+     "end": 80.38
+    },
+    {
+     "w": "your",
+     "start": 80.38,
+     "end": 80.52
+    },
+    {
+     "w": "brain.",
+     "start": 80.52,
+     "end": 80.88
+    },
+    {
+     "w": "Dances",
+     "start": 80.88,
+     "end": 81.74
+    },
+    {
+     "w": "excite.",
+     "start": 81.74,
+     "end": 82.46
+    },
+    {
+     "w": "Head-butts",
+     "start": 82.827,
+     "end": 82.877
+    },
+    {
+     "w": "*hold",
+     "start": 83.193,
+     "end": 83.243
+    },
+    {
+     "w": "back.*",
+     "start": 83.56,
+     "end": 83.74
+    }
+   ]
+  },
+  {
+   "scene": "c12",
+   "text": "So if a bee vote picked your next home... would you *trust it?*",
+   "voice": "n",
+   "start": 85.23,
+   "end": 88.7,
+   "words": [
+    {
+     "w": "So",
+     "start": 85.23,
+     "end": 85.46
+    },
+    {
+     "w": "if",
+     "start": 85.46,
+     "end": 85.76
+    },
+    {
+     "w": "a",
+     "start": 85.76,
+     "end": 85.92
+    },
+    {
+     "w": "bee",
+     "start": 86.02,
+     "end": 86.07
+    },
+    {
+     "w": "vote",
+     "start": 86.12,
+     "end": 86.32
+    },
+    {
+     "w": "picked",
+     "start": 86.32,
+     "end": 86.62
+    },
+    {
+     "w": "your",
+     "start": 86.62,
+     "end": 86.8
+    },
+    {
+     "w": "next",
+     "start": 86.8,
+     "end": 87.04
+    },
+    {
+     "w": "home...",
+     "start": 87.04,
+     "end": 87.42
+    },
+    {
+     "w": "would",
+     "start": 87.82,
+     "end": 88.1
+    },
+    {
+     "w": "you",
+     "start": 88.1,
+     "end": 88.26
+    },
+    {
+     "w": "*trust",
+     "start": 88.26,
+     "end": 88.52
+    },
+    {
+     "w": "it?*",
+     "start": 88.52,
+     "end": 88.7
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "c1",
+   "start": 0,
+   "end": 5.75
+  },
+  {
+   "id": "c2",
+   "start": 5.8,
+   "end": 18.84
+  },
+  {
+   "id": "c3",
+   "start": 18.89,
+   "end": 23.95
+  },
+  {
+   "id": "c4",
+   "start": 24.0,
+   "end": 36.25
+  },
+  {
+   "id": "c5",
+   "start": 36.3,
+   "end": 41.99
+  },
+  {
+   "id": "c6",
+   "start": 42.04,
+   "end": 47.74
+  },
+  {
+   "id": "c7",
+   "start": 47.79,
+   "end": 54.97
+  },
+  {
+   "id": "c8",
+   "start": 55.02,
+   "end": 61.04
+  },
+  {
+   "id": "c9",
+   "start": 61.09,
+   "end": 70.69
+  },
+  {
+   "id": "c10",
+   "start": 70.74,
+   "end": 78.3
+  },
+  {
+   "id": "c11",
+   "start": 78.35,
+   "end": 85.18
+  },
+  {
+   "id": "c12",
+   "start": 85.23,
+   "end": 92.7
+  }
+ ]
+}
