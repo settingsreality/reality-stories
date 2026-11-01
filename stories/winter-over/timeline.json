@@ -1,0 +1,1286 @@
+{
+ "total": 87.3,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "There are forty of us at the South Pole this winter. Tonight's headcount says *forty-one.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.05,
+   "words": [
+    {
+     "w": "There",
+     "start": 0.17,
+     "end": 0.28
+    },
+    {
+     "w": "are",
+     "start": 0.28,
+     "end": 0.56
+    },
+    {
+     "w": "forty",
+     "start": 0.56,
+     "end": 0.86
+    },
+    {
+     "w": "of",
+     "start": 0.86,
+     "end": 1.08
+    },
+    {
+     "w": "us",
+     "start": 1.08,
+     "end": 1.24
+    },
+    {
+     "w": "at",
+     "start": 1.24,
+     "end": 1.4
+    },
+    {
+     "w": "the",
+     "start": 1.4,
+     "end": 1.54
+    },
+    {
+     "w": "South",
+     "start": 1.54,
+     "end": 1.74
+    },
+    {
+     "w": "Pole",
+     "start": 1.74,
+     "end": 2.04
+    },
+    {
+     "w": "this",
+     "start": 2.04,
+     "end": 2.26
+    },
+    {
+     "w": "winter.",
+     "start": 2.26,
+     "end": 2.66
+    },
+    {
+     "w": "Tonight's",
+     "start": 3.32,
+     "end": 3.68
+    },
+    {
+     "w": "headcount",
+     "start": 3.68,
+     "end": 4.06
+    },
+    {
+     "w": "says",
+     "start": 4.06,
+     "end": 4.36
+    },
+    {
+     "w": "*forty-one.*",
+     "start": 4.827,
+     "end": 4.877
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "The planes stop in February. The next one lands in late October. *Nobody gets in. Nobody gets out.*",
+   "voice": "n",
+   "start": 5.86,
+   "end": 12.19,
+   "words": [
+    {
+     "w": "The",
+     "start": 5.86,
+     "end": 5.94
+    },
+    {
+     "w": "planes",
+     "start": 5.94,
+     "end": 6.2
+    },
+    {
+     "w": "stop",
+     "start": 6.2,
+     "end": 6.54
+    },
+    {
+     "w": "in",
+     "start": 6.54,
+     "end": 6.76
+    },
+    {
+     "w": "February.",
+     "start": 6.76,
+     "end": 7.1
+    },
+    {
+     "w": "The",
+     "start": 7.86,
+     "end": 7.96
+    },
+    {
+     "w": "next",
+     "start": 7.96,
+     "end": 8.12
+    },
+    {
+     "w": "one",
+     "start": 8.12,
+     "end": 8.3
+    },
+    {
+     "w": "lands",
+     "start": 8.3,
+     "end": 8.54
+    },
+    {
+     "w": "in",
+     "start": 8.54,
+     "end": 8.72
+    },
+    {
+     "w": "late",
+     "start": 8.72,
+     "end": 8.86
+    },
+    {
+     "w": "October.",
+     "start": 8.86,
+     "end": 9.3
+    },
+    {
+     "w": "*Nobody",
+     "start": 10.1,
+     "end": 10.3
+    },
+    {
+     "w": "gets",
+     "start": 10.3,
+     "end": 10.54
+    },
+    {
+     "w": "in.",
+     "start": 10.54,
+     "end": 10.88
+    },
+    {
+     "w": "Nobody",
+     "start": 11.44,
+     "end": 11.58
+    },
+    {
+     "w": "gets",
+     "start": 11.58,
+     "end": 11.88
+    },
+    {
+     "w": "out.*",
+     "start": 11.88,
+     "end": 12.19
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "It's a real place. The Amundsen-Scott South Pole Station. Six months of night, and it can drop below *minus one hundred.*",
+   "voice": "n",
+   "start": 13.13,
+   "end": 20.54,
+   "words": [
+    {
+     "w": "It's",
+     "start": 13.13,
+     "end": 13.26
+    },
+    {
+     "w": "a",
+     "start": 13.26,
+     "end": 13.36
+    },
+    {
+     "w": "real",
+     "start": 13.36,
+     "end": 13.56
+    },
+    {
+     "w": "place.",
+     "start": 13.56,
+     "end": 13.94
+    },
+    {
+     "w": "The",
+     "start": 14.5,
+     "end": 14.64
+    },
+    {
+     "w": "Amundsen-Scott",
+     "start": 14.64,
+     "end": 15.12
+    },
+    {
+     "w": "South",
+     "start": 15.12,
+     "end": 15.46
+    },
+    {
+     "w": "Pole",
+     "start": 15.46,
+     "end": 15.84
+    },
+    {
+     "w": "Station.",
+     "start": 15.84,
+     "end": 16.14
+    },
+    {
+     "w": "Six",
+     "start": 16.14,
+     "end": 16.48
+    },
+    {
+     "w": "months",
+     "start": 17.12,
+     "end": 17.56
+    },
+    {
+     "w": "of",
+     "start": 17.56,
+     "end": 17.78
+    },
+    {
+     "w": "night,",
+     "start": 17.78,
+     "end": 18.02
+    },
+    {
+     "w": "and",
+     "start": 18.02,
+     "end": 18.32
+    },
+    {
+     "w": "it",
+     "start": 18.32,
+     "end": 18.72
+    },
+    {
+     "w": "can",
+     "start": 18.72,
+     "end": 18.82
+    },
+    {
+     "w": "drop",
+     "start": 18.82,
+     "end": 18.94
+    },
+    {
+     "w": "below",
+     "start": 18.94,
+     "end": 19.18
+    },
+    {
+     "w": "*minus",
+     "start": 19.18,
+     "end": 19.48
+    },
+    {
+     "w": "one",
+     "start": 19.48,
+     "end": 19.84
+    },
+    {
+     "w": "hundred.*",
+     "start": 19.84,
+     "end": 19.89
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "I'm the comms tech. Every night at eight, everyone taps their badge, and I run the *headcount.*",
+   "voice": "n",
+   "start": 21.37,
+   "end": 26.17,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 21.37,
+     "end": 21.52
+    },
+    {
+     "w": "the",
+     "start": 21.52,
+     "end": 21.64
+    },
+    {
+     "w": "comms",
+     "start": 21.64,
+     "end": 21.98
+    },
+    {
+     "w": "tech.",
+     "start": 21.98,
+     "end": 22.12
+    },
+    {
+     "w": "Every",
+     "start": 22.74,
+     "end": 22.96
+    },
+    {
+     "w": "night",
+     "start": 22.96,
+     "end": 23.1
+    },
+    {
+     "w": "at",
+     "start": 23.1,
+     "end": 23.28
+    },
+    {
+     "w": "eight,",
+     "start": 23.28,
+     "end": 23.5
+    },
+    {
+     "w": "everyone",
+     "start": 23.84,
+     "end": 24.14
+    },
+    {
+     "w": "taps",
+     "start": 24.14,
+     "end": 24.44
+    },
+    {
+     "w": "their",
+     "start": 24.44,
+     "end": 24.7
+    },
+    {
+     "w": "badge,",
+     "start": 24.7,
+     "end": 24.96
+    },
+    {
+     "w": "and",
+     "start": 24.96,
+     "end": 25.36
+    },
+    {
+     "w": "I",
+     "start": 25.36,
+     "end": 25.5
+    },
+    {
+     "w": "run",
+     "start": 25.5,
+     "end": 25.66
+    },
+    {
+     "w": "the",
+     "start": 25.66,
+     "end": 25.8
+    },
+    {
+     "w": "*headcount.*",
+     "start": 25.8,
+     "end": 26.17
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Jo, our station manager, taped her winter rules above my desk.",
+   "voice": "n",
+   "start": 26.85,
+   "end": 30.59,
+   "words": [
+    {
+     "w": "Jo,",
+     "start": 26.85,
+     "end": 26.86
+    },
+    {
+     "w": "our",
+     "start": 27.42,
+     "end": 27.54
+    },
+    {
+     "w": "station",
+     "start": 27.54,
+     "end": 27.86
+    },
+    {
+     "w": "manager,",
+     "start": 27.86,
+     "end": 28.36
+    },
+    {
+     "w": "taped",
+     "start": 28.74,
+     "end": 28.88
+    },
+    {
+     "w": "her",
+     "start": 28.88,
+     "end": 29.1
+    },
+    {
+     "w": "winter",
+     "start": 29.1,
+     "end": 29.32
+    },
+    {
+     "w": "rules",
+     "start": 29.32,
+     "end": 29.76
+    },
+    {
+     "w": "above",
+     "start": 29.76,
+     "end": 30.02
+    },
+    {
+     "w": "my",
+     "start": 30.02,
+     "end": 30.26
+    },
+    {
+     "w": "desk.",
+     "start": 30.26,
+     "end": 30.59
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "One. Forty badges, every night, *by eight.*",
+   "voice": "n",
+   "start": 31.32,
+   "end": 34.44,
+   "words": [
+    {
+     "w": "One.",
+     "start": 31.52,
+     "end": 31.58
+    },
+    {
+     "w": "Forty",
+     "start": 32.1,
+     "end": 32.42
+    },
+    {
+     "w": "badges,",
+     "start": 32.42,
+     "end": 32.8
+    },
+    {
+     "w": "every",
+     "start": 32.8,
+     "end": 33.46
+    },
+    {
+     "w": "night,",
+     "start": 33.46,
+     "end": 33.76
+    },
+    {
+     "w": "*by",
+     "start": 33.76,
+     "end": 34.1
+    },
+    {
+     "w": "eight.*",
+     "start": 34.1,
+     "end": 34.42
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Two. Never go past the *flag line* alone.",
+   "voice": "n",
+   "start": 35.09,
+   "end": 37.76,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 35.09,
+     "end": 35.32
+    },
+    {
+     "w": "Never",
+     "start": 35.86,
+     "end": 36.14
+    },
+    {
+     "w": "go",
+     "start": 36.14,
+     "end": 36.4
+    },
+    {
+     "w": "past",
+     "start": 36.4,
+     "end": 36.64
+    },
+    {
+     "w": "the",
+     "start": 36.64,
+     "end": 36.86
+    },
+    {
+     "w": "*flag",
+     "start": 36.86,
+     "end": 37.12
+    },
+    {
+     "w": "line*",
+     "start": 37.12,
+     "end": 37.34
+    },
+    {
+     "w": "alone.",
+     "start": 37.34,
+     "end": 37.72
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Three. If the count is wrong, *lock your door* and wait for me.",
+   "voice": "n",
+   "start": 38.5,
+   "end": 42.01,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 38.5,
+     "end": 38.76
+    },
+    {
+     "w": "If",
+     "start": 39.24,
+     "end": 39.4
+    },
+    {
+     "w": "the",
+     "start": 39.4,
+     "end": 39.56
+    },
+    {
+     "w": "count",
+     "start": 39.56,
+     "end": 39.74
+    },
+    {
+     "w": "is",
+     "start": 39.74,
+     "end": 39.9
+    },
+    {
+     "w": "wrong,",
+     "start": 39.9,
+     "end": 40.24
+    },
+    {
+     "w": "*lock",
+     "start": 40.52,
+     "end": 40.76
+    },
+    {
+     "w": "your",
+     "start": 40.76,
+     "end": 40.96
+    },
+    {
+     "w": "door*",
+     "start": 40.96,
+     "end": 41.2
+    },
+    {
+     "w": "and",
+     "start": 41.2,
+     "end": 41.5
+    },
+    {
+     "w": "wait",
+     "start": 41.5,
+     "end": 41.7
+    },
+    {
+     "w": "for",
+     "start": 41.7,
+     "end": 41.88
+    },
+    {
+     "w": "me.",
+     "start": 41.88,
+     "end": 42.01
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "Tonight, the board said forty-one. So I walked the halls and counted faces. *Forty.*",
+   "voice": "n",
+   "start": 42.93,
+   "end": 48.66,
+   "words": [
+    {
+     "w": "Tonight,",
+     "start": 42.93,
+     "end": 43.22
+    },
+    {
+     "w": "the",
+     "start": 43.6,
+     "end": 43.7
+    },
+    {
+     "w": "board",
+     "start": 43.7,
+     "end": 43.88
+    },
+    {
+     "w": "said",
+     "start": 43.88,
+     "end": 44.18
+    },
+    {
+     "w": "forty-one.",
+     "start": 44.547,
+     "end": 44.597
+    },
+    {
+     "w": "So",
+     "start": 44.913,
+     "end": 44.963
+    },
+    {
+     "w": "I",
+     "start": 45.28,
+     "end": 45.62
+    },
+    {
+     "w": "walked",
+     "start": 45.62,
+     "end": 45.96
+    },
+    {
+     "w": "the",
+     "start": 45.96,
+     "end": 46.16
+    },
+    {
+     "w": "halls",
+     "start": 46.16,
+     "end": 46.38
+    },
+    {
+     "w": "and",
+     "start": 46.38,
+     "end": 46.64
+    },
+    {
+     "w": "counted",
+     "start": 46.64,
+     "end": 46.9
+    },
+    {
+     "w": "faces.",
+     "start": 46.9,
+     "end": 47.18
+    },
+    {
+     "w": "*Forty.*",
+     "start": 47.18,
+     "end": 47.62
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "I checked the log. Jo's badge tapped in twice. Once in the galley... *and once from outside,* past the flag line.",
+   "voice": "n",
+   "start": 49.38,
+   "end": 56.4,
+   "words": [
+    {
+     "w": "I",
+     "start": 49.38,
+     "end": 49.48
+    },
+    {
+     "w": "checked",
+     "start": 49.48,
+     "end": 49.66
+    },
+    {
+     "w": "the",
+     "start": 49.66,
+     "end": 49.84
+    },
+    {
+     "w": "log.",
+     "start": 49.84,
+     "end": 50.08
+    },
+    {
+     "w": "Jo's",
+     "start": 50.53,
+     "end": 50.58
+    },
+    {
+     "w": "badge",
+     "start": 50.98,
+     "end": 51.24
+    },
+    {
+     "w": "tapped",
+     "start": 51.24,
+     "end": 51.6
+    },
+    {
+     "w": "in",
+     "start": 51.6,
+     "end": 51.8
+    },
+    {
+     "w": "twice.",
+     "start": 51.8,
+     "end": 52.1
+    },
+    {
+     "w": "Once",
+     "start": 52.64,
+     "end": 52.9
+    },
+    {
+     "w": "in",
+     "start": 52.9,
+     "end": 53.08
+    },
+    {
+     "w": "the",
+     "start": 53.08,
+     "end": 53.18
+    },
+    {
+     "w": "galley...",
+     "start": 53.18,
+     "end": 53.58
+    },
+    {
+     "w": "*and",
+     "start": 53.58,
+     "end": 54.22
+    },
+    {
+     "w": "once",
+     "start": 54.22,
+     "end": 54.42
+    },
+    {
+     "w": "from",
+     "start": 54.42,
+     "end": 54.62
+    },
+    {
+     "w": "outside,*",
+     "start": 54.62,
+     "end": 55.18
+    },
+    {
+     "w": "past",
+     "start": 55.54,
+     "end": 55.68
+    },
+    {
+     "w": "the",
+     "start": 55.68,
+     "end": 55.9
+    },
+    {
+     "w": "flag",
+     "start": 55.9,
+     "end": 56.12
+    },
+    {
+     "w": "line.",
+     "start": 56.12,
+     "end": 56.4
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "Then the radio clicked. It was Jo, out of breath.",
+   "voice": "n",
+   "start": 57.17,
+   "end": 60.07,
+   "words": [
+    {
+     "w": "Then",
+     "start": 57.17,
+     "end": 57.38
+    },
+    {
+     "w": "the",
+     "start": 57.38,
+     "end": 57.54
+    },
+    {
+     "w": "radio",
+     "start": 57.54,
+     "end": 57.84
+    },
+    {
+     "w": "clicked.",
+     "start": 57.84,
+     "end": 58.18
+    },
+    {
+     "w": "It",
+     "start": 58.72,
+     "end": 58.86
+    },
+    {
+     "w": "was",
+     "start": 58.86,
+     "end": 59.04
+    },
+    {
+     "w": "Jo,",
+     "start": 59.33,
+     "end": 59.38
+    },
+    {
+     "w": "out",
+     "start": 59.62,
+     "end": 59.7
+    },
+    {
+     "w": "of",
+     "start": 59.7,
+     "end": 59.84
+    },
+    {
+     "w": "breath.",
+     "start": 59.84,
+     "end": 60.06
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "\"I'm stuck at the flag line. My light's dead. *Come get me.*\"",
+   "voice": "n",
+   "start": 60.92,
+   "end": 63.96,
+   "words": [
+    {
+     "w": "\"I'm",
+     "start": 60.92,
+     "end": 61.05
+    },
+    {
+     "w": "stuck",
+     "start": 61.05,
+     "end": 61.27
+    },
+    {
+     "w": "at",
+     "start": 61.27,
+     "end": 61.41
+    },
+    {
+     "w": "the",
+     "start": 61.41,
+     "end": 61.55
+    },
+    {
+     "w": "flag",
+     "start": 61.55,
+     "end": 61.77
+    },
+    {
+     "w": "line.",
+     "start": 61.77,
+     "end": 62.01
+    },
+    {
+     "w": "My",
+     "start": 62.41,
+     "end": 62.53
+    },
+    {
+     "w": "light's",
+     "start": 62.53,
+     "end": 62.85
+    },
+    {
+     "w": "dead.",
+     "start": 62.85,
+     "end": 63.05
+    },
+    {
+     "w": "*Come",
+     "start": 63.45,
+     "end": 63.55
+    },
+    {
+     "w": "get",
+     "start": 63.55,
+     "end": 63.73
+    },
+    {
+     "w": "me.*\"",
+     "start": 63.73,
+     "end": 63.96
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Then Jo walked in behind me. \"*That's not me.* Lock your door.\"",
+   "voice": "n",
+   "start": 65.03,
+   "end": 68.92,
+   "words": [
+    {
+     "w": "Then",
+     "start": 65.03,
+     "end": 65.24
+    },
+    {
+     "w": "Jo",
+     "start": 65.37,
+     "end": 65.42
+    },
+    {
+     "w": "walked",
+     "start": 65.5,
+     "end": 65.76
+    },
+    {
+     "w": "in",
+     "start": 65.76,
+     "end": 65.96
+    },
+    {
+     "w": "behind",
+     "start": 65.96,
+     "end": 66.26
+    },
+    {
+     "w": "me.",
+     "start": 66.26,
+     "end": 66.6
+    },
+    {
+     "w": "\"*That's",
+     "start": 67.06,
+     "end": 67.28
+    },
+    {
+     "w": "not",
+     "start": 67.28,
+     "end": 67.42
+    },
+    {
+     "w": "me.*",
+     "start": 67.42,
+     "end": 67.74
+    },
+    {
+     "w": "Lock",
+     "start": 68.28,
+     "end": 68.38
+    },
+    {
+     "w": "your",
+     "start": 68.38,
+     "end": 68.56
+    },
+    {
+     "w": "door.\"",
+     "start": 68.56,
+     "end": 68.82
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Rule three says lock the door and wait for Jo. *But which one is Jo?*",
+   "voice": "n",
+   "start": 69.66,
+   "end": 73.94,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 69.84,
+     "end": 69.9
+    },
+    {
+     "w": "three",
+     "start": 69.9,
+     "end": 70.24
+    },
+    {
+     "w": "says",
+     "start": 70.24,
+     "end": 70.52
+    },
+    {
+     "w": "lock",
+     "start": 70.52,
+     "end": 70.86
+    },
+    {
+     "w": "the",
+     "start": 70.86,
+     "end": 71.06
+    },
+    {
+     "w": "door",
+     "start": 71.06,
+     "end": 71.3
+    },
+    {
+     "w": "and",
+     "start": 71.3,
+     "end": 71.54
+    },
+    {
+     "w": "wait",
+     "start": 71.54,
+     "end": 71.74
+    },
+    {
+     "w": "for",
+     "start": 71.74,
+     "end": 71.96
+    },
+    {
+     "w": "Jo.",
+     "start": 72.42,
+     "end": 72.47
+    },
+    {
+     "w": "*But",
+     "start": 72.88,
+     "end": 72.98
+    },
+    {
+     "w": "which",
+     "start": 72.98,
+     "end": 73.16
+    },
+    {
+     "w": "one",
+     "start": 73.16,
+     "end": 73.38
+    },
+    {
+     "w": "is",
+     "start": 73.38,
+     "end": 73.54
+    },
+    {
+     "w": "Jo?*",
+     "start": 73.94,
+     "end": 73.94
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "Then the board refreshed. The badge outside wasn't Jo's anymore. *It was mine.*",
+   "voice": "n",
+   "start": 75.17,
+   "end": 79.96,
+   "words": [
+    {
+     "w": "Then",
+     "start": 75.17,
+     "end": 75.39
+    },
+    {
+     "w": "the",
+     "start": 75.39,
+     "end": 75.55
+    },
+    {
+     "w": "board",
+     "start": 75.55,
+     "end": 75.77
+    },
+    {
+     "w": "refreshed.",
+     "start": 75.77,
+     "end": 76.25
+    },
+    {
+     "w": "The",
+     "start": 76.89,
+     "end": 77.01
+    },
+    {
+     "w": "badge",
+     "start": 77.01,
+     "end": 77.25
+    },
+    {
+     "w": "outside",
+     "start": 77.25,
+     "end": 77.69
+    },
+    {
+     "w": "wasn't",
+     "start": 77.69,
+     "end": 78.19
+    },
+    {
+     "w": "Jo's",
+     "start": 78.36,
+     "end": 78.41
+    },
+    {
+     "w": "anymore.",
+     "start": 78.53,
+     "end": 78.75
+    },
+    {
+     "w": "*It",
+     "start": 79.25,
+     "end": 79.45
+    },
+    {
+     "w": "was",
+     "start": 79.45,
+     "end": 79.57
+    },
+    {
+     "w": "mine.*",
+     "start": 79.57,
+     "end": 79.93
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "Do I *recount,* or lock my door?",
+   "voice": "n",
+   "start": 81.25,
+   "end": 83.3,
+   "words": [
+    {
+     "w": "Do",
+     "start": 81.25,
+     "end": 81.35
+    },
+    {
+     "w": "I",
+     "start": 81.35,
+     "end": 81.49
+    },
+    {
+     "w": "*recount,*",
+     "start": 81.49,
+     "end": 81.95
+    },
+    {
+     "w": "or",
+     "start": 81.95,
+     "end": 82.63
+    },
+    {
+     "w": "lock",
+     "start": 82.63,
+     "end": 82.83
+    },
+    {
+     "w": "my",
+     "start": 82.83,
+     "end": 83.03
+    },
+    {
+     "w": "door?",
+     "start": 83.03,
+     "end": 83.29
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 5.81
+  },
+  {
+   "id": "s2",
+   "start": 5.86,
+   "end": 13.08
+  },
+  {
+   "id": "s3",
+   "start": 13.13,
+   "end": 21.32
+  },
+  {
+   "id": "s4",
+   "start": 21.37,
+   "end": 26.8
+  },
+  {
+   "id": "s5",
+   "start": 26.85,
+   "end": 31.27
+  },
+  {
+   "id": "s6",
+   "start": 31.32,
+   "end": 42.88
+  },
+  {
+   "id": "s7",
+   "start": 42.93,
+   "end": 49.33
+  },
+  {
+   "id": "s8",
+   "start": 49.38,
+   "end": 57.12
+  },
+  {
+   "id": "s9",
+   "start": 57.17,
+   "end": 64.98
+  },
+  {
+   "id": "s10",
+   "start": 65.03,
+   "end": 69.61
+  },
+  {
+   "id": "s11",
+   "start": 69.66,
+   "end": 75.12
+  },
+  {
+   "id": "s12",
+   "start": 75.17,
+   "end": 81.2
+  },
+  {
+   "id": "s13",
+   "start": 81.25,
+   "end": 87.3
+  }
+ ]
+}
