@@ -53,6 +53,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-08 | 18:00 | low-tide | v2, voice 4 (Nov 7 18:00 skipped: Sea Sparkle footprints-from-the-sea posts Nov 2) | 407626446 |
 | 2026-11-09 | 10:00 | bee-vote | vertical explainer (honeybee swarm election), voice 4 | 412828911 |
 | 2026-11-09 | 18:00 | musical-road | v2, voice 4 | 412040920 |
+| 2026-11-10 | 10:00 | second-moon | | 413821241 |
 | 2026-11-10 | 18:00 | winter-over | v2, voice 4 (Nov 10 10:00 still open) | 412825349 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
@@ -104,6 +105,7 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-08 | 18:00 | low-tide |  | 409645912 |
 | 2026-11-09 | 10:00 | bee-vote | Short, SCIENCE_TECHNOLOGY | 412828921 |
 | 2026-11-09 | 18:00 | musical-road |  | 412040964 |
+| 2026-11-10 | 10:00 | second-moon | | 413821267 |
 | 2026-11-10 | 18:00 | winter-over |  | 412825382 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
