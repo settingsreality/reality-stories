@@ -1,0 +1,20 @@
+# Dead Pixel. (scene, caption, voice). First person. *word* = yellow on screen. [whispers] etc. = ElevenLabs direction, never shown.
+SCRIPT = [
+ ('s1', "[whispers] There's a black square hanging in the air of my shop. And something inside it just *threw my wrench back.*", 'n'),
+ ('s2', "I fix phones. A customer left one with a single dead pixel. One black dot, about as wide as a *hair.*", 'n'),
+ ('s3', "Taped to the back was a note from my old boss, Marty, who walked out of this shop two years ago and *never came home.*", 'n'),
+ ('s4', "One. Never press on it.", 'n'),
+ ('s4', "Two. Never feed it.", 'n'),
+ ('s4', "Three. If something comes back, *don't read it.*", 'n'),
+ ('s5', "Next morning, the dot was on my laptop. Then my TV. Same spot on *every screen* I own.", 'n'),
+ ('s6', "So I shut them all off. It stayed. It was floating in the air, *in front of the glass.*", 'n'),
+ ('s7', "And it doubled every night. Fifteen doublings, and one pixel is *as tall as a door.*", 'n'),
+ ('s8', "So I pressed it. No wall. No cold. My finger just *wasn't in the picture* anymore.", 'n'),
+ ('s9', "I threw in a wrench. Ten seconds later, it came *flying back.*", 'n'),
+ ('s10', "Then a phone came out. Marty's phone. The screen was on, with one message, *typed to me.*", 'n'),
+ ('s11', "Rule one, broken. Rule two, broken. Rule three says *don't read it.* I read it.", 'n'),
+ ('s12', "\"You never fix a dead pixel. You know that. *You replace the whole panel.*\"", 'n'),
+ ('s13', "Then the sky lifted at one corner, like someone sliding a tool *under the glass.*", 'n'),
+ ('s14', "That square isn't broken. It's the only way *out of the picture.*", 'n'),
+ ('s15', "[quietly] Do I step through, or *stay in the picture?*", 'n'),
+]
