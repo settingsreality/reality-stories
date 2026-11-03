@@ -143,6 +143,13 @@ node pipeline/v2/cover.js stories/<slug>/www <t> covers/<slug>-cover.jpg '<short
 - Never schedule the same slug twice on the same network. Check `ops/schedule.md` (both tables) and `getScheduledPosts`.
 - Don't touch posts already scheduled unless one is clearly broken.
 
+## Platform AI rules (read Nov 2, 2026; what they mean for our videos)
+
+- **What triggers a required AI label everywhere is *realism*:** realistic-looking people or scenes, a real person's likeness or voice, or fake real-world events. Our cartoon visuals don't trigger it. Our **narrator is a realistic-sounding AI voice**, and Instagram/Meta requires disclosure for "realistic-sounding audio that was digitally created", so the labels stay **on** (`isAiGenerated`, `isAigc`, `isAiGeneratedContent`), as the owner wants.
+- **Never**: realistic depictions of real people (public or private) or anyone under 18; an AI voice that imitates a real person; anything that could be mistaken for real news or a real event. Real-place / real-device stories must read clearly as fiction: keep #scarystories/story framing in the caption, and never present a made-up event as news (e.g. Voyager, flights, weather).
+- **Monetization later:** YouTube's "inauthentic content" rule (since July 15, 2025) refuses "AI-generated content made with generic or unoriginal templates giving the impression of mass production" and "videos where characters are put in the same situation over and over again with the same outcome". Allowed: a recurring format where "each video has a distinct storyline, focus, or concept". So every video needs its own premise, setting, art and twist; don't make near-copies of earlier stories.
+- Instagram ranks original content and stops recommending accounts that mostly repost; we upload clean original files (never a TikTok-watermarked copy). Its "AI-generated profile" label is only for accounts featuring an AI-generated *person* (influencer personas), not ours.
+
 ## Rules
 
 - Series parts go on **consecutive days in the same slot**, in order.
