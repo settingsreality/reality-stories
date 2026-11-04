@@ -1,0 +1,20 @@
+# The Sound That Rises Forever (explainer, v2 vertical in the How Time Works look). One voice. *word* = yellow on screen.
+SCRIPT = [
+ ('c1', "[whispers] Listen. This sound is going up. It will keep going up *forever,* and it will never get any higher.", 'n'),
+ ('c2', "It's called a *Shepard tone,* and it's an illusion for your ears.", 'n'),
+ ('c2', "In 1964, a psychologist at Bell Labs named Roger Shepard built it with a *computer.*", 'n'),
+ ('c3', "Here's the trick. Every note you hear is really a *stack.* The same note, in many octaves at once.", 'n'),
+ ('c3', "One octave up means *double* the frequency. Your ears can hear about *ten* of them.", 'n'),
+ ('c4', "And the stack has rules. Rule one. Every layer rises at the *same speed.*", 'n'),
+ ('c4', "Rule two. Near the top, each layer *fades out.*", 'n'),
+ ('c4', "Rule three. Down at the bottom, a new layer *fades in.*", 'n'),
+ ('c5', "So there's always something rising, but the whole stack never moves. It's a *barber pole* for your ears.", 'n'),
+ ('c6', "Pitch isn't really a ladder. It's a *spiral staircase.* Every octave, you land on the same note, one floor up.", 'n'),
+ ('c6', "Shepard erased the floors. All that's left is the *circle,* and you walk it forever.", 'n'),
+ ('c7', "That's the endless staircase in *Super Mario 64.* The Batpod in *The Dark Knight.* Christopher Nolan even wrote *Dunkirk* around it.", 'n'),
+ ('c8', "But here's the weird part. Play two of these tones exactly *half a circle* apart.", 'n'),
+ ('c8', "Now there's no shorter way around, so your brain has to *guess.*", 'n'),
+ ('c9', "It's called the *tritone paradox.* Two people hear the same two notes. One hears them *rise.* The other hears them *fall.*", 'n'),
+ ('c10', "[quietly] Here they are.", 'n'),
+ ('c10', "[quietly] Did it go *up,* or *down?*", 'n'),
+]

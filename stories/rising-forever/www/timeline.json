@@ -1,0 +1,1435 @@
+{
+ "total": 106.79,
+ "lines": [
+  {
+   "scene": "c1",
+   "text": "Listen. This sound is going up. It will keep going up *forever,* and it will never get any higher.",
+   "voice": "n",
+   "start": 0.17,
+   "end": 6.95,
+   "words": [
+    {
+     "w": "Listen.",
+     "start": 0.17,
+     "end": 0.43
+    },
+    {
+     "w": "This",
+     "start": 0.95,
+     "end": 1.25
+    },
+    {
+     "w": "sound",
+     "start": 1.25,
+     "end": 1.59
+    },
+    {
+     "w": "is",
+     "start": 1.59,
+     "end": 1.81
+    },
+    {
+     "w": "going",
+     "start": 1.81,
+     "end": 2.09
+    },
+    {
+     "w": "up.",
+     "start": 2.09,
+     "end": 2.43
+    },
+    {
+     "w": "It",
+     "start": 3.09,
+     "end": 3.25
+    },
+    {
+     "w": "will",
+     "start": 3.25,
+     "end": 3.43
+    },
+    {
+     "w": "keep",
+     "start": 3.43,
+     "end": 3.69
+    },
+    {
+     "w": "going",
+     "start": 3.69,
+     "end": 3.99
+    },
+    {
+     "w": "up",
+     "start": 3.99,
+     "end": 4.21
+    },
+    {
+     "w": "*forever,*",
+     "start": 4.21,
+     "end": 4.73
+    },
+    {
+     "w": "and",
+     "start": 4.95,
+     "end": 5.29
+    },
+    {
+     "w": "it",
+     "start": 5.29,
+     "end": 5.39
+    },
+    {
+     "w": "will",
+     "start": 5.39,
+     "end": 5.53
+    },
+    {
+     "w": "never",
+     "start": 5.53,
+     "end": 5.89
+    },
+    {
+     "w": "get",
+     "start": 5.89,
+     "end": 6.17
+    },
+    {
+     "w": "any",
+     "start": 6.17,
+     "end": 6.57
+    },
+    {
+     "w": "higher.",
+     "start": 6.57,
+     "end": 6.95
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "It's called a *Shepard tone,* and it's an illusion for your ears.",
+   "voice": "n",
+   "start": 9.28,
+   "end": 12.86,
+   "words": [
+    {
+     "w": "It's",
+     "start": 9.28,
+     "end": 9.45
+    },
+    {
+     "w": "called",
+     "start": 9.45,
+     "end": 9.73
+    },
+    {
+     "w": "a",
+     "start": 9.73,
+     "end": 9.97
+    },
+    {
+     "w": "*Shepard",
+     "start": 9.97,
+     "end": 10.37
+    },
+    {
+     "w": "tone,*",
+     "start": 10.37,
+     "end": 10.71
+    },
+    {
+     "w": "and",
+     "start": 11.03,
+     "end": 11.23
+    },
+    {
+     "w": "it's",
+     "start": 11.23,
+     "end": 11.39
+    },
+    {
+     "w": "an",
+     "start": 11.39,
+     "end": 11.49
+    },
+    {
+     "w": "illusion",
+     "start": 11.49,
+     "end": 11.87
+    },
+    {
+     "w": "for",
+     "start": 11.87,
+     "end": 12.21
+    },
+    {
+     "w": "your",
+     "start": 12.21,
+     "end": 12.37
+    },
+    {
+     "w": "ears.",
+     "start": 12.37,
+     "end": 12.75
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "In 1964, a psychologist at Bell Labs named Roger Shepard built it with a *computer.*",
+   "voice": "n",
+   "start": 13.58,
+   "end": 18.97,
+   "words": [
+    {
+     "w": "In",
+     "start": 13.58,
+     "end": 13.69
+    },
+    {
+     "w": "1964,",
+     "start": 13.99,
+     "end": 14.04
+    },
+    {
+     "w": "a",
+     "start": 14.29,
+     "end": 14.34
+    },
+    {
+     "w": "psychologist",
+     "start": 14.59,
+     "end": 14.64
+    },
+    {
+     "w": "at",
+     "start": 14.89,
+     "end": 15.15
+    },
+    {
+     "w": "Bell",
+     "start": 15.15,
+     "end": 15.61
+    },
+    {
+     "w": "Labs",
+     "start": 15.61,
+     "end": 15.99
+    },
+    {
+     "w": "named",
+     "start": 15.99,
+     "end": 16.17
+    },
+    {
+     "w": "Roger",
+     "start": 16.57,
+     "end": 16.87
+    },
+    {
+     "w": "Shepard",
+     "start": 16.87,
+     "end": 17.29
+    },
+    {
+     "w": "built",
+     "start": 17.29,
+     "end": 17.71
+    },
+    {
+     "w": "it",
+     "start": 17.71,
+     "end": 18.07
+    },
+    {
+     "w": "with",
+     "start": 18.07,
+     "end": 18.27
+    },
+    {
+     "w": "a",
+     "start": 18.27,
+     "end": 18.43
+    },
+    {
+     "w": "*computer.*",
+     "start": 18.43,
+     "end": 18.55
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Here's the trick. Every note you hear is really a *stack.* The same note, in many octaves at once.",
+   "voice": "n",
+   "start": 19.7,
+   "end": 26.15,
+   "words": [
+    {
+     "w": "Here's",
+     "start": 19.7,
+     "end": 19.87
+    },
+    {
+     "w": "the",
+     "start": 19.87,
+     "end": 20.01
+    },
+    {
+     "w": "trick.",
+     "start": 20.01,
+     "end": 20.27
+    },
+    {
+     "w": "Every",
+     "start": 20.93,
+     "end": 21.21
+    },
+    {
+     "w": "note",
+     "start": 21.21,
+     "end": 21.39
+    },
+    {
+     "w": "you",
+     "start": 21.39,
+     "end": 21.61
+    },
+    {
+     "w": "hear",
+     "start": 21.61,
+     "end": 21.95
+    },
+    {
+     "w": "is",
+     "start": 21.95,
+     "end": 22.21
+    },
+    {
+     "w": "really",
+     "start": 22.21,
+     "end": 22.63
+    },
+    {
+     "w": "a",
+     "start": 22.63,
+     "end": 22.87
+    },
+    {
+     "w": "*stack.*",
+     "start": 22.87,
+     "end": 23.27
+    },
+    {
+     "w": "The",
+     "start": 23.71,
+     "end": 23.91
+    },
+    {
+     "w": "same",
+     "start": 23.91,
+     "end": 24.17
+    },
+    {
+     "w": "note,",
+     "start": 24.17,
+     "end": 24.47
+    },
+    {
+     "w": "in",
+     "start": 24.47,
+     "end": 24.79
+    },
+    {
+     "w": "many",
+     "start": 24.79,
+     "end": 25.11
+    },
+    {
+     "w": "octaves",
+     "start": 25.11,
+     "end": 25.53
+    },
+    {
+     "w": "at",
+     "start": 25.53,
+     "end": 25.71
+    },
+    {
+     "w": "once.",
+     "start": 25.71,
+     "end": 26.01
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "One octave up means *double* the frequency. Your ears can hear about *ten* of them.",
+   "voice": "n",
+   "start": 26.76,
+   "end": 31.26,
+   "words": [
+    {
+     "w": "One",
+     "start": 26.76,
+     "end": 26.93
+    },
+    {
+     "w": "octave",
+     "start": 26.93,
+     "end": 27.27
+    },
+    {
+     "w": "up",
+     "start": 27.27,
+     "end": 27.53
+    },
+    {
+     "w": "means",
+     "start": 27.53,
+     "end": 27.99
+    },
+    {
+     "w": "*double*",
+     "start": 27.99,
+     "end": 28.37
+    },
+    {
+     "w": "the",
+     "start": 28.37,
+     "end": 28.57
+    },
+    {
+     "w": "frequency.",
+     "start": 28.57,
+     "end": 28.99
+    },
+    {
+     "w": "Your",
+     "start": 28.99,
+     "end": 29.75
+    },
+    {
+     "w": "ears",
+     "start": 29.75,
+     "end": 30.03
+    },
+    {
+     "w": "can",
+     "start": 30.03,
+     "end": 30.27
+    },
+    {
+     "w": "hear",
+     "start": 30.27,
+     "end": 30.45
+    },
+    {
+     "w": "about",
+     "start": 30.45,
+     "end": 30.69
+    },
+    {
+     "w": "*ten*",
+     "start": 30.69,
+     "end": 30.97
+    },
+    {
+     "w": "of",
+     "start": 30.97,
+     "end": 31.11
+    },
+    {
+     "w": "them.",
+     "start": 31.11,
+     "end": 31.26
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "And the stack has rules. Rule one. Every layer rises at the *same speed.*",
+   "voice": "n",
+   "start": 31.91,
+   "end": 37.14,
+   "words": [
+    {
+     "w": "And",
+     "start": 31.97,
+     "end": 31.99
+    },
+    {
+     "w": "the",
+     "start": 31.99,
+     "end": 32.13
+    },
+    {
+     "w": "stack",
+     "start": 32.13,
+     "end": 32.43
+    },
+    {
+     "w": "has",
+     "start": 32.43,
+     "end": 32.73
+    },
+    {
+     "w": "rules.",
+     "start": 32.73,
+     "end": 33.13
+    },
+    {
+     "w": "Rule",
+     "start": 34.05,
+     "end": 34.05
+    },
+    {
+     "w": "one.",
+     "start": 34.05,
+     "end": 34.37
+    },
+    {
+     "w": "Every",
+     "start": 35.25,
+     "end": 35.25
+    },
+    {
+     "w": "layer",
+     "start": 35.25,
+     "end": 35.53
+    },
+    {
+     "w": "rises",
+     "start": 35.53,
+     "end": 36.05
+    },
+    {
+     "w": "at",
+     "start": 36.05,
+     "end": 36.31
+    },
+    {
+     "w": "the",
+     "start": 36.31,
+     "end": 36.49
+    },
+    {
+     "w": "*same",
+     "start": 36.49,
+     "end": 36.71
+    },
+    {
+     "w": "speed.*",
+     "start": 36.71,
+     "end": 37.14
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Rule two. Near the top, each layer *fades out.*",
+   "voice": "n",
+   "start": 37.83,
+   "end": 41.24,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 37.97,
+     "end": 37.99
+    },
+    {
+     "w": "two.",
+     "start": 37.99,
+     "end": 38.41
+    },
+    {
+     "w": "Near",
+     "start": 38.99,
+     "end": 39.11
+    },
+    {
+     "w": "the",
+     "start": 39.11,
+     "end": 39.33
+    },
+    {
+     "w": "top,",
+     "start": 39.33,
+     "end": 39.67
+    },
+    {
+     "w": "each",
+     "start": 39.97,
+     "end": 40.15
+    },
+    {
+     "w": "layer",
+     "start": 40.15,
+     "end": 40.49
+    },
+    {
+     "w": "*fades",
+     "start": 40.49,
+     "end": 40.87
+    },
+    {
+     "w": "out.*",
+     "start": 40.87,
+     "end": 41.24
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Rule three. Down at the bottom, a new layer *fades in.*",
+   "voice": "n",
+   "start": 41.92,
+   "end": 45.44,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 41.95,
+     "end": 42.09
+    },
+    {
+     "w": "three.",
+     "start": 42.09,
+     "end": 42.49
+    },
+    {
+     "w": "Down",
+     "start": 43.03,
+     "end": 43.25
+    },
+    {
+     "w": "at",
+     "start": 43.25,
+     "end": 43.39
+    },
+    {
+     "w": "the",
+     "start": 43.39,
+     "end": 43.53
+    },
+    {
+     "w": "bottom,",
+     "start": 43.53,
+     "end": 43.85
+    },
+    {
+     "w": "a",
+     "start": 44.13,
+     "end": 44.25
+    },
+    {
+     "w": "new",
+     "start": 44.25,
+     "end": 44.51
+    },
+    {
+     "w": "layer",
+     "start": 44.51,
+     "end": 44.79
+    },
+    {
+     "w": "*fades",
+     "start": 44.79,
+     "end": 45.15
+    },
+    {
+     "w": "in.*",
+     "start": 45.15,
+     "end": 45.44
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "So there's always something rising, but the whole stack never moves. It's a *barber pole* for your ears.",
+   "voice": "n",
+   "start": 46.18,
+   "end": 52.0,
+   "words": [
+    {
+     "w": "So",
+     "start": 46.18,
+     "end": 46.29
+    },
+    {
+     "w": "there's",
+     "start": 46.29,
+     "end": 46.55
+    },
+    {
+     "w": "always",
+     "start": 46.55,
+     "end": 46.89
+    },
+    {
+     "w": "something",
+     "start": 46.89,
+     "end": 47.23
+    },
+    {
+     "w": "rising,",
+     "start": 47.23,
+     "end": 47.73
+    },
+    {
+     "w": "but",
+     "start": 48.09,
+     "end": 48.23
+    },
+    {
+     "w": "the",
+     "start": 48.23,
+     "end": 48.35
+    },
+    {
+     "w": "whole",
+     "start": 48.35,
+     "end": 48.59
+    },
+    {
+     "w": "stack",
+     "start": 48.59,
+     "end": 48.99
+    },
+    {
+     "w": "never",
+     "start": 48.99,
+     "end": 49.37
+    },
+    {
+     "w": "moves.",
+     "start": 49.37,
+     "end": 49.79
+    },
+    {
+     "w": "It's",
+     "start": 50.33,
+     "end": 50.49
+    },
+    {
+     "w": "a",
+     "start": 50.49,
+     "end": 50.61
+    },
+    {
+     "w": "*barber",
+     "start": 50.61,
+     "end": 50.95
+    },
+    {
+     "w": "pole*",
+     "start": 50.95,
+     "end": 51.15
+    },
+    {
+     "w": "for",
+     "start": 51.15,
+     "end": 51.39
+    },
+    {
+     "w": "your",
+     "start": 51.39,
+     "end": 51.55
+    },
+    {
+     "w": "ears.",
+     "start": 51.55,
+     "end": 51.89
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "Pitch isn't really a ladder. It's a *spiral staircase.* Every octave, you land on the same note, one floor up.",
+   "voice": "n",
+   "start": 54.67,
+   "end": 61.7,
+   "words": [
+    {
+     "w": "Pitch",
+     "start": 54.71,
+     "end": 54.85
+    },
+    {
+     "w": "isn't",
+     "start": 54.85,
+     "end": 55.25
+    },
+    {
+     "w": "really",
+     "start": 55.25,
+     "end": 55.49
+    },
+    {
+     "w": "a",
+     "start": 55.49,
+     "end": 55.71
+    },
+    {
+     "w": "ladder.",
+     "start": 55.71,
+     "end": 55.99
+    },
+    {
+     "w": "It's",
+     "start": 56.29,
+     "end": 56.53
+    },
+    {
+     "w": "a",
+     "start": 56.53,
+     "end": 56.61
+    },
+    {
+     "w": "*spiral",
+     "start": 56.61,
+     "end": 57.07
+    },
+    {
+     "w": "staircase.*",
+     "start": 57.07,
+     "end": 57.61
+    },
+    {
+     "w": "Every",
+     "start": 57.61,
+     "end": 58.67
+    },
+    {
+     "w": "octave,",
+     "start": 58.67,
+     "end": 59.17
+    },
+    {
+     "w": "you",
+     "start": 59.45,
+     "end": 59.47
+    },
+    {
+     "w": "land",
+     "start": 59.47,
+     "end": 59.69
+    },
+    {
+     "w": "on",
+     "start": 59.69,
+     "end": 59.87
+    },
+    {
+     "w": "the",
+     "start": 59.87,
+     "end": 59.97
+    },
+    {
+     "w": "same",
+     "start": 59.97,
+     "end": 60.29
+    },
+    {
+     "w": "note,",
+     "start": 60.29,
+     "end": 60.65
+    },
+    {
+     "w": "one",
+     "start": 60.97,
+     "end": 61.09
+    },
+    {
+     "w": "floor",
+     "start": 61.09,
+     "end": 61.37
+    },
+    {
+     "w": "up.",
+     "start": 61.37,
+     "end": 61.67
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "Shepard erased the floors. All that's left is the *circle,* and you walk it forever.",
+   "voice": "n",
+   "start": 62.33,
+   "end": 67.45,
+   "words": [
+    {
+     "w": "Shepard",
+     "start": 62.49,
+     "end": 62.69
+    },
+    {
+     "w": "erased",
+     "start": 62.69,
+     "end": 63.19
+    },
+    {
+     "w": "the",
+     "start": 63.19,
+     "end": 63.45
+    },
+    {
+     "w": "floors.",
+     "start": 63.45,
+     "end": 63.79
+    },
+    {
+     "w": "All",
+     "start": 64.33,
+     "end": 64.47
+    },
+    {
+     "w": "that's",
+     "start": 64.47,
+     "end": 64.73
+    },
+    {
+     "w": "left",
+     "start": 64.73,
+     "end": 64.95
+    },
+    {
+     "w": "is",
+     "start": 64.95,
+     "end": 65.19
+    },
+    {
+     "w": "the",
+     "start": 65.19,
+     "end": 65.39
+    },
+    {
+     "w": "*circle,*",
+     "start": 65.39,
+     "end": 65.71
+    },
+    {
+     "w": "and",
+     "start": 66.09,
+     "end": 66.23
+    },
+    {
+     "w": "you",
+     "start": 66.23,
+     "end": 66.37
+    },
+    {
+     "w": "walk",
+     "start": 66.37,
+     "end": 66.61
+    },
+    {
+     "w": "it",
+     "start": 66.61,
+     "end": 66.87
+    },
+    {
+     "w": "forever.",
+     "start": 66.87,
+     "end": 67.33
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "That's the endless staircase in *Super Mario 64.* The Batpod in *The Dark Knight.* Christopher Nolan even wrote *Dunkirk* around it.",
+   "voice": "n",
+   "start": 68.21,
+   "end": 75.86,
+   "words": [
+    {
+     "w": "That's",
+     "start": 68.21,
+     "end": 68.49
+    },
+    {
+     "w": "the",
+     "start": 68.49,
+     "end": 68.61
+    },
+    {
+     "w": "endless",
+     "start": 68.61,
+     "end": 68.99
+    },
+    {
+     "w": "staircase",
+     "start": 68.99,
+     "end": 69.49
+    },
+    {
+     "w": "in",
+     "start": 69.49,
+     "end": 69.79
+    },
+    {
+     "w": "*Super",
+     "start": 69.79,
+     "end": 70.09
+    },
+    {
+     "w": "Mario",
+     "start": 70.09,
+     "end": 70.37
+    },
+    {
+     "w": "64.*",
+     "start": 70.79,
+     "end": 70.84
+    },
+    {
+     "w": "The",
+     "start": 71.21,
+     "end": 71.26
+    },
+    {
+     "w": "Batpod",
+     "start": 71.63,
+     "end": 71.83
+    },
+    {
+     "w": "in",
+     "start": 71.83,
+     "end": 72.29
+    },
+    {
+     "w": "*The",
+     "start": 72.29,
+     "end": 72.47
+    },
+    {
+     "w": "Dark",
+     "start": 72.47,
+     "end": 72.59
+    },
+    {
+     "w": "Knight.*",
+     "start": 72.59,
+     "end": 72.81
+    },
+    {
+     "w": "Christopher",
+     "start": 72.81,
+     "end": 73.09
+    },
+    {
+     "w": "Nolan",
+     "start": 73.67,
+     "end": 73.97
+    },
+    {
+     "w": "even",
+     "start": 73.97,
+     "end": 74.31
+    },
+    {
+     "w": "wrote",
+     "start": 74.31,
+     "end": 74.63
+    },
+    {
+     "w": "*Dunkirk*",
+     "start": 74.63,
+     "end": 74.91
+    },
+    {
+     "w": "around",
+     "start": 74.91,
+     "end": 75.43
+    },
+    {
+     "w": "it.",
+     "start": 75.43,
+     "end": 75.73
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "But here's the weird part. Play two of these tones exactly *half a circle* apart.",
+   "voice": "n",
+   "start": 76.89,
+   "end": 81.66,
+   "words": [
+    {
+     "w": "But",
+     "start": 76.89,
+     "end": 76.95
+    },
+    {
+     "w": "here's",
+     "start": 76.95,
+     "end": 77.23
+    },
+    {
+     "w": "the",
+     "start": 77.23,
+     "end": 77.35
+    },
+    {
+     "w": "weird",
+     "start": 77.35,
+     "end": 77.57
+    },
+    {
+     "w": "part.",
+     "start": 77.57,
+     "end": 77.89
+    },
+    {
+     "w": "Play",
+     "start": 78.51,
+     "end": 78.67
+    },
+    {
+     "w": "two",
+     "start": 78.67,
+     "end": 78.99
+    },
+    {
+     "w": "of",
+     "start": 78.99,
+     "end": 79.15
+    },
+    {
+     "w": "these",
+     "start": 79.15,
+     "end": 79.35
+    },
+    {
+     "w": "tones",
+     "start": 79.35,
+     "end": 79.65
+    },
+    {
+     "w": "exactly",
+     "start": 79.65,
+     "end": 80.29
+    },
+    {
+     "w": "*half",
+     "start": 80.29,
+     "end": 80.73
+    },
+    {
+     "w": "a",
+     "start": 80.73,
+     "end": 80.91
+    },
+    {
+     "w": "circle*",
+     "start": 80.91,
+     "end": 81.19
+    },
+    {
+     "w": "apart.",
+     "start": 81.19,
+     "end": 81.57
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "Now there's no shorter way around, so your brain has to *guess.*",
+   "voice": "n",
+   "start": 82.28,
+   "end": 85.77,
+   "words": [
+    {
+     "w": "Now",
+     "start": 82.28,
+     "end": 82.53
+    },
+    {
+     "w": "there's",
+     "start": 82.53,
+     "end": 82.83
+    },
+    {
+     "w": "no",
+     "start": 82.83,
+     "end": 83.11
+    },
+    {
+     "w": "shorter",
+     "start": 83.11,
+     "end": 83.47
+    },
+    {
+     "w": "way",
+     "start": 83.47,
+     "end": 83.73
+    },
+    {
+     "w": "around,",
+     "start": 83.73,
+     "end": 84.11
+    },
+    {
+     "w": "so",
+     "start": 84.35,
+     "end": 84.57
+    },
+    {
+     "w": "your",
+     "start": 84.57,
+     "end": 84.71
+    },
+    {
+     "w": "brain",
+     "start": 84.71,
+     "end": 85.03
+    },
+    {
+     "w": "has",
+     "start": 85.03,
+     "end": 85.29
+    },
+    {
+     "w": "to",
+     "start": 85.29,
+     "end": 85.47
+    },
+    {
+     "w": "*guess.*",
+     "start": 85.47,
+     "end": 85.75
+    }
+   ]
+  },
+  {
+   "scene": "c9",
+   "text": "It's called the *tritone paradox.* Two people hear the same two notes. One hears them *rise.* The other hears them *fall.*",
+   "voice": "n",
+   "start": 86.19,
+   "end": 94.79,
+   "words": [
+    {
+     "w": "It's",
+     "start": 86.19,
+     "end": 87.07
+    },
+    {
+     "w": "called",
+     "start": 87.07,
+     "end": 87.33
+    },
+    {
+     "w": "the",
+     "start": 87.33,
+     "end": 87.57
+    },
+    {
+     "w": "*tritone",
+     "start": 87.57,
+     "end": 88.09
+    },
+    {
+     "w": "paradox.*",
+     "start": 88.09,
+     "end": 88.73
+    },
+    {
+     "w": "Two",
+     "start": 89.61,
+     "end": 89.67
+    },
+    {
+     "w": "people",
+     "start": 89.67,
+     "end": 89.99
+    },
+    {
+     "w": "hear",
+     "start": 89.99,
+     "end": 90.19
+    },
+    {
+     "w": "the",
+     "start": 90.19,
+     "end": 90.33
+    },
+    {
+     "w": "same",
+     "start": 90.33,
+     "end": 90.67
+    },
+    {
+     "w": "two",
+     "start": 90.67,
+     "end": 90.93
+    },
+    {
+     "w": "notes.",
+     "start": 90.93,
+     "end": 91.31
+    },
+    {
+     "w": "One",
+     "start": 91.83,
+     "end": 92.05
+    },
+    {
+     "w": "hears",
+     "start": 92.05,
+     "end": 92.35
+    },
+    {
+     "w": "them",
+     "start": 92.35,
+     "end": 92.51
+    },
+    {
+     "w": "*rise.*",
+     "start": 92.51,
+     "end": 92.89
+    },
+    {
+     "w": "The",
+     "start": 93.27,
+     "end": 93.47
+    },
+    {
+     "w": "other",
+     "start": 93.47,
+     "end": 93.77
+    },
+    {
+     "w": "hears",
+     "start": 93.77,
+     "end": 94.15
+    },
+    {
+     "w": "them",
+     "start": 94.15,
+     "end": 94.35
+    },
+    {
+     "w": "*fall.*",
+     "start": 94.35,
+     "end": 94.75
+    }
+   ]
+  },
+  {
+   "scene": "c10",
+   "text": "Here they are.",
+   "voice": "n",
+   "start": 95.46,
+   "end": 95.85,
+   "words": [
+    {
+     "w": "Here",
+     "start": 95.46,
+     "end": 95.53
+    },
+    {
+     "w": "they",
+     "start": 95.53,
+     "end": 95.67
+    },
+    {
+     "w": "are.",
+     "start": 95.67,
+     "end": 95.85
+    }
+   ]
+  },
+  {
+   "scene": "c10",
+   "text": "Did it go *up,* or *down?*",
+   "voice": "n",
+   "start": 100.87,
+   "end": 102.29,
+   "words": [
+    {
+     "w": "Did",
+     "start": 100.87,
+     "end": 100.95
+    },
+    {
+     "w": "it",
+     "start": 100.95,
+     "end": 101.05
+    },
+    {
+     "w": "go",
+     "start": 101.05,
+     "end": 101.23
+    },
+    {
+     "w": "*up,*",
+     "start": 101.23,
+     "end": 101.53
+    },
+    {
+     "w": "or",
+     "start": 101.53,
+     "end": 102.01
+    },
+    {
+     "w": "*down?*",
+     "start": 102.01,
+     "end": 102.29
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "c1",
+   "start": 0,
+   "end": 9.23
+  },
+  {
+   "id": "c2",
+   "start": 9.28,
+   "end": 19.65
+  },
+  {
+   "id": "c3",
+   "start": 19.7,
+   "end": 31.86
+  },
+  {
+   "id": "c4",
+   "start": 31.91,
+   "end": 46.13
+  },
+  {
+   "id": "c5",
+   "start": 46.18,
+   "end": 54.62
+  },
+  {
+   "id": "c6",
+   "start": 54.67,
+   "end": 68.16
+  },
+  {
+   "id": "c7",
+   "start": 68.21,
+   "end": 76.84
+  },
+  {
+   "id": "c8",
+   "start": 76.89,
+   "end": 86.14
+  },
+  {
+   "id": "c9",
+   "start": 86.19,
+   "end": 95.41
+  },
+  {
+   "id": "c10",
+   "start": 95.46,
+   "end": 106.79
+  }
+ ]
+}
