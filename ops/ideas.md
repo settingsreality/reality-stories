@@ -39,6 +39,7 @@
 - The Bee Vote (vertical explainer, Nov 1): honeybee swarm house-hunting (Seeley/Visscher/Passino: ~10,000-bee swarm, a few hundred scouts, 100 vs 12 dance circuits, ~15 scouts = quorum, warm to 35°C/95°F, ~16 h, nearly always the best site; stop signal = head-butt + beep; like neurons excite/inhibit; queen doesn't vote); "Trust the bees / Keep my vote"
 - Second Moon (v2, Nov 2): real 2024 PT5 mini-moon (bus-sized, 57 days); a new one glows on the side away from the Sun; small-town observatory, Ruth's rules card (naked eye only / never point the telescope / if the bright side turns to you, close the dome); 384,000 → 90,000 km; world telescope logs go quiet; dome jams; Ruth: "Don't close it. If it can't see you, it comes down to look"; the telescope swings by itself, light pours from the eyepiece; "The moon pointed it at me"; "Look / Close the dome"
 - Dead Pixel (v2 high concept, Nov 3): phone repair tech; a dead pixel (~0.06 mm) spreads to every screen, then floats off the glass; doubles nightly (15 doublings = a door); Marty's repair-ticket rules (never press / never feed / if something comes back, don't read it) get broken one by one; a wrench is thrown back, then missing Marty's phone: "You never fix a dead pixel. You replace the whole panel"; the sky lifts at one corner on a giant pick; the square is the only way out of the picture; "Step in / Stay"
+- The Sound That Rises Forever (vertical explainer, Nov 4): a real Shepard–Risset glissando plays under the narration (9 layers, 1 octave per 10 s; Shepard 1964, Bell Labs); rules card (same speed / top fades out / bottom fades in), barber pole, spiral staircase → circle, Mario 64 stairs, Batpod, Dunkirk's script; twist = tritone paradox (Deutsch 1986), real C→F# Shepard tone pairs at the end; "Up / Down"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -65,7 +66,7 @@
   - (Second Moon: done Nov 2)
   - (Winter-Over: done Nov 1)
   - (Bees hold elections: done Nov 1 as The Bee Vote)
-  - **The sound that rises forever** (explainer): the Shepard tone; the viewer hears it while it's explained (used in films for tension).
+  - (The sound that rises forever: done Nov 4)
   - **The mirror question** (explainer): why a mirror seems to flip left-right but not up-down (it actually flips front-back).
   - **Physics Would You Rather** (explainer series): two awful options explained with real physics, the viewer picks ("fall into Jupiter or the Sun?", "a teaspoon of neutron star or a grain of black hole?").
   - **A teaspoon of neutron star** (explainer), **Everyone who ever lived** (about 117 billion people ever born; explainer), **The 7-year myth** (your cells don't all replace every 7 years; explainer).
