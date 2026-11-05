@@ -1,0 +1,20 @@
+# Microchip. (scene, caption, voice). First person. *word* = yellow on screen. [whispers] etc. = ElevenLabs direction, never shown.
+SCRIPT = [
+ ('s1', "[whispers] The vet ran the scanner over the back of my neck, and it *beeped.*", 'n'),
+ ('s2', "It started with a stray. Gray cat, torn ear. Every night at *4:40*, he scratched at my door. To the minute.", 'n'),
+ ('s3', "So I took him in to get scanned. A pet chip is the size of a *grain of rice.* No battery. It only answers when a scanner asks.", 'n'),
+ ('s4', "Beep. Fifteen digits. The vet typed them in, went quiet, and *turned the screen around.*", 'n'),
+ ('s5', "Registered to my name. My address. Registered in *1974.*", 'n'),
+ ('s6', "I was born in 1996. Pet chips didn't even exist yet. And under notes, there were *three rules.*", 'n'),
+ ('s7', "One. Feed him before dark.", 'n'),
+ ('s7', "Two. When he scratches, open the door.", 'n'),
+ ('s7', "Three. Never *scan the owner.*", 'n'),
+ ('s8', "I laughed. The vet didn't. She said every chip she's ever placed goes in the same spot. *Between the shoulder blades.*", 'n'),
+ ('s9', "I reached back. Under the skin, something small. Something hard, *like a grain of rice.*", 'n'),
+ ('s10', "She asked if she could check. Rule three. And I *said yes.*", 'n'),
+ ('s11', "Beep. A different number. She typed it in, and her hand *started shaking.*", 'n'),
+ ('s12', "Animal: me. Status: *lost.* Reported missing, 1974.", 'n'),
+ ('s13', "The cat stopped purring. He reached up, and put one paw *on the screen.*", 'n'),
+ ('s14', "He was never a stray. All these years, he's been going door to door, *looking for his pet.*", 'n'),
+ ('s15', "[quietly] It's 4:39. He's at my door. Do I *open it?*", 'n'),
+]

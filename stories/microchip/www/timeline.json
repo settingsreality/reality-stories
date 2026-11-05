@@ -1,0 +1,1395 @@
+{
+ "total": 98.58,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "The vet ran the scanner over the back of my neck, and it *beeped.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 3.8,
+   "words": [
+    {
+     "w": "The",
+     "start": 0.17,
+     "end": 0.28
+    },
+    {
+     "w": "vet",
+     "start": 0.28,
+     "end": 0.48
+    },
+    {
+     "w": "ran",
+     "start": 0.48,
+     "end": 0.78
+    },
+    {
+     "w": "the",
+     "start": 0.78,
+     "end": 0.98
+    },
+    {
+     "w": "scanner",
+     "start": 0.98,
+     "end": 1.32
+    },
+    {
+     "w": "over",
+     "start": 1.32,
+     "end": 1.58
+    },
+    {
+     "w": "the",
+     "start": 1.58,
+     "end": 1.76
+    },
+    {
+     "w": "back",
+     "start": 1.76,
+     "end": 1.98
+    },
+    {
+     "w": "of",
+     "start": 1.98,
+     "end": 2.14
+    },
+    {
+     "w": "my",
+     "start": 2.14,
+     "end": 2.3
+    },
+    {
+     "w": "neck,",
+     "start": 2.3,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "start": 3.0,
+     "end": 3.2
+    },
+    {
+     "w": "it",
+     "start": 3.2,
+     "end": 3.4
+    },
+    {
+     "w": "*beeped.*",
+     "start": 3.4,
+     "end": 3.8
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "It started with a stray. Gray cat, torn ear. Every night at *4:40*, he scratched at my door. To the minute.",
+   "voice": "n",
+   "start": 4.6,
+   "end": 12.75,
+   "words": [
+    {
+     "w": "It",
+     "start": 4.6,
+     "end": 4.68
+    },
+    {
+     "w": "started",
+     "start": 4.68,
+     "end": 5.0
+    },
+    {
+     "w": "with",
+     "start": 5.0,
+     "end": 5.32
+    },
+    {
+     "w": "a",
+     "start": 5.32,
+     "end": 5.46
+    },
+    {
+     "w": "stray.",
+     "start": 5.46,
+     "end": 5.84
+    },
+    {
+     "w": "Gray",
+     "start": 6.3,
+     "end": 6.35
+    },
+    {
+     "w": "cat,",
+     "start": 6.76,
+     "end": 7.06
+    },
+    {
+     "w": "torn",
+     "start": 7.66,
+     "end": 7.72
+    },
+    {
+     "w": "ear.",
+     "start": 7.72,
+     "end": 8.08
+    },
+    {
+     "w": "Every",
+     "start": 8.76,
+     "end": 9.02
+    },
+    {
+     "w": "night",
+     "start": 9.02,
+     "end": 9.24
+    },
+    {
+     "w": "at",
+     "start": 9.24,
+     "end": 9.44
+    },
+    {
+     "w": "*4:40*,",
+     "start": 9.44,
+     "end": 9.76
+    },
+    {
+     "w": "he",
+     "start": 9.76,
+     "end": 10.14
+    },
+    {
+     "w": "scratched",
+     "start": 10.38,
+     "end": 10.48
+    },
+    {
+     "w": "at",
+     "start": 10.48,
+     "end": 10.84
+    },
+    {
+     "w": "my",
+     "start": 10.84,
+     "end": 11.12
+    },
+    {
+     "w": "door.",
+     "start": 11.12,
+     "end": 11.28
+    },
+    {
+     "w": "To",
+     "start": 11.28,
+     "end": 11.56
+    },
+    {
+     "w": "the",
+     "start": 12.04,
+     "end": 12.18
+    },
+    {
+     "w": "minute.",
+     "start": 12.18,
+     "end": 12.32
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "So I took him in to get scanned. A pet chip is the size of a *grain of rice.* No battery. It only answers when a scanner asks.",
+   "voice": "n",
+   "start": 13.38,
+   "end": 21.64,
+   "words": [
+    {
+     "w": "So",
+     "start": 13.38,
+     "end": 13.6
+    },
+    {
+     "w": "I",
+     "start": 13.76,
+     "end": 13.94
+    },
+    {
+     "w": "took",
+     "start": 13.94,
+     "end": 14.08
+    },
+    {
+     "w": "him",
+     "start": 14.08,
+     "end": 14.22
+    },
+    {
+     "w": "in",
+     "start": 14.22,
+     "end": 14.36
+    },
+    {
+     "w": "to",
+     "start": 14.36,
+     "end": 14.48
+    },
+    {
+     "w": "get",
+     "start": 14.48,
+     "end": 14.58
+    },
+    {
+     "w": "scanned.",
+     "start": 14.58,
+     "end": 15.0
+    },
+    {
+     "w": "A",
+     "start": 15.74,
+     "end": 15.9
+    },
+    {
+     "w": "pet",
+     "start": 15.9,
+     "end": 16.12
+    },
+    {
+     "w": "chip",
+     "start": 16.12,
+     "end": 16.38
+    },
+    {
+     "w": "is",
+     "start": 16.38,
+     "end": 16.6
+    },
+    {
+     "w": "the",
+     "start": 16.6,
+     "end": 16.8
+    },
+    {
+     "w": "size",
+     "start": 16.8,
+     "end": 17.04
+    },
+    {
+     "w": "of",
+     "start": 17.04,
+     "end": 17.22
+    },
+    {
+     "w": "a",
+     "start": 17.22,
+     "end": 17.44
+    },
+    {
+     "w": "*grain",
+     "start": 17.44,
+     "end": 17.56
+    },
+    {
+     "w": "of",
+     "start": 17.56,
+     "end": 17.76
+    },
+    {
+     "w": "rice.*",
+     "start": 17.76,
+     "end": 18.06
+    },
+    {
+     "w": "No",
+     "start": 18.56,
+     "end": 18.76
+    },
+    {
+     "w": "battery.",
+     "start": 18.76,
+     "end": 19.12
+    },
+    {
+     "w": "It",
+     "start": 19.46,
+     "end": 19.62
+    },
+    {
+     "w": "only",
+     "start": 19.62,
+     "end": 19.88
+    },
+    {
+     "w": "answers",
+     "start": 19.88,
+     "end": 20.3
+    },
+    {
+     "w": "when",
+     "start": 20.3,
+     "end": 20.56
+    },
+    {
+     "w": "a",
+     "start": 20.56,
+     "end": 20.7
+    },
+    {
+     "w": "scanner",
+     "start": 20.7,
+     "end": 21.04
+    },
+    {
+     "w": "asks.",
+     "start": 21.04,
+     "end": 21.56
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Beep. Fifteen digits. The vet typed them in, went quiet, and *turned the screen around.*",
+   "voice": "n",
+   "start": 22.23,
+   "end": 27.88,
+   "words": [
+    {
+     "w": "Beep.",
+     "start": 22.24,
+     "end": 22.48
+    },
+    {
+     "w": "Fifteen",
+     "start": 22.97,
+     "end": 23.02
+    },
+    {
+     "w": "digits.",
+     "start": 23.46,
+     "end": 23.82
+    },
+    {
+     "w": "The",
+     "start": 24.64,
+     "end": 24.78
+    },
+    {
+     "w": "vet",
+     "start": 24.78,
+     "end": 24.96
+    },
+    {
+     "w": "typed",
+     "start": 24.96,
+     "end": 25.2
+    },
+    {
+     "w": "them",
+     "start": 25.2,
+     "end": 25.4
+    },
+    {
+     "w": "in,",
+     "start": 25.4,
+     "end": 25.76
+    },
+    {
+     "w": "went",
+     "start": 25.9,
+     "end": 26.14
+    },
+    {
+     "w": "quiet,",
+     "start": 26.14,
+     "end": 26.52
+    },
+    {
+     "w": "and",
+     "start": 26.52,
+     "end": 26.96
+    },
+    {
+     "w": "*turned",
+     "start": 26.96,
+     "end": 27.18
+    },
+    {
+     "w": "the",
+     "start": 27.18,
+     "end": 27.38
+    },
+    {
+     "w": "screen",
+     "start": 27.38,
+     "end": 27.64
+    },
+    {
+     "w": "around.*",
+     "start": 27.64,
+     "end": 27.88
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Registered to my name. My address. Registered in *1974.*",
+   "voice": "n",
+   "start": 28.67,
+   "end": 33.58,
+   "words": [
+    {
+     "w": "Registered",
+     "start": 28.72,
+     "end": 29.0
+    },
+    {
+     "w": "to",
+     "start": 29.0,
+     "end": 29.3
+    },
+    {
+     "w": "my",
+     "start": 29.3,
+     "end": 29.58
+    },
+    {
+     "w": "name.",
+     "start": 29.58,
+     "end": 29.88
+    },
+    {
+     "w": "My",
+     "start": 30.34,
+     "end": 30.52
+    },
+    {
+     "w": "address.",
+     "start": 30.52,
+     "end": 30.98
+    },
+    {
+     "w": "Registered",
+     "start": 31.52,
+     "end": 31.92
+    },
+    {
+     "w": "in",
+     "start": 31.92,
+     "end": 32.24
+    },
+    {
+     "w": "*1974.*",
+     "start": 32.24,
+     "end": 33.26
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "I was born in 1996. Pet chips didn't even exist yet. And under notes, there were *three rules.*",
+   "voice": "n",
+   "start": 34.15,
+   "end": 41.12,
+   "words": [
+    {
+     "w": "I",
+     "start": 34.15,
+     "end": 34.24
+    },
+    {
+     "w": "was",
+     "start": 34.24,
+     "end": 34.38
+    },
+    {
+     "w": "born",
+     "start": 34.38,
+     "end": 34.58
+    },
+    {
+     "w": "in",
+     "start": 34.58,
+     "end": 34.76
+    },
+    {
+     "w": "1996.",
+     "start": 34.76,
+     "end": 35.74
+    },
+    {
+     "w": "Pet",
+     "start": 36.44,
+     "end": 36.46
+    },
+    {
+     "w": "chips",
+     "start": 36.46,
+     "end": 36.64
+    },
+    {
+     "w": "didn't",
+     "start": 36.64,
+     "end": 36.96
+    },
+    {
+     "w": "even",
+     "start": 36.96,
+     "end": 37.14
+    },
+    {
+     "w": "exist",
+     "start": 37.14,
+     "end": 37.54
+    },
+    {
+     "w": "yet.",
+     "start": 37.54,
+     "end": 37.9
+    },
+    {
+     "w": "And",
+     "start": 38.58,
+     "end": 38.8
+    },
+    {
+     "w": "under",
+     "start": 38.94,
+     "end": 39.2
+    },
+    {
+     "w": "notes,",
+     "start": 39.2,
+     "end": 39.58
+    },
+    {
+     "w": "there",
+     "start": 39.96,
+     "end": 40.08
+    },
+    {
+     "w": "were",
+     "start": 40.08,
+     "end": 40.22
+    },
+    {
+     "w": "*three",
+     "start": 40.22,
+     "end": 40.54
+    },
+    {
+     "w": "rules.*",
+     "start": 40.54,
+     "end": 41.02
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "One. Feed him before dark.",
+   "voice": "n",
+   "start": 41.66,
+   "end": 43.45,
+   "words": [
+    {
+     "w": "One.",
+     "start": 41.74,
+     "end": 41.92
+    },
+    {
+     "w": "Feed",
+     "start": 42.42,
+     "end": 42.64
+    },
+    {
+     "w": "him",
+     "start": 42.64,
+     "end": 42.82
+    },
+    {
+     "w": "before",
+     "start": 42.82,
+     "end": 43.18
+    },
+    {
+     "w": "dark.",
+     "start": 43.18,
+     "end": 43.45
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "Two. When he scratches, open the door.",
+   "voice": "n",
+   "start": 44.17,
+   "end": 46.55,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 44.17,
+     "end": 44.4
+    },
+    {
+     "w": "When",
+     "start": 44.88,
+     "end": 44.98
+    },
+    {
+     "w": "he",
+     "start": 44.98,
+     "end": 45.12
+    },
+    {
+     "w": "scratches,",
+     "start": 45.12,
+     "end": 45.5
+    },
+    {
+     "w": "open",
+     "start": 46.0,
+     "end": 46.14
+    },
+    {
+     "w": "the",
+     "start": 46.14,
+     "end": 46.34
+    },
+    {
+     "w": "door.",
+     "start": 46.34,
+     "end": 46.55
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "Three. Never *scan the owner.*",
+   "voice": "n",
+   "start": 47.26,
+   "end": 49.32,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 47.26,
+     "end": 47.54
+    },
+    {
+     "w": "Never",
+     "start": 48.2,
+     "end": 48.38
+    },
+    {
+     "w": "*scan",
+     "start": 48.38,
+     "end": 48.86
+    },
+    {
+     "w": "the",
+     "start": 48.86,
+     "end": 49.06
+    },
+    {
+     "w": "owner.*",
+     "start": 49.06,
+     "end": 49.32
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "I laughed. The vet didn't. She said every chip she's ever placed goes in the same spot. *Between the shoulder blades.*",
+   "voice": "n",
+   "start": 50.02,
+   "end": 57.38,
+   "words": [
+    {
+     "w": "I",
+     "start": 50.02,
+     "end": 50.2
+    },
+    {
+     "w": "laughed.",
+     "start": 50.2,
+     "end": 50.52
+    },
+    {
+     "w": "The",
+     "start": 51.18,
+     "end": 51.34
+    },
+    {
+     "w": "vet",
+     "start": 51.34,
+     "end": 51.56
+    },
+    {
+     "w": "didn't.",
+     "start": 51.56,
+     "end": 52.08
+    },
+    {
+     "w": "She",
+     "start": 52.5,
+     "end": 52.72
+    },
+    {
+     "w": "said",
+     "start": 52.72,
+     "end": 52.92
+    },
+    {
+     "w": "every",
+     "start": 52.92,
+     "end": 53.34
+    },
+    {
+     "w": "chip",
+     "start": 53.34,
+     "end": 53.6
+    },
+    {
+     "w": "she's",
+     "start": 53.6,
+     "end": 53.92
+    },
+    {
+     "w": "ever",
+     "start": 53.92,
+     "end": 54.16
+    },
+    {
+     "w": "placed",
+     "start": 54.16,
+     "end": 54.58
+    },
+    {
+     "w": "goes",
+     "start": 54.58,
+     "end": 54.84
+    },
+    {
+     "w": "in",
+     "start": 54.84,
+     "end": 55.02
+    },
+    {
+     "w": "the",
+     "start": 55.02,
+     "end": 55.16
+    },
+    {
+     "w": "same",
+     "start": 55.16,
+     "end": 55.4
+    },
+    {
+     "w": "spot.",
+     "start": 55.4,
+     "end": 55.86
+    },
+    {
+     "w": "*Between",
+     "start": 56.22,
+     "end": 56.5
+    },
+    {
+     "w": "the",
+     "start": 56.5,
+     "end": 56.68
+    },
+    {
+     "w": "shoulder",
+     "start": 56.68,
+     "end": 56.9
+    },
+    {
+     "w": "blades.*",
+     "start": 56.9,
+     "end": 57.26
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "I reached back. Under the skin, something small. Something hard, *like a grain of rice.*",
+   "voice": "n",
+   "start": 58.03,
+   "end": 63.85,
+   "words": [
+    {
+     "w": "I",
+     "start": 58.03,
+     "end": 58.1
+    },
+    {
+     "w": "reached",
+     "start": 58.1,
+     "end": 58.3
+    },
+    {
+     "w": "back.",
+     "start": 58.3,
+     "end": 58.7
+    },
+    {
+     "w": "Under",
+     "start": 59.26,
+     "end": 59.46
+    },
+    {
+     "w": "the",
+     "start": 59.46,
+     "end": 59.64
+    },
+    {
+     "w": "skin,",
+     "start": 59.64,
+     "end": 60.0
+    },
+    {
+     "w": "something",
+     "start": 60.44,
+     "end": 60.64
+    },
+    {
+     "w": "small.",
+     "start": 60.64,
+     "end": 61.2
+    },
+    {
+     "w": "Something",
+     "start": 61.74,
+     "end": 61.92
+    },
+    {
+     "w": "hard,",
+     "start": 61.92,
+     "end": 62.38
+    },
+    {
+     "w": "*like",
+     "start": 62.78,
+     "end": 62.88
+    },
+    {
+     "w": "a",
+     "start": 62.88,
+     "end": 63.04
+    },
+    {
+     "w": "grain",
+     "start": 63.04,
+     "end": 63.2
+    },
+    {
+     "w": "of",
+     "start": 63.2,
+     "end": 63.4
+    },
+    {
+     "w": "rice.*",
+     "start": 63.4,
+     "end": 63.68
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "She asked if she could check. Rule three. And I *said yes.*",
+   "voice": "n",
+   "start": 64.49,
+   "end": 68.11,
+   "words": [
+    {
+     "w": "She",
+     "start": 64.49,
+     "end": 64.62
+    },
+    {
+     "w": "asked",
+     "start": 64.62,
+     "end": 64.8
+    },
+    {
+     "w": "if",
+     "start": 64.8,
+     "end": 65.0
+    },
+    {
+     "w": "she",
+     "start": 65.0,
+     "end": 65.14
+    },
+    {
+     "w": "could",
+     "start": 65.14,
+     "end": 65.26
+    },
+    {
+     "w": "check.",
+     "start": 65.26,
+     "end": 65.64
+    },
+    {
+     "w": "Rule",
+     "start": 66.12,
+     "end": 66.36
+    },
+    {
+     "w": "three.",
+     "start": 66.36,
+     "end": 66.74
+    },
+    {
+     "w": "And",
+     "start": 67.28,
+     "end": 67.4
+    },
+    {
+     "w": "I",
+     "start": 67.4,
+     "end": 67.54
+    },
+    {
+     "w": "*said",
+     "start": 67.54,
+     "end": 67.72
+    },
+    {
+     "w": "yes.*",
+     "start": 67.72,
+     "end": 68.02
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Beep. A different number. She typed it in, and her hand *started shaking.*",
+   "voice": "n",
+   "start": 68.74,
+   "end": 73.05,
+   "words": [
+    {
+     "w": "Beep.",
+     "start": 68.76,
+     "end": 69.06
+    },
+    {
+     "w": "A",
+     "start": 69.42,
+     "end": 69.54
+    },
+    {
+     "w": "different",
+     "start": 69.54,
+     "end": 69.82
+    },
+    {
+     "w": "number.",
+     "start": 69.82,
+     "end": 70.12
+    },
+    {
+     "w": "She",
+     "start": 70.68,
+     "end": 70.86
+    },
+    {
+     "w": "typed",
+     "start": 70.86,
+     "end": 71.08
+    },
+    {
+     "w": "it",
+     "start": 71.08,
+     "end": 71.24
+    },
+    {
+     "w": "in,",
+     "start": 71.24,
+     "end": 71.48
+    },
+    {
+     "w": "and",
+     "start": 71.48,
+     "end": 71.8
+    },
+    {
+     "w": "her",
+     "start": 71.8,
+     "end": 71.94
+    },
+    {
+     "w": "hand",
+     "start": 71.94,
+     "end": 72.22
+    },
+    {
+     "w": "*started",
+     "start": 72.22,
+     "end": 72.54
+    },
+    {
+     "w": "shaking.*",
+     "start": 72.54,
+     "end": 73.05
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "Animal: me. Status: *lost.* Reported missing, 1974.",
+   "voice": "n",
+   "start": 73.85,
+   "end": 79.55,
+   "words": [
+    {
+     "w": "Animal:",
+     "start": 73.86,
+     "end": 74.12
+    },
+    {
+     "w": "me.",
+     "start": 74.58,
+     "end": 74.92
+    },
+    {
+     "w": "Status:",
+     "start": 75.7,
+     "end": 75.75
+    },
+    {
+     "w": "*lost.*",
+     "start": 76.48,
+     "end": 76.7
+    },
+    {
+     "w": "Reported",
+     "start": 77.7,
+     "end": 77.7
+    },
+    {
+     "w": "missing,",
+     "start": 77.7,
+     "end": 78.14
+    },
+    {
+     "w": "1974.",
+     "start": 78.46,
+     "end": 79.16
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "The cat stopped purring. He reached up, and put one paw *on the screen.*",
+   "voice": "n",
+   "start": 80.22,
+   "end": 84.33,
+   "words": [
+    {
+     "w": "The",
+     "start": 80.22,
+     "end": 80.3
+    },
+    {
+     "w": "cat",
+     "start": 80.3,
+     "end": 80.54
+    },
+    {
+     "w": "stopped",
+     "start": 80.54,
+     "end": 80.94
+    },
+    {
+     "w": "purring.",
+     "start": 80.94,
+     "end": 81.42
+    },
+    {
+     "w": "He",
+     "start": 81.42,
+     "end": 81.98
+    },
+    {
+     "w": "reached",
+     "start": 81.98,
+     "end": 82.22
+    },
+    {
+     "w": "up,",
+     "start": 82.22,
+     "end": 82.52
+    },
+    {
+     "w": "and",
+     "start": 82.52,
+     "end": 82.88
+    },
+    {
+     "w": "put",
+     "start": 82.88,
+     "end": 83.02
+    },
+    {
+     "w": "one",
+     "start": 83.02,
+     "end": 83.36
+    },
+    {
+     "w": "paw",
+     "start": 83.36,
+     "end": 83.68
+    },
+    {
+     "w": "*on",
+     "start": 83.68,
+     "end": 83.88
+    },
+    {
+     "w": "the",
+     "start": 83.88,
+     "end": 83.98
+    },
+    {
+     "w": "screen.*",
+     "start": 83.98,
+     "end": 84.32
+    }
+   ]
+  },
+  {
+   "scene": "s14",
+   "text": "He was never a stray. All these years, he's been going door to door, *looking for his pet.*",
+   "voice": "n",
+   "start": 85.1,
+   "end": 90.24,
+   "words": [
+    {
+     "w": "He",
+     "start": 85.1,
+     "end": 85.16
+    },
+    {
+     "w": "was",
+     "start": 85.16,
+     "end": 85.28
+    },
+    {
+     "w": "never",
+     "start": 85.28,
+     "end": 85.6
+    },
+    {
+     "w": "a",
+     "start": 85.6,
+     "end": 85.82
+    },
+    {
+     "w": "stray.",
+     "start": 85.82,
+     "end": 86.1
+    },
+    {
+     "w": "All",
+     "start": 86.72,
+     "end": 86.92
+    },
+    {
+     "w": "these",
+     "start": 86.92,
+     "end": 87.2
+    },
+    {
+     "w": "years,",
+     "start": 87.2,
+     "end": 87.52
+    },
+    {
+     "w": "he's",
+     "start": 87.52,
+     "end": 87.8
+    },
+    {
+     "w": "been",
+     "start": 87.8,
+     "end": 87.96
+    },
+    {
+     "w": "going",
+     "start": 87.96,
+     "end": 88.18
+    },
+    {
+     "w": "door",
+     "start": 88.18,
+     "end": 88.5
+    },
+    {
+     "w": "to",
+     "start": 88.5,
+     "end": 88.66
+    },
+    {
+     "w": "door,",
+     "start": 88.66,
+     "end": 89.0
+    },
+    {
+     "w": "*looking",
+     "start": 89.0,
+     "end": 89.44
+    },
+    {
+     "w": "for",
+     "start": 89.44,
+     "end": 89.8
+    },
+    {
+     "w": "his",
+     "start": 89.8,
+     "end": 89.94
+    },
+    {
+     "w": "pet.*",
+     "start": 89.94,
+     "end": 90.24
+    }
+   ]
+  },
+  {
+   "scene": "s15",
+   "text": "It's 4:39. He's at my door. Do I *open it?*",
+   "voice": "n",
+   "start": 91.01,
+   "end": 94.58,
+   "words": [
+    {
+     "w": "It's",
+     "start": 91.01,
+     "end": 91.16
+    },
+    {
+     "w": "4:39.",
+     "start": 91.653,
+     "end": 91.703
+    },
+    {
+     "w": "He's",
+     "start": 92.147,
+     "end": 92.197
+    },
+    {
+     "w": "at",
+     "start": 92.64,
+     "end": 92.84
+    },
+    {
+     "w": "my",
+     "start": 92.84,
+     "end": 92.96
+    },
+    {
+     "w": "door.",
+     "start": 92.96,
+     "end": 93.12
+    },
+    {
+     "w": "Do",
+     "start": 93.12,
+     "end": 93.44
+    },
+    {
+     "w": "I",
+     "start": 94.0,
+     "end": 94.12
+    },
+    {
+     "w": "*open",
+     "start": 94.12,
+     "end": 94.24
+    },
+    {
+     "w": "it?*",
+     "start": 94.24,
+     "end": 94.46
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 4.55
+  },
+  {
+   "id": "s2",
+   "start": 4.6,
+   "end": 13.33
+  },
+  {
+   "id": "s3",
+   "start": 13.38,
+   "end": 22.18
+  },
+  {
+   "id": "s4",
+   "start": 22.23,
+   "end": 28.62
+  },
+  {
+   "id": "s5",
+   "start": 28.67,
+   "end": 34.1
+  },
+  {
+   "id": "s6",
+   "start": 34.15,
+   "end": 41.61
+  },
+  {
+   "id": "s7",
+   "start": 41.66,
+   "end": 49.97
+  },
+  {
+   "id": "s8",
+   "start": 50.02,
+   "end": 57.98
+  },
+  {
+   "id": "s9",
+   "start": 58.03,
+   "end": 64.44
+  },
+  {
+   "id": "s10",
+   "start": 64.49,
+   "end": 68.69
+  },
+  {
+   "id": "s11",
+   "start": 68.74,
+   "end": 73.8
+  },
+  {
+   "id": "s12",
+   "start": 73.85,
+   "end": 80.17
+  },
+  {
+   "id": "s13",
+   "start": 80.22,
+   "end": 85.05
+  },
+  {
+   "id": "s14",
+   "start": 85.1,
+   "end": 90.96
+  },
+  {
+   "id": "s15",
+   "start": 91.01,
+   "end": 98.58
+  }
+ ]
+}
