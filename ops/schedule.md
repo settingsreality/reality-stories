@@ -57,6 +57,8 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-10 | 18:00 | winter-over | v2, voice 4 (Nov 10 10:00 still open) | 412825349 |
 | 2026-11-11 | 10:00 | rising-forever | vertical explainer (Shepard tone + tritone paradox), voice 4 | 416365207 |
 | 2026-11-11 | 18:00 | dead-pixel | v2 fictional high concept, voice 4 | 415111970 |
+| 2026-11-12 | 10:00 | point-four-miles | v2 myth (will-o'-the-wisp), voice 4 | 418383387 |
+| 2026-11-12 | 18:00 | microchip | v2 real thing turns sinister, voice 4 | 418374077 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
@@ -111,6 +113,8 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-10 | 18:00 | winter-over |  | 412825382 |
 | 2026-11-11 | 10:00 | rising-forever | Short, SCIENCE_TECHNOLOGY | 416365226 |
 | 2026-11-11 | 18:00 | dead-pixel |  | 415112011 |
+| 2026-11-12 | 10:00 | point-four-miles |  | 418383394 |
+| 2026-11-12 | 18:00 | microchip |  | 418374091 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
