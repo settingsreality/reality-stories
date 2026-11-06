@@ -42,6 +42,8 @@
 - The Sound That Rises Forever (vertical explainer, Nov 4): a real Shepard–Risset glissando plays under the narration (9 layers, 1 octave per 10 s; Shepard 1964, Bell Labs); rules card (same speed / top fades out / bottom fades in), barber pole, spiral staircase → circle, Mario 64 stairs, Batpod, Dunkirk's script; twist = tritone paradox (Deutsch 1986), real C→F# Shepard tone pairs at the end; "Up / Down"
 - Microchip (v2, Nov 5): vet scans the stray that scratches my door at 4:40; the chip (rice-grain size, no battery, answers a scanner) is registered to my name and address in 1974, I was born in 1996, pet chips didn't exist; notes rules (feed him / open the door / never scan the owner); same spot on every animal, between the shoulder blades; a grain under my own skin; Animal: human, Status: lost, missing since 1974; the cat puts a paw on the owner field; he's been going door to door looking for his pet; "Open it / Stay lost"
 - 0.4 Miles (v2 myth, Nov 5): will-o'-the-wisp as a hiking app; the marsh loop app adds a blue "shortcut"; the trailhead stays 0.4 miles away for 3 hours; ranger's card (stay on the boardwalk / don't follow a light / never turn yours off); the lights are on my map as hikers last active 2019, 2011, 1931; a phone floating at chest height, held by nobody; every hiker it takes is the trail and adds 0.4 miles; "New waypoint, added by me"; "Flashlight / Call"
+- Fish Finder (v2, Nov 6): night alone in Grandpa's ice shanty (he went through the ice last winter); 18 in of ice (4 in to walk on), 40 ft of water; flasher-style finder (rings, blips, red bottom band); Grandpa's rules (never past midnight / blip bigger than you: don't look down the hole / something takes your bait: cut the line, never reel); a 6-ft blip rises to just under the ice; the sole of a boot pressed up against the ice, a pale faceless figure standing upside down mirroring my steps; line goes tight; Grandpa's three knocks from below; zoom shows the blip holding a rod, its line up through my hole to my hook: whoever reels first pulls the other through; "Cut the line / Reel him in"
+- The 42-Minute Fall (vertical explainer, Nov 6): gravity tunnel (Hooke's 1679 letter to Newton; uniform Earth: 42.2 min any straight tunnel, weight falls linearly to 0 at the centre, top speed ~7.9 km/s (~9x a rifle bullet), 84-min round trip = a surface-skimming orbit seen from the side; real Earth straight through ~38 min; centre ~5,200°C vs Sun's surface ~5,500°C); "Jump / Stay"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -60,6 +62,7 @@
 - Thermal-camera ghosts and cold spots (a ghost-hunting cliché)
 - Robotaxi taking the wrong way home at night (horror film *Autonomous*, 2026, robot ride-share that takes a horridly wrong way home)
 - Dial-up modem screech horror (horror film *Modem*, Raindance 2026)
+- Creature under the ice while ice fishing, in general (film *Hypothermia*, 2010); our Fish Finder kept to the flasher/upside-down-fisher twist
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
@@ -75,7 +78,6 @@
   - The owner passed on: Carousel (suitcase on the baggage belt), Free Trial (gravity free trial ends at midnight). Don't make those.
 - **Seed vault**: night guard at the Svalbard seed vault; the door log shows someone entered from the inside.
 - **52 Hz**: the loneliest whale sings at a frequency no other whale uses; a research hydrophone records a second voice at 52 Hz, closer to the boat every hour.
-- **Fish finder**: ice fishing at night, the sonar shows a shape rising slowly under the hole, matching my depth readings as I move.
 - **Satellite SOS**: my hiking messenger sends an SOS with GPS coordinates while it's in a drawer at home; the coordinates are a trail I'm hiking next week.
 - **Tsunami siren test**: the monthly siren test, same tone every first Monday at 11:45; this month a different tone, and only my street hears it.
 - **Pressure plate**: a museum's pressure-sensitive floor alarm logs a 4 kg step pattern at 2 a.m., walking from exhibit to exhibit in the closed gallery.
@@ -84,7 +86,7 @@
 - **Myths to retell (search each first):** (Will-o'-the-wisp: done Nov 5 as 0.4 Miles); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); (Lady Midday: done Oct 30).
 - **Vertical explainers in the How Time Works look** (the owner loves that style: clean diagrams, the toon characters, real numbers, a weird twist of real physics). Check every number before making one:
   - **Your head is older than your feet**: gravity slows time; NIST measured it over 33 cm; GPS +45/−7 = +38 µs a day. Ends "How tall are you?"
-  - **A tunnel through Earth takes 42 minutes**: drop through any straight tunnel through a uniform Earth and the trip takes about 42 minutes, short tunnel or long (about 38 min straight through the real Earth).
+  - (A tunnel through Earth takes 42 minutes: done Nov 6 as The 42-Minute Fall)
   - **Sunlight is old**: the light hitting you left the Sun's surface 8 min 20 s ago, but its energy spent thousands of years (estimates vary a lot) bouncing out of the core.
   - **If the Sun vanished**: you'd keep orbiting and seeing it for 8 min 20 s, because gravity travels at light speed too (GW170817, 2017: gravity waves and light arrived 1.7 s apart after 130 million years).
   - **Mars has two speeds of sound**: Perseverance's microphone showed high pitches travel faster than low ones on Mars (about 250 vs 240 m/s), so a voice would arrive scrambled.

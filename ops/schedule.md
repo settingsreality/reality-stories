@@ -5,6 +5,9 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 - **Backlog (to Nov 5): 3 a day at 10:00, 12:00 and 18:00.** The owner asked to post the existing videos fast ("spam em 3 a day") so the better new-format videos come after them.
 - **New videos (Nov 6 on): 2 a day at 10:00 and 18:00.**
 
+## Problems
+- 2026-11-06 10:00 universe-ends (408232815 TikTok/IG, 409645878 YouTube) failed on every network: Metricool "You have reached your Metricool account limit." Owner notified Nov 6; needs a plan/limit check, then a re-post.
+
 ## On hold (don't schedule)
 - rizz-x2: the owner wants a crazier, effects-heavy opening and is sending his own audio. Its Nov 7 10:00 posts are Metricool **drafts** (410471371 TikTok/IG, 410471383 YouTube) and won't publish. The slot now has lady-midday (Oct 30).
 
@@ -59,6 +62,8 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-11 | 18:00 | dead-pixel | v2 fictional high concept, voice 4 | 415111970 |
 | 2026-11-12 | 10:00 | point-four-miles | v2 myth (will-o'-the-wisp), voice 4 | 418383387 |
 | 2026-11-12 | 18:00 | microchip | v2 real thing turns sinister, voice 4 | 418374077 |
+| 2026-11-13 | 10:00 | gravity-tunnel | vertical explainer (The 42-Minute Fall: gravity tunnel), voice 4 | 419080752 |
+| 2026-11-13 | 18:00 | fish-finder | v2 real thing turns sinister (ice-fishing flasher), voice 4 | 419072230 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
@@ -115,6 +120,8 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-11 | 18:00 | dead-pixel |  | 415112011 |
 | 2026-11-12 | 10:00 | point-four-miles |  | 418383394 |
 | 2026-11-12 | 18:00 | microchip |  | 418374091 |
+| 2026-11-13 | 10:00 | gravity-tunnel | Short, SCIENCE_TECHNOLOGY | 419080773 |
+| 2026-11-13 | 18:00 | fish-finder |  | 419072246 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
