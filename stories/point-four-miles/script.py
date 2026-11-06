@@ -1,0 +1,20 @@
+# 0.4 Miles. (scene, caption, voice). First person. *word* = yellow on screen. [whispers] etc. = ElevenLabs direction, never shown.
+SCRIPT = [
+ ('s1', "[whispers] My hiking app says the trailhead is *0.4 miles* away. It's been saying that *for three hours.*", 'n'),
+ ('s2', "It was an easy loop through the marsh. Then at sunset, the app *added a trail.* One thin blue line, marked: shortcut.", 'n'),
+ ('s3', "The ranger at the gate had handed me a card. I thought it was a joke.", 'n'),
+ ('s4', "One. Stay on the boardwalk.", 'n'),
+ ('s4', "Two. If you see a light ahead, don't follow it.", 'n'),
+ ('s4', "Three. Never *turn yours off.*", 'n'),
+ ('s5', "People have told this one for centuries. Will-o'-the-wisp. A little light over the bog, and travelers who follow it *never reach the road.*", 'n'),
+ ('s6', "At mile four, the boardwalk ended. The blue line kept going. And far out on the marsh, one pale light *started to bob.*", 'n'),
+ ('s7', "It stayed exactly 0.4 miles ahead. I walked faster, it moved faster. I stopped. *It stopped.*", 'n'),
+ ('s8', "Then a second light. A third. And every one of them was *on my map.* Little blue dots, with usernames.", 'n'),
+ ('s9', "Hikers. Last active, 2019. 2011. One from before *this app existed.*", 'n'),
+ ('s10', "Battery, three percent. Water, *at my ankles.*", 'n'),
+ ('s11', "The closest light turned toward me. It was a phone, held up at chest height, by *nobody.*", 'n'),
+ ('s12', "They're not leading me off the trail. Every hiker it takes *is the trail.*", 'n'),
+ ('s13', "That's why it never gets closer. Each one adds *0.4 miles.*", 'n'),
+ ('s14', "My screen just refreshed. Trail updated. New waypoint, *added by me.*", 'n'),
+ ('s15', "[quietly] One percent left. Do I keep the flashlight on, or *call for help?*", 'n'),
+]

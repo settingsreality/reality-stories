@@ -1,0 +1,1440 @@
+{
+ "total": 104.61,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "My hiking app says the trailhead is *0.4 miles* away. It's been saying that *for three hours.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 6.45,
+   "words": [
+    {
+     "w": "My",
+     "start": 0.17,
+     "end": 0.3
+    },
+    {
+     "w": "hiking",
+     "start": 0.3,
+     "end": 0.68
+    },
+    {
+     "w": "app",
+     "start": 0.68,
+     "end": 0.92
+    },
+    {
+     "w": "says",
+     "start": 0.92,
+     "end": 1.18
+    },
+    {
+     "w": "the",
+     "start": 1.18,
+     "end": 1.38
+    },
+    {
+     "w": "trailhead",
+     "start": 1.38,
+     "end": 1.88
+    },
+    {
+     "w": "is",
+     "start": 1.88,
+     "end": 2.08
+    },
+    {
+     "w": "*0.4",
+     "start": 2.08,
+     "end": 2.5
+    },
+    {
+     "w": "miles*",
+     "start": 2.5,
+     "end": 3.1
+    },
+    {
+     "w": "away.",
+     "start": 3.1,
+     "end": 3.32
+    },
+    {
+     "w": "It's",
+     "start": 3.32,
+     "end": 3.82
+    },
+    {
+     "w": "been",
+     "start": 4.56,
+     "end": 4.7
+    },
+    {
+     "w": "saying",
+     "start": 4.7,
+     "end": 4.84
+    },
+    {
+     "w": "that",
+     "start": 4.84,
+     "end": 5.14
+    },
+    {
+     "w": "*for",
+     "start": 5.14,
+     "end": 5.34
+    },
+    {
+     "w": "three",
+     "start": 5.34,
+     "end": 5.5
+    },
+    {
+     "w": "hours.*",
+     "start": 5.5,
+     "end": 5.88
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "It was an easy loop through the marsh. Then at sunset, the app *added a trail.* One thin blue line, marked: shortcut.",
+   "voice": "n",
+   "start": 7.46,
+   "end": 16.04,
+   "words": [
+    {
+     "w": "It",
+     "start": 7.46,
+     "end": 7.54
+    },
+    {
+     "w": "was",
+     "start": 7.54,
+     "end": 7.66
+    },
+    {
+     "w": "an",
+     "start": 7.66,
+     "end": 7.8
+    },
+    {
+     "w": "easy",
+     "start": 7.8,
+     "end": 8.1
+    },
+    {
+     "w": "loop",
+     "start": 8.1,
+     "end": 8.44
+    },
+    {
+     "w": "through",
+     "start": 8.44,
+     "end": 8.7
+    },
+    {
+     "w": "the",
+     "start": 8.7,
+     "end": 8.86
+    },
+    {
+     "w": "marsh.",
+     "start": 8.86,
+     "end": 9.14
+    },
+    {
+     "w": "Then",
+     "start": 9.78,
+     "end": 10.06
+    },
+    {
+     "w": "at",
+     "start": 10.06,
+     "end": 10.34
+    },
+    {
+     "w": "sunset,",
+     "start": 10.34,
+     "end": 10.8
+    },
+    {
+     "w": "the",
+     "start": 11.2,
+     "end": 11.3
+    },
+    {
+     "w": "app",
+     "start": 11.3,
+     "end": 11.54
+    },
+    {
+     "w": "*added",
+     "start": 11.54,
+     "end": 11.92
+    },
+    {
+     "w": "a",
+     "start": 11.92,
+     "end": 12.1
+    },
+    {
+     "w": "trail.*",
+     "start": 12.1,
+     "end": 12.48
+    },
+    {
+     "w": "One",
+     "start": 13.22,
+     "end": 13.44
+    },
+    {
+     "w": "thin",
+     "start": 13.44,
+     "end": 13.84
+    },
+    {
+     "w": "blue",
+     "start": 13.84,
+     "end": 14.14
+    },
+    {
+     "w": "line,",
+     "start": 14.14,
+     "end": 14.6
+    },
+    {
+     "w": "marked:",
+     "start": 14.6,
+     "end": 15.14
+    },
+    {
+     "w": "shortcut.",
+     "start": 15.14,
+     "end": 15.86
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "The ranger at the gate had handed me a card. I thought it was a joke.",
+   "voice": "n",
+   "start": 17.03,
+   "end": 20.43,
+   "words": [
+    {
+     "w": "The",
+     "start": 17.03,
+     "end": 17.1
+    },
+    {
+     "w": "ranger",
+     "start": 17.1,
+     "end": 17.32
+    },
+    {
+     "w": "at",
+     "start": 17.32,
+     "end": 17.52
+    },
+    {
+     "w": "the",
+     "start": 17.52,
+     "end": 17.64
+    },
+    {
+     "w": "gate",
+     "start": 17.64,
+     "end": 17.88
+    },
+    {
+     "w": "had",
+     "start": 17.88,
+     "end": 18.06
+    },
+    {
+     "w": "handed",
+     "start": 18.06,
+     "end": 18.3
+    },
+    {
+     "w": "me",
+     "start": 18.3,
+     "end": 18.48
+    },
+    {
+     "w": "a",
+     "start": 18.48,
+     "end": 18.64
+    },
+    {
+     "w": "card.",
+     "start": 18.64,
+     "end": 18.98
+    },
+    {
+     "w": "I",
+     "start": 19.44,
+     "end": 19.6
+    },
+    {
+     "w": "thought",
+     "start": 19.6,
+     "end": 19.78
+    },
+    {
+     "w": "it",
+     "start": 19.78,
+     "end": 19.88
+    },
+    {
+     "w": "was",
+     "start": 19.88,
+     "end": 19.98
+    },
+    {
+     "w": "a",
+     "start": 19.98,
+     "end": 20.14
+    },
+    {
+     "w": "joke.",
+     "start": 20.14,
+     "end": 20.43
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "One. Stay on the boardwalk.",
+   "voice": "n",
+   "start": 21.33,
+   "end": 23.14,
+   "words": [
+    {
+     "w": "One.",
+     "start": 21.6,
+     "end": 21.6
+    },
+    {
+     "w": "Stay",
+     "start": 22.1,
+     "end": 22.4
+    },
+    {
+     "w": "on",
+     "start": 22.4,
+     "end": 22.58
+    },
+    {
+     "w": "the",
+     "start": 22.58,
+     "end": 22.7
+    },
+    {
+     "w": "boardwalk.",
+     "start": 22.7,
+     "end": 23.14
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Two. If you see a light ahead, don't follow it.",
+   "voice": "n",
+   "start": 23.82,
+   "end": 26.66,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 23.82,
+     "end": 24.04
+    },
+    {
+     "w": "If",
+     "start": 24.5,
+     "end": 24.7
+    },
+    {
+     "w": "you",
+     "start": 24.7,
+     "end": 24.8
+    },
+    {
+     "w": "see",
+     "start": 24.8,
+     "end": 25.0
+    },
+    {
+     "w": "a",
+     "start": 25.0,
+     "end": 25.12
+    },
+    {
+     "w": "light",
+     "start": 25.12,
+     "end": 25.28
+    },
+    {
+     "w": "ahead,",
+     "start": 25.28,
+     "end": 25.62
+    },
+    {
+     "w": "don't",
+     "start": 26.04,
+     "end": 26.28
+    },
+    {
+     "w": "follow",
+     "start": 26.28,
+     "end": 26.54
+    },
+    {
+     "w": "it.",
+     "start": 26.54,
+     "end": 26.66
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Three. Never *turn yours off.*",
+   "voice": "n",
+   "start": 27.36,
+   "end": 29.58,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 27.36,
+     "end": 27.68
+    },
+    {
+     "w": "Never",
+     "start": 28.18,
+     "end": 28.58
+    },
+    {
+     "w": "*turn",
+     "start": 28.58,
+     "end": 28.94
+    },
+    {
+     "w": "yours",
+     "start": 28.94,
+     "end": 29.18
+    },
+    {
+     "w": "off.*",
+     "start": 29.18,
+     "end": 29.56
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "People have told this one for centuries. Will-o'-the-wisp. A little light over the bog, and travelers who follow it *never reach the road.*",
+   "voice": "n",
+   "start": 30.63,
+   "end": 38.61,
+   "words": [
+    {
+     "w": "People",
+     "start": 30.63,
+     "end": 30.8
+    },
+    {
+     "w": "have",
+     "start": 30.8,
+     "end": 30.98
+    },
+    {
+     "w": "told",
+     "start": 30.98,
+     "end": 31.18
+    },
+    {
+     "w": "this",
+     "start": 31.18,
+     "end": 31.44
+    },
+    {
+     "w": "one",
+     "start": 31.44,
+     "end": 31.62
+    },
+    {
+     "w": "for",
+     "start": 31.62,
+     "end": 31.8
+    },
+    {
+     "w": "centuries.",
+     "start": 31.8,
+     "end": 32.34
+    },
+    {
+     "w": "Will-o'-the-wisp.",
+     "start": 32.667,
+     "end": 32.717
+    },
+    {
+     "w": "A",
+     "start": 33.32,
+     "end": 33.46
+    },
+    {
+     "w": "little",
+     "start": 33.46,
+     "end": 33.78
+    },
+    {
+     "w": "light",
+     "start": 34.44,
+     "end": 34.56
+    },
+    {
+     "w": "over",
+     "start": 34.56,
+     "end": 34.74
+    },
+    {
+     "w": "the",
+     "start": 34.74,
+     "end": 35.02
+    },
+    {
+     "w": "bog,",
+     "start": 35.02,
+     "end": 35.24
+    },
+    {
+     "w": "and",
+     "start": 35.24,
+     "end": 35.42
+    },
+    {
+     "w": "travelers",
+     "start": 35.42,
+     "end": 35.68
+    },
+    {
+     "w": "who",
+     "start": 36.16,
+     "end": 36.54
+    },
+    {
+     "w": "follow",
+     "start": 36.54,
+     "end": 36.84
+    },
+    {
+     "w": "it",
+     "start": 36.84,
+     "end": 37.12
+    },
+    {
+     "w": "*never",
+     "start": 37.12,
+     "end": 37.4
+    },
+    {
+     "w": "reach",
+     "start": 37.4,
+     "end": 37.82
+    },
+    {
+     "w": "the",
+     "start": 37.82,
+     "end": 38.12
+    },
+    {
+     "w": "road.*",
+     "start": 38.12,
+     "end": 38.34
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "At mile four, the boardwalk ended. The blue line kept going. And far out on the marsh, one pale light *started to bob.*",
+   "voice": "n",
+   "start": 39.62,
+   "end": 47.63,
+   "words": [
+    {
+     "w": "At",
+     "start": 39.62,
+     "end": 39.74
+    },
+    {
+     "w": "mile",
+     "start": 39.74,
+     "end": 39.94
+    },
+    {
+     "w": "four,",
+     "start": 39.94,
+     "end": 40.4
+    },
+    {
+     "w": "the",
+     "start": 40.7,
+     "end": 40.76
+    },
+    {
+     "w": "boardwalk",
+     "start": 40.76,
+     "end": 41.2
+    },
+    {
+     "w": "ended.",
+     "start": 41.2,
+     "end": 41.58
+    },
+    {
+     "w": "The",
+     "start": 42.08,
+     "end": 42.22
+    },
+    {
+     "w": "blue",
+     "start": 42.22,
+     "end": 42.44
+    },
+    {
+     "w": "line",
+     "start": 42.44,
+     "end": 42.76
+    },
+    {
+     "w": "kept",
+     "start": 42.76,
+     "end": 43.0
+    },
+    {
+     "w": "going.",
+     "start": 43.0,
+     "end": 43.42
+    },
+    {
+     "w": "And",
+     "start": 43.94,
+     "end": 44.14
+    },
+    {
+     "w": "far",
+     "start": 44.14,
+     "end": 44.48
+    },
+    {
+     "w": "out",
+     "start": 44.48,
+     "end": 44.68
+    },
+    {
+     "w": "on",
+     "start": 44.68,
+     "end": 44.84
+    },
+    {
+     "w": "the",
+     "start": 44.84,
+     "end": 44.98
+    },
+    {
+     "w": "marsh,",
+     "start": 44.98,
+     "end": 45.26
+    },
+    {
+     "w": "one",
+     "start": 45.58,
+     "end": 45.82
+    },
+    {
+     "w": "pale",
+     "start": 45.82,
+     "end": 46.3
+    },
+    {
+     "w": "light",
+     "start": 46.3,
+     "end": 46.64
+    },
+    {
+     "w": "*started",
+     "start": 46.64,
+     "end": 47.02
+    },
+    {
+     "w": "to",
+     "start": 47.02,
+     "end": 47.28
+    },
+    {
+     "w": "bob.*",
+     "start": 47.28,
+     "end": 47.5
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "It stayed exactly 0.4 miles ahead. I walked faster, it moved faster. I stopped. *It stopped.*",
+   "voice": "n",
+   "start": 48.23,
+   "end": 55.85,
+   "words": [
+    {
+     "w": "It",
+     "start": 48.23,
+     "end": 48.34
+    },
+    {
+     "w": "stayed",
+     "start": 48.34,
+     "end": 48.62
+    },
+    {
+     "w": "exactly",
+     "start": 48.62,
+     "end": 49.38
+    },
+    {
+     "w": "0.4",
+     "start": 49.38,
+     "end": 49.84
+    },
+    {
+     "w": "miles",
+     "start": 49.84,
+     "end": 50.42
+    },
+    {
+     "w": "ahead.",
+     "start": 50.42,
+     "end": 50.66
+    },
+    {
+     "w": "I",
+     "start": 50.66,
+     "end": 51.1
+    },
+    {
+     "w": "walked",
+     "start": 51.72,
+     "end": 51.96
+    },
+    {
+     "w": "faster,",
+     "start": 51.96,
+     "end": 52.18
+    },
+    {
+     "w": "it",
+     "start": 52.18,
+     "end": 52.62
+    },
+    {
+     "w": "moved",
+     "start": 52.92,
+     "end": 53.1
+    },
+    {
+     "w": "faster.",
+     "start": 53.1,
+     "end": 53.4
+    },
+    {
+     "w": "I",
+     "start": 53.4,
+     "end": 53.9
+    },
+    {
+     "w": "stopped.",
+     "start": 54.42,
+     "end": 54.6
+    },
+    {
+     "w": "*It",
+     "start": 54.6,
+     "end": 54.88
+    },
+    {
+     "w": "stopped.*",
+     "start": 55.38,
+     "end": 55.52
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "Then a second light. A third. And every one of them was *on my map.* Little blue dots, with usernames.",
+   "voice": "n",
+   "start": 56.62,
+   "end": 63.98,
+   "words": [
+    {
+     "w": "Then",
+     "start": 56.64,
+     "end": 56.82
+    },
+    {
+     "w": "a",
+     "start": 56.82,
+     "end": 57.16
+    },
+    {
+     "w": "second",
+     "start": 57.16,
+     "end": 57.46
+    },
+    {
+     "w": "light.",
+     "start": 57.46,
+     "end": 57.82
+    },
+    {
+     "w": "A",
+     "start": 58.24,
+     "end": 58.4
+    },
+    {
+     "w": "third.",
+     "start": 58.4,
+     "end": 58.68
+    },
+    {
+     "w": "And",
+     "start": 58.68,
+     "end": 59.4
+    },
+    {
+     "w": "every",
+     "start": 59.4,
+     "end": 59.8
+    },
+    {
+     "w": "one",
+     "start": 59.8,
+     "end": 60.06
+    },
+    {
+     "w": "of",
+     "start": 60.06,
+     "end": 60.16
+    },
+    {
+     "w": "them",
+     "start": 60.16,
+     "end": 60.3
+    },
+    {
+     "w": "was",
+     "start": 60.3,
+     "end": 60.46
+    },
+    {
+     "w": "*on",
+     "start": 60.46,
+     "end": 60.76
+    },
+    {
+     "w": "my",
+     "start": 60.76,
+     "end": 60.98
+    },
+    {
+     "w": "map.*",
+     "start": 60.98,
+     "end": 61.34
+    },
+    {
+     "w": "Little",
+     "start": 62.1,
+     "end": 62.1
+    },
+    {
+     "w": "blue",
+     "start": 62.1,
+     "end": 62.4
+    },
+    {
+     "w": "dots,",
+     "start": 62.4,
+     "end": 62.82
+    },
+    {
+     "w": "with",
+     "start": 62.82,
+     "end": 63.24
+    },
+    {
+     "w": "usernames.",
+     "start": 63.24,
+     "end": 63.94
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "Hikers. Last active, 2019. 2011. One from before *this app existed.*",
+   "voice": "n",
+   "start": 64.61,
+   "end": 70.62,
+   "words": [
+    {
+     "w": "Hikers.",
+     "start": 64.72,
+     "end": 64.92
+    },
+    {
+     "w": "Last",
+     "start": 65.58,
+     "end": 65.82
+    },
+    {
+     "w": "active,",
+     "start": 65.82,
+     "end": 66.18
+    },
+    {
+     "w": "2019.",
+     "start": 66.18,
+     "end": 67.22
+    },
+    {
+     "w": "2011.",
+     "start": 67.76,
+     "end": 68.18
+    },
+    {
+     "w": "One",
+     "start": 68.9,
+     "end": 69.08
+    },
+    {
+     "w": "from",
+     "start": 69.08,
+     "end": 69.28
+    },
+    {
+     "w": "before",
+     "start": 69.28,
+     "end": 69.64
+    },
+    {
+     "w": "*this",
+     "start": 69.64,
+     "end": 69.86
+    },
+    {
+     "w": "app",
+     "start": 69.86,
+     "end": 70.08
+    },
+    {
+     "w": "existed.*",
+     "start": 70.08,
+     "end": 70.62
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Battery, three percent. Water, *at my ankles.*",
+   "voice": "n",
+   "start": 71.36,
+   "end": 74.63,
+   "words": [
+    {
+     "w": "Battery,",
+     "start": 71.64,
+     "end": 71.64
+    },
+    {
+     "w": "three",
+     "start": 71.64,
+     "end": 72.7
+    },
+    {
+     "w": "percent.",
+     "start": 72.7,
+     "end": 72.75
+    },
+    {
+     "w": "Water,",
+     "start": 72.7,
+     "end": 73.44
+    },
+    {
+     "w": "*at",
+     "start": 73.44,
+     "end": 73.94
+    },
+    {
+     "w": "my",
+     "start": 73.94,
+     "end": 74.12
+    },
+    {
+     "w": "ankles.*",
+     "start": 74.12,
+     "end": 74.44
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "The closest light turned toward me. It was a phone, held up at chest height, by *nobody.*",
+   "voice": "n",
+   "start": 75.33,
+   "end": 80.4,
+   "words": [
+    {
+     "w": "The",
+     "start": 75.33,
+     "end": 75.4
+    },
+    {
+     "w": "closest",
+     "start": 75.4,
+     "end": 75.76
+    },
+    {
+     "w": "light",
+     "start": 75.76,
+     "end": 76.1
+    },
+    {
+     "w": "turned",
+     "start": 76.1,
+     "end": 76.44
+    },
+    {
+     "w": "toward",
+     "start": 76.44,
+     "end": 76.78
+    },
+    {
+     "w": "me.",
+     "start": 76.78,
+     "end": 77.12
+    },
+    {
+     "w": "It",
+     "start": 77.48,
+     "end": 77.64
+    },
+    {
+     "w": "was",
+     "start": 77.64,
+     "end": 77.72
+    },
+    {
+     "w": "a",
+     "start": 77.72,
+     "end": 77.9
+    },
+    {
+     "w": "phone,",
+     "start": 77.9,
+     "end": 78.2
+    },
+    {
+     "w": "held",
+     "start": 78.2,
+     "end": 78.62
+    },
+    {
+     "w": "up",
+     "start": 78.62,
+     "end": 78.82
+    },
+    {
+     "w": "at",
+     "start": 78.82,
+     "end": 78.96
+    },
+    {
+     "w": "chest",
+     "start": 78.96,
+     "end": 79.24
+    },
+    {
+     "w": "height,",
+     "start": 79.24,
+     "end": 79.54
+    },
+    {
+     "w": "by",
+     "start": 79.54,
+     "end": 79.98
+    },
+    {
+     "w": "*nobody.*",
+     "start": 79.98,
+     "end": 80.36
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "They're not leading me off the trail. Every hiker it takes *is the trail.*",
+   "voice": "n",
+   "start": 81.36,
+   "end": 85.48,
+   "words": [
+    {
+     "w": "They're",
+     "start": 81.36,
+     "end": 81.46
+    },
+    {
+     "w": "not",
+     "start": 81.46,
+     "end": 81.62
+    },
+    {
+     "w": "leading",
+     "start": 81.62,
+     "end": 81.9
+    },
+    {
+     "w": "me",
+     "start": 81.9,
+     "end": 82.14
+    },
+    {
+     "w": "off",
+     "start": 82.14,
+     "end": 82.26
+    },
+    {
+     "w": "the",
+     "start": 82.26,
+     "end": 82.46
+    },
+    {
+     "w": "trail.",
+     "start": 82.46,
+     "end": 82.78
+    },
+    {
+     "w": "Every",
+     "start": 83.5,
+     "end": 83.78
+    },
+    {
+     "w": "hiker",
+     "start": 83.78,
+     "end": 84.06
+    },
+    {
+     "w": "it",
+     "start": 84.06,
+     "end": 84.28
+    },
+    {
+     "w": "takes",
+     "start": 84.28,
+     "end": 84.56
+    },
+    {
+     "w": "*is",
+     "start": 84.56,
+     "end": 84.94
+    },
+    {
+     "w": "the",
+     "start": 84.94,
+     "end": 85.18
+    },
+    {
+     "w": "trail.*",
+     "start": 85.18,
+     "end": 85.48
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "That's why it never gets closer. Each one adds *0.4 miles.*",
+   "voice": "n",
+   "start": 85.99,
+   "end": 90.23,
+   "words": [
+    {
+     "w": "That's",
+     "start": 85.99,
+     "end": 86.2
+    },
+    {
+     "w": "why",
+     "start": 86.2,
+     "end": 86.36
+    },
+    {
+     "w": "it",
+     "start": 86.36,
+     "end": 86.68
+    },
+    {
+     "w": "never",
+     "start": 86.68,
+     "end": 86.73
+    },
+    {
+     "w": "gets",
+     "start": 86.68,
+     "end": 86.8
+    },
+    {
+     "w": "closer.",
+     "start": 86.8,
+     "end": 87.32
+    },
+    {
+     "w": "Each",
+     "start": 87.9,
+     "end": 88.02
+    },
+    {
+     "w": "one",
+     "start": 88.02,
+     "end": 88.36
+    },
+    {
+     "w": "adds",
+     "start": 88.36,
+     "end": 88.64
+    },
+    {
+     "w": "*0.4",
+     "start": 88.64,
+     "end": 89.08
+    },
+    {
+     "w": "miles.*",
+     "start": 89.08,
+     "end": 89.68
+    }
+   ]
+  },
+  {
+   "scene": "s14",
+   "text": "My screen just refreshed. Trail updated. New waypoint, *added by me.*",
+   "voice": "n",
+   "start": 90.93,
+   "end": 95.68,
+   "words": [
+    {
+     "w": "My",
+     "start": 90.94,
+     "end": 91.02
+    },
+    {
+     "w": "screen",
+     "start": 91.02,
+     "end": 91.34
+    },
+    {
+     "w": "just",
+     "start": 91.34,
+     "end": 91.58
+    },
+    {
+     "w": "refreshed.",
+     "start": 91.58,
+     "end": 92.1
+    },
+    {
+     "w": "Trail",
+     "start": 92.96,
+     "end": 92.96
+    },
+    {
+     "w": "updated.",
+     "start": 92.96,
+     "end": 93.46
+    },
+    {
+     "w": "New",
+     "start": 93.98,
+     "end": 94.16
+    },
+    {
+     "w": "waypoint,",
+     "start": 94.16,
+     "end": 94.62
+    },
+    {
+     "w": "*added",
+     "start": 94.62,
+     "end": 95.18
+    },
+    {
+     "w": "by",
+     "start": 95.18,
+     "end": 95.42
+    },
+    {
+     "w": "me.*",
+     "start": 95.42,
+     "end": 95.68
+    }
+   ]
+  },
+  {
+   "scene": "s15",
+   "text": "One percent left. Do I keep the flashlight on, or *call for help?*",
+   "voice": "n",
+   "start": 96.52,
+   "end": 100.61,
+   "words": [
+    {
+     "w": "One",
+     "start": 96.52,
+     "end": 96.64
+    },
+    {
+     "w": "percent",
+     "start": 96.81,
+     "end": 96.86
+    },
+    {
+     "w": "left.",
+     "start": 96.98,
+     "end": 97.28
+    },
+    {
+     "w": "Do",
+     "start": 98.08,
+     "end": 98.22
+    },
+    {
+     "w": "I",
+     "start": 98.22,
+     "end": 98.32
+    },
+    {
+     "w": "keep",
+     "start": 98.32,
+     "end": 98.46
+    },
+    {
+     "w": "the",
+     "start": 98.46,
+     "end": 98.6
+    },
+    {
+     "w": "flashlight",
+     "start": 98.6,
+     "end": 99.0
+    },
+    {
+     "w": "on,",
+     "start": 99.0,
+     "end": 99.36
+    },
+    {
+     "w": "or",
+     "start": 99.36,
+     "end": 99.84
+    },
+    {
+     "w": "*call",
+     "start": 99.84,
+     "end": 100.06
+    },
+    {
+     "w": "for",
+     "start": 100.06,
+     "end": 100.24
+    },
+    {
+     "w": "help?*",
+     "start": 100.24,
+     "end": 100.5
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 7.41
+  },
+  {
+   "id": "s2",
+   "start": 7.46,
+   "end": 16.98
+  },
+  {
+   "id": "s3",
+   "start": 17.03,
+   "end": 21.28
+  },
+  {
+   "id": "s4",
+   "start": 21.33,
+   "end": 30.58
+  },
+  {
+   "id": "s5",
+   "start": 30.63,
+   "end": 39.57
+  },
+  {
+   "id": "s6",
+   "start": 39.62,
+   "end": 48.18
+  },
+  {
+   "id": "s7",
+   "start": 48.23,
+   "end": 56.57
+  },
+  {
+   "id": "s8",
+   "start": 56.62,
+   "end": 64.56
+  },
+  {
+   "id": "s9",
+   "start": 64.61,
+   "end": 71.31
+  },
+  {
+   "id": "s10",
+   "start": 71.36,
+   "end": 75.28
+  },
+  {
+   "id": "s11",
+   "start": 75.33,
+   "end": 81.31
+  },
+  {
+   "id": "s12",
+   "start": 81.36,
+   "end": 85.94
+  },
+  {
+   "id": "s13",
+   "start": 85.99,
+   "end": 90.88
+  },
+  {
+   "id": "s14",
+   "start": 90.93,
+   "end": 96.47
+  },
+  {
+   "id": "s15",
+   "start": 96.52,
+   "end": 104.61
+  }
+ ]
+}
