@@ -1,0 +1,1403 @@
+{
+ "total": 92.07,
+ "lines": [
+  {
+   "scene": "c1",
+   "text": "If you jumped into a hole straight through the Earth, you'd pop out the other side in *42 minutes.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.75,
+   "words": [
+    {
+     "w": "If",
+     "start": 0.17,
+     "end": 0.28
+    },
+    {
+     "w": "you",
+     "start": 0.28,
+     "end": 0.46
+    },
+    {
+     "w": "jumped",
+     "start": 0.46,
+     "end": 0.82
+    },
+    {
+     "w": "into",
+     "start": 0.82,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "start": 1.12,
+     "end": 1.32
+    },
+    {
+     "w": "hole",
+     "start": 1.32,
+     "end": 1.58
+    },
+    {
+     "w": "straight",
+     "start": 1.58,
+     "end": 2.08
+    },
+    {
+     "w": "through",
+     "start": 2.08,
+     "end": 2.34
+    },
+    {
+     "w": "the",
+     "start": 2.34,
+     "end": 2.54
+    },
+    {
+     "w": "Earth,",
+     "start": 2.54,
+     "end": 2.8
+    },
+    {
+     "w": "you'd",
+     "start": 3.36,
+     "end": 3.5
+    },
+    {
+     "w": "pop",
+     "start": 3.5,
+     "end": 3.66
+    },
+    {
+     "w": "out",
+     "start": 3.66,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "start": 3.84,
+     "end": 3.98
+    },
+    {
+     "w": "other",
+     "start": 3.98,
+     "end": 4.16
+    },
+    {
+     "w": "side",
+     "start": 4.16,
+     "end": 4.44
+    },
+    {
+     "w": "in",
+     "start": 4.44,
+     "end": 4.62
+    },
+    {
+     "w": "*42",
+     "start": 4.62,
+     "end": 5.2
+    },
+    {
+     "w": "minutes.*",
+     "start": 5.2,
+     "end": 5.68
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "Robert Hooke asked Isaac Newton about this more than *300 years* ago. Here's how the trip goes.",
+   "voice": "n",
+   "start": 6.39,
+   "end": 12.06,
+   "words": [
+    {
+     "w": "Robert",
+     "start": 6.46,
+     "end": 6.68
+    },
+    {
+     "w": "Hooke",
+     "start": 6.82,
+     "end": 6.87
+    },
+    {
+     "w": "asked",
+     "start": 6.96,
+     "end": 7.4
+    },
+    {
+     "w": "Isaac",
+     "start": 7.4,
+     "end": 7.8
+    },
+    {
+     "w": "Newton",
+     "start": 7.8,
+     "end": 8.1
+    },
+    {
+     "w": "about",
+     "start": 8.1,
+     "end": 8.42
+    },
+    {
+     "w": "this",
+     "start": 8.42,
+     "end": 8.7
+    },
+    {
+     "w": "more",
+     "start": 8.7,
+     "end": 8.88
+    },
+    {
+     "w": "than",
+     "start": 8.88,
+     "end": 9.12
+    },
+    {
+     "w": "*300",
+     "start": 9.12,
+     "end": 9.52
+    },
+    {
+     "w": "years*",
+     "start": 9.52,
+     "end": 9.98
+    },
+    {
+     "w": "ago.",
+     "start": 9.98,
+     "end": 10.44
+    },
+    {
+     "w": "Here's",
+     "start": 10.82,
+     "end": 11.22
+    },
+    {
+     "w": "how",
+     "start": 11.22,
+     "end": 11.34
+    },
+    {
+     "w": "the",
+     "start": 11.34,
+     "end": 11.46
+    },
+    {
+     "w": "trip",
+     "start": 11.46,
+     "end": 11.62
+    },
+    {
+     "w": "goes.",
+     "start": 11.62,
+     "end": 12.0
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Pretend the Earth is the same density all the way through, and the tunnel has *no air.*",
+   "voice": "n",
+   "start": 12.77,
+   "end": 17.32,
+   "words": [
+    {
+     "w": "Pretend",
+     "start": 12.77,
+     "end": 13.04
+    },
+    {
+     "w": "the",
+     "start": 13.04,
+     "end": 13.2
+    },
+    {
+     "w": "Earth",
+     "start": 13.2,
+     "end": 13.44
+    },
+    {
+     "w": "is",
+     "start": 13.44,
+     "end": 13.68
+    },
+    {
+     "w": "the",
+     "start": 13.68,
+     "end": 13.84
+    },
+    {
+     "w": "same",
+     "start": 13.84,
+     "end": 14.18
+    },
+    {
+     "w": "density",
+     "start": 14.18,
+     "end": 14.64
+    },
+    {
+     "w": "all",
+     "start": 14.64,
+     "end": 15.02
+    },
+    {
+     "w": "the",
+     "start": 15.02,
+     "end": 15.14
+    },
+    {
+     "w": "way",
+     "start": 15.14,
+     "end": 15.3
+    },
+    {
+     "w": "through,",
+     "start": 15.3,
+     "end": 15.64
+    },
+    {
+     "w": "and",
+     "start": 15.88,
+     "end": 16.04
+    },
+    {
+     "w": "the",
+     "start": 16.04,
+     "end": 16.18
+    },
+    {
+     "w": "tunnel",
+     "start": 16.18,
+     "end": 16.42
+    },
+    {
+     "w": "has",
+     "start": 16.42,
+     "end": 16.72
+    },
+    {
+     "w": "*no",
+     "start": 16.72,
+     "end": 17.02
+    },
+    {
+     "w": "air.*",
+     "start": 17.02,
+     "end": 17.3
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "You step off. At first you fall like anything falls, *ten meters per second* faster, every second.",
+   "voice": "n",
+   "start": 17.97,
+   "end": 24.21,
+   "words": [
+    {
+     "w": "You",
+     "start": 17.97,
+     "end": 18.06
+    },
+    {
+     "w": "step",
+     "start": 18.06,
+     "end": 18.34
+    },
+    {
+     "w": "off.",
+     "start": 18.34,
+     "end": 18.64
+    },
+    {
+     "w": "At",
+     "start": 19.22,
+     "end": 19.4
+    },
+    {
+     "w": "first",
+     "start": 19.4,
+     "end": 19.7
+    },
+    {
+     "w": "you",
+     "start": 19.86,
+     "end": 19.98
+    },
+    {
+     "w": "fall",
+     "start": 19.98,
+     "end": 20.24
+    },
+    {
+     "w": "like",
+     "start": 20.24,
+     "end": 20.5
+    },
+    {
+     "w": "anything",
+     "start": 20.5,
+     "end": 20.82
+    },
+    {
+     "w": "falls,",
+     "start": 20.82,
+     "end": 21.26
+    },
+    {
+     "w": "*ten",
+     "start": 21.74,
+     "end": 21.9
+    },
+    {
+     "w": "meters",
+     "start": 21.9,
+     "end": 22.1
+    },
+    {
+     "w": "per",
+     "start": 22.1,
+     "end": 22.42
+    },
+    {
+     "w": "second*",
+     "start": 22.42,
+     "end": 22.7
+    },
+    {
+     "w": "faster,",
+     "start": 22.7,
+     "end": 23.1
+    },
+    {
+     "w": "every",
+     "start": 23.58,
+     "end": 23.82
+    },
+    {
+     "w": "second.",
+     "start": 23.82,
+     "end": 24.2
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "But the deeper you go, the less Earth is left below you, pulling you down. So gravity gets *weaker.*",
+   "voice": "n",
+   "start": 24.94,
+   "end": 30.68,
+   "words": [
+    {
+     "w": "But",
+     "start": 24.94,
+     "end": 25.0
+    },
+    {
+     "w": "the",
+     "start": 25.0,
+     "end": 25.16
+    },
+    {
+     "w": "deeper",
+     "start": 25.16,
+     "end": 25.38
+    },
+    {
+     "w": "you",
+     "start": 25.38,
+     "end": 25.66
+    },
+    {
+     "w": "go,",
+     "start": 25.66,
+     "end": 25.94
+    },
+    {
+     "w": "the",
+     "start": 26.26,
+     "end": 26.46
+    },
+    {
+     "w": "less",
+     "start": 26.46,
+     "end": 26.72
+    },
+    {
+     "w": "Earth",
+     "start": 26.72,
+     "end": 27.04
+    },
+    {
+     "w": "is",
+     "start": 27.04,
+     "end": 27.26
+    },
+    {
+     "w": "left",
+     "start": 27.26,
+     "end": 27.46
+    },
+    {
+     "w": "below",
+     "start": 27.46,
+     "end": 27.86
+    },
+    {
+     "w": "you,",
+     "start": 27.86,
+     "end": 27.91
+    },
+    {
+     "w": "pulling",
+     "start": 27.86,
+     "end": 28.32
+    },
+    {
+     "w": "you",
+     "start": 28.32,
+     "end": 28.56
+    },
+    {
+     "w": "down.",
+     "start": 28.56,
+     "end": 28.86
+    },
+    {
+     "w": "So",
+     "start": 29.24,
+     "end": 29.48
+    },
+    {
+     "w": "gravity",
+     "start": 29.48,
+     "end": 29.92
+    },
+    {
+     "w": "gets",
+     "start": 29.92,
+     "end": 30.24
+    },
+    {
+     "w": "*weaker.*",
+     "start": 30.24,
+     "end": 30.68
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "Halfway to the center, you weigh *half* as much. At the center, you weigh *nothing.*",
+   "voice": "n",
+   "start": 31.43,
+   "end": 36.14,
+   "words": [
+    {
+     "w": "Halfway",
+     "start": 31.48,
+     "end": 31.8
+    },
+    {
+     "w": "to",
+     "start": 31.8,
+     "end": 31.94
+    },
+    {
+     "w": "the",
+     "start": 31.94,
+     "end": 32.1
+    },
+    {
+     "w": "center,",
+     "start": 32.1,
+     "end": 32.42
+    },
+    {
+     "w": "you",
+     "start": 32.8,
+     "end": 32.82
+    },
+    {
+     "w": "weigh",
+     "start": 32.82,
+     "end": 33.02
+    },
+    {
+     "w": "*half*",
+     "start": 33.02,
+     "end": 33.36
+    },
+    {
+     "w": "as",
+     "start": 33.36,
+     "end": 33.58
+    },
+    {
+     "w": "much.",
+     "start": 33.58,
+     "end": 33.84
+    },
+    {
+     "w": "At",
+     "start": 34.36,
+     "end": 34.56
+    },
+    {
+     "w": "the",
+     "start": 34.56,
+     "end": 34.72
+    },
+    {
+     "w": "center,",
+     "start": 34.72,
+     "end": 35.0
+    },
+    {
+     "w": "you",
+     "start": 35.34,
+     "end": 35.52
+    },
+    {
+     "w": "weigh",
+     "start": 35.52,
+     "end": 35.68
+    },
+    {
+     "w": "*nothing.*",
+     "start": 35.68,
+     "end": 36.12
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "That's where you're fastest. About *eight kilometers a second.* Almost ten times faster than a rifle bullet.",
+   "voice": "n",
+   "start": 36.72,
+   "end": 42.68,
+   "words": [
+    {
+     "w": "That's",
+     "start": 36.72,
+     "end": 37.04
+    },
+    {
+     "w": "where",
+     "start": 37.04,
+     "end": 37.18
+    },
+    {
+     "w": "you're",
+     "start": 37.18,
+     "end": 37.42
+    },
+    {
+     "w": "fastest.",
+     "start": 37.42,
+     "end": 37.8
+    },
+    {
+     "w": "About",
+     "start": 38.34,
+     "end": 38.52
+    },
+    {
+     "w": "*eight",
+     "start": 38.52,
+     "end": 38.84
+    },
+    {
+     "w": "kilometers",
+     "start": 38.84,
+     "end": 39.28
+    },
+    {
+     "w": "a",
+     "start": 39.28,
+     "end": 39.62
+    },
+    {
+     "w": "second.*",
+     "start": 39.62,
+     "end": 39.98
+    },
+    {
+     "w": "Almost",
+     "start": 40.44,
+     "end": 40.66
+    },
+    {
+     "w": "ten",
+     "start": 40.66,
+     "end": 41.04
+    },
+    {
+     "w": "times",
+     "start": 41.04,
+     "end": 41.4
+    },
+    {
+     "w": "faster",
+     "start": 41.4,
+     "end": 41.82
+    },
+    {
+     "w": "than",
+     "start": 41.82,
+     "end": 42.02
+    },
+    {
+     "w": "a",
+     "start": 42.02,
+     "end": 42.14
+    },
+    {
+     "w": "rifle",
+     "start": 42.14,
+     "end": 42.38
+    },
+    {
+     "w": "bullet.",
+     "start": 42.38,
+     "end": 42.68
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "Then gravity flips. It slows you down the whole way up, and you stop *exactly* at the surface on the other side.",
+   "voice": "n",
+   "start": 43.41,
+   "end": 50.15,
+   "words": [
+    {
+     "w": "Then",
+     "start": 43.41,
+     "end": 43.72
+    },
+    {
+     "w": "gravity",
+     "start": 43.92,
+     "end": 44.3
+    },
+    {
+     "w": "flips.",
+     "start": 44.3,
+     "end": 44.68
+    },
+    {
+     "w": "It",
+     "start": 45.24,
+     "end": 45.46
+    },
+    {
+     "w": "slows",
+     "start": 45.46,
+     "end": 45.76
+    },
+    {
+     "w": "you",
+     "start": 45.76,
+     "end": 46.0
+    },
+    {
+     "w": "down",
+     "start": 46.0,
+     "end": 46.22
+    },
+    {
+     "w": "the",
+     "start": 46.22,
+     "end": 46.4
+    },
+    {
+     "w": "whole",
+     "start": 46.4,
+     "end": 46.68
+    },
+    {
+     "w": "way",
+     "start": 46.68,
+     "end": 46.92
+    },
+    {
+     "w": "up,",
+     "start": 46.92,
+     "end": 47.18
+    },
+    {
+     "w": "and",
+     "start": 47.38,
+     "end": 47.56
+    },
+    {
+     "w": "you",
+     "start": 47.56,
+     "end": 47.68
+    },
+    {
+     "w": "stop",
+     "start": 47.68,
+     "end": 48.02
+    },
+    {
+     "w": "*exactly*",
+     "start": 48.02,
+     "end": 48.6
+    },
+    {
+     "w": "at",
+     "start": 48.6,
+     "end": 48.9
+    },
+    {
+     "w": "the",
+     "start": 48.9,
+     "end": 49.04
+    },
+    {
+     "w": "surface",
+     "start": 49.04,
+     "end": 49.34
+    },
+    {
+     "w": "on",
+     "start": 49.34,
+     "end": 49.56
+    },
+    {
+     "w": "the",
+     "start": 49.56,
+     "end": 49.68
+    },
+    {
+     "w": "other",
+     "start": 49.68,
+     "end": 49.84
+    },
+    {
+     "w": "side.",
+     "start": 49.84,
+     "end": 50.15
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "If nobody grabs you, you fall back. Forever. One round trip every *84 minutes.*",
+   "voice": "n",
+   "start": 50.88,
+   "end": 56.73,
+   "words": [
+    {
+     "w": "If",
+     "start": 50.88,
+     "end": 50.98
+    },
+    {
+     "w": "nobody",
+     "start": 50.98,
+     "end": 51.2
+    },
+    {
+     "w": "grabs",
+     "start": 51.2,
+     "end": 51.54
+    },
+    {
+     "w": "you,",
+     "start": 51.54,
+     "end": 51.82
+    },
+    {
+     "w": "you",
+     "start": 52.04,
+     "end": 52.24
+    },
+    {
+     "w": "fall",
+     "start": 52.24,
+     "end": 52.46
+    },
+    {
+     "w": "back.",
+     "start": 52.46,
+     "end": 52.8
+    },
+    {
+     "w": "Forever.",
+     "start": 53.4,
+     "end": 53.68
+    },
+    {
+     "w": "One",
+     "start": 54.3,
+     "end": 54.64
+    },
+    {
+     "w": "round",
+     "start": 54.64,
+     "end": 54.86
+    },
+    {
+     "w": "trip",
+     "start": 54.86,
+     "end": 55.2
+    },
+    {
+     "w": "every",
+     "start": 55.2,
+     "end": 55.66
+    },
+    {
+     "w": "*84",
+     "start": 55.66,
+     "end": 56.24
+    },
+    {
+     "w": "minutes.*",
+     "start": 56.24,
+     "end": 56.6
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "Now the weird part. Dig the tunnel *anywhere.* New York to London. Same trip. *42 minutes.*",
+   "voice": "n",
+   "start": 57.57,
+   "end": 64.0,
+   "words": [
+    {
+     "w": "Now",
+     "start": 57.57,
+     "end": 57.72
+    },
+    {
+     "w": "the",
+     "start": 57.72,
+     "end": 57.9
+    },
+    {
+     "w": "weird",
+     "start": 57.9,
+     "end": 58.1
+    },
+    {
+     "w": "part.",
+     "start": 58.1,
+     "end": 58.42
+    },
+    {
+     "w": "Dig",
+     "start": 59.0,
+     "end": 59.2
+    },
+    {
+     "w": "the",
+     "start": 59.2,
+     "end": 59.38
+    },
+    {
+     "w": "tunnel",
+     "start": 59.38,
+     "end": 59.64
+    },
+    {
+     "w": "*anywhere.*",
+     "start": 59.64,
+     "end": 60.2
+    },
+    {
+     "w": "New",
+     "start": 60.7,
+     "end": 60.86
+    },
+    {
+     "w": "York",
+     "start": 60.86,
+     "end": 61.04
+    },
+    {
+     "w": "to",
+     "start": 61.04,
+     "end": 61.24
+    },
+    {
+     "w": "London.",
+     "start": 61.24,
+     "end": 61.52
+    },
+    {
+     "w": "Same",
+     "start": 62.08,
+     "end": 62.28
+    },
+    {
+     "w": "trip.",
+     "start": 62.28,
+     "end": 62.6
+    },
+    {
+     "w": "*42",
+     "start": 63.12,
+     "end": 63.5
+    },
+    {
+     "w": "minutes.*",
+     "start": 63.5,
+     "end": 63.86
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "A short tunnel is less steep, so you speed up slower, and it cancels out *exactly.*",
+   "voice": "n",
+   "start": 64.63,
+   "end": 69.55,
+   "words": [
+    {
+     "w": "A",
+     "start": 64.63,
+     "end": 64.76
+    },
+    {
+     "w": "short",
+     "start": 64.76,
+     "end": 65.02
+    },
+    {
+     "w": "tunnel",
+     "start": 65.02,
+     "end": 65.32
+    },
+    {
+     "w": "is",
+     "start": 65.32,
+     "end": 65.54
+    },
+    {
+     "w": "less",
+     "start": 65.54,
+     "end": 65.78
+    },
+    {
+     "w": "steep,",
+     "start": 65.78,
+     "end": 66.18
+    },
+    {
+     "w": "so",
+     "start": 66.5,
+     "end": 66.62
+    },
+    {
+     "w": "you",
+     "start": 66.62,
+     "end": 66.76
+    },
+    {
+     "w": "speed",
+     "start": 66.76,
+     "end": 67.0
+    },
+    {
+     "w": "up",
+     "start": 67.0,
+     "end": 67.2
+    },
+    {
+     "w": "slower,",
+     "start": 67.2,
+     "end": 67.54
+    },
+    {
+     "w": "and",
+     "start": 67.9,
+     "end": 68.04
+    },
+    {
+     "w": "it",
+     "start": 68.04,
+     "end": 68.18
+    },
+    {
+     "w": "cancels",
+     "start": 68.18,
+     "end": 68.66
+    },
+    {
+     "w": "out",
+     "start": 68.66,
+     "end": 68.84
+    },
+    {
+     "w": "*exactly.*",
+     "start": 68.84,
+     "end": 69.38
+    }
+   ]
+  },
+  {
+   "scene": "c9",
+   "text": "And 84 minutes is how long an orbit takes, skimming the ground. Your fall is *an orbit, seen from the side.*",
+   "voice": "n",
+   "start": 70.2,
+   "end": 76.88,
+   "words": [
+    {
+     "w": "And",
+     "start": 70.2,
+     "end": 70.32
+    },
+    {
+     "w": "84",
+     "start": 70.32,
+     "end": 70.82
+    },
+    {
+     "w": "minutes",
+     "start": 70.82,
+     "end": 71.14
+    },
+    {
+     "w": "is",
+     "start": 71.14,
+     "end": 71.42
+    },
+    {
+     "w": "how",
+     "start": 71.42,
+     "end": 71.66
+    },
+    {
+     "w": "long",
+     "start": 71.66,
+     "end": 71.84
+    },
+    {
+     "w": "an",
+     "start": 71.84,
+     "end": 72.0
+    },
+    {
+     "w": "orbit",
+     "start": 72.0,
+     "end": 72.32
+    },
+    {
+     "w": "takes,",
+     "start": 72.32,
+     "end": 72.7
+    },
+    {
+     "w": "skimming",
+     "start": 72.98,
+     "end": 73.22
+    },
+    {
+     "w": "the",
+     "start": 73.22,
+     "end": 73.42
+    },
+    {
+     "w": "ground.",
+     "start": 73.42,
+     "end": 73.7
+    },
+    {
+     "w": "Your",
+     "start": 74.34,
+     "end": 74.52
+    },
+    {
+     "w": "fall",
+     "start": 74.52,
+     "end": 74.86
+    },
+    {
+     "w": "is",
+     "start": 74.86,
+     "end": 75.2
+    },
+    {
+     "w": "*an",
+     "start": 75.2,
+     "end": 75.36
+    },
+    {
+     "w": "orbit,",
+     "start": 75.36,
+     "end": 75.82
+    },
+    {
+     "w": "seen",
+     "start": 76.04,
+     "end": 76.24
+    },
+    {
+     "w": "from",
+     "start": 76.24,
+     "end": 76.44
+    },
+    {
+     "w": "the",
+     "start": 76.44,
+     "end": 76.62
+    },
+    {
+     "w": "side.*",
+     "start": 76.62,
+     "end": 76.88
+    }
+   ]
+  },
+  {
+   "scene": "c10",
+   "text": "The real Earth is heavier in the middle, so straight through, it's closer to *38 minutes.*",
+   "voice": "n",
+   "start": 77.61,
+   "end": 82.5,
+   "words": [
+    {
+     "w": "The",
+     "start": 77.61,
+     "end": 77.7
+    },
+    {
+     "w": "real",
+     "start": 77.7,
+     "end": 77.96
+    },
+    {
+     "w": "Earth",
+     "start": 77.96,
+     "end": 78.2
+    },
+    {
+     "w": "is",
+     "start": 78.2,
+     "end": 78.48
+    },
+    {
+     "w": "heavier",
+     "start": 78.48,
+     "end": 78.8
+    },
+    {
+     "w": "in",
+     "start": 78.8,
+     "end": 79.06
+    },
+    {
+     "w": "the",
+     "start": 79.06,
+     "end": 79.18
+    },
+    {
+     "w": "middle,",
+     "start": 79.18,
+     "end": 79.42
+    },
+    {
+     "w": "so",
+     "start": 79.64,
+     "end": 79.94
+    },
+    {
+     "w": "straight",
+     "start": 79.94,
+     "end": 80.24
+    },
+    {
+     "w": "through,",
+     "start": 80.24,
+     "end": 80.58
+    },
+    {
+     "w": "it's",
+     "start": 80.88,
+     "end": 81.08
+    },
+    {
+     "w": "closer",
+     "start": 81.08,
+     "end": 81.26
+    },
+    {
+     "w": "to",
+     "start": 81.26,
+     "end": 81.56
+    },
+    {
+     "w": "*38",
+     "start": 81.56,
+     "end": 82.02
+    },
+    {
+     "w": "minutes.*",
+     "start": 82.02,
+     "end": 82.32
+    }
+   ]
+  },
+  {
+   "scene": "c11",
+   "text": "The catch? The center is about as hot as the surface of the Sun. Would you *jump?*",
+   "voice": "n",
+   "start": 83.1,
+   "end": 88.07,
+   "words": [
+    {
+     "w": "The",
+     "start": 83.1,
+     "end": 83.2
+    },
+    {
+     "w": "catch?",
+     "start": 83.2,
+     "end": 83.44
+    },
+    {
+     "w": "The",
+     "start": 83.44,
+     "end": 84.24
+    },
+    {
+     "w": "center",
+     "start": 84.24,
+     "end": 84.5
+    },
+    {
+     "w": "is",
+     "start": 84.5,
+     "end": 84.74
+    },
+    {
+     "w": "about",
+     "start": 84.74,
+     "end": 84.98
+    },
+    {
+     "w": "as",
+     "start": 84.98,
+     "end": 85.14
+    },
+    {
+     "w": "hot",
+     "start": 85.14,
+     "end": 85.4
+    },
+    {
+     "w": "as",
+     "start": 85.4,
+     "end": 85.58
+    },
+    {
+     "w": "the",
+     "start": 85.58,
+     "end": 85.78
+    },
+    {
+     "w": "surface",
+     "start": 85.78,
+     "end": 86.0
+    },
+    {
+     "w": "of",
+     "start": 86.0,
+     "end": 86.28
+    },
+    {
+     "w": "the",
+     "start": 86.28,
+     "end": 86.4
+    },
+    {
+     "w": "Sun.",
+     "start": 86.4,
+     "end": 86.72
+    },
+    {
+     "w": "Would",
+     "start": 87.5,
+     "end": 87.58
+    },
+    {
+     "w": "you",
+     "start": 87.58,
+     "end": 87.74
+    },
+    {
+     "w": "*jump?*",
+     "start": 87.74,
+     "end": 87.96
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "c1",
+   "start": 0,
+   "end": 6.34
+  },
+  {
+   "id": "c2",
+   "start": 6.39,
+   "end": 12.72
+  },
+  {
+   "id": "c3",
+   "start": 12.77,
+   "end": 24.89
+  },
+  {
+   "id": "c4",
+   "start": 24.94,
+   "end": 36.67
+  },
+  {
+   "id": "c5",
+   "start": 36.72,
+   "end": 43.36
+  },
+  {
+   "id": "c6",
+   "start": 43.41,
+   "end": 50.83
+  },
+  {
+   "id": "c7",
+   "start": 50.88,
+   "end": 57.52
+  },
+  {
+   "id": "c8",
+   "start": 57.57,
+   "end": 70.15
+  },
+  {
+   "id": "c9",
+   "start": 70.2,
+   "end": 77.56
+  },
+  {
+   "id": "c10",
+   "start": 77.61,
+   "end": 83.05
+  },
+  {
+   "id": "c11",
+   "start": 83.1,
+   "end": 92.07
+  }
+ ]
+}
