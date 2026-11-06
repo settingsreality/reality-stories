@@ -1,0 +1,20 @@
+# Fish Finder. (scene, caption, voice). First person. *word* = yellow on screen. [whispers] etc. = ElevenLabs direction, never shown.
+SCRIPT = [
+ ('s1', "[whispers] The fish finder says something is standing under the ice, *upside down,* right under my boots.", 'n'),
+ ('s2', "This is my grandpa's ice shanty. He went through the ice out here *last winter.* Tonight's my first night back.", 'n'),
+ ('s3', "The ice is eighteen inches thick. You only need *four* to walk on. Under my hole, forty feet of black water.", 'n'),
+ ('s4', "His fish finder draws the water as a ring. Fish are little *colored blips.* The bottom is a thick red band.", 'n'),
+ ('s5', "Taped to the screen, in his handwriting: *three rules.*", 'n'),
+ ('s5', "One. Never fish past midnight.", 'n'),
+ ('s5', "Two. If a blip is bigger than you, *don't look down the hole.*", 'n'),
+ ('s5', "Three. If something takes your bait, *cut the line.* Never reel it in.", 'n'),
+ ('s6', "At 12:40, a red blip lifted off the bottom. Thirty feet. Twenty. *Ten.*", 'n'),
+ ('s7', "It stopped right under the ice. Six feet tall. *Bigger than me.*", 'n'),
+ ('s8', "I looked down the hole. My headlamp hit something pale, pressed flat against the ice. *The sole of a boot.*", 'n'),
+ ('s9', "When I stepped left, it stepped left. Like a reflection, *standing on the other side.*", 'n'),
+ ('s10', "Then my line went tight. Something took the bait. I grabbed the knife. *Rule three.*", 'n'),
+ ('s11', "Three slow knocks, right under my boots. That's how Grandpa *always knocked.*", 'n'),
+ ('s12', "On the screen, the blip was holding a rod. Its line ran up through my hole, *to my hook.*", 'n'),
+ ('s13', "We were hooked on each other. Whoever reels first *pulls the other one through.*", 'n'),
+ ('s14', "[quietly] He's knocking again. Do I cut the line, or *reel him in?*", 'n'),
+]

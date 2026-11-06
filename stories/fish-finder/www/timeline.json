@@ -1,0 +1,1480 @@
+{
+ "total": 95.8,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "The fish finder says something is standing under the ice, *upside down,* right under my boots.",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.66,
+   "words": [
+    {
+     "w": "The",
+     "start": 0.17,
+     "end": 0.29
+    },
+    {
+     "w": "fish",
+     "start": 0.29,
+     "end": 0.51
+    },
+    {
+     "w": "finder",
+     "start": 0.51,
+     "end": 0.93
+    },
+    {
+     "w": "says",
+     "start": 0.93,
+     "end": 1.13
+    },
+    {
+     "w": "something",
+     "start": 1.13,
+     "end": 1.53
+    },
+    {
+     "w": "is",
+     "start": 1.53,
+     "end": 1.71
+    },
+    {
+     "w": "standing",
+     "start": 1.71,
+     "end": 2.05
+    },
+    {
+     "w": "under",
+     "start": 2.05,
+     "end": 2.41
+    },
+    {
+     "w": "the",
+     "start": 2.41,
+     "end": 2.59
+    },
+    {
+     "w": "ice,",
+     "start": 2.59,
+     "end": 2.95
+    },
+    {
+     "w": "*upside",
+     "start": 3.33,
+     "end": 3.59
+    },
+    {
+     "w": "down,*",
+     "start": 3.59,
+     "end": 4.13
+    },
+    {
+     "w": "right",
+     "start": 4.51,
+     "end": 4.71
+    },
+    {
+     "w": "under",
+     "start": 4.71,
+     "end": 4.97
+    },
+    {
+     "w": "my",
+     "start": 4.97,
+     "end": 5.15
+    },
+    {
+     "w": "boots.",
+     "start": 5.15,
+     "end": 5.49
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "This is my grandpa's ice shanty. He went through the ice out here *last winter.* Tonight's my first night back.",
+   "voice": "n",
+   "start": 6.6,
+   "end": 12.63,
+   "words": [
+    {
+     "w": "This",
+     "start": 6.6,
+     "end": 6.71
+    },
+    {
+     "w": "is",
+     "start": 6.71,
+     "end": 6.85
+    },
+    {
+     "w": "my",
+     "start": 6.85,
+     "end": 7.05
+    },
+    {
+     "w": "grandpa's",
+     "start": 7.05,
+     "end": 7.61
+    },
+    {
+     "w": "ice",
+     "start": 7.61,
+     "end": 7.83
+    },
+    {
+     "w": "shanty.",
+     "start": 7.83,
+     "end": 8.27
+    },
+    {
+     "w": "He",
+     "start": 8.89,
+     "end": 8.97
+    },
+    {
+     "w": "went",
+     "start": 8.97,
+     "end": 9.11
+    },
+    {
+     "w": "through",
+     "start": 9.11,
+     "end": 9.31
+    },
+    {
+     "w": "the",
+     "start": 9.31,
+     "end": 9.45
+    },
+    {
+     "w": "ice",
+     "start": 9.45,
+     "end": 9.67
+    },
+    {
+     "w": "out",
+     "start": 9.67,
+     "end": 9.87
+    },
+    {
+     "w": "here",
+     "start": 9.87,
+     "end": 10.03
+    },
+    {
+     "w": "*last",
+     "start": 10.03,
+     "end": 10.29
+    },
+    {
+     "w": "winter.*",
+     "start": 10.29,
+     "end": 10.69
+    },
+    {
+     "w": "Tonight's",
+     "start": 11.47,
+     "end": 11.61
+    },
+    {
+     "w": "my",
+     "start": 11.61,
+     "end": 11.73
+    },
+    {
+     "w": "first",
+     "start": 11.73,
+     "end": 12.05
+    },
+    {
+     "w": "night",
+     "start": 12.05,
+     "end": 12.27
+    },
+    {
+     "w": "back.",
+     "start": 12.27,
+     "end": 12.63
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "The ice is eighteen inches thick. You only need *four* to walk on. Under my hole, forty feet of black water.",
+   "voice": "n",
+   "start": 13.34,
+   "end": 20.63,
+   "words": [
+    {
+     "w": "The",
+     "start": 13.34,
+     "end": 13.41
+    },
+    {
+     "w": "ice",
+     "start": 13.41,
+     "end": 13.65
+    },
+    {
+     "w": "is",
+     "start": 13.65,
+     "end": 13.87
+    },
+    {
+     "w": "eighteen",
+     "start": 14.12,
+     "end": 14.17
+    },
+    {
+     "w": "inches",
+     "start": 14.37,
+     "end": 14.65
+    },
+    {
+     "w": "thick.",
+     "start": 14.65,
+     "end": 15.09
+    },
+    {
+     "w": "You",
+     "start": 15.51,
+     "end": 15.67
+    },
+    {
+     "w": "only",
+     "start": 15.67,
+     "end": 15.87
+    },
+    {
+     "w": "need",
+     "start": 15.87,
+     "end": 16.07
+    },
+    {
+     "w": "*four*",
+     "start": 16.07,
+     "end": 16.37
+    },
+    {
+     "w": "to",
+     "start": 16.37,
+     "end": 16.51
+    },
+    {
+     "w": "walk",
+     "start": 16.51,
+     "end": 16.77
+    },
+    {
+     "w": "on.",
+     "start": 16.77,
+     "end": 17.09
+    },
+    {
+     "w": "Under",
+     "start": 17.77,
+     "end": 17.97
+    },
+    {
+     "w": "my",
+     "start": 17.97,
+     "end": 18.15
+    },
+    {
+     "w": "hole,",
+     "start": 18.15,
+     "end": 18.51
+    },
+    {
+     "w": "forty",
+     "start": 19.09,
+     "end": 19.31
+    },
+    {
+     "w": "feet",
+     "start": 19.31,
+     "end": 19.63
+    },
+    {
+     "w": "of",
+     "start": 19.63,
+     "end": 19.89
+    },
+    {
+     "w": "black",
+     "start": 19.89,
+     "end": 20.23
+    },
+    {
+     "w": "water.",
+     "start": 20.23,
+     "end": 20.63
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "His fish finder draws the water as a ring. Fish are little *colored blips.* The bottom is a thick red band.",
+   "voice": "n",
+   "start": 21.32,
+   "end": 28.27,
+   "words": [
+    {
+     "w": "His",
+     "start": 21.32,
+     "end": 21.45
+    },
+    {
+     "w": "fish",
+     "start": 21.45,
+     "end": 21.67
+    },
+    {
+     "w": "finder",
+     "start": 21.67,
+     "end": 22.07
+    },
+    {
+     "w": "draws",
+     "start": 22.07,
+     "end": 22.33
+    },
+    {
+     "w": "the",
+     "start": 22.33,
+     "end": 22.57
+    },
+    {
+     "w": "water",
+     "start": 22.57,
+     "end": 22.85
+    },
+    {
+     "w": "as",
+     "start": 22.85,
+     "end": 23.05
+    },
+    {
+     "w": "a",
+     "start": 23.05,
+     "end": 23.21
+    },
+    {
+     "w": "ring.",
+     "start": 23.21,
+     "end": 23.49
+    },
+    {
+     "w": "Fish",
+     "start": 24.39,
+     "end": 24.39
+    },
+    {
+     "w": "are",
+     "start": 24.39,
+     "end": 24.71
+    },
+    {
+     "w": "little",
+     "start": 24.71,
+     "end": 24.97
+    },
+    {
+     "w": "*colored",
+     "start": 24.97,
+     "end": 25.29
+    },
+    {
+     "w": "blips.*",
+     "start": 25.29,
+     "end": 25.77
+    },
+    {
+     "w": "The",
+     "start": 26.37,
+     "end": 26.47
+    },
+    {
+     "w": "bottom",
+     "start": 26.47,
+     "end": 26.77
+    },
+    {
+     "w": "is",
+     "start": 26.77,
+     "end": 27.07
+    },
+    {
+     "w": "a",
+     "start": 27.07,
+     "end": 27.21
+    },
+    {
+     "w": "thick",
+     "start": 27.21,
+     "end": 27.49
+    },
+    {
+     "w": "red",
+     "start": 27.49,
+     "end": 27.75
+    },
+    {
+     "w": "band.",
+     "start": 27.75,
+     "end": 28.19
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Taped to the screen, in his handwriting: *three rules.*",
+   "voice": "n",
+   "start": 28.84,
+   "end": 31.98,
+   "words": [
+    {
+     "w": "Taped",
+     "start": 28.84,
+     "end": 28.84
+    },
+    {
+     "w": "to",
+     "start": 28.97,
+     "end": 29.15
+    },
+    {
+     "w": "the",
+     "start": 29.15,
+     "end": 29.29
+    },
+    {
+     "w": "screen,",
+     "start": 29.29,
+     "end": 29.63
+    },
+    {
+     "w": "in",
+     "start": 29.89,
+     "end": 29.99
+    },
+    {
+     "w": "his",
+     "start": 29.99,
+     "end": 30.17
+    },
+    {
+     "w": "handwriting:",
+     "start": 30.17,
+     "end": 30.63
+    },
+    {
+     "w": "*three",
+     "start": 31.15,
+     "end": 31.43
+    },
+    {
+     "w": "rules.*",
+     "start": 31.43,
+     "end": 31.89
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "One. Never fish past midnight.",
+   "voice": "n",
+   "start": 32.49,
+   "end": 34.7,
+   "words": [
+    {
+     "w": "One.",
+     "start": 32.71,
+     "end": 32.75
+    },
+    {
+     "w": "Never",
+     "start": 33.39,
+     "end": 33.59
+    },
+    {
+     "w": "fish",
+     "start": 33.59,
+     "end": 33.91
+    },
+    {
+     "w": "past",
+     "start": 33.91,
+     "end": 34.25
+    },
+    {
+     "w": "midnight.",
+     "start": 34.25,
+     "end": 34.7
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Two. If a blip is bigger than you, *don't look down the hole.*",
+   "voice": "n",
+   "start": 35.32,
+   "end": 38.79,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 35.32,
+     "end": 35.55
+    },
+    {
+     "w": "If",
+     "start": 36.03,
+     "end": 36.19
+    },
+    {
+     "w": "a",
+     "start": 36.19,
+     "end": 36.33
+    },
+    {
+     "w": "blip",
+     "start": 36.33,
+     "end": 36.57
+    },
+    {
+     "w": "is",
+     "start": 36.57,
+     "end": 36.73
+    },
+    {
+     "w": "bigger",
+     "start": 36.73,
+     "end": 36.99
+    },
+    {
+     "w": "than",
+     "start": 36.99,
+     "end": 37.21
+    },
+    {
+     "w": "you,",
+     "start": 37.21,
+     "end": 37.43
+    },
+    {
+     "w": "*don't",
+     "start": 37.77,
+     "end": 37.97
+    },
+    {
+     "w": "look",
+     "start": 37.97,
+     "end": 38.13
+    },
+    {
+     "w": "down",
+     "start": 38.13,
+     "end": 38.35
+    },
+    {
+     "w": "the",
+     "start": 38.35,
+     "end": 38.51
+    },
+    {
+     "w": "hole.*",
+     "start": 38.51,
+     "end": 38.73
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Three. If something takes your bait, *cut the line.* Never reel it in.",
+   "voice": "n",
+   "start": 39.35,
+   "end": 43.6,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 39.35,
+     "end": 39.65
+    },
+    {
+     "w": "If",
+     "start": 40.09,
+     "end": 40.25
+    },
+    {
+     "w": "something",
+     "start": 40.25,
+     "end": 40.53
+    },
+    {
+     "w": "takes",
+     "start": 40.53,
+     "end": 40.81
+    },
+    {
+     "w": "your",
+     "start": 40.81,
+     "end": 41.05
+    },
+    {
+     "w": "bait,",
+     "start": 41.05,
+     "end": 41.31
+    },
+    {
+     "w": "*cut",
+     "start": 41.73,
+     "end": 41.83
+    },
+    {
+     "w": "the",
+     "start": 41.83,
+     "end": 42.03
+    },
+    {
+     "w": "line.*",
+     "start": 42.03,
+     "end": 42.31
+    },
+    {
+     "w": "Never",
+     "start": 42.67,
+     "end": 43.03
+    },
+    {
+     "w": "reel",
+     "start": 43.03,
+     "end": 43.27
+    },
+    {
+     "w": "it",
+     "start": 43.27,
+     "end": 43.43
+    },
+    {
+     "w": "in.",
+     "start": 43.43,
+     "end": 43.6
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "At 12:40, a red blip lifted off the bottom. Thirty feet. Twenty. *Ten.*",
+   "voice": "n",
+   "start": 44.47,
+   "end": 50.18,
+   "words": [
+    {
+     "w": "At",
+     "start": 44.47,
+     "end": 44.57
+    },
+    {
+     "w": "12:40,",
+     "start": 44.89,
+     "end": 44.94
+    },
+    {
+     "w": "a",
+     "start": 45.21,
+     "end": 45.26
+    },
+    {
+     "w": "red",
+     "start": 45.53,
+     "end": 45.67
+    },
+    {
+     "w": "blip",
+     "start": 45.67,
+     "end": 45.91
+    },
+    {
+     "w": "lifted",
+     "start": 45.91,
+     "end": 46.29
+    },
+    {
+     "w": "off",
+     "start": 46.29,
+     "end": 46.67
+    },
+    {
+     "w": "the",
+     "start": 46.67,
+     "end": 46.91
+    },
+    {
+     "w": "bottom.",
+     "start": 46.91,
+     "end": 47.07
+    },
+    {
+     "w": "Thirty",
+     "start": 47.07,
+     "end": 47.37
+    },
+    {
+     "w": "feet.",
+     "start": 47.91,
+     "end": 48.21
+    },
+    {
+     "w": "Twenty.",
+     "start": 48.21,
+     "end": 48.49
+    },
+    {
+     "w": "*Ten.*",
+     "start": 48.97,
+     "end": 49.25
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "It stopped right under the ice. Six feet tall. *Bigger than me.*",
+   "voice": "n",
+   "start": 50.8,
+   "end": 54.74,
+   "words": [
+    {
+     "w": "It",
+     "start": 50.8,
+     "end": 50.89
+    },
+    {
+     "w": "stopped",
+     "start": 50.89,
+     "end": 51.25
+    },
+    {
+     "w": "right",
+     "start": 51.25,
+     "end": 51.67
+    },
+    {
+     "w": "under",
+     "start": 51.67,
+     "end": 51.87
+    },
+    {
+     "w": "the",
+     "start": 51.87,
+     "end": 52.05
+    },
+    {
+     "w": "ice.",
+     "start": 52.05,
+     "end": 52.29
+    },
+    {
+     "w": "Six",
+     "start": 52.93,
+     "end": 53.13
+    },
+    {
+     "w": "feet",
+     "start": 53.13,
+     "end": 53.35
+    },
+    {
+     "w": "tall.",
+     "start": 53.35,
+     "end": 53.73
+    },
+    {
+     "w": "*Bigger",
+     "start": 54.15,
+     "end": 54.35
+    },
+    {
+     "w": "than",
+     "start": 54.35,
+     "end": 54.47
+    },
+    {
+     "w": "me.*",
+     "start": 54.47,
+     "end": 54.73
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "I looked down the hole. My headlamp hit something pale, pressed flat against the ice. *The sole of a boot.*",
+   "voice": "n",
+   "start": 55.45,
+   "end": 61.74,
+   "words": [
+    {
+     "w": "I",
+     "start": 55.45,
+     "end": 55.55
+    },
+    {
+     "w": "looked",
+     "start": 55.55,
+     "end": 55.69
+    },
+    {
+     "w": "down",
+     "start": 55.69,
+     "end": 55.93
+    },
+    {
+     "w": "the",
+     "start": 55.93,
+     "end": 56.11
+    },
+    {
+     "w": "hole.",
+     "start": 56.11,
+     "end": 56.35
+    },
+    {
+     "w": "My",
+     "start": 56.35,
+     "end": 56.97
+    },
+    {
+     "w": "headlamp",
+     "start": 56.97,
+     "end": 57.41
+    },
+    {
+     "w": "hit",
+     "start": 57.41,
+     "end": 57.59
+    },
+    {
+     "w": "something",
+     "start": 57.59,
+     "end": 57.95
+    },
+    {
+     "w": "pale,",
+     "start": 57.95,
+     "end": 58.43
+    },
+    {
+     "w": "pressed",
+     "start": 58.77,
+     "end": 58.89
+    },
+    {
+     "w": "flat",
+     "start": 58.89,
+     "end": 59.31
+    },
+    {
+     "w": "against",
+     "start": 59.31,
+     "end": 59.53
+    },
+    {
+     "w": "the",
+     "start": 59.53,
+     "end": 59.77
+    },
+    {
+     "w": "ice.",
+     "start": 59.77,
+     "end": 60.03
+    },
+    {
+     "w": "*The",
+     "start": 60.53,
+     "end": 60.75
+    },
+    {
+     "w": "sole",
+     "start": 60.75,
+     "end": 61.05
+    },
+    {
+     "w": "of",
+     "start": 61.05,
+     "end": 61.23
+    },
+    {
+     "w": "a",
+     "start": 61.23,
+     "end": 61.39
+    },
+    {
+     "w": "boot.*",
+     "start": 61.39,
+     "end": 61.67
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "When I stepped left, it stepped left. Like a reflection, *standing on the other side.*",
+   "voice": "n",
+   "start": 62.35,
+   "end": 66.94,
+   "words": [
+    {
+     "w": "When",
+     "start": 62.35,
+     "end": 62.43
+    },
+    {
+     "w": "I",
+     "start": 62.43,
+     "end": 62.59
+    },
+    {
+     "w": "stepped",
+     "start": 62.59,
+     "end": 62.81
+    },
+    {
+     "w": "left,",
+     "start": 62.81,
+     "end": 63.17
+    },
+    {
+     "w": "it",
+     "start": 63.51,
+     "end": 63.63
+    },
+    {
+     "w": "stepped",
+     "start": 63.63,
+     "end": 63.91
+    },
+    {
+     "w": "left.",
+     "start": 63.91,
+     "end": 64.29
+    },
+    {
+     "w": "Like",
+     "start": 64.63,
+     "end": 64.81
+    },
+    {
+     "w": "a",
+     "start": 64.81,
+     "end": 64.93
+    },
+    {
+     "w": "reflection,",
+     "start": 64.93,
+     "end": 65.47
+    },
+    {
+     "w": "*standing",
+     "start": 65.47,
+     "end": 65.95
+    },
+    {
+     "w": "on",
+     "start": 65.95,
+     "end": 66.21
+    },
+    {
+     "w": "the",
+     "start": 66.21,
+     "end": 66.31
+    },
+    {
+     "w": "other",
+     "start": 66.31,
+     "end": 66.47
+    },
+    {
+     "w": "side.*",
+     "start": 66.47,
+     "end": 66.87
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Then my line went tight. Something took the bait. I grabbed the knife. *Rule three.*",
+   "voice": "n",
+   "start": 67.46,
+   "end": 72.49,
+   "words": [
+    {
+     "w": "Then",
+     "start": 67.46,
+     "end": 67.71
+    },
+    {
+     "w": "my",
+     "start": 67.71,
+     "end": 68.01
+    },
+    {
+     "w": "line",
+     "start": 68.01,
+     "end": 68.27
+    },
+    {
+     "w": "went",
+     "start": 68.27,
+     "end": 68.47
+    },
+    {
+     "w": "tight.",
+     "start": 68.47,
+     "end": 68.79
+    },
+    {
+     "w": "Something",
+     "start": 69.23,
+     "end": 69.49
+    },
+    {
+     "w": "took",
+     "start": 69.49,
+     "end": 69.73
+    },
+    {
+     "w": "the",
+     "start": 69.73,
+     "end": 69.91
+    },
+    {
+     "w": "bait.",
+     "start": 69.91,
+     "end": 70.13
+    },
+    {
+     "w": "I",
+     "start": 70.63,
+     "end": 70.73
+    },
+    {
+     "w": "grabbed",
+     "start": 70.73,
+     "end": 70.95
+    },
+    {
+     "w": "the",
+     "start": 70.95,
+     "end": 71.13
+    },
+    {
+     "w": "knife.",
+     "start": 71.13,
+     "end": 71.43
+    },
+    {
+     "w": "*Rule",
+     "start": 71.97,
+     "end": 72.09
+    },
+    {
+     "w": "three.*",
+     "start": 72.09,
+     "end": 72.49
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Three slow knocks, right under my boots. That's how Grandpa *always knocked.*",
+   "voice": "n",
+   "start": 73.09,
+   "end": 77.19,
+   "words": [
+    {
+     "w": "Three",
+     "start": 73.09,
+     "end": 73.43
+    },
+    {
+     "w": "slow",
+     "start": 73.43,
+     "end": 73.83
+    },
+    {
+     "w": "knocks,",
+     "start": 73.83,
+     "end": 74.25
+    },
+    {
+     "w": "right",
+     "start": 74.25,
+     "end": 74.75
+    },
+    {
+     "w": "under",
+     "start": 74.75,
+     "end": 74.95
+    },
+    {
+     "w": "my",
+     "start": 74.95,
+     "end": 75.15
+    },
+    {
+     "w": "boots.",
+     "start": 75.15,
+     "end": 75.43
+    },
+    {
+     "w": "That's",
+     "start": 75.93,
+     "end": 76.15
+    },
+    {
+     "w": "how",
+     "start": 76.15,
+     "end": 76.29
+    },
+    {
+     "w": "Grandpa",
+     "start": 76.29,
+     "end": 76.65
+    },
+    {
+     "w": "*always",
+     "start": 76.65,
+     "end": 76.93
+    },
+    {
+     "w": "knocked.*",
+     "start": 76.93,
+     "end": 77.19
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "On the screen, the blip was holding a rod. Its line ran up through my hole, *to my hook.*",
+   "voice": "n",
+   "start": 77.91,
+   "end": 83.15,
+   "words": [
+    {
+     "w": "On",
+     "start": 77.91,
+     "end": 78.01
+    },
+    {
+     "w": "the",
+     "start": 78.01,
+     "end": 78.15
+    },
+    {
+     "w": "screen,",
+     "start": 78.15,
+     "end": 78.51
+    },
+    {
+     "w": "the",
+     "start": 78.79,
+     "end": 78.91
+    },
+    {
+     "w": "blip",
+     "start": 78.91,
+     "end": 79.17
+    },
+    {
+     "w": "was",
+     "start": 79.17,
+     "end": 79.33
+    },
+    {
+     "w": "holding",
+     "start": 79.33,
+     "end": 79.63
+    },
+    {
+     "w": "a",
+     "start": 79.63,
+     "end": 79.83
+    },
+    {
+     "w": "rod.",
+     "start": 79.83,
+     "end": 80.13
+    },
+    {
+     "w": "Its",
+     "start": 80.63,
+     "end": 80.77
+    },
+    {
+     "w": "line",
+     "start": 80.77,
+     "end": 81.11
+    },
+    {
+     "w": "ran",
+     "start": 81.11,
+     "end": 81.39
+    },
+    {
+     "w": "up",
+     "start": 81.39,
+     "end": 81.57
+    },
+    {
+     "w": "through",
+     "start": 81.57,
+     "end": 81.81
+    },
+    {
+     "w": "my",
+     "start": 81.81,
+     "end": 82.03
+    },
+    {
+     "w": "hole,",
+     "start": 82.03,
+     "end": 82.39
+    },
+    {
+     "w": "*to",
+     "start": 82.39,
+     "end": 82.69
+    },
+    {
+     "w": "my",
+     "start": 82.69,
+     "end": 82.91
+    },
+    {
+     "w": "hook.*",
+     "start": 82.91,
+     "end": 83.15
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "We were hooked on each other. Whoever reels first *pulls the other one through.*",
+   "voice": "n",
+   "start": 83.72,
+   "end": 87.66,
+   "words": [
+    {
+     "w": "We",
+     "start": 83.72,
+     "end": 83.81
+    },
+    {
+     "w": "were",
+     "start": 83.81,
+     "end": 83.93
+    },
+    {
+     "w": "hooked",
+     "start": 83.93,
+     "end": 84.17
+    },
+    {
+     "w": "on",
+     "start": 84.17,
+     "end": 84.39
+    },
+    {
+     "w": "each",
+     "start": 84.39,
+     "end": 84.57
+    },
+    {
+     "w": "other.",
+     "start": 84.57,
+     "end": 84.83
+    },
+    {
+     "w": "Whoever",
+     "start": 84.83,
+     "end": 85.51
+    },
+    {
+     "w": "reels",
+     "start": 85.51,
+     "end": 85.89
+    },
+    {
+     "w": "first",
+     "start": 85.89,
+     "end": 86.25
+    },
+    {
+     "w": "*pulls",
+     "start": 86.25,
+     "end": 86.69
+    },
+    {
+     "w": "the",
+     "start": 86.69,
+     "end": 86.91
+    },
+    {
+     "w": "other",
+     "start": 86.91,
+     "end": 87.09
+    },
+    {
+     "w": "one",
+     "start": 87.09,
+     "end": 87.27
+    },
+    {
+     "w": "through.*",
+     "start": 87.27,
+     "end": 87.61
+    }
+   ]
+  },
+  {
+   "scene": "s14",
+   "text": "He's knocking again. Do I cut the line, or *reel him in?*",
+   "voice": "n",
+   "start": 88.46,
+   "end": 91.8,
+   "words": [
+    {
+     "w": "He's",
+     "start": 88.46,
+     "end": 88.55
+    },
+    {
+     "w": "knocking",
+     "start": 88.55,
+     "end": 88.85
+    },
+    {
+     "w": "again.",
+     "start": 88.85,
+     "end": 89.31
+    },
+    {
+     "w": "Do",
+     "start": 89.95,
+     "end": 90.01
+    },
+    {
+     "w": "I",
+     "start": 90.01,
+     "end": 90.15
+    },
+    {
+     "w": "cut",
+     "start": 90.15,
+     "end": 90.31
+    },
+    {
+     "w": "the",
+     "start": 90.31,
+     "end": 90.47
+    },
+    {
+     "w": "line,",
+     "start": 90.47,
+     "end": 90.77
+    },
+    {
+     "w": "or",
+     "start": 90.77,
+     "end": 91.27
+    },
+    {
+     "w": "*reel",
+     "start": 91.27,
+     "end": 91.49
+    },
+    {
+     "w": "him",
+     "start": 91.49,
+     "end": 91.61
+    },
+    {
+     "w": "in?*",
+     "start": 91.61,
+     "end": 91.8
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 6.55
+  },
+  {
+   "id": "s2",
+   "start": 6.6,
+   "end": 13.29
+  },
+  {
+   "id": "s3",
+   "start": 13.34,
+   "end": 21.27
+  },
+  {
+   "id": "s4",
+   "start": 21.32,
+   "end": 28.79
+  },
+  {
+   "id": "s5",
+   "start": 28.84,
+   "end": 44.42
+  },
+  {
+   "id": "s6",
+   "start": 44.47,
+   "end": 50.75
+  },
+  {
+   "id": "s7",
+   "start": 50.8,
+   "end": 55.4
+  },
+  {
+   "id": "s8",
+   "start": 55.45,
+   "end": 62.3
+  },
+  {
+   "id": "s9",
+   "start": 62.35,
+   "end": 67.41
+  },
+  {
+   "id": "s10",
+   "start": 67.46,
+   "end": 73.04
+  },
+  {
+   "id": "s11",
+   "start": 73.09,
+   "end": 77.86
+  },
+  {
+   "id": "s12",
+   "start": 77.91,
+   "end": 83.67
+  },
+  {
+   "id": "s13",
+   "start": 83.72,
+   "end": 88.41
+  },
+  {
+   "id": "s14",
+   "start": 88.46,
+   "end": 95.8
+  }
+ ]
+}
