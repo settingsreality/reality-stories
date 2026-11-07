@@ -64,6 +64,8 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-12 | 18:00 | microchip | v2 real thing turns sinister, voice 4 | 418374077 |
 | 2026-11-13 | 10:00 | gravity-tunnel | vertical explainer (The 42-Minute Fall: gravity tunnel), voice 4 | 419080752 |
 | 2026-11-13 | 18:00 | fish-finder | v2 real thing turns sinister (ice-fishing flasher), voice 4 | 419072230 |
+| 2026-11-14 | 10:00 | do-not-disturb | v2 fictional high concept (giant door hanger on the hotel), voice 4 | 419859559 |
+| 2026-11-14 | 18:00 | ninety-meters | v2 real thing turns sinister (wind-turbine lift), voice 4 | 419852259 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
@@ -122,6 +124,8 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-12 | 18:00 | microchip |  | 418374091 |
 | 2026-11-13 | 10:00 | gravity-tunnel | Short, SCIENCE_TECHNOLOGY | 419080773 |
 | 2026-11-13 | 18:00 | fish-finder |  | 419072246 |
+| 2026-11-14 | 10:00 | do-not-disturb |  | 419859575 |
+| 2026-11-14 | 18:00 | ninety-meters |  | 419852322 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
