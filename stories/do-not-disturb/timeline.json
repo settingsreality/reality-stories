@@ -1,0 +1,1406 @@
+{
+ "total": 95.05,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "At nine a.m., the giant sign on the outside of my hotel flipped over. *Please make up room.* Then something knocked on the sky.",
+   "voice": "n",
+   "start": 0.17,
+   "end": 9.52,
+   "words": [
+    {
+     "w": "At",
+     "start": 0.17,
+     "end": 0.3
+    },
+    {
+     "w": "nine",
+     "start": 0.3,
+     "end": 0.64
+    },
+    {
+     "w": "a.m.,",
+     "start": 0.64,
+     "end": 0.82
+    },
+    {
+     "w": "the",
+     "start": 0.82,
+     "end": 1.36
+    },
+    {
+     "w": "giant",
+     "start": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "sign",
+     "start": 1.6,
+     "end": 1.98
+    },
+    {
+     "w": "on",
+     "start": 1.98,
+     "end": 2.36
+    },
+    {
+     "w": "the",
+     "start": 2.36,
+     "end": 2.52
+    },
+    {
+     "w": "outside",
+     "start": 2.52,
+     "end": 2.62
+    },
+    {
+     "w": "of",
+     "start": 2.62,
+     "end": 3.06
+    },
+    {
+     "w": "my",
+     "start": 3.06,
+     "end": 3.18
+    },
+    {
+     "w": "hotel",
+     "start": 3.18,
+     "end": 3.38
+    },
+    {
+     "w": "flipped",
+     "start": 3.38,
+     "end": 3.82
+    },
+    {
+     "w": "over.",
+     "start": 3.82,
+     "end": 4.24
+    },
+    {
+     "w": "*Please",
+     "start": 4.24,
+     "end": 4.76
+    },
+    {
+     "w": "make",
+     "start": 5.4,
+     "end": 5.7
+    },
+    {
+     "w": "up",
+     "start": 5.7,
+     "end": 6.02
+    },
+    {
+     "w": "room.*",
+     "start": 6.02,
+     "end": 6.22
+    },
+    {
+     "w": "Then",
+     "start": 6.22,
+     "end": 6.6
+    },
+    {
+     "w": "something",
+     "start": 7.28,
+     "end": 7.56
+    },
+    {
+     "w": "knocked",
+     "start": 7.94,
+     "end": 8.32
+    },
+    {
+     "w": "on",
+     "start": 8.32,
+     "end": 8.7
+    },
+    {
+     "w": "the",
+     "start": 8.7,
+     "end": 8.98
+    },
+    {
+     "w": "sky.",
+     "start": 8.98,
+     "end": 9.1
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "I'm the night manager at the Grand Halverson. *Twelve floors,* the tallest building in town.",
+   "voice": "n",
+   "start": 10.45,
+   "end": 15.26,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 10.46,
+     "end": 10.62
+    },
+    {
+     "w": "the",
+     "start": 10.62,
+     "end": 10.74
+    },
+    {
+     "w": "night",
+     "start": 10.74,
+     "end": 10.9
+    },
+    {
+     "w": "manager",
+     "start": 10.9,
+     "end": 11.26
+    },
+    {
+     "w": "at",
+     "start": 11.26,
+     "end": 11.52
+    },
+    {
+     "w": "the",
+     "start": 11.52,
+     "end": 11.62
+    },
+    {
+     "w": "Grand",
+     "start": 11.62,
+     "end": 11.88
+    },
+    {
+     "w": "Halverson.",
+     "start": 12.43,
+     "end": 12.48
+    },
+    {
+     "w": "*Twelve",
+     "start": 12.98,
+     "end": 13.14
+    },
+    {
+     "w": "floors,*",
+     "start": 13.14,
+     "end": 13.54
+    },
+    {
+     "w": "the",
+     "start": 13.92,
+     "end": 14.0
+    },
+    {
+     "w": "tallest",
+     "start": 14.0,
+     "end": 14.36
+    },
+    {
+     "w": "building",
+     "start": 14.36,
+     "end": 14.68
+    },
+    {
+     "w": "in",
+     "start": 14.68,
+     "end": 14.96
+    },
+    {
+     "w": "town.",
+     "start": 14.96,
+     "end": 15.2
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "At four a.m., a guest called the desk. There was a sign *hanging off our roof.*",
+   "voice": "n",
+   "start": 15.95,
+   "end": 20.54,
+   "words": [
+    {
+     "w": "At",
+     "start": 15.95,
+     "end": 16.06
+    },
+    {
+     "w": "four",
+     "start": 16.06,
+     "end": 16.34
+    },
+    {
+     "w": "a.m.,",
+     "start": 16.34,
+     "end": 16.52
+    },
+    {
+     "w": "a",
+     "start": 16.52,
+     "end": 16.88
+    },
+    {
+     "w": "guest",
+     "start": 16.88,
+     "end": 17.06
+    },
+    {
+     "w": "called",
+     "start": 17.06,
+     "end": 17.3
+    },
+    {
+     "w": "the",
+     "start": 17.3,
+     "end": 17.6
+    },
+    {
+     "w": "desk.",
+     "start": 17.6,
+     "end": 17.78
+    },
+    {
+     "w": "There",
+     "start": 17.78,
+     "end": 18.1
+    },
+    {
+     "w": "was",
+     "start": 18.56,
+     "end": 18.76
+    },
+    {
+     "w": "a",
+     "start": 18.76,
+     "end": 18.86
+    },
+    {
+     "w": "sign",
+     "start": 18.86,
+     "end": 19.08
+    },
+    {
+     "w": "*hanging",
+     "start": 19.08,
+     "end": 19.4
+    },
+    {
+     "w": "off",
+     "start": 19.4,
+     "end": 19.72
+    },
+    {
+     "w": "our",
+     "start": 19.72,
+     "end": 19.98
+    },
+    {
+     "w": "roof.*",
+     "start": 19.98,
+     "end": 20.2
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "A door hanger, red and white, *forty meters tall.* Do not disturb.",
+   "voice": "n",
+   "start": 21.08,
+   "end": 25.45,
+   "words": [
+    {
+     "w": "A",
+     "start": 21.08,
+     "end": 21.2
+    },
+    {
+     "w": "door",
+     "start": 21.2,
+     "end": 21.38
+    },
+    {
+     "w": "hanger,",
+     "start": 21.38,
+     "end": 21.72
+    },
+    {
+     "w": "red",
+     "start": 22.02,
+     "end": 22.14
+    },
+    {
+     "w": "and",
+     "start": 22.14,
+     "end": 22.28
+    },
+    {
+     "w": "white,",
+     "start": 22.28,
+     "end": 22.54
+    },
+    {
+     "w": "*forty",
+     "start": 22.94,
+     "end": 23.18
+    },
+    {
+     "w": "meters",
+     "start": 23.18,
+     "end": 23.42
+    },
+    {
+     "w": "tall.*",
+     "start": 23.42,
+     "end": 23.84
+    },
+    {
+     "w": "Do",
+     "start": 24.46,
+     "end": 24.56
+    },
+    {
+     "w": "not",
+     "start": 24.56,
+     "end": 24.88
+    },
+    {
+     "w": "disturb.",
+     "start": 24.88,
+     "end": 25.42
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Its hole was looped around the top of our building, like the whole hotel was *a doorknob.*",
+   "voice": "n",
+   "start": 26.13,
+   "end": 30.84,
+   "words": [
+    {
+     "w": "Its",
+     "start": 26.13,
+     "end": 26.24
+    },
+    {
+     "w": "hole",
+     "start": 26.24,
+     "end": 26.58
+    },
+    {
+     "w": "was",
+     "start": 26.58,
+     "end": 26.8
+    },
+    {
+     "w": "looped",
+     "start": 26.8,
+     "end": 27.28
+    },
+    {
+     "w": "around",
+     "start": 27.28,
+     "end": 27.42
+    },
+    {
+     "w": "the",
+     "start": 27.42,
+     "end": 27.62
+    },
+    {
+     "w": "top",
+     "start": 27.62,
+     "end": 27.88
+    },
+    {
+     "w": "of",
+     "start": 27.88,
+     "end": 28.04
+    },
+    {
+     "w": "our",
+     "start": 28.04,
+     "end": 28.18
+    },
+    {
+     "w": "building,",
+     "start": 28.18,
+     "end": 28.54
+    },
+    {
+     "w": "like",
+     "start": 28.82,
+     "end": 28.96
+    },
+    {
+     "w": "the",
+     "start": 28.96,
+     "end": 29.12
+    },
+    {
+     "w": "whole",
+     "start": 29.12,
+     "end": 29.38
+    },
+    {
+     "w": "hotel",
+     "start": 29.38,
+     "end": 29.86
+    },
+    {
+     "w": "was",
+     "start": 29.86,
+     "end": 30.12
+    },
+    {
+     "w": "*a",
+     "start": 30.12,
+     "end": 30.28
+    },
+    {
+     "w": "doorknob.*",
+     "start": 30.28,
+     "end": 30.74
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "In the old manager's binder, I found a page called *exterior signage.* Three rules.",
+   "voice": "n",
+   "start": 31.52,
+   "end": 36.69,
+   "words": [
+    {
+     "w": "In",
+     "start": 31.52,
+     "end": 31.6
+    },
+    {
+     "w": "the",
+     "start": 31.6,
+     "end": 31.7
+    },
+    {
+     "w": "old",
+     "start": 31.7,
+     "end": 31.88
+    },
+    {
+     "w": "manager's",
+     "start": 31.88,
+     "end": 32.4
+    },
+    {
+     "w": "binder,",
+     "start": 32.4,
+     "end": 32.74
+    },
+    {
+     "w": "I",
+     "start": 33.02,
+     "end": 33.1
+    },
+    {
+     "w": "found",
+     "start": 33.1,
+     "end": 33.28
+    },
+    {
+     "w": "a",
+     "start": 33.28,
+     "end": 33.42
+    },
+    {
+     "w": "page",
+     "start": 33.42,
+     "end": 33.68
+    },
+    {
+     "w": "called",
+     "start": 33.68,
+     "end": 34.06
+    },
+    {
+     "w": "*exterior",
+     "start": 34.06,
+     "end": 34.8
+    },
+    {
+     "w": "signage.*",
+     "start": 34.8,
+     "end": 35.44
+    },
+    {
+     "w": "Three",
+     "start": 35.9,
+     "end": 36.2
+    },
+    {
+     "w": "rules.",
+     "start": 36.2,
+     "end": 36.5
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "One. Never take the sign down.",
+   "voice": "n",
+   "start": 37.12,
+   "end": 39.11,
+   "words": [
+    {
+     "w": "One.",
+     "start": 37.18,
+     "end": 37.36
+    },
+    {
+     "w": "Never",
+     "start": 37.8,
+     "end": 38.14
+    },
+    {
+     "w": "take",
+     "start": 38.14,
+     "end": 38.4
+    },
+    {
+     "w": "the",
+     "start": 38.4,
+     "end": 38.6
+    },
+    {
+     "w": "sign",
+     "start": 38.6,
+     "end": 38.82
+    },
+    {
+     "w": "down.",
+     "start": 38.82,
+     "end": 39.11
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Two. While it's up, *nobody checks out.*",
+   "voice": "n",
+   "start": 39.64,
+   "end": 42.25,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 39.64,
+     "end": 39.88
+    },
+    {
+     "w": "While",
+     "start": 40.34,
+     "end": 40.5
+    },
+    {
+     "w": "it's",
+     "start": 40.5,
+     "end": 40.7
+    },
+    {
+     "w": "up,",
+     "start": 40.7,
+     "end": 40.94
+    },
+    {
+     "w": "*nobody",
+     "start": 41.42,
+     "end": 41.6
+    },
+    {
+     "w": "checks",
+     "start": 41.6,
+     "end": 41.94
+    },
+    {
+     "w": "out.*",
+     "start": 41.94,
+     "end": 42.25
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Three. If it flips, *it's housekeeping.* Keep the guests away from the windows.",
+   "voice": "n",
+   "start": 42.86,
+   "end": 47.73,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 42.86,
+     "end": 43.16
+    },
+    {
+     "w": "If",
+     "start": 43.58,
+     "end": 43.74
+    },
+    {
+     "w": "it",
+     "start": 43.74,
+     "end": 43.9
+    },
+    {
+     "w": "flips,",
+     "start": 43.9,
+     "end": 44.14
+    },
+    {
+     "w": "*it's",
+     "start": 44.58,
+     "end": 44.86
+    },
+    {
+     "w": "housekeeping.*",
+     "start": 44.86,
+     "end": 45.28
+    },
+    {
+     "w": "Keep",
+     "start": 45.88,
+     "end": 46.02
+    },
+    {
+     "w": "the",
+     "start": 46.02,
+     "end": 46.24
+    },
+    {
+     "w": "guests",
+     "start": 46.24,
+     "end": 46.5
+    },
+    {
+     "w": "away",
+     "start": 46.5,
+     "end": 46.88
+    },
+    {
+     "w": "from",
+     "start": 46.88,
+     "end": 47.12
+    },
+    {
+     "w": "the",
+     "start": 47.12,
+     "end": 47.26
+    },
+    {
+     "w": "windows.",
+     "start": 47.26,
+     "end": 47.56
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "So I kept everyone inside. Outside, the streets were empty. Not one car. *Not one bird.*",
+   "voice": "n",
+   "start": 48.33,
+   "end": 55.08,
+   "words": [
+    {
+     "w": "So",
+     "start": 48.33,
+     "end": 48.54
+    },
+    {
+     "w": "I",
+     "start": 48.76,
+     "end": 48.92
+    },
+    {
+     "w": "kept",
+     "start": 48.92,
+     "end": 49.1
+    },
+    {
+     "w": "everyone",
+     "start": 49.1,
+     "end": 49.48
+    },
+    {
+     "w": "inside.",
+     "start": 49.48,
+     "end": 49.88
+    },
+    {
+     "w": "Outside,",
+     "start": 50.64,
+     "end": 51.08
+    },
+    {
+     "w": "the",
+     "start": 51.46,
+     "end": 51.54
+    },
+    {
+     "w": "streets",
+     "start": 51.54,
+     "end": 51.82
+    },
+    {
+     "w": "were",
+     "start": 51.82,
+     "end": 52.1
+    },
+    {
+     "w": "empty.",
+     "start": 52.1,
+     "end": 52.52
+    },
+    {
+     "w": "Not",
+     "start": 52.98,
+     "end": 53.14
+    },
+    {
+     "w": "one",
+     "start": 53.14,
+     "end": 53.48
+    },
+    {
+     "w": "car.",
+     "start": 53.48,
+     "end": 53.86
+    },
+    {
+     "w": "*Not",
+     "start": 54.3,
+     "end": 54.42
+    },
+    {
+     "w": "one",
+     "start": 54.42,
+     "end": 54.74
+    },
+    {
+     "w": "bird.*",
+     "start": 54.74,
+     "end": 55.06
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "At nine, a wind hit the sign, and it slowly *turned over.*",
+   "voice": "n",
+   "start": 55.09,
+   "end": 59.58,
+   "words": [
+    {
+     "w": "At",
+     "start": 55.09,
+     "end": 55.58
+    },
+    {
+     "w": "nine,",
+     "start": 55.58,
+     "end": 56.36
+    },
+    {
+     "w": "a",
+     "start": 56.64,
+     "end": 56.78
+    },
+    {
+     "w": "wind",
+     "start": 56.78,
+     "end": 57.08
+    },
+    {
+     "w": "hit",
+     "start": 57.08,
+     "end": 57.36
+    },
+    {
+     "w": "the",
+     "start": 57.36,
+     "end": 57.56
+    },
+    {
+     "w": "sign,",
+     "start": 57.56,
+     "end": 57.9
+    },
+    {
+     "w": "and",
+     "start": 57.9,
+     "end": 58.22
+    },
+    {
+     "w": "it",
+     "start": 58.22,
+     "end": 58.34
+    },
+    {
+     "w": "slowly",
+     "start": 58.34,
+     "end": 58.78
+    },
+    {
+     "w": "*turned",
+     "start": 58.78,
+     "end": 59.22
+    },
+    {
+     "w": "over.*",
+     "start": 59.22,
+     "end": 59.58
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "Please make up room. The sky went dim, like someone *leaning over a bed.*",
+   "voice": "n",
+   "start": 60.11,
+   "end": 65.14,
+   "words": [
+    {
+     "w": "Please",
+     "start": 60.18,
+     "end": 60.4
+    },
+    {
+     "w": "make",
+     "start": 60.4,
+     "end": 60.72
+    },
+    {
+     "w": "up",
+     "start": 60.72,
+     "end": 60.94
+    },
+    {
+     "w": "room.",
+     "start": 60.94,
+     "end": 61.3
+    },
+    {
+     "w": "The",
+     "start": 61.96,
+     "end": 62.16
+    },
+    {
+     "w": "sky",
+     "start": 62.16,
+     "end": 62.46
+    },
+    {
+     "w": "went",
+     "start": 62.46,
+     "end": 62.72
+    },
+    {
+     "w": "dim,",
+     "start": 62.72,
+     "end": 63.08
+    },
+    {
+     "w": "like",
+     "start": 63.48,
+     "end": 63.62
+    },
+    {
+     "w": "someone",
+     "start": 63.62,
+     "end": 63.96
+    },
+    {
+     "w": "*leaning",
+     "start": 63.96,
+     "end": 64.28
+    },
+    {
+     "w": "over",
+     "start": 64.28,
+     "end": 64.62
+    },
+    {
+     "w": "a",
+     "start": 64.62,
+     "end": 64.8
+    },
+    {
+     "w": "bed.*",
+     "start": 64.8,
+     "end": 65.1
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Then three knocks, so loud every window rang. And a voice from everywhere: *Housekeeping.*",
+   "voice": "n",
+   "start": 65.71,
+   "end": 72.43,
+   "words": [
+    {
+     "w": "Then",
+     "start": 65.71,
+     "end": 66.0
+    },
+    {
+     "w": "three",
+     "start": 66.0,
+     "end": 66.6
+    },
+    {
+     "w": "knocks,",
+     "start": 66.6,
+     "end": 66.96
+    },
+    {
+     "w": "so",
+     "start": 67.18,
+     "end": 67.56
+    },
+    {
+     "w": "loud",
+     "start": 67.56,
+     "end": 67.9
+    },
+    {
+     "w": "every",
+     "start": 67.9,
+     "end": 68.46
+    },
+    {
+     "w": "window",
+     "start": 68.46,
+     "end": 68.88
+    },
+    {
+     "w": "rang.",
+     "start": 68.88,
+     "end": 69.2
+    },
+    {
+     "w": "And",
+     "start": 69.58,
+     "end": 69.8
+    },
+    {
+     "w": "a",
+     "start": 69.8,
+     "end": 69.92
+    },
+    {
+     "w": "voice",
+     "start": 69.92,
+     "end": 70.16
+    },
+    {
+     "w": "from",
+     "start": 70.16,
+     "end": 70.44
+    },
+    {
+     "w": "everywhere:",
+     "start": 70.44,
+     "end": 71.1
+    },
+    {
+     "w": "*Housekeeping.*",
+     "start": 71.68,
+     "end": 72.2
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "That's when I got it. The hotel isn't the room. The hotel is the doorknob. *The room is the whole town.*",
+   "voice": "n",
+   "start": 73.08,
+   "end": 79.82,
+   "words": [
+    {
+     "w": "That's",
+     "start": 73.08,
+     "end": 73.3
+    },
+    {
+     "w": "when",
+     "start": 73.3,
+     "end": 73.42
+    },
+    {
+     "w": "I",
+     "start": 73.42,
+     "end": 73.58
+    },
+    {
+     "w": "got",
+     "start": 73.58,
+     "end": 73.76
+    },
+    {
+     "w": "it.",
+     "start": 73.76,
+     "end": 74.02
+    },
+    {
+     "w": "The",
+     "start": 74.36,
+     "end": 74.5
+    },
+    {
+     "w": "hotel",
+     "start": 74.5,
+     "end": 74.86
+    },
+    {
+     "w": "isn't",
+     "start": 74.86,
+     "end": 75.3
+    },
+    {
+     "w": "the",
+     "start": 75.3,
+     "end": 75.5
+    },
+    {
+     "w": "room.",
+     "start": 75.5,
+     "end": 75.82
+    },
+    {
+     "w": "The",
+     "start": 76.26,
+     "end": 76.36
+    },
+    {
+     "w": "hotel",
+     "start": 76.36,
+     "end": 76.76
+    },
+    {
+     "w": "is",
+     "start": 76.76,
+     "end": 77.0
+    },
+    {
+     "w": "the",
+     "start": 77.0,
+     "end": 77.18
+    },
+    {
+     "w": "doorknob.",
+     "start": 77.18,
+     "end": 77.66
+    },
+    {
+     "w": "*The",
+     "start": 78.2,
+     "end": 78.3
+    },
+    {
+     "w": "room",
+     "start": 78.3,
+     "end": 78.64
+    },
+    {
+     "w": "is",
+     "start": 78.64,
+     "end": 78.98
+    },
+    {
+     "w": "the",
+     "start": 78.98,
+     "end": 79.12
+    },
+    {
+     "w": "whole",
+     "start": 79.12,
+     "end": 79.36
+    },
+    {
+     "w": "town.*",
+     "start": 79.36,
+     "end": 79.76
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "A card slid under my office door. \"We'll be in shortly. Please leave anything you want to keep *by the door.*\"",
+   "voice": "n",
+   "start": 80.57,
+   "end": 86.29,
+   "words": [
+    {
+     "w": "A",
+     "start": 80.57,
+     "end": 80.68
+    },
+    {
+     "w": "card",
+     "start": 80.68,
+     "end": 80.98
+    },
+    {
+     "w": "slid",
+     "start": 80.98,
+     "end": 81.32
+    },
+    {
+     "w": "under",
+     "start": 81.32,
+     "end": 81.54
+    },
+    {
+     "w": "my",
+     "start": 81.54,
+     "end": 81.72
+    },
+    {
+     "w": "office",
+     "start": 81.72,
+     "end": 82.02
+    },
+    {
+     "w": "door.",
+     "start": 82.02,
+     "end": 82.34
+    },
+    {
+     "w": "\"We'll",
+     "start": 82.88,
+     "end": 83.12
+    },
+    {
+     "w": "be",
+     "start": 83.12,
+     "end": 83.24
+    },
+    {
+     "w": "in",
+     "start": 83.24,
+     "end": 83.42
+    },
+    {
+     "w": "shortly.",
+     "start": 83.42,
+     "end": 83.76
+    },
+    {
+     "w": "Please",
+     "start": 83.76,
+     "end": 84.32
+    },
+    {
+     "w": "leave",
+     "start": 84.32,
+     "end": 84.62
+    },
+    {
+     "w": "anything",
+     "start": 84.62,
+     "end": 84.98
+    },
+    {
+     "w": "you",
+     "start": 84.98,
+     "end": 85.22
+    },
+    {
+     "w": "want",
+     "start": 85.22,
+     "end": 85.36
+    },
+    {
+     "w": "to",
+     "start": 85.36,
+     "end": 85.5
+    },
+    {
+     "w": "keep",
+     "start": 85.5,
+     "end": 85.68
+    },
+    {
+     "w": "*by",
+     "start": 85.68,
+     "end": 85.92
+    },
+    {
+     "w": "the",
+     "start": 85.92,
+     "end": 86.06
+    },
+    {
+     "w": "door.*\"",
+     "start": 86.06,
+     "end": 86.29
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "I still have time to flip it back. Do I, or do I *let them clean?*",
+   "voice": "n",
+   "start": 87.02,
+   "end": 91.05,
+   "words": [
+    {
+     "w": "I",
+     "start": 87.02,
+     "end": 87.04
+    },
+    {
+     "w": "still",
+     "start": 87.04,
+     "end": 87.28
+    },
+    {
+     "w": "have",
+     "start": 87.28,
+     "end": 87.48
+    },
+    {
+     "w": "time",
+     "start": 87.48,
+     "end": 87.68
+    },
+    {
+     "w": "to",
+     "start": 87.68,
+     "end": 87.84
+    },
+    {
+     "w": "flip",
+     "start": 87.84,
+     "end": 88.02
+    },
+    {
+     "w": "it",
+     "start": 88.02,
+     "end": 88.2
+    },
+    {
+     "w": "back.",
+     "start": 88.2,
+     "end": 88.48
+    },
+    {
+     "w": "Do",
+     "start": 88.48,
+     "end": 89.28
+    },
+    {
+     "w": "I,",
+     "start": 89.28,
+     "end": 89.58
+    },
+    {
+     "w": "or",
+     "start": 89.58,
+     "end": 90.1
+    },
+    {
+     "w": "do",
+     "start": 90.1,
+     "end": 90.22
+    },
+    {
+     "w": "I",
+     "start": 90.22,
+     "end": 90.32
+    },
+    {
+     "w": "*let",
+     "start": 90.32,
+     "end": 90.48
+    },
+    {
+     "w": "them",
+     "start": 90.48,
+     "end": 90.64
+    },
+    {
+     "w": "clean?*",
+     "start": 90.64,
+     "end": 90.96
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 10.4
+  },
+  {
+   "id": "s2",
+   "start": 10.45,
+   "end": 15.9
+  },
+  {
+   "id": "s3",
+   "start": 15.95,
+   "end": 21.03
+  },
+  {
+   "id": "s4",
+   "start": 21.08,
+   "end": 26.08
+  },
+  {
+   "id": "s5",
+   "start": 26.13,
+   "end": 31.47
+  },
+  {
+   "id": "s6",
+   "start": 31.52,
+   "end": 48.28
+  },
+  {
+   "id": "s7",
+   "start": 48.33,
+   "end": 55.04
+  },
+  {
+   "id": "s8",
+   "start": 55.09,
+   "end": 60.06
+  },
+  {
+   "id": "s9",
+   "start": 60.11,
+   "end": 65.66
+  },
+  {
+   "id": "s10",
+   "start": 65.71,
+   "end": 73.03
+  },
+  {
+   "id": "s11",
+   "start": 73.08,
+   "end": 80.52
+  },
+  {
+   "id": "s12",
+   "start": 80.57,
+   "end": 86.97
+  },
+  {
+   "id": "s13",
+   "start": 87.02,
+   "end": 95.05
+  }
+ ]
+}
