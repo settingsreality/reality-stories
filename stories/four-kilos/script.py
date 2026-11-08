@@ -1,0 +1,20 @@
+# Four Kilos. (scene, caption, voice). First person. *word* = yellow on screen. [whispers] = ElevenLabs direction, never shown.
+SCRIPT = [
+ ('s1', "[whispers] The museum floor says I weigh *thirty-one kilos.* An hour ago, I weighed eighty-one.", 'n'),
+ ('s2', "I'm the night guard at a natural history museum. Just me, and the dinosaurs.", 'n'),
+ ('s3', "Under the galleries are pressure mats. A real alarm: after closing, one step sets it off. Ours also *shows your weight.*", 'n'),
+ ('s4', "On my first night, Dolores, the old guard, handed me three rules.", 'n'),
+ ('s5', "One. A four kilo step at two a.m. is normal. *Leave it alone.*", 'n'),
+ ('s5', "Two. Never stand on a tile *it's standing on.*", 'n'),
+ ('s5', "Three. If your own number starts dropping... *stop walking.*", 'n'),
+ ('s6', "At two a.m. it started. Four kilos. Room to room, pausing at every case, *like a visitor.*", 'n'),
+ ('s7', "I broke rule one. I went to look. The tile was lit up, and *nobody was on it.*", 'n'),
+ ('s8', "So I stepped on it. And the number jumped. *Nine kilos.*", 'n'),
+ ('s9', "I checked my own number. Eighty-one... *seventy-six.*", 'n'),
+ ('s10', "Every step I take, it gets heavier, and *I get lighter.*", 'n'),
+ ('s11', "[urgent] \"Kid, it's Dolores. *Run for the door.* Don't stop.\"", 'n'),
+ ('s12', "Rule three says stop walking. Dolores says run. The door is *forty tiles away.*", 'n'),
+ ('s13', "So I pulled up the log for the four kilo step. It has a badge. *Dolores.*", 'n'),
+ ('s14', "She walked out that door four years ago. The floor says *four kilos of her never left.*", 'n'),
+ ('s15', "[quietly] So who's on the radio? Do you *stop, or run?*", 'n'),
+]
