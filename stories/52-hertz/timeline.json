@@ -1,0 +1,1338 @@
+{
+ "total": 94.82,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "The loneliest whale on Earth finally got an answer. Then *forty more.* And they're all heading for *my boat.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 7.18,
+   "words": [
+    {
+     "w": "The",
+     "start": 0.17,
+     "end": 0.3
+    },
+    {
+     "w": "loneliest",
+     "start": 0.3,
+     "end": 0.96
+    },
+    {
+     "w": "whale",
+     "start": 0.96,
+     "end": 1.18
+    },
+    {
+     "w": "on",
+     "start": 1.18,
+     "end": 1.5
+    },
+    {
+     "w": "Earth",
+     "start": 1.5,
+     "end": 1.76
+    },
+    {
+     "w": "finally",
+     "start": 1.76,
+     "end": 2.3
+    },
+    {
+     "w": "got",
+     "start": 2.3,
+     "end": 2.68
+    },
+    {
+     "w": "an",
+     "start": 2.68,
+     "end": 2.84
+    },
+    {
+     "w": "answer.",
+     "start": 2.84,
+     "end": 3.26
+    },
+    {
+     "w": "Then",
+     "start": 3.84,
+     "end": 4.12
+    },
+    {
+     "w": "*forty",
+     "start": 4.12,
+     "end": 4.54
+    },
+    {
+     "w": "more.*",
+     "start": 4.54,
+     "end": 4.94
+    },
+    {
+     "w": "And",
+     "start": 5.58,
+     "end": 5.72
+    },
+    {
+     "w": "they're",
+     "start": 5.72,
+     "end": 5.88
+    },
+    {
+     "w": "all",
+     "start": 5.88,
+     "end": 6.1
+    },
+    {
+     "w": "heading",
+     "start": 6.1,
+     "end": 6.36
+    },
+    {
+     "w": "for",
+     "start": 6.36,
+     "end": 6.62
+    },
+    {
+     "w": "*my",
+     "start": 6.62,
+     "end": 6.8
+    },
+    {
+     "w": "boat.*",
+     "start": 6.8,
+     "end": 7.1
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "It's real. Since 1989, one whale has sung at *52 hertz,* a pitch no other whale uses. No one has ever seen it.",
+   "voice": "n",
+   "start": 8.22,
+   "end": 17.26,
+   "words": [
+    {
+     "w": "It's",
+     "start": 8.22,
+     "end": 8.4
+    },
+    {
+     "w": "real.",
+     "start": 8.4,
+     "end": 8.72
+    },
+    {
+     "w": "Since",
+     "start": 9.46,
+     "end": 9.7
+    },
+    {
+     "w": "1989,",
+     "start": 9.7,
+     "end": 10.4
+    },
+    {
+     "w": "one",
+     "start": 11.16,
+     "end": 11.28
+    },
+    {
+     "w": "whale",
+     "start": 11.28,
+     "end": 11.58
+    },
+    {
+     "w": "has",
+     "start": 11.58,
+     "end": 11.84
+    },
+    {
+     "w": "sung",
+     "start": 11.84,
+     "end": 12.1
+    },
+    {
+     "w": "at",
+     "start": 12.1,
+     "end": 12.24
+    },
+    {
+     "w": "*52",
+     "start": 12.24,
+     "end": 12.86
+    },
+    {
+     "w": "hertz,*",
+     "start": 12.86,
+     "end": 13.4
+    },
+    {
+     "w": "a",
+     "start": 13.68,
+     "end": 13.84
+    },
+    {
+     "w": "pitch",
+     "start": 13.84,
+     "end": 14.0
+    },
+    {
+     "w": "no",
+     "start": 14.0,
+     "end": 14.4
+    },
+    {
+     "w": "other",
+     "start": 14.4,
+     "end": 14.66
+    },
+    {
+     "w": "whale",
+     "start": 14.66,
+     "end": 14.9
+    },
+    {
+     "w": "uses.",
+     "start": 14.9,
+     "end": 15.26
+    },
+    {
+     "w": "No",
+     "start": 15.94,
+     "end": 16.14
+    },
+    {
+     "w": "one",
+     "start": 16.14,
+     "end": 16.3
+    },
+    {
+     "w": "has",
+     "start": 16.3,
+     "end": 16.5
+    },
+    {
+     "w": "ever",
+     "start": 16.5,
+     "end": 16.86
+    },
+    {
+     "w": "seen",
+     "start": 16.86,
+     "end": 17.16
+    },
+    {
+     "w": "it.",
+     "start": 17.16,
+     "end": 17.26
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "I'm on night watch on a research boat in the North Pacific, with my headphones on *the hydrophone.*",
+   "voice": "n",
+   "start": 17.98,
+   "end": 22.6,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 17.98,
+     "end": 18.12
+    },
+    {
+     "w": "on",
+     "start": 18.12,
+     "end": 18.3
+    },
+    {
+     "w": "night",
+     "start": 18.44,
+     "end": 18.49
+    },
+    {
+     "w": "watch",
+     "start": 18.58,
+     "end": 18.63
+    },
+    {
+     "w": "on",
+     "start": 18.72,
+     "end": 18.98
+    },
+    {
+     "w": "a",
+     "start": 18.98,
+     "end": 19.12
+    },
+    {
+     "w": "research",
+     "start": 19.12,
+     "end": 19.42
+    },
+    {
+     "w": "boat",
+     "start": 19.42,
+     "end": 19.72
+    },
+    {
+     "w": "in",
+     "start": 19.72,
+     "end": 19.9
+    },
+    {
+     "w": "the",
+     "start": 19.9,
+     "end": 20.0
+    },
+    {
+     "w": "North",
+     "start": 20.0,
+     "end": 20.18
+    },
+    {
+     "w": "Pacific,",
+     "start": 20.18,
+     "end": 20.56
+    },
+    {
+     "w": "with",
+     "start": 20.92,
+     "end": 21.1
+    },
+    {
+     "w": "my",
+     "start": 21.1,
+     "end": 21.28
+    },
+    {
+     "w": "headphones",
+     "start": 21.28,
+     "end": 21.66
+    },
+    {
+     "w": "on",
+     "start": 21.66,
+     "end": 21.94
+    },
+    {
+     "w": "*the",
+     "start": 21.94,
+     "end": 22.06
+    },
+    {
+     "w": "hydrophone.*",
+     "start": 22.06,
+     "end": 22.6
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Ines taped three rules to the console. *One:* fifty-two, log it. *Two:* never answer it. *Three:* two voices, kill the engine and go dark.",
+   "voice": "n",
+   "start": 23.23,
+   "end": 33.95,
+   "words": [
+    {
+     "w": "Ines",
+     "start": 23.32,
+     "end": 23.54
+    },
+    {
+     "w": "taped",
+     "start": 23.54,
+     "end": 23.86
+    },
+    {
+     "w": "three",
+     "start": 23.86,
+     "end": 24.22
+    },
+    {
+     "w": "rules",
+     "start": 24.22,
+     "end": 24.54
+    },
+    {
+     "w": "to",
+     "start": 24.54,
+     "end": 24.78
+    },
+    {
+     "w": "the",
+     "start": 24.78,
+     "end": 24.92
+    },
+    {
+     "w": "console.",
+     "start": 24.92,
+     "end": 25.28
+    },
+    {
+     "w": "*One:*",
+     "start": 25.28,
+     "end": 26.22
+    },
+    {
+     "w": "fifty-two,",
+     "start": 26.767,
+     "end": 26.817
+    },
+    {
+     "w": "log",
+     "start": 27.313,
+     "end": 27.363
+    },
+    {
+     "w": "it.",
+     "start": 27.86,
+     "end": 27.9
+    },
+    {
+     "w": "*Two:*",
+     "start": 27.9,
+     "end": 28.18
+    },
+    {
+     "w": "never",
+     "start": 28.48,
+     "end": 28.86
+    },
+    {
+     "w": "answer",
+     "start": 29.42,
+     "end": 29.58
+    },
+    {
+     "w": "it.",
+     "start": 29.58,
+     "end": 29.98
+    },
+    {
+     "w": "*Three:*",
+     "start": 29.98,
+     "end": 30.46
+    },
+    {
+     "w": "two",
+     "start": 30.6,
+     "end": 31.04
+    },
+    {
+     "w": "voices,",
+     "start": 31.42,
+     "end": 31.66
+    },
+    {
+     "w": "kill",
+     "start": 31.66,
+     "end": 32.08
+    },
+    {
+     "w": "the",
+     "start": 32.58,
+     "end": 32.72
+    },
+    {
+     "w": "engine",
+     "start": 32.72,
+     "end": 32.9
+    },
+    {
+     "w": "and",
+     "start": 32.9,
+     "end": 33.16
+    },
+    {
+     "w": "go",
+     "start": 33.16,
+     "end": 33.46
+    },
+    {
+     "w": "dark.",
+     "start": 33.46,
+     "end": 33.68
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "At 2:14, there it is. One voice, *forty kilometers* out. Logged.",
+   "voice": "n",
+   "start": 34.79,
+   "end": 40.03,
+   "words": [
+    {
+     "w": "At",
+     "start": 34.79,
+     "end": 34.9
+    },
+    {
+     "w": "2:14,",
+     "start": 35.327,
+     "end": 35.377
+    },
+    {
+     "w": "there",
+     "start": 35.753,
+     "end": 35.803
+    },
+    {
+     "w": "it",
+     "start": 36.18,
+     "end": 36.32
+    },
+    {
+     "w": "is.",
+     "start": 36.32,
+     "end": 36.46
+    },
+    {
+     "w": "One",
+     "start": 36.46,
+     "end": 36.74
+    },
+    {
+     "w": "voice,",
+     "start": 37.2,
+     "end": 37.48
+    },
+    {
+     "w": "*forty",
+     "start": 37.48,
+     "end": 37.86
+    },
+    {
+     "w": "kilometers*",
+     "start": 38.2,
+     "end": 38.42
+    },
+    {
+     "w": "out.",
+     "start": 38.42,
+     "end": 38.76
+    },
+    {
+     "w": "Logged.",
+     "start": 38.76,
+     "end": 39.22
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Then a second voice, at *exactly* 52 hertz. In thirty-seven years, that has never happened.",
+   "voice": "n",
+   "start": 40.6,
+   "end": 46.82,
+   "words": [
+    {
+     "w": "Then",
+     "start": 40.6,
+     "end": 40.7
+    },
+    {
+     "w": "a",
+     "start": 40.7,
+     "end": 40.84
+    },
+    {
+     "w": "second",
+     "start": 40.84,
+     "end": 41.12
+    },
+    {
+     "w": "voice,",
+     "start": 41.12,
+     "end": 41.5
+    },
+    {
+     "w": "at",
+     "start": 41.66,
+     "end": 41.86
+    },
+    {
+     "w": "*exactly*",
+     "start": 41.86,
+     "end": 42.44
+    },
+    {
+     "w": "52",
+     "start": 42.44,
+     "end": 43.16
+    },
+    {
+     "w": "hertz.",
+     "start": 43.16,
+     "end": 43.68
+    },
+    {
+     "w": "In",
+     "start": 44.08,
+     "end": 44.3
+    },
+    {
+     "w": "thirty-seven",
+     "start": 44.447,
+     "end": 44.497
+    },
+    {
+     "w": "years,",
+     "start": 44.593,
+     "end": 44.643
+    },
+    {
+     "w": "that",
+     "start": 44.74,
+     "end": 45.32
+    },
+    {
+     "w": "has",
+     "start": 45.48,
+     "end": 45.7
+    },
+    {
+     "w": "never",
+     "start": 45.7,
+     "end": 45.88
+    },
+    {
+     "w": "happened.",
+     "start": 45.88,
+     "end": 46.3
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "I kill the engine. The boat goes dark. And the count keeps climbing. *Three. Nine. Forty.*",
+   "voice": "n",
+   "start": 47.45,
+   "end": 54.15,
+   "words": [
+    {
+     "w": "I",
+     "start": 47.45,
+     "end": 47.56
+    },
+    {
+     "w": "kill",
+     "start": 47.56,
+     "end": 47.74
+    },
+    {
+     "w": "the",
+     "start": 47.74,
+     "end": 47.94
+    },
+    {
+     "w": "engine.",
+     "start": 47.94,
+     "end": 48.22
+    },
+    {
+     "w": "The",
+     "start": 48.56,
+     "end": 48.76
+    },
+    {
+     "w": "boat",
+     "start": 48.76,
+     "end": 48.96
+    },
+    {
+     "w": "goes",
+     "start": 48.96,
+     "end": 49.22
+    },
+    {
+     "w": "dark.",
+     "start": 49.22,
+     "end": 49.56
+    },
+    {
+     "w": "And",
+     "start": 50.04,
+     "end": 50.26
+    },
+    {
+     "w": "the",
+     "start": 50.26,
+     "end": 50.4
+    },
+    {
+     "w": "count",
+     "start": 50.4,
+     "end": 50.68
+    },
+    {
+     "w": "keeps",
+     "start": 50.68,
+     "end": 51.0
+    },
+    {
+     "w": "climbing.",
+     "start": 51.0,
+     "end": 51.46
+    },
+    {
+     "w": "*Three.",
+     "start": 51.98,
+     "end": 52.36
+    },
+    {
+     "w": "Nine.",
+     "start": 52.86,
+     "end": 53.32
+    },
+    {
+     "w": "Forty.*",
+     "start": 53.72,
+     "end": 54.1
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "All at 52. All silent until tonight. And they aren't heading for the whale. They're heading for *us.*",
+   "voice": "n",
+   "start": 54.63,
+   "end": 61.2,
+   "words": [
+    {
+     "w": "All",
+     "start": 54.63,
+     "end": 54.88
+    },
+    {
+     "w": "at",
+     "start": 54.88,
+     "end": 55.1
+    },
+    {
+     "w": "52.",
+     "start": 55.1,
+     "end": 55.62
+    },
+    {
+     "w": "All",
+     "start": 56.24,
+     "end": 56.48
+    },
+    {
+     "w": "silent",
+     "start": 56.48,
+     "end": 57.0
+    },
+    {
+     "w": "until",
+     "start": 57.0,
+     "end": 57.44
+    },
+    {
+     "w": "tonight.",
+     "start": 57.44,
+     "end": 57.82
+    },
+    {
+     "w": "And",
+     "start": 58.3,
+     "end": 58.5
+    },
+    {
+     "w": "they",
+     "start": 58.5,
+     "end": 58.6
+    },
+    {
+     "w": "aren't",
+     "start": 58.6,
+     "end": 58.78
+    },
+    {
+     "w": "heading",
+     "start": 58.78,
+     "end": 59.0
+    },
+    {
+     "w": "for",
+     "start": 59.0,
+     "end": 59.2
+    },
+    {
+     "w": "the",
+     "start": 59.2,
+     "end": 59.34
+    },
+    {
+     "w": "whale.",
+     "start": 59.34,
+     "end": 59.58
+    },
+    {
+     "w": "They're",
+     "start": 60.18,
+     "end": 60.3
+    },
+    {
+     "w": "heading",
+     "start": 60.3,
+     "end": 60.5
+    },
+    {
+     "w": "for",
+     "start": 60.5,
+     "end": 60.72
+    },
+    {
+     "w": "*us.*",
+     "start": 60.72,
+     "end": 61.06
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "Ines pulls up every track of that whale ever logged. It never wandered. It *follows the shipping lanes.*",
+   "voice": "n",
+   "start": 61.85,
+   "end": 67.73,
+   "words": [
+    {
+     "w": "Ines",
+     "start": 61.92,
+     "end": 62.14
+    },
+    {
+     "w": "pulls",
+     "start": 62.14,
+     "end": 62.4
+    },
+    {
+     "w": "up",
+     "start": 62.4,
+     "end": 62.6
+    },
+    {
+     "w": "every",
+     "start": 62.6,
+     "end": 63.02
+    },
+    {
+     "w": "track",
+     "start": 63.02,
+     "end": 63.3
+    },
+    {
+     "w": "of",
+     "start": 63.3,
+     "end": 63.48
+    },
+    {
+     "w": "that",
+     "start": 63.48,
+     "end": 63.62
+    },
+    {
+     "w": "whale",
+     "start": 63.62,
+     "end": 63.9
+    },
+    {
+     "w": "ever",
+     "start": 63.9,
+     "end": 64.24
+    },
+    {
+     "w": "logged.",
+     "start": 64.24,
+     "end": 64.64
+    },
+    {
+     "w": "It",
+     "start": 65.02,
+     "end": 65.18
+    },
+    {
+     "w": "never",
+     "start": 65.18,
+     "end": 65.54
+    },
+    {
+     "w": "wandered.",
+     "start": 65.54,
+     "end": 65.96
+    },
+    {
+     "w": "It",
+     "start": 66.2,
+     "end": 66.4
+    },
+    {
+     "w": "*follows",
+     "start": 66.4,
+     "end": 66.78
+    },
+    {
+     "w": "the",
+     "start": 66.78,
+     "end": 67.06
+    },
+    {
+     "w": "shipping",
+     "start": 67.06,
+     "end": 67.3
+    },
+    {
+     "w": "lanes.*",
+     "start": 67.3,
+     "end": 67.66
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "And its song isn't a song. Every note is *a ship.* Tonight's call has one more note than last night's.",
+   "voice": "n",
+   "start": 68.19,
+   "end": 74.53,
+   "words": [
+    {
+     "w": "And",
+     "start": 68.19,
+     "end": 68.28
+    },
+    {
+     "w": "its",
+     "start": 68.28,
+     "end": 68.44
+    },
+    {
+     "w": "song",
+     "start": 68.44,
+     "end": 68.8
+    },
+    {
+     "w": "isn't",
+     "start": 68.8,
+     "end": 69.14
+    },
+    {
+     "w": "a",
+     "start": 69.14,
+     "end": 69.34
+    },
+    {
+     "w": "song.",
+     "start": 69.34,
+     "end": 69.66
+    },
+    {
+     "w": "Every",
+     "start": 70.16,
+     "end": 70.4
+    },
+    {
+     "w": "note",
+     "start": 70.4,
+     "end": 70.68
+    },
+    {
+     "w": "is",
+     "start": 70.68,
+     "end": 70.96
+    },
+    {
+     "w": "*a",
+     "start": 70.96,
+     "end": 71.16
+    },
+    {
+     "w": "ship.*",
+     "start": 71.16,
+     "end": 71.44
+    },
+    {
+     "w": "Tonight's",
+     "start": 72.12,
+     "end": 72.42
+    },
+    {
+     "w": "call",
+     "start": 72.42,
+     "end": 72.62
+    },
+    {
+     "w": "has",
+     "start": 72.62,
+     "end": 72.84
+    },
+    {
+     "w": "one",
+     "start": 72.84,
+     "end": 73.18
+    },
+    {
+     "w": "more",
+     "start": 73.18,
+     "end": 73.38
+    },
+    {
+     "w": "note",
+     "start": 73.38,
+     "end": 73.68
+    },
+    {
+     "w": "than",
+     "start": 73.68,
+     "end": 73.86
+    },
+    {
+     "w": "last",
+     "start": 73.86,
+     "end": 74.1
+    },
+    {
+     "w": "night's.",
+     "start": 74.1,
+     "end": 74.53
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "*Ours.*",
+   "voice": "n",
+   "start": 74.98,
+   "end": 75.43,
+   "words": [
+    {
+     "w": "*Ours.*",
+     "start": 75.02,
+     "end": 75.24
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "It was never lonely. It's *a lookout.* And it just told all of them *where we are.*",
+   "voice": "n",
+   "start": 75.95,
+   "end": 80.61,
+   "words": [
+    {
+     "w": "It",
+     "start": 75.95,
+     "end": 76.04
+    },
+    {
+     "w": "was",
+     "start": 76.04,
+     "end": 76.16
+    },
+    {
+     "w": "never",
+     "start": 76.16,
+     "end": 76.52
+    },
+    {
+     "w": "lonely.",
+     "start": 76.52,
+     "end": 76.9
+    },
+    {
+     "w": "It's",
+     "start": 76.9,
+     "end": 77.52
+    },
+    {
+     "w": "*a",
+     "start": 77.52,
+     "end": 77.62
+    },
+    {
+     "w": "lookout.*",
+     "start": 77.62,
+     "end": 77.92
+    },
+    {
+     "w": "And",
+     "start": 78.48,
+     "end": 78.58
+    },
+    {
+     "w": "it",
+     "start": 78.58,
+     "end": 78.72
+    },
+    {
+     "w": "just",
+     "start": 78.72,
+     "end": 78.9
+    },
+    {
+     "w": "told",
+     "start": 78.9,
+     "end": 79.2
+    },
+    {
+     "w": "all",
+     "start": 79.2,
+     "end": 79.54
+    },
+    {
+     "w": "of",
+     "start": 79.54,
+     "end": 79.68
+    },
+    {
+     "w": "them",
+     "start": 79.68,
+     "end": 79.86
+    },
+    {
+     "w": "*where",
+     "start": 79.86,
+     "end": 80.1
+    },
+    {
+     "w": "we",
+     "start": 80.1,
+     "end": 80.28
+    },
+    {
+     "w": "are.*",
+     "start": 80.28,
+     "end": 80.6
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "Nine hundred meters. Ines says start the engine and run. Rule three says *stay dark.*",
+   "voice": "n",
+   "start": 81.09,
+   "end": 86.68,
+   "words": [
+    {
+     "w": "Nine",
+     "start": 81.09,
+     "end": 81.09
+    },
+    {
+     "w": "hundred",
+     "start": 81.293,
+     "end": 81.343
+    },
+    {
+     "w": "meters.",
+     "start": 81.64,
+     "end": 82.06
+    },
+    {
+     "w": "Ines",
+     "start": 82.78,
+     "end": 82.98
+    },
+    {
+     "w": "says",
+     "start": 82.98,
+     "end": 83.22
+    },
+    {
+     "w": "start",
+     "start": 83.22,
+     "end": 83.6
+    },
+    {
+     "w": "the",
+     "start": 83.6,
+     "end": 83.8
+    },
+    {
+     "w": "engine",
+     "start": 83.8,
+     "end": 84.04
+    },
+    {
+     "w": "and",
+     "start": 84.04,
+     "end": 84.3
+    },
+    {
+     "w": "run.",
+     "start": 84.3,
+     "end": 84.6
+    },
+    {
+     "w": "Rule",
+     "start": 85.3,
+     "end": 85.32
+    },
+    {
+     "w": "three",
+     "start": 85.32,
+     "end": 85.7
+    },
+    {
+     "w": "says",
+     "start": 85.7,
+     "end": 86.0
+    },
+    {
+     "w": "*stay",
+     "start": 86.0,
+     "end": 86.34
+    },
+    {
+     "w": "dark.*",
+     "start": 86.34,
+     "end": 86.68
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "But an engine is an answer. Do you start it, or *stay dark?*",
+   "voice": "n",
+   "start": 87.34,
+   "end": 90.82,
+   "words": [
+    {
+     "w": "But",
+     "start": 87.36,
+     "end": 87.44
+    },
+    {
+     "w": "an",
+     "start": 87.44,
+     "end": 87.58
+    },
+    {
+     "w": "engine",
+     "start": 87.58,
+     "end": 87.92
+    },
+    {
+     "w": "is",
+     "start": 87.92,
+     "end": 88.1
+    },
+    {
+     "w": "an",
+     "start": 88.1,
+     "end": 88.22
+    },
+    {
+     "w": "answer.",
+     "start": 88.22,
+     "end": 88.58
+    },
+    {
+     "w": "Do",
+     "start": 89.22,
+     "end": 89.32
+    },
+    {
+     "w": "you",
+     "start": 89.32,
+     "end": 89.44
+    },
+    {
+     "w": "start",
+     "start": 89.44,
+     "end": 89.74
+    },
+    {
+     "w": "it,",
+     "start": 89.74,
+     "end": 89.94
+    },
+    {
+     "w": "or",
+     "start": 89.94,
+     "end": 90.3
+    },
+    {
+     "w": "*stay",
+     "start": 90.3,
+     "end": 90.56
+    },
+    {
+     "w": "dark?*",
+     "start": 90.56,
+     "end": 90.82
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 8.17
+  },
+  {
+   "id": "s2",
+   "start": 8.22,
+   "end": 17.93
+  },
+  {
+   "id": "s3",
+   "start": 17.98,
+   "end": 23.18
+  },
+  {
+   "id": "s4",
+   "start": 23.23,
+   "end": 34.74
+  },
+  {
+   "id": "s5",
+   "start": 34.79,
+   "end": 40.55
+  },
+  {
+   "id": "s6",
+   "start": 40.6,
+   "end": 47.4
+  },
+  {
+   "id": "s7",
+   "start": 47.45,
+   "end": 54.58
+  },
+  {
+   "id": "s8",
+   "start": 54.63,
+   "end": 61.8
+  },
+  {
+   "id": "s9",
+   "start": 61.85,
+   "end": 68.14
+  },
+  {
+   "id": "s10",
+   "start": 68.19,
+   "end": 75.9
+  },
+  {
+   "id": "s11",
+   "start": 75.95,
+   "end": 81.04
+  },
+  {
+   "id": "s12",
+   "start": 81.09,
+   "end": 87.29
+  },
+  {
+   "id": "s13",
+   "start": 87.34,
+   "end": 94.82
+  }
+ ]
+}
