@@ -49,6 +49,8 @@
 - Four Kilos (v2, Nov 8): night guard at a natural history museum; pressure mats under the galleries (real alarm; ours shows weight); Dolores's rules (4 kg step at 2 a.m. is normal / never stand on its tile / if your number drops stop walking); I step on its tile: it goes 4→9, I go 81→76, every step moves weight from me to it (ends 54 / 31); Dolores on the radio says run, rule three says stop, door 40 tiles away; the 4 kg step has a badge: Dolores, who walked out 4 years ago, 'four kilos of her never left'; 'Who's on the radio?'; 'Stop / Run'
 - 52 Hertz (v2, Nov 9): night watch on a North Pacific research boat with a hydrophone; the real 52-hertz whale (recorded since 1989, a pitch no other whale uses, never seen); Ines's rules (log it / never answer it / two voices: kill the engine and go dark); a second voice at 52, then 3, 9, 40, all converging on the boat; the whale's tracks follow the shipping lanes, every note in its song is a ship, tonight's song has one more note: ours; it was never lonely, it's a lookout; an engine is an answer; "Start it / Stay dark"
 - The Mirror Question (vertical explainer, Nov 9): a mirror flips front-back, not left-right (right hand stays on the same side; right glove inside out = left glove; the left-right swap is the 180° turn you imagine; paper turned around vs clear plastic; flip the paper over its top edge and it's upside down); two mirrors at 90° show the true image; Mita 1977: people prefer their mirror face, friends the true one; "Mirror me / Real me"
+- The Fetch (v2 myth, Nov 10): the Irish fetch (your living double; seen in the morning = long life, at night = death) as face unlock; Gran's rules (morning: long life / night: don't look back); 2 failed attempts while I'm in the shower, the lock app snaps me with wet hair in the kitchen at 7:02; Gran saw me outside the bakery that morning; at 11:40 the phone unlocks by itself and texts Gran "Don't worry about me"; front camera shows it in the yard; face not recognized x3, locked out; phone/door/bank all welcome it back; Gran: "Saw you this morning, love. You looked so well": the long life is its, I'm seeing it tonight; it taps the glass behind me; "Look back / Eyes shut"
+- Only a Test (v2, Nov 10): Washington coast tsunami towers (real: Westminster chimes test at noon on the first Monday of the month; a real warning is a wail; walk uphill, don't drive; the sea pulling back is the natural warning); Mom's fridge rules (chimes = test / wail = walk uphill / never go down to look at the water); Tuesday 3:07 a.m. the chimes play slowly, "This is only a test"; the bay pulls back ~1 mile; the whole town walks down onto the seabed in pajamas, Mom in her robe; 12, 40, 200; rows facing the tower like an audience; "Test complete. One resident did not respond", then my address; it was testing us and everybody passed but me; the sea comes back, Mom in the front row; "Go get her / Walk uphill"
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -68,6 +70,7 @@
 - Robotaxi taking the wrong way home at night (horror film *Autonomous*, 2026, robot ride-share that takes a horridly wrong way home)
 - Dial-up modem screech horror (horror film *Modem*, Raindance 2026)
 - Creature under the ice while ice fishing, in general (film *Hypothermia*, 2010); our Fish Finder kept to the flasher/upside-down-fisher twist
+- A siren pole that is itself a creature (Siren Head, Trevor Henderson); Only a Test kept to the real tower + the town as the audience
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
@@ -83,9 +86,9 @@
   - The owner passed on: Carousel (suitcase on the baggage belt), Free Trial (gravity free trial ends at midnight). Don't make those.
 - **Seed vault**: night guard at the Svalbard seed vault; the door log shows someone entered from the inside.
 - **Satellite SOS**: my hiking messenger sends an SOS with GPS coordinates while it's in a drawer at home; the coordinates are a trail I'm hiking next week.
-- **Tsunami siren test**: the monthly siren test, same tone every first Monday at 11:45; this month a different tone, and only my street hears it.
+- (Tsunami siren test: done Nov 10 as Only a Test)
 - **Fictional high concepts to try:** the Moon gets a "terms of service" update; everyone's phone gets the same new contact overnight; a lost-pet poster with your face; (hotel do-not-disturb sign: done Nov 7 as Do Not Disturb).
-- **Myths to retell (search each first):** (Will-o'-the-wisp: done Nov 5 as 0.4 Miles); the Irish fetch (seeing your double means death; modern = face unlock opens for someone else); (Lady Midday: done Oct 30).
+- **Myths to retell (search each first):** (Will-o'-the-wisp: done Nov 5 as 0.4 Miles); (the Irish fetch: done Nov 10 as The Fetch); (Lady Midday: done Oct 30).
 - **Vertical explainers in the How Time Works look** (the owner loves that style: clean diagrams, the toon characters, real numbers, a weird twist of real physics). Check every number before making one:
   - **Your head is older than your feet**: gravity slows time; NIST measured it over 33 cm; GPS +45/−7 = +38 µs a day. Ends "How tall are you?"
   - (A tunnel through Earth takes 42 minutes: done Nov 6 as The 42-Minute Fall)

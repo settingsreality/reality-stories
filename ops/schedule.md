@@ -68,7 +68,9 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-14 | 18:00 | ninety-meters | v2 real thing turns sinister (wind-turbine lift), voice 4 | 419852259 |
 | 2026-11-15 | 10:00 | mirror-question | explainer | 421798558 |
 | 2026-11-15 | 18:00 | four-kilos |  | 420960386 |
+| 2026-11-16 | 10:00 | the-fetch |  | 422998995 |
 | 2026-11-16 | 18:00 | 52-hertz |  | 421798612 |
+| 2026-11-17 | 18:00 | only-a-test | 1:43 | 423008008 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
@@ -131,7 +133,9 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-14 | 18:00 | ninety-meters |  | 419852322 |
 | 2026-11-15 | 10:00 | mirror-question | Short, SCIENCE_TECHNOLOGY | 421798572 |
 | 2026-11-15 | 18:00 | four-kilos |  | 420960400 |
+| 2026-11-16 | 10:00 | the-fetch |  | 422999071 |
 | 2026-11-16 | 18:00 | 52-hertz |  | 421798639 |
+| 2026-11-17 | 18:00 | only-a-test |  | 423008166 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
