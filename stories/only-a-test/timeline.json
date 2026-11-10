@@ -1,0 +1,1389 @@
+{
+ "total": 102.94,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "At 3 a.m. the tsunami siren said *this is only a test.* And my whole town is walking *toward the water.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 6.9,
+   "words": [
+    {
+     "w": "At",
+     "start": 0.17,
+     "end": 0.31
+    },
+    {
+     "w": "3",
+     "start": 0.59,
+     "end": 0.64
+    },
+    {
+     "w": "a.m.",
+     "start": 0.87,
+     "end": 0.92
+    },
+    {
+     "w": "the",
+     "start": 1.15,
+     "end": 1.2
+    },
+    {
+     "w": "tsunami",
+     "start": 1.43,
+     "end": 1.43
+    },
+    {
+     "w": "siren",
+     "start": 1.43,
+     "end": 1.83
+    },
+    {
+     "w": "said",
+     "start": 1.83,
+     "end": 2.29
+    },
+    {
+     "w": "*this",
+     "start": 2.29,
+     "end": 2.59
+    },
+    {
+     "w": "is",
+     "start": 2.59,
+     "end": 2.79
+    },
+    {
+     "w": "only",
+     "start": 2.79,
+     "end": 2.95
+    },
+    {
+     "w": "a",
+     "start": 2.95,
+     "end": 3.35
+    },
+    {
+     "w": "test.*",
+     "start": 3.35,
+     "end": 3.61
+    },
+    {
+     "w": "And",
+     "start": 3.61,
+     "end": 3.91
+    },
+    {
+     "w": "my",
+     "start": 4.45,
+     "end": 4.67
+    },
+    {
+     "w": "whole",
+     "start": 4.67,
+     "end": 4.85
+    },
+    {
+     "w": "town",
+     "start": 4.85,
+     "end": 5.15
+    },
+    {
+     "w": "is",
+     "start": 5.15,
+     "end": 5.49
+    },
+    {
+     "w": "walking",
+     "start": 5.49,
+     "end": 5.71
+    },
+    {
+     "w": "*toward",
+     "start": 5.71,
+     "end": 6.05
+    },
+    {
+     "w": "the",
+     "start": 6.05,
+     "end": 6.33
+    },
+    {
+     "w": "water.*",
+     "start": 6.33,
+     "end": 6.53
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "It's real. On the Washington coast, the tsunami towers play *Westminster chimes* at noon on the first Monday of the month. That's the test.",
+   "voice": "n",
+   "start": 7.58,
+   "end": 16.67,
+   "words": [
+    {
+     "w": "It's",
+     "start": 7.58,
+     "end": 7.83
+    },
+    {
+     "w": "real.",
+     "start": 7.83,
+     "end": 8.11
+    },
+    {
+     "w": "On",
+     "start": 9.09,
+     "end": 9.35
+    },
+    {
+     "w": "the",
+     "start": 9.35,
+     "end": 9.47
+    },
+    {
+     "w": "Washington",
+     "start": 9.47,
+     "end": 9.87
+    },
+    {
+     "w": "coast,",
+     "start": 9.87,
+     "end": 10.29
+    },
+    {
+     "w": "the",
+     "start": 10.77,
+     "end": 10.83
+    },
+    {
+     "w": "tsunami",
+     "start": 10.83,
+     "end": 11.15
+    },
+    {
+     "w": "towers",
+     "start": 11.15,
+     "end": 11.59
+    },
+    {
+     "w": "play",
+     "start": 11.59,
+     "end": 11.89
+    },
+    {
+     "w": "*Westminster",
+     "start": 11.89,
+     "end": 12.51
+    },
+    {
+     "w": "chimes*",
+     "start": 12.51,
+     "end": 13.07
+    },
+    {
+     "w": "at",
+     "start": 13.07,
+     "end": 13.29
+    },
+    {
+     "w": "noon",
+     "start": 13.29,
+     "end": 13.63
+    },
+    {
+     "w": "on",
+     "start": 13.63,
+     "end": 13.87
+    },
+    {
+     "w": "the",
+     "start": 13.87,
+     "end": 13.99
+    },
+    {
+     "w": "first",
+     "start": 13.99,
+     "end": 14.27
+    },
+    {
+     "w": "Monday",
+     "start": 14.27,
+     "end": 14.59
+    },
+    {
+     "w": "of",
+     "start": 14.59,
+     "end": 14.81
+    },
+    {
+     "w": "the",
+     "start": 14.81,
+     "end": 14.93
+    },
+    {
+     "w": "month.",
+     "start": 14.93,
+     "end": 15.19
+    },
+    {
+     "w": "That's",
+     "start": 15.61,
+     "end": 16.11
+    },
+    {
+     "w": "the",
+     "start": 16.11,
+     "end": 16.25
+    },
+    {
+     "w": "test.",
+     "start": 16.25,
+     "end": 16.59
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "A real warning is a long *wailing siren.* And you walk uphill. You don't drive.",
+   "voice": "n",
+   "start": 17.29,
+   "end": 22.49,
+   "words": [
+    {
+     "w": "A",
+     "start": 17.29,
+     "end": 17.37
+    },
+    {
+     "w": "real",
+     "start": 17.37,
+     "end": 17.67
+    },
+    {
+     "w": "warning",
+     "start": 17.67,
+     "end": 18.05
+    },
+    {
+     "w": "is",
+     "start": 18.05,
+     "end": 18.31
+    },
+    {
+     "w": "a",
+     "start": 18.31,
+     "end": 18.53
+    },
+    {
+     "w": "long",
+     "start": 18.53,
+     "end": 18.85
+    },
+    {
+     "w": "*wailing",
+     "start": 18.85,
+     "end": 19.39
+    },
+    {
+     "w": "siren.*",
+     "start": 19.39,
+     "end": 19.93
+    },
+    {
+     "w": "And",
+     "start": 20.33,
+     "end": 20.51
+    },
+    {
+     "w": "you",
+     "start": 20.51,
+     "end": 20.65
+    },
+    {
+     "w": "walk",
+     "start": 20.65,
+     "end": 20.87
+    },
+    {
+     "w": "uphill.",
+     "start": 20.87,
+     "end": 21.41
+    },
+    {
+     "w": "You",
+     "start": 21.83,
+     "end": 21.89
+    },
+    {
+     "w": "don't",
+     "start": 21.89,
+     "end": 22.19
+    },
+    {
+     "w": "drive.",
+     "start": 22.19,
+     "end": 22.49
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Mom's rules are on the fridge. *One:* chimes mean test. *Two:* a wail means walk uphill. *Three:* never go down to *look at the water.*",
+   "voice": "n",
+   "start": 23.19,
+   "end": 33.52,
+   "words": [
+    {
+     "w": "Mom's",
+     "start": 23.39,
+     "end": 23.53
+    },
+    {
+     "w": "rules",
+     "start": 23.53,
+     "end": 23.73
+    },
+    {
+     "w": "are",
+     "start": 23.73,
+     "end": 23.95
+    },
+    {
+     "w": "on",
+     "start": 23.95,
+     "end": 24.07
+    },
+    {
+     "w": "the",
+     "start": 24.07,
+     "end": 24.21
+    },
+    {
+     "w": "fridge.",
+     "start": 24.21,
+     "end": 24.49
+    },
+    {
+     "w": "*One:*",
+     "start": 24.49,
+     "end": 25.45
+    },
+    {
+     "w": "chimes",
+     "start": 26.17,
+     "end": 26.43
+    },
+    {
+     "w": "mean",
+     "start": 26.43,
+     "end": 26.71
+    },
+    {
+     "w": "test.",
+     "start": 26.71,
+     "end": 27.15
+    },
+    {
+     "w": "*Two:*",
+     "start": 27.61,
+     "end": 28.07
+    },
+    {
+     "w": "a",
+     "start": 28.63,
+     "end": 28.73
+    },
+    {
+     "w": "wail",
+     "start": 28.88,
+     "end": 28.93
+    },
+    {
+     "w": "means",
+     "start": 29.03,
+     "end": 29.43
+    },
+    {
+     "w": "walk",
+     "start": 29.43,
+     "end": 29.75
+    },
+    {
+     "w": "uphill.",
+     "start": 29.75,
+     "end": 30.17
+    },
+    {
+     "w": "*Three:*",
+     "start": 30.69,
+     "end": 31.19
+    },
+    {
+     "w": "never",
+     "start": 31.97,
+     "end": 32.13
+    },
+    {
+     "w": "go",
+     "start": 32.13,
+     "end": 32.43
+    },
+    {
+     "w": "down",
+     "start": 32.43,
+     "end": 32.67
+    },
+    {
+     "w": "to",
+     "start": 32.67,
+     "end": 32.85
+    },
+    {
+     "w": "*look",
+     "start": 32.85,
+     "end": 32.97
+    },
+    {
+     "w": "at",
+     "start": 32.97,
+     "end": 33.11
+    },
+    {
+     "w": "the",
+     "start": 33.11,
+     "end": 33.23
+    },
+    {
+     "w": "water.*",
+     "start": 33.23,
+     "end": 33.52
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Tonight is a Tuesday. 3:07. The tower plays the chimes, *slowly,* like it's thinking.",
+   "voice": "n",
+   "start": 34.6,
+   "end": 41.73,
+   "words": [
+    {
+     "w": "Tonight",
+     "start": 34.63,
+     "end": 34.89
+    },
+    {
+     "w": "is",
+     "start": 34.89,
+     "end": 35.27
+    },
+    {
+     "w": "a",
+     "start": 35.27,
+     "end": 35.43
+    },
+    {
+     "w": "Tuesday.",
+     "start": 35.43,
+     "end": 35.85
+    },
+    {
+     "w": "3:07.",
+     "start": 36.623,
+     "end": 36.673
+    },
+    {
+     "w": "The",
+     "start": 37.397,
+     "end": 37.447
+    },
+    {
+     "w": "tower",
+     "start": 38.17,
+     "end": 38.29
+    },
+    {
+     "w": "plays",
+     "start": 38.29,
+     "end": 38.55
+    },
+    {
+     "w": "the",
+     "start": 38.55,
+     "end": 38.91
+    },
+    {
+     "w": "chimes,",
+     "start": 38.91,
+     "end": 39.15
+    },
+    {
+     "w": "*slowly,*",
+     "start": 39.15,
+     "end": 39.69
+    },
+    {
+     "w": "like",
+     "start": 40.41,
+     "end": 40.47
+    },
+    {
+     "w": "it's",
+     "start": 41.03,
+     "end": 41.11
+    },
+    {
+     "w": "thinking.",
+     "start": 41.11,
+     "end": 41.35
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Out my window, the bay is *gone.* The sea has pulled back almost a mile. That's the one sign you never ignore.",
+   "voice": "n",
+   "start": 42.62,
+   "end": 50.12,
+   "words": [
+    {
+     "w": "Out",
+     "start": 42.62,
+     "end": 42.73
+    },
+    {
+     "w": "my",
+     "start": 42.73,
+     "end": 42.93
+    },
+    {
+     "w": "window,",
+     "start": 42.93,
+     "end": 43.29
+    },
+    {
+     "w": "the",
+     "start": 43.65,
+     "end": 43.75
+    },
+    {
+     "w": "bay",
+     "start": 43.75,
+     "end": 43.97
+    },
+    {
+     "w": "is",
+     "start": 43.97,
+     "end": 44.21
+    },
+    {
+     "w": "*gone.*",
+     "start": 44.21,
+     "end": 44.53
+    },
+    {
+     "w": "The",
+     "start": 45.15,
+     "end": 45.31
+    },
+    {
+     "w": "sea",
+     "start": 45.31,
+     "end": 45.59
+    },
+    {
+     "w": "has",
+     "start": 45.59,
+     "end": 45.81
+    },
+    {
+     "w": "pulled",
+     "start": 45.81,
+     "end": 46.07
+    },
+    {
+     "w": "back",
+     "start": 46.07,
+     "end": 46.31
+    },
+    {
+     "w": "almost",
+     "start": 46.31,
+     "end": 46.67
+    },
+    {
+     "w": "a",
+     "start": 46.67,
+     "end": 46.93
+    },
+    {
+     "w": "mile.",
+     "start": 46.93,
+     "end": 47.25
+    },
+    {
+     "w": "That's",
+     "start": 47.93,
+     "end": 48.27
+    },
+    {
+     "w": "the",
+     "start": 48.27,
+     "end": 48.39
+    },
+    {
+     "w": "one",
+     "start": 48.39,
+     "end": 48.67
+    },
+    {
+     "w": "sign",
+     "start": 48.67,
+     "end": 49.01
+    },
+    {
+     "w": "you",
+     "start": 49.01,
+     "end": 49.25
+    },
+    {
+     "w": "never",
+     "start": 49.25,
+     "end": 49.61
+    },
+    {
+     "w": "ignore.",
+     "start": 49.61,
+     "end": 50.07
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "But nobody walks uphill. My neighbors come out in pajamas, barefoot, and walk *down,* onto the sand where the sea should be.",
+   "voice": "n",
+   "start": 50.84,
+   "end": 58.45,
+   "words": [
+    {
+     "w": "But",
+     "start": 50.84,
+     "end": 50.95
+    },
+    {
+     "w": "nobody",
+     "start": 50.95,
+     "end": 51.27
+    },
+    {
+     "w": "walks",
+     "start": 51.27,
+     "end": 51.67
+    },
+    {
+     "w": "uphill.",
+     "start": 51.67,
+     "end": 52.11
+    },
+    {
+     "w": "My",
+     "start": 52.11,
+     "end": 53.07
+    },
+    {
+     "w": "neighbors",
+     "start": 53.07,
+     "end": 53.37
+    },
+    {
+     "w": "come",
+     "start": 53.37,
+     "end": 53.63
+    },
+    {
+     "w": "out",
+     "start": 53.63,
+     "end": 53.79
+    },
+    {
+     "w": "in",
+     "start": 53.79,
+     "end": 53.95
+    },
+    {
+     "w": "pajamas,",
+     "start": 53.95,
+     "end": 54.49
+    },
+    {
+     "w": "barefoot,",
+     "start": 54.93,
+     "end": 55.27
+    },
+    {
+     "w": "and",
+     "start": 55.49,
+     "end": 55.61
+    },
+    {
+     "w": "walk",
+     "start": 55.61,
+     "end": 55.83
+    },
+    {
+     "w": "*down,*",
+     "start": 55.83,
+     "end": 56.25
+    },
+    {
+     "w": "onto",
+     "start": 56.61,
+     "end": 56.79
+    },
+    {
+     "w": "the",
+     "start": 56.79,
+     "end": 57.07
+    },
+    {
+     "w": "sand",
+     "start": 57.07,
+     "end": 57.41
+    },
+    {
+     "w": "where",
+     "start": 57.41,
+     "end": 57.65
+    },
+    {
+     "w": "the",
+     "start": 57.65,
+     "end": 57.81
+    },
+    {
+     "w": "sea",
+     "start": 57.81,
+     "end": 58.01
+    },
+    {
+     "w": "should",
+     "start": 58.01,
+     "end": 58.23
+    },
+    {
+     "w": "be.",
+     "start": 58.23,
+     "end": 58.45
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "Mom walks out too, in her robe. *She doesn't hear me.*",
+   "voice": "n",
+   "start": 59.21,
+   "end": 62.37,
+   "words": [
+    {
+     "w": "Mom",
+     "start": 59.21,
+     "end": 59.39
+    },
+    {
+     "w": "walks",
+     "start": 59.39,
+     "end": 59.65
+    },
+    {
+     "w": "out",
+     "start": 59.65,
+     "end": 59.89
+    },
+    {
+     "w": "too,",
+     "start": 59.89,
+     "end": 60.19
+    },
+    {
+     "w": "in",
+     "start": 60.43,
+     "end": 60.55
+    },
+    {
+     "w": "her",
+     "start": 60.55,
+     "end": 60.69
+    },
+    {
+     "w": "robe.",
+     "start": 60.69,
+     "end": 61.01
+    },
+    {
+     "w": "*She",
+     "start": 61.61,
+     "end": 61.75
+    },
+    {
+     "w": "doesn't",
+     "start": 61.75,
+     "end": 62.01
+    },
+    {
+     "w": "hear",
+     "start": 62.01,
+     "end": 62.19
+    },
+    {
+     "w": "me.*",
+     "start": 62.19,
+     "end": 62.37
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "Rule three. Never go down to look. So I count them from my window. *Twelve. Forty. Two hundred.*",
+   "voice": "n",
+   "start": 63.14,
+   "end": 71.37,
+   "words": [
+    {
+     "w": "Rule",
+     "start": 63.23,
+     "end": 63.39
+    },
+    {
+     "w": "three.",
+     "start": 63.39,
+     "end": 63.85
+    },
+    {
+     "w": "Never",
+     "start": 64.51,
+     "end": 64.67
+    },
+    {
+     "w": "go",
+     "start": 64.67,
+     "end": 64.99
+    },
+    {
+     "w": "down",
+     "start": 64.99,
+     "end": 65.21
+    },
+    {
+     "w": "to",
+     "start": 65.21,
+     "end": 65.41
+    },
+    {
+     "w": "look.",
+     "start": 65.41,
+     "end": 65.63
+    },
+    {
+     "w": "So",
+     "start": 66.23,
+     "end": 66.63
+    },
+    {
+     "w": "I",
+     "start": 66.63,
+     "end": 66.77
+    },
+    {
+     "w": "count",
+     "start": 66.77,
+     "end": 66.97
+    },
+    {
+     "w": "them",
+     "start": 66.97,
+     "end": 67.17
+    },
+    {
+     "w": "from",
+     "start": 67.17,
+     "end": 67.35
+    },
+    {
+     "w": "my",
+     "start": 67.35,
+     "end": 67.53
+    },
+    {
+     "w": "window.",
+     "start": 67.53,
+     "end": 67.89
+    },
+    {
+     "w": "*Twelve.",
+     "start": 68.49,
+     "end": 69.03
+    },
+    {
+     "w": "Forty.",
+     "start": 69.57,
+     "end": 70.11
+    },
+    {
+     "w": "Two",
+     "start": 70.783,
+     "end": 70.833
+    },
+    {
+     "w": "hundred.*",
+     "start": 71.37,
+     "end": 71.37
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Out on the seabed they stop, in rows, all facing the tower. *Like an audience.*",
+   "voice": "n",
+   "start": 72.27,
+   "end": 77.21,
+   "words": [
+    {
+     "w": "Out",
+     "start": 72.27,
+     "end": 72.39
+    },
+    {
+     "w": "on",
+     "start": 72.39,
+     "end": 72.55
+    },
+    {
+     "w": "the",
+     "start": 72.55,
+     "end": 72.67
+    },
+    {
+     "w": "seabed",
+     "start": 72.67,
+     "end": 73.03
+    },
+    {
+     "w": "they",
+     "start": 73.03,
+     "end": 73.25
+    },
+    {
+     "w": "stop,",
+     "start": 73.25,
+     "end": 73.67
+    },
+    {
+     "w": "in",
+     "start": 74.01,
+     "end": 74.17
+    },
+    {
+     "w": "rows,",
+     "start": 74.17,
+     "end": 74.53
+    },
+    {
+     "w": "all",
+     "start": 74.93,
+     "end": 75.15
+    },
+    {
+     "w": "facing",
+     "start": 75.15,
+     "end": 75.47
+    },
+    {
+     "w": "the",
+     "start": 75.47,
+     "end": 75.73
+    },
+    {
+     "w": "tower.",
+     "start": 75.73,
+     "end": 76.05
+    },
+    {
+     "w": "*Like",
+     "start": 76.49,
+     "end": 76.69
+    },
+    {
+     "w": "an",
+     "start": 76.69,
+     "end": 76.81
+    },
+    {
+     "w": "audience.*",
+     "start": 76.81,
+     "end": 77.21
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "The tower speaks again. *Test complete. One resident did not respond.* Then it reads out *my address.*",
+   "voice": "n",
+   "start": 77.29,
+   "end": 85.6,
+   "words": [
+    {
+     "w": "The",
+     "start": 77.29,
+     "end": 78.19
+    },
+    {
+     "w": "tower",
+     "start": 78.19,
+     "end": 78.49
+    },
+    {
+     "w": "speaks",
+     "start": 78.49,
+     "end": 78.81
+    },
+    {
+     "w": "again.",
+     "start": 78.81,
+     "end": 79.25
+    },
+    {
+     "w": "*Test",
+     "start": 80.15,
+     "end": 80.29
+    },
+    {
+     "w": "complete.",
+     "start": 80.29,
+     "end": 80.79
+    },
+    {
+     "w": "One",
+     "start": 81.45,
+     "end": 81.63
+    },
+    {
+     "w": "resident",
+     "start": 81.63,
+     "end": 81.95
+    },
+    {
+     "w": "did",
+     "start": 81.95,
+     "end": 82.27
+    },
+    {
+     "w": "not",
+     "start": 82.27,
+     "end": 82.51
+    },
+    {
+     "w": "respond.*",
+     "start": 82.51,
+     "end": 82.99
+    },
+    {
+     "w": "Then",
+     "start": 83.99,
+     "end": 84.25
+    },
+    {
+     "w": "it",
+     "start": 84.25,
+     "end": 84.41
+    },
+    {
+     "w": "reads",
+     "start": 84.41,
+     "end": 84.67
+    },
+    {
+     "w": "out",
+     "start": 84.67,
+     "end": 84.85
+    },
+    {
+     "w": "*my",
+     "start": 84.85,
+     "end": 85.05
+    },
+    {
+     "w": "address.*",
+     "start": 85.05,
+     "end": 85.43
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "It was never testing the siren. It was testing *us.* And everybody passed *but me.*",
+   "voice": "n",
+   "start": 86.41,
+   "end": 92.0,
+   "words": [
+    {
+     "w": "It",
+     "start": 86.41,
+     "end": 86.49
+    },
+    {
+     "w": "was",
+     "start": 86.49,
+     "end": 86.59
+    },
+    {
+     "w": "never",
+     "start": 86.59,
+     "end": 86.95
+    },
+    {
+     "w": "testing",
+     "start": 86.95,
+     "end": 87.35
+    },
+    {
+     "w": "the",
+     "start": 87.35,
+     "end": 87.57
+    },
+    {
+     "w": "siren.",
+     "start": 87.57,
+     "end": 87.99
+    },
+    {
+     "w": "It",
+     "start": 88.51,
+     "end": 88.57
+    },
+    {
+     "w": "was",
+     "start": 88.57,
+     "end": 88.69
+    },
+    {
+     "w": "testing",
+     "start": 88.69,
+     "end": 89.05
+    },
+    {
+     "w": "*us.*",
+     "start": 89.05,
+     "end": 89.39
+    },
+    {
+     "w": "And",
+     "start": 90.11,
+     "end": 90.25
+    },
+    {
+     "w": "everybody",
+     "start": 90.25,
+     "end": 90.63
+    },
+    {
+     "w": "passed",
+     "start": 90.63,
+     "end": 91.19
+    },
+    {
+     "w": "*but",
+     "start": 91.19,
+     "end": 91.71
+    },
+    {
+     "w": "me.*",
+     "start": 91.71,
+     "end": 92.0
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "Now the sea is coming back, and Mom is in the front row. Do you go get her, or *walk uphill?*",
+   "voice": "n",
+   "start": 93.09,
+   "end": 98.94,
+   "words": [
+    {
+     "w": "Now",
+     "start": 93.09,
+     "end": 93.23
+    },
+    {
+     "w": "the",
+     "start": 93.23,
+     "end": 93.39
+    },
+    {
+     "w": "sea",
+     "start": 93.39,
+     "end": 93.59
+    },
+    {
+     "w": "is",
+     "start": 93.59,
+     "end": 93.77
+    },
+    {
+     "w": "coming",
+     "start": 93.77,
+     "end": 93.97
+    },
+    {
+     "w": "back,",
+     "start": 93.97,
+     "end": 94.41
+    },
+    {
+     "w": "and",
+     "start": 94.91,
+     "end": 95.03
+    },
+    {
+     "w": "Mom",
+     "start": 95.03,
+     "end": 95.25
+    },
+    {
+     "w": "is",
+     "start": 95.25,
+     "end": 95.43
+    },
+    {
+     "w": "in",
+     "start": 95.43,
+     "end": 95.57
+    },
+    {
+     "w": "the",
+     "start": 95.57,
+     "end": 95.67
+    },
+    {
+     "w": "front",
+     "start": 95.67,
+     "end": 95.87
+    },
+    {
+     "w": "row.",
+     "start": 95.87,
+     "end": 96.19
+    },
+    {
+     "w": "Do",
+     "start": 96.91,
+     "end": 97.11
+    },
+    {
+     "w": "you",
+     "start": 97.11,
+     "end": 97.19
+    },
+    {
+     "w": "go",
+     "start": 97.19,
+     "end": 97.35
+    },
+    {
+     "w": "get",
+     "start": 97.35,
+     "end": 97.55
+    },
+    {
+     "w": "her,",
+     "start": 97.55,
+     "end": 97.79
+    },
+    {
+     "w": "or",
+     "start": 97.79,
+     "end": 98.29
+    },
+    {
+     "w": "*walk",
+     "start": 98.29,
+     "end": 98.51
+    },
+    {
+     "w": "uphill?*",
+     "start": 98.51,
+     "end": 98.79
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 7.53
+  },
+  {
+   "id": "s2",
+   "start": 7.58,
+   "end": 17.24
+  },
+  {
+   "id": "s3",
+   "start": 17.29,
+   "end": 23.14
+  },
+  {
+   "id": "s4",
+   "start": 23.19,
+   "end": 34.55
+  },
+  {
+   "id": "s5",
+   "start": 34.6,
+   "end": 42.57
+  },
+  {
+   "id": "s6",
+   "start": 42.62,
+   "end": 50.79
+  },
+  {
+   "id": "s7",
+   "start": 50.84,
+   "end": 59.16
+  },
+  {
+   "id": "s8",
+   "start": 59.21,
+   "end": 63.09
+  },
+  {
+   "id": "s9",
+   "start": 63.14,
+   "end": 72.22
+  },
+  {
+   "id": "s10",
+   "start": 72.27,
+   "end": 77.24
+  },
+  {
+   "id": "s11",
+   "start": 77.29,
+   "end": 86.36
+  },
+  {
+   "id": "s12",
+   "start": 86.41,
+   "end": 93.04
+  },
+  {
+   "id": "s13",
+   "start": 93.09,
+   "end": 102.94
+  }
+ ]
+}
