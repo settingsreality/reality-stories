@@ -70,7 +70,9 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-15 | 18:00 | four-kilos |  | 420960386 |
 | 2026-11-16 | 10:00 | the-fetch |  | 422998995 |
 | 2026-11-16 | 18:00 | 52-hertz |  | 421798612 |
+| 2026-11-17 | 10:00 | sun-vanished | vertical explainer (8 Minutes, 20 Seconds: if the Sun vanished), 1:38 | 424289218 |
 | 2026-11-17 | 18:00 | only-a-test | 1:43 | 423008008 |
+| 2026-11-18 | 10:00 | moon-terms | v2 fictional high concept (Updated Terms), 1:46 | 424295397 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
@@ -135,7 +137,9 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-15 | 18:00 | four-kilos |  | 420960400 |
 | 2026-11-16 | 10:00 | the-fetch |  | 422999071 |
 | 2026-11-16 | 18:00 | 52-hertz |  | 421798639 |
+| 2026-11-17 | 10:00 | sun-vanished | Short, SCIENCE_TECHNOLOGY | 424289226 |
 | 2026-11-17 | 18:00 | only-a-test |  | 423008166 |
+| 2026-11-18 | 10:00 | moon-terms |  | 424295417 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
