@@ -1,0 +1,1488 @@
+{
+ "total": 98.1,
+ "lines": [
+  {
+   "scene": "c1",
+   "text": "If the Sun vanished right now, you wouldn't know for *8 minutes and 20 seconds.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.12,
+   "words": [
+    {
+     "w": "If",
+     "start": 0.17,
+     "end": 0.26
+    },
+    {
+     "w": "the",
+     "start": 0.26,
+     "end": 0.5
+    },
+    {
+     "w": "Sun",
+     "start": 0.5,
+     "end": 0.7
+    },
+    {
+     "w": "vanished",
+     "start": 0.7,
+     "end": 1.24
+    },
+    {
+     "w": "right",
+     "start": 1.24,
+     "end": 1.58
+    },
+    {
+     "w": "now,",
+     "start": 1.58,
+     "end": 2.04
+    },
+    {
+     "w": "you",
+     "start": 2.42,
+     "end": 2.6
+    },
+    {
+     "w": "wouldn't",
+     "start": 2.6,
+     "end": 2.84
+    },
+    {
+     "w": "know",
+     "start": 2.84,
+     "end": 3.06
+    },
+    {
+     "w": "for",
+     "start": 3.06,
+     "end": 3.26
+    },
+    {
+     "w": "*8",
+     "start": 3.26,
+     "end": 3.58
+    },
+    {
+     "w": "minutes",
+     "start": 3.58,
+     "end": 3.88
+    },
+    {
+     "w": "and",
+     "start": 3.88,
+     "end": 4.2
+    },
+    {
+     "w": "20",
+     "start": 4.2,
+     "end": 4.6
+    },
+    {
+     "w": "seconds.*",
+     "start": 4.6,
+     "end": 5.02
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "That's how long sunlight takes to cross *150 million kilometers* to reach you.",
+   "voice": "n",
+   "start": 5.7,
+   "end": 10.29,
+   "words": [
+    {
+     "w": "That's",
+     "start": 5.7,
+     "end": 5.94
+    },
+    {
+     "w": "how",
+     "start": 5.94,
+     "end": 6.06
+    },
+    {
+     "w": "long",
+     "start": 6.06,
+     "end": 6.32
+    },
+    {
+     "w": "sunlight",
+     "start": 6.32,
+     "end": 6.72
+    },
+    {
+     "w": "takes",
+     "start": 6.72,
+     "end": 7.02
+    },
+    {
+     "w": "to",
+     "start": 7.02,
+     "end": 7.26
+    },
+    {
+     "w": "cross",
+     "start": 7.26,
+     "end": 7.5
+    },
+    {
+     "w": "*150",
+     "start": 7.5,
+     "end": 8.4
+    },
+    {
+     "w": "million",
+     "start": 8.4,
+     "end": 8.98
+    },
+    {
+     "w": "kilometers*",
+     "start": 8.98,
+     "end": 9.56
+    },
+    {
+     "w": "to",
+     "start": 9.56,
+     "end": 9.92
+    },
+    {
+     "w": "reach",
+     "start": 9.92,
+     "end": 10.12
+    },
+    {
+     "w": "you.",
+     "start": 10.12,
+     "end": 10.29
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "So for 8 minutes, nothing changes. You still feel warm. Plants keep growing, in light from a star that's *gone.*",
+   "voice": "n",
+   "start": 10.89,
+   "end": 18.31,
+   "words": [
+    {
+     "w": "So",
+     "start": 10.89,
+     "end": 11.0
+    },
+    {
+     "w": "for",
+     "start": 11.0,
+     "end": 11.16
+    },
+    {
+     "w": "8",
+     "start": 11.16,
+     "end": 11.46
+    },
+    {
+     "w": "minutes,",
+     "start": 11.46,
+     "end": 11.92
+    },
+    {
+     "w": "nothing",
+     "start": 12.26,
+     "end": 12.56
+    },
+    {
+     "w": "changes.",
+     "start": 12.56,
+     "end": 13.02
+    },
+    {
+     "w": "You",
+     "start": 13.58,
+     "end": 13.76
+    },
+    {
+     "w": "still",
+     "start": 13.76,
+     "end": 14.02
+    },
+    {
+     "w": "feel",
+     "start": 14.02,
+     "end": 14.24
+    },
+    {
+     "w": "warm.",
+     "start": 14.24,
+     "end": 14.62
+    },
+    {
+     "w": "Plants",
+     "start": 15.34,
+     "end": 15.34
+    },
+    {
+     "w": "keep",
+     "start": 15.34,
+     "end": 15.58
+    },
+    {
+     "w": "growing,",
+     "start": 15.58,
+     "end": 15.98
+    },
+    {
+     "w": "in",
+     "start": 16.44,
+     "end": 16.6
+    },
+    {
+     "w": "light",
+     "start": 16.6,
+     "end": 16.82
+    },
+    {
+     "w": "from",
+     "start": 16.82,
+     "end": 17.08
+    },
+    {
+     "w": "a",
+     "start": 17.08,
+     "end": 17.26
+    },
+    {
+     "w": "star",
+     "start": 17.26,
+     "end": 17.6
+    },
+    {
+     "w": "that's",
+     "start": 17.6,
+     "end": 18.0
+    },
+    {
+     "w": "*gone.*",
+     "start": 18.0,
+     "end": 18.3
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "But what about gravity? Wouldn't the Earth fly off *instantly?*",
+   "voice": "n",
+   "start": 19.12,
+   "end": 22.28,
+   "words": [
+    {
+     "w": "But",
+     "start": 19.12,
+     "end": 19.2
+    },
+    {
+     "w": "what",
+     "start": 19.2,
+     "end": 19.36
+    },
+    {
+     "w": "about",
+     "start": 19.36,
+     "end": 19.62
+    },
+    {
+     "w": "gravity?",
+     "start": 19.62,
+     "end": 20.02
+    },
+    {
+     "w": "Wouldn't",
+     "start": 20.62,
+     "end": 20.76
+    },
+    {
+     "w": "the",
+     "start": 20.76,
+     "end": 20.9
+    },
+    {
+     "w": "Earth",
+     "start": 20.9,
+     "end": 21.04
+    },
+    {
+     "w": "fly",
+     "start": 21.04,
+     "end": 21.44
+    },
+    {
+     "w": "off",
+     "start": 21.44,
+     "end": 21.72
+    },
+    {
+     "w": "*instantly?*",
+     "start": 21.72,
+     "end": 22.08
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "No. Gravity travels at the *speed of light* too. For those same 8 minutes, we keep circling *an empty spot.*",
+   "voice": "n",
+   "start": 22.88,
+   "end": 29.69,
+   "words": [
+    {
+     "w": "No.",
+     "start": 22.88,
+     "end": 23.12
+    },
+    {
+     "w": "Gravity",
+     "start": 24.0,
+     "end": 24.0
+    },
+    {
+     "w": "travels",
+     "start": 24.0,
+     "end": 24.34
+    },
+    {
+     "w": "at",
+     "start": 24.34,
+     "end": 24.58
+    },
+    {
+     "w": "the",
+     "start": 24.58,
+     "end": 24.7
+    },
+    {
+     "w": "*speed",
+     "start": 24.7,
+     "end": 24.9
+    },
+    {
+     "w": "of",
+     "start": 24.9,
+     "end": 25.02
+    },
+    {
+     "w": "light*",
+     "start": 25.02,
+     "end": 25.22
+    },
+    {
+     "w": "too.",
+     "start": 25.22,
+     "end": 25.52
+    },
+    {
+     "w": "For",
+     "start": 25.52,
+     "end": 26.18
+    },
+    {
+     "w": "those",
+     "start": 26.18,
+     "end": 26.34
+    },
+    {
+     "w": "same",
+     "start": 26.34,
+     "end": 26.78
+    },
+    {
+     "w": "8",
+     "start": 26.78,
+     "end": 27.04
+    },
+    {
+     "w": "minutes,",
+     "start": 27.04,
+     "end": 27.46
+    },
+    {
+     "w": "we",
+     "start": 27.68,
+     "end": 27.9
+    },
+    {
+     "w": "keep",
+     "start": 27.9,
+     "end": 28.14
+    },
+    {
+     "w": "circling",
+     "start": 28.14,
+     "end": 28.58
+    },
+    {
+     "w": "*an",
+     "start": 28.58,
+     "end": 28.84
+    },
+    {
+     "w": "empty",
+     "start": 28.84,
+     "end": 29.2
+    },
+    {
+     "w": "spot.*",
+     "start": 29.2,
+     "end": 29.62
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "We know because two dead stars collided *130 million light-years* away, and in 2017 we caught it.",
+   "voice": "n",
+   "start": 30.15,
+   "end": 37.11,
+   "words": [
+    {
+     "w": "We",
+     "start": 30.15,
+     "end": 30.28
+    },
+    {
+     "w": "know",
+     "start": 30.28,
+     "end": 30.52
+    },
+    {
+     "w": "because",
+     "start": 30.52,
+     "end": 30.94
+    },
+    {
+     "w": "two",
+     "start": 30.94,
+     "end": 31.28
+    },
+    {
+     "w": "dead",
+     "start": 31.28,
+     "end": 31.58
+    },
+    {
+     "w": "stars",
+     "start": 31.58,
+     "end": 31.98
+    },
+    {
+     "w": "collided",
+     "start": 31.98,
+     "end": 32.52
+    },
+    {
+     "w": "*130",
+     "start": 32.52,
+     "end": 33.44
+    },
+    {
+     "w": "million",
+     "start": 33.44,
+     "end": 33.9
+    },
+    {
+     "w": "light-years*",
+     "start": 33.9,
+     "end": 34.28
+    },
+    {
+     "w": "away,",
+     "start": 34.28,
+     "end": 34.44
+    },
+    {
+     "w": "and",
+     "start": 34.44,
+     "end": 34.9
+    },
+    {
+     "w": "in",
+     "start": 35.14,
+     "end": 35.32
+    },
+    {
+     "w": "2017",
+     "start": 35.32,
+     "end": 35.42
+    },
+    {
+     "w": "we",
+     "start": 35.42,
+     "end": 35.98
+    },
+    {
+     "w": "caught",
+     "start": 36.58,
+     "end": 36.74
+    },
+    {
+     "w": "it.",
+     "start": 36.74,
+     "end": 37.0
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "The ripple in gravity and the flash of light raced each other the whole way, and arrived *1.7 seconds* apart.",
+   "voice": "n",
+   "start": 37.68,
+   "end": 43.99,
+   "words": [
+    {
+     "w": "The",
+     "start": 37.68,
+     "end": 37.76
+    },
+    {
+     "w": "ripple",
+     "start": 37.76,
+     "end": 38.0
+    },
+    {
+     "w": "in",
+     "start": 38.0,
+     "end": 38.26
+    },
+    {
+     "w": "gravity",
+     "start": 38.26,
+     "end": 38.64
+    },
+    {
+     "w": "and",
+     "start": 38.64,
+     "end": 38.92
+    },
+    {
+     "w": "the",
+     "start": 38.92,
+     "end": 39.08
+    },
+    {
+     "w": "flash",
+     "start": 39.08,
+     "end": 39.38
+    },
+    {
+     "w": "of",
+     "start": 39.38,
+     "end": 39.54
+    },
+    {
+     "w": "light",
+     "start": 39.54,
+     "end": 39.8
+    },
+    {
+     "w": "raced",
+     "start": 39.8,
+     "end": 40.22
+    },
+    {
+     "w": "each",
+     "start": 40.22,
+     "end": 40.48
+    },
+    {
+     "w": "other",
+     "start": 40.48,
+     "end": 40.66
+    },
+    {
+     "w": "the",
+     "start": 40.66,
+     "end": 40.82
+    },
+    {
+     "w": "whole",
+     "start": 40.82,
+     "end": 41.1
+    },
+    {
+     "w": "way,",
+     "start": 41.1,
+     "end": 41.44
+    },
+    {
+     "w": "and",
+     "start": 41.44,
+     "end": 41.8
+    },
+    {
+     "w": "arrived",
+     "start": 41.8,
+     "end": 42.16
+    },
+    {
+     "w": "*1.7",
+     "start": 42.16,
+     "end": 42.6
+    },
+    {
+     "w": "seconds*",
+     "start": 42.6,
+     "end": 43.22
+    },
+    {
+     "w": "apart.",
+     "start": 43.22,
+     "end": 43.6
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "So at 8 minutes and 20 seconds, it all happens at once. The sky goes *black,* and the Earth flies off in a straight line, at *30 kilometers a second.*",
+   "voice": "n",
+   "start": 44.54,
+   "end": 53.64,
+   "words": [
+    {
+     "w": "So",
+     "start": 44.54,
+     "end": 44.68
+    },
+    {
+     "w": "at",
+     "start": 44.68,
+     "end": 44.8
+    },
+    {
+     "w": "8",
+     "start": 44.8,
+     "end": 45.04
+    },
+    {
+     "w": "minutes",
+     "start": 45.04,
+     "end": 45.28
+    },
+    {
+     "w": "and",
+     "start": 45.28,
+     "end": 45.5
+    },
+    {
+     "w": "20",
+     "start": 45.5,
+     "end": 45.82
+    },
+    {
+     "w": "seconds,",
+     "start": 45.82,
+     "end": 46.28
+    },
+    {
+     "w": "it",
+     "start": 46.56,
+     "end": 46.72
+    },
+    {
+     "w": "all",
+     "start": 46.72,
+     "end": 47.0
+    },
+    {
+     "w": "happens",
+     "start": 47.0,
+     "end": 47.36
+    },
+    {
+     "w": "at",
+     "start": 47.36,
+     "end": 47.56
+    },
+    {
+     "w": "once.",
+     "start": 47.56,
+     "end": 47.94
+    },
+    {
+     "w": "The",
+     "start": 48.4,
+     "end": 48.54
+    },
+    {
+     "w": "sky",
+     "start": 48.54,
+     "end": 48.86
+    },
+    {
+     "w": "goes",
+     "start": 48.86,
+     "end": 49.12
+    },
+    {
+     "w": "*black,*",
+     "start": 49.12,
+     "end": 49.52
+    },
+    {
+     "w": "and",
+     "start": 49.84,
+     "end": 49.94
+    },
+    {
+     "w": "the",
+     "start": 49.94,
+     "end": 50.06
+    },
+    {
+     "w": "Earth",
+     "start": 50.06,
+     "end": 50.28
+    },
+    {
+     "w": "flies",
+     "start": 50.28,
+     "end": 50.7
+    },
+    {
+     "w": "off",
+     "start": 50.7,
+     "end": 51.02
+    },
+    {
+     "w": "in",
+     "start": 51.02,
+     "end": 51.16
+    },
+    {
+     "w": "a",
+     "start": 51.16,
+     "end": 51.34
+    },
+    {
+     "w": "straight",
+     "start": 51.34,
+     "end": 51.6
+    },
+    {
+     "w": "line,",
+     "start": 51.6,
+     "end": 51.98
+    },
+    {
+     "w": "at",
+     "start": 51.98,
+     "end": 52.36
+    },
+    {
+     "w": "*30",
+     "start": 52.36,
+     "end": 52.76
+    },
+    {
+     "w": "kilometers",
+     "start": 52.76,
+     "end": 53.12
+    },
+    {
+     "w": "a",
+     "start": 53.12,
+     "end": 53.44
+    },
+    {
+     "w": "second.*",
+     "start": 53.44,
+     "end": 53.64
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "Now the weird part. Jupiter is *still shining.* Its light is on a longer trip, so it stays lit for *more than an hour.*",
+   "voice": "n",
+   "start": 53.71,
+   "end": 61.49,
+   "words": [
+    {
+     "w": "Now",
+     "start": 53.74,
+     "end": 54.58
+    },
+    {
+     "w": "the",
+     "start": 54.76,
+     "end": 54.76
+    },
+    {
+     "w": "weird",
+     "start": 54.76,
+     "end": 55.0
+    },
+    {
+     "w": "part.",
+     "start": 55.0,
+     "end": 55.34
+    },
+    {
+     "w": "Jupiter",
+     "start": 56.02,
+     "end": 56.26
+    },
+    {
+     "w": "is",
+     "start": 56.26,
+     "end": 56.64
+    },
+    {
+     "w": "*still",
+     "start": 56.64,
+     "end": 56.96
+    },
+    {
+     "w": "shining.*",
+     "start": 56.96,
+     "end": 57.42
+    },
+    {
+     "w": "Its",
+     "start": 57.94,
+     "end": 58.12
+    },
+    {
+     "w": "light",
+     "start": 58.12,
+     "end": 58.34
+    },
+    {
+     "w": "is",
+     "start": 58.34,
+     "end": 58.48
+    },
+    {
+     "w": "on",
+     "start": 58.48,
+     "end": 58.62
+    },
+    {
+     "w": "a",
+     "start": 58.62,
+     "end": 58.76
+    },
+    {
+     "w": "longer",
+     "start": 58.76,
+     "end": 59.02
+    },
+    {
+     "w": "trip,",
+     "start": 59.02,
+     "end": 59.4
+    },
+    {
+     "w": "so",
+     "start": 59.58,
+     "end": 59.76
+    },
+    {
+     "w": "it",
+     "start": 59.76,
+     "end": 59.9
+    },
+    {
+     "w": "stays",
+     "start": 59.9,
+     "end": 60.16
+    },
+    {
+     "w": "lit",
+     "start": 60.16,
+     "end": 60.4
+    },
+    {
+     "w": "for",
+     "start": 60.4,
+     "end": 60.58
+    },
+    {
+     "w": "*more",
+     "start": 60.58,
+     "end": 60.78
+    },
+    {
+     "w": "than",
+     "start": 60.78,
+     "end": 60.94
+    },
+    {
+     "w": "an",
+     "start": 60.94,
+     "end": 61.12
+    },
+    {
+     "w": "hour.*",
+     "start": 61.12,
+     "end": 61.4
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "Saturn, for *over two hours.* The last lights in your sky are planets, glowing in sunlight that *no longer exists.*",
+   "voice": "n",
+   "start": 61.9,
+   "end": 69.35,
+   "words": [
+    {
+     "w": "Saturn,",
+     "start": 62.32,
+     "end": 62.32
+    },
+    {
+     "w": "for",
+     "start": 62.32,
+     "end": 62.64
+    },
+    {
+     "w": "*over",
+     "start": 62.64,
+     "end": 62.9
+    },
+    {
+     "w": "two",
+     "start": 62.9,
+     "end": 63.26
+    },
+    {
+     "w": "hours.*",
+     "start": 63.26,
+     "end": 63.64
+    },
+    {
+     "w": "The",
+     "start": 64.16,
+     "end": 64.32
+    },
+    {
+     "w": "last",
+     "start": 64.32,
+     "end": 64.66
+    },
+    {
+     "w": "lights",
+     "start": 64.66,
+     "end": 64.92
+    },
+    {
+     "w": "in",
+     "start": 64.92,
+     "end": 65.14
+    },
+    {
+     "w": "your",
+     "start": 65.14,
+     "end": 65.26
+    },
+    {
+     "w": "sky",
+     "start": 65.26,
+     "end": 65.6
+    },
+    {
+     "w": "are",
+     "start": 65.6,
+     "end": 65.9
+    },
+    {
+     "w": "planets,",
+     "start": 65.9,
+     "end": 66.4
+    },
+    {
+     "w": "glowing",
+     "start": 66.78,
+     "end": 67.1
+    },
+    {
+     "w": "in",
+     "start": 67.1,
+     "end": 67.38
+    },
+    {
+     "w": "sunlight",
+     "start": 67.38,
+     "end": 67.74
+    },
+    {
+     "w": "that",
+     "start": 67.74,
+     "end": 68.04
+    },
+    {
+     "w": "*no",
+     "start": 68.04,
+     "end": 68.34
+    },
+    {
+     "w": "longer",
+     "start": 68.34,
+     "end": 68.66
+    },
+    {
+     "w": "exists.*",
+     "start": 68.66,
+     "end": 69.14
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "In about a week, the whole planet is around *freezing.* In a year, it's colder than the *South Pole* in winter.",
+   "voice": "n",
+   "start": 69.97,
+   "end": 76.27,
+   "words": [
+    {
+     "w": "In",
+     "start": 69.97,
+     "end": 70.06
+    },
+    {
+     "w": "about",
+     "start": 70.06,
+     "end": 70.28
+    },
+    {
+     "w": "a",
+     "start": 70.28,
+     "end": 70.46
+    },
+    {
+     "w": "week,",
+     "start": 70.46,
+     "end": 70.7
+    },
+    {
+     "w": "the",
+     "start": 70.9,
+     "end": 71.08
+    },
+    {
+     "w": "whole",
+     "start": 71.08,
+     "end": 71.36
+    },
+    {
+     "w": "planet",
+     "start": 71.36,
+     "end": 71.74
+    },
+    {
+     "w": "is",
+     "start": 71.74,
+     "end": 71.94
+    },
+    {
+     "w": "around",
+     "start": 71.94,
+     "end": 72.2
+    },
+    {
+     "w": "*freezing.*",
+     "start": 72.2,
+     "end": 72.64
+    },
+    {
+     "w": "In",
+     "start": 73.22,
+     "end": 73.4
+    },
+    {
+     "w": "a",
+     "start": 73.4,
+     "end": 73.54
+    },
+    {
+     "w": "year,",
+     "start": 73.54,
+     "end": 73.8
+    },
+    {
+     "w": "it's",
+     "start": 74.0,
+     "end": 74.32
+    },
+    {
+     "w": "colder",
+     "start": 74.32,
+     "end": 74.6
+    },
+    {
+     "w": "than",
+     "start": 74.6,
+     "end": 74.86
+    },
+    {
+     "w": "the",
+     "start": 74.86,
+     "end": 75.04
+    },
+    {
+     "w": "*South",
+     "start": 75.04,
+     "end": 75.28
+    },
+    {
+     "w": "Pole*",
+     "start": 75.28,
+     "end": 75.66
+    },
+    {
+     "w": "in",
+     "start": 75.66,
+     "end": 75.88
+    },
+    {
+     "w": "winter.",
+     "start": 75.88,
+     "end": 76.24
+    }
+   ]
+  },
+  {
+   "scene": "c9",
+   "text": "But deep under the frozen oceans, the Earth's own heat keeps the water *liquid.* Life could hang on, *down there.*",
+   "voice": "n",
+   "start": 76.78,
+   "end": 83.27,
+   "words": [
+    {
+     "w": "But",
+     "start": 76.78,
+     "end": 76.9
+    },
+    {
+     "w": "deep",
+     "start": 76.9,
+     "end": 77.16
+    },
+    {
+     "w": "under",
+     "start": 77.16,
+     "end": 77.42
+    },
+    {
+     "w": "the",
+     "start": 77.42,
+     "end": 77.6
+    },
+    {
+     "w": "frozen",
+     "start": 77.6,
+     "end": 77.96
+    },
+    {
+     "w": "oceans,",
+     "start": 77.96,
+     "end": 78.36
+    },
+    {
+     "w": "the",
+     "start": 78.76,
+     "end": 78.86
+    },
+    {
+     "w": "Earth's",
+     "start": 78.86,
+     "end": 79.26
+    },
+    {
+     "w": "own",
+     "start": 79.26,
+     "end": 79.52
+    },
+    {
+     "w": "heat",
+     "start": 79.52,
+     "end": 79.9
+    },
+    {
+     "w": "keeps",
+     "start": 79.9,
+     "end": 80.18
+    },
+    {
+     "w": "the",
+     "start": 80.18,
+     "end": 80.36
+    },
+    {
+     "w": "water",
+     "start": 80.36,
+     "end": 80.6
+    },
+    {
+     "w": "*liquid.*",
+     "start": 80.6,
+     "end": 81.02
+    },
+    {
+     "w": "Life",
+     "start": 81.62,
+     "end": 81.74
+    },
+    {
+     "w": "could",
+     "start": 81.74,
+     "end": 81.96
+    },
+    {
+     "w": "hang",
+     "start": 81.96,
+     "end": 82.2
+    },
+    {
+     "w": "on,",
+     "start": 82.2,
+     "end": 82.66
+    },
+    {
+     "w": "*down",
+     "start": 82.66,
+     "end": 83.0
+    },
+    {
+     "w": "there.*",
+     "start": 83.0,
+     "end": 83.27
+    }
+   ]
+  },
+  {
+   "scene": "c10",
+   "text": "Here's the twist. The Sun you see right now is already *8 minutes old.*",
+   "voice": "n",
+   "start": 84.06,
+   "end": 88.71,
+   "words": [
+    {
+     "w": "Here's",
+     "start": 84.06,
+     "end": 84.26
+    },
+    {
+     "w": "the",
+     "start": 84.26,
+     "end": 84.4
+    },
+    {
+     "w": "twist.",
+     "start": 84.4,
+     "end": 84.68
+    },
+    {
+     "w": "The",
+     "start": 85.34,
+     "end": 85.36
+    },
+    {
+     "w": "Sun",
+     "start": 85.36,
+     "end": 85.64
+    },
+    {
+     "w": "you",
+     "start": 85.64,
+     "end": 85.84
+    },
+    {
+     "w": "see",
+     "start": 85.84,
+     "end": 86.08
+    },
+    {
+     "w": "right",
+     "start": 86.08,
+     "end": 86.34
+    },
+    {
+     "w": "now",
+     "start": 86.34,
+     "end": 86.76
+    },
+    {
+     "w": "is",
+     "start": 86.76,
+     "end": 87.06
+    },
+    {
+     "w": "already",
+     "start": 87.06,
+     "end": 87.66
+    },
+    {
+     "w": "*8",
+     "start": 87.66,
+     "end": 88.06
+    },
+    {
+     "w": "minutes",
+     "start": 88.06,
+     "end": 88.38
+    },
+    {
+     "w": "old.*",
+     "start": 88.38,
+     "end": 88.71
+    }
+   ]
+  },
+  {
+   "scene": "c10",
+   "text": "If it were already gone, you'd still be standing in its light. Would you want *the warning?*",
+   "voice": "n",
+   "start": 89.37,
+   "end": 94.1,
+   "words": [
+    {
+     "w": "If",
+     "start": 89.37,
+     "end": 89.42
+    },
+    {
+     "w": "it",
+     "start": 89.42,
+     "end": 89.54
+    },
+    {
+     "w": "were",
+     "start": 89.54,
+     "end": 89.68
+    },
+    {
+     "w": "already",
+     "start": 89.68,
+     "end": 90.08
+    },
+    {
+     "w": "gone,",
+     "start": 90.08,
+     "end": 90.48
+    },
+    {
+     "w": "you'd",
+     "start": 90.84,
+     "end": 91.04
+    },
+    {
+     "w": "still",
+     "start": 91.04,
+     "end": 91.32
+    },
+    {
+     "w": "be",
+     "start": 91.32,
+     "end": 91.48
+    },
+    {
+     "w": "standing",
+     "start": 91.48,
+     "end": 91.84
+    },
+    {
+     "w": "in",
+     "start": 91.84,
+     "end": 92.06
+    },
+    {
+     "w": "its",
+     "start": 92.06,
+     "end": 92.2
+    },
+    {
+     "w": "light.",
+     "start": 92.2,
+     "end": 92.48
+    },
+    {
+     "w": "Would",
+     "start": 93.24,
+     "end": 93.34
+    },
+    {
+     "w": "you",
+     "start": 93.34,
+     "end": 93.46
+    },
+    {
+     "w": "want",
+     "start": 93.46,
+     "end": 93.62
+    },
+    {
+     "w": "*the",
+     "start": 93.62,
+     "end": 93.78
+    },
+    {
+     "w": "warning?*",
+     "start": 93.78,
+     "end": 94.0
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "c1",
+   "start": 0,
+   "end": 5.65
+  },
+  {
+   "id": "c2",
+   "start": 5.7,
+   "end": 10.84
+  },
+  {
+   "id": "c3",
+   "start": 10.89,
+   "end": 19.07
+  },
+  {
+   "id": "c4",
+   "start": 19.12,
+   "end": 30.1
+  },
+  {
+   "id": "c5",
+   "start": 30.15,
+   "end": 44.49
+  },
+  {
+   "id": "c6",
+   "start": 44.54,
+   "end": 53.66
+  },
+  {
+   "id": "c7",
+   "start": 53.71,
+   "end": 69.92
+  },
+  {
+   "id": "c8",
+   "start": 69.97,
+   "end": 76.73
+  },
+  {
+   "id": "c9",
+   "start": 76.78,
+   "end": 84.01
+  },
+  {
+   "id": "c10",
+   "start": 84.06,
+   "end": 98.1
+  }
+ ]
+}
