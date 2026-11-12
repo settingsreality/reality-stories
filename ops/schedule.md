@@ -74,6 +74,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-17 | 18:00 | only-a-test | 1:43 | 423008008 |
 | 2026-11-18 | 10:00 | moon-terms | v2 fictional high concept (Updated Terms), 1:46 | 424295397 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
+| 2026-11-19 | 18:00 | seed-vault | v2 (The Backup), 1:24 | 425527557 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
 YouTube-only Shorts posts, separate from the TikTok/Instagram posts. They follow the same slots, except:
@@ -141,6 +142,7 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-17 | 18:00 | only-a-test |  | 423008166 |
 | 2026-11-18 | 10:00 | moon-terms |  | 424295417 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
+| 2026-11-19 | 18:00 | seed-vault |  | 425527661 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
 - 2-7-seconds (pt. 1) + 2-7-seconds-pt2-A / -B
