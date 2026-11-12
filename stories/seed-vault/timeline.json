@@ -1,0 +1,1227 @@
+{
+ "total": 83.91,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "The seed vault's door log says the inner door opened at 3:14 a.m. *From the inside.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.88,
+   "words": [
+    {
+     "w": "The",
+     "start": 0.17,
+     "end": 0.29
+    },
+    {
+     "w": "seed",
+     "start": 0.29,
+     "end": 0.61
+    },
+    {
+     "w": "vault's",
+     "start": 0.61,
+     "end": 1.03
+    },
+    {
+     "w": "door",
+     "start": 1.03,
+     "end": 1.29
+    },
+    {
+     "w": "log",
+     "start": 1.44,
+     "end": 1.49
+    },
+    {
+     "w": "says",
+     "start": 1.59,
+     "end": 1.87
+    },
+    {
+     "w": "the",
+     "start": 1.87,
+     "end": 2.09
+    },
+    {
+     "w": "inner",
+     "start": 2.09,
+     "end": 2.35
+    },
+    {
+     "w": "door",
+     "start": 2.57,
+     "end": 2.93
+    },
+    {
+     "w": "opened",
+     "start": 2.93,
+     "end": 3.11
+    },
+    {
+     "w": "at",
+     "start": 3.11,
+     "end": 3.45
+    },
+    {
+     "w": "3:14",
+     "start": 3.73,
+     "end": 3.78
+    },
+    {
+     "w": "a.m.",
+     "start": 4.01,
+     "end": 4.31
+    },
+    {
+     "w": "*From",
+     "start": 4.31,
+     "end": 4.53
+    },
+    {
+     "w": "the",
+     "start": 4.85,
+     "end": 5.03
+    },
+    {
+     "w": "inside.*",
+     "start": 5.03,
+     "end": 5.21
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "I'm the winter watch for the seed vault on Svalbard. Nobody's been inside it *since February.*",
+   "voice": "n",
+   "start": 6.68,
+   "end": 11.37,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 6.69,
+     "end": 6.83
+    },
+    {
+     "w": "the",
+     "start": 6.83,
+     "end": 6.97
+    },
+    {
+     "w": "winter",
+     "start": 6.97,
+     "end": 7.23
+    },
+    {
+     "w": "watch",
+     "start": 7.23,
+     "end": 7.45
+    },
+    {
+     "w": "for",
+     "start": 7.45,
+     "end": 7.69
+    },
+    {
+     "w": "the",
+     "start": 7.69,
+     "end": 7.85
+    },
+    {
+     "w": "seed",
+     "start": 7.85,
+     "end": 8.07
+    },
+    {
+     "w": "vault",
+     "start": 8.07,
+     "end": 8.31
+    },
+    {
+     "w": "on",
+     "start": 8.31,
+     "end": 8.55
+    },
+    {
+     "w": "Svalbard.",
+     "start": 8.55,
+     "end": 9.01
+    },
+    {
+     "w": "Nobody's",
+     "start": 9.63,
+     "end": 10.01
+    },
+    {
+     "w": "been",
+     "start": 10.01,
+     "end": 10.15
+    },
+    {
+     "w": "inside",
+     "start": 10.15,
+     "end": 10.53
+    },
+    {
+     "w": "it",
+     "start": 10.53,
+     "end": 10.69
+    },
+    {
+     "w": "*since",
+     "start": 10.69,
+     "end": 10.85
+    },
+    {
+     "w": "February.*",
+     "start": 10.85,
+     "end": 11.37
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "It's dug 120 meters into a frozen mountain. Over a million seed samples, kept at *minus eighteen.* Earth's backup copy of every crop.",
+   "voice": "n",
+   "start": 12.08,
+   "end": 21.48,
+   "words": [
+    {
+     "w": "It's",
+     "start": 12.08,
+     "end": 12.25
+    },
+    {
+     "w": "dug",
+     "start": 12.25,
+     "end": 12.41
+    },
+    {
+     "w": "120",
+     "start": 12.574,
+     "end": 12.624
+    },
+    {
+     "w": "meters",
+     "start": 12.738,
+     "end": 12.788
+    },
+    {
+     "w": "into",
+     "start": 12.902,
+     "end": 12.952
+    },
+    {
+     "w": "a",
+     "start": 13.066,
+     "end": 13.116
+    },
+    {
+     "w": "frozen",
+     "start": 13.23,
+     "end": 13.59
+    },
+    {
+     "w": "mountain.",
+     "start": 13.59,
+     "end": 13.91
+    },
+    {
+     "w": "Over",
+     "start": 14.11,
+     "end": 14.43
+    },
+    {
+     "w": "a",
+     "start": 14.43,
+     "end": 14.87
+    },
+    {
+     "w": "million",
+     "start": 15.45,
+     "end": 15.67
+    },
+    {
+     "w": "seed",
+     "start": 15.67,
+     "end": 15.83
+    },
+    {
+     "w": "samples,",
+     "start": 15.83,
+     "end": 16.21
+    },
+    {
+     "w": "kept",
+     "start": 16.21,
+     "end": 16.61
+    },
+    {
+     "w": "at",
+     "start": 16.61,
+     "end": 17.13
+    },
+    {
+     "w": "*minus",
+     "start": 17.13,
+     "end": 17.59
+    },
+    {
+     "w": "eighteen.*",
+     "start": 17.77,
+     "end": 18.07
+    },
+    {
+     "w": "Earth's",
+     "start": 18.72,
+     "end": 18.77
+    },
+    {
+     "w": "backup",
+     "start": 19.37,
+     "end": 19.67
+    },
+    {
+     "w": "copy",
+     "start": 19.67,
+     "end": 19.97
+    },
+    {
+     "w": "of",
+     "start": 19.97,
+     "end": 20.37
+    },
+    {
+     "w": "every",
+     "start": 20.37,
+     "end": 20.59
+    },
+    {
+     "w": "crop.",
+     "start": 20.59,
+     "end": 21.03
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Taped under the monitors is Bjorn's card. Three rules.",
+   "voice": "n",
+   "start": 22.17,
+   "end": 25.71,
+   "words": [
+    {
+     "w": "Taped",
+     "start": 22.21,
+     "end": 22.35
+    },
+    {
+     "w": "under",
+     "start": 22.35,
+     "end": 22.57
+    },
+    {
+     "w": "the",
+     "start": 22.57,
+     "end": 22.73
+    },
+    {
+     "w": "monitors",
+     "start": 22.73,
+     "end": 23.11
+    },
+    {
+     "w": "is",
+     "start": 23.11,
+     "end": 23.47
+    },
+    {
+     "w": "Bjorn's",
+     "start": 23.47,
+     "end": 23.91
+    },
+    {
+     "w": "card.",
+     "start": 23.91,
+     "end": 24.19
+    },
+    {
+     "w": "Three",
+     "start": 24.19,
+     "end": 25.19
+    },
+    {
+     "w": "rules.",
+     "start": 25.19,
+     "end": 25.61
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "One. The inner door only opens *from outside.*",
+   "voice": "n",
+   "start": 26.16,
+   "end": 29.0,
+   "words": [
+    {
+     "w": "One.",
+     "start": 26.33,
+     "end": 26.41
+    },
+    {
+     "w": "The",
+     "start": 26.89,
+     "end": 26.99
+    },
+    {
+     "w": "inner",
+     "start": 26.99,
+     "end": 27.25
+    },
+    {
+     "w": "door",
+     "start": 27.25,
+     "end": 27.49
+    },
+    {
+     "w": "only",
+     "start": 27.49,
+     "end": 27.85
+    },
+    {
+     "w": "opens",
+     "start": 27.85,
+     "end": 28.25
+    },
+    {
+     "w": "*from",
+     "start": 28.25,
+     "end": 28.47
+    },
+    {
+     "w": "outside.*",
+     "start": 28.47,
+     "end": 29.0
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Two. Never go in *alone.*",
+   "voice": "n",
+   "start": 29.64,
+   "end": 31.47,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 29.64,
+     "end": 29.87
+    },
+    {
+     "w": "Never",
+     "start": 30.29,
+     "end": 30.67
+    },
+    {
+     "w": "go",
+     "start": 30.67,
+     "end": 30.93
+    },
+    {
+     "w": "in",
+     "start": 30.93,
+     "end": 31.11
+    },
+    {
+     "w": "*alone.*",
+     "start": 31.11,
+     "end": 31.43
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "Three. If the vault gets warm, *seal the outer door.*",
+   "voice": "n",
+   "start": 32.03,
+   "end": 35.26,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 32.03,
+     "end": 32.37
+    },
+    {
+     "w": "If",
+     "start": 32.83,
+     "end": 32.97
+    },
+    {
+     "w": "the",
+     "start": 32.97,
+     "end": 33.09
+    },
+    {
+     "w": "vault",
+     "start": 33.09,
+     "end": 33.29
+    },
+    {
+     "w": "gets",
+     "start": 33.29,
+     "end": 33.51
+    },
+    {
+     "w": "warm,",
+     "start": 33.51,
+     "end": 33.89
+    },
+    {
+     "w": "*seal",
+     "start": 34.27,
+     "end": 34.45
+    },
+    {
+     "w": "the",
+     "start": 34.45,
+     "end": 34.69
+    },
+    {
+     "w": "outer",
+     "start": 34.69,
+     "end": 34.91
+    },
+    {
+     "w": "door.*",
+     "start": 34.91,
+     "end": 35.26
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Minus eighteen. Minus ten. *Minus two.* Something warm is in there.",
+   "voice": "n",
+   "start": 36.2,
+   "end": 41.45,
+   "words": [
+    {
+     "w": "Minus",
+     "start": 36.33,
+     "end": 36.51
+    },
+    {
+     "w": "eighteen.",
+     "start": 37.02,
+     "end": 37.07
+    },
+    {
+     "w": "Minus",
+     "start": 37.53,
+     "end": 37.61
+    },
+    {
+     "w": "ten.",
+     "start": 37.61,
+     "end": 38.05
+    },
+    {
+     "w": "*Minus",
+     "start": 38.71,
+     "end": 38.83
+    },
+    {
+     "w": "two.*",
+     "start": 38.83,
+     "end": 39.27
+    },
+    {
+     "w": "Something",
+     "start": 40.09,
+     "end": 40.39
+    },
+    {
+     "w": "warm",
+     "start": 40.39,
+     "end": 40.83
+    },
+    {
+     "w": "is",
+     "start": 40.83,
+     "end": 41.05
+    },
+    {
+     "w": "in",
+     "start": 41.05,
+     "end": 41.21
+    },
+    {
+     "w": "there.",
+     "start": 41.21,
+     "end": 41.45
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "I broke rule two. In the frost on the tunnel floor, footprints. *Bare feet.* Coming out.",
+   "voice": "n",
+   "start": 42.06,
+   "end": 48.57,
+   "words": [
+    {
+     "w": "I",
+     "start": 42.06,
+     "end": 42.13
+    },
+    {
+     "w": "broke",
+     "start": 42.13,
+     "end": 42.37
+    },
+    {
+     "w": "rule",
+     "start": 42.37,
+     "end": 42.59
+    },
+    {
+     "w": "two.",
+     "start": 42.59,
+     "end": 42.97
+    },
+    {
+     "w": "In",
+     "start": 43.77,
+     "end": 43.91
+    },
+    {
+     "w": "the",
+     "start": 43.91,
+     "end": 44.03
+    },
+    {
+     "w": "frost",
+     "start": 44.03,
+     "end": 44.33
+    },
+    {
+     "w": "on",
+     "start": 44.33,
+     "end": 44.55
+    },
+    {
+     "w": "the",
+     "start": 44.55,
+     "end": 44.67
+    },
+    {
+     "w": "tunnel",
+     "start": 44.67,
+     "end": 44.91
+    },
+    {
+     "w": "floor,",
+     "start": 44.91,
+     "end": 45.31
+    },
+    {
+     "w": "footprints.",
+     "start": 45.91,
+     "end": 46.23
+    },
+    {
+     "w": "*Bare",
+     "start": 46.97,
+     "end": 47.13
+    },
+    {
+     "w": "feet.*",
+     "start": 47.13,
+     "end": 47.49
+    },
+    {
+     "w": "Coming",
+     "start": 47.91,
+     "end": 48.19
+    },
+    {
+     "w": "out.",
+     "start": 48.19,
+     "end": 48.55
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "One box on the shelf is open. Its label says, *Backup.* Open only if the original is lost.",
+   "voice": "n",
+   "start": 49.36,
+   "end": 55.45,
+   "words": [
+    {
+     "w": "One",
+     "start": 49.36,
+     "end": 49.57
+    },
+    {
+     "w": "box",
+     "start": 49.57,
+     "end": 49.81
+    },
+    {
+     "w": "on",
+     "start": 49.81,
+     "end": 49.99
+    },
+    {
+     "w": "the",
+     "start": 49.99,
+     "end": 50.13
+    },
+    {
+     "w": "shelf",
+     "start": 50.13,
+     "end": 50.33
+    },
+    {
+     "w": "is",
+     "start": 50.33,
+     "end": 50.55
+    },
+    {
+     "w": "open.",
+     "start": 50.55,
+     "end": 50.87
+    },
+    {
+     "w": "Its",
+     "start": 51.33,
+     "end": 51.47
+    },
+    {
+     "w": "label",
+     "start": 51.47,
+     "end": 51.73
+    },
+    {
+     "w": "says,",
+     "start": 51.73,
+     "end": 52.15
+    },
+    {
+     "w": "*Backup.*",
+     "start": 52.15,
+     "end": 52.77
+    },
+    {
+     "w": "Open",
+     "start": 52.77,
+     "end": 53.51
+    },
+    {
+     "w": "only",
+     "start": 53.51,
+     "end": 54.05
+    },
+    {
+     "w": "if",
+     "start": 54.05,
+     "end": 54.23
+    },
+    {
+     "w": "the",
+     "start": 54.23,
+     "end": 54.35
+    },
+    {
+     "w": "original",
+     "start": 54.35,
+     "end": 54.69
+    },
+    {
+     "w": "is",
+     "start": 54.69,
+     "end": 54.95
+    },
+    {
+     "w": "lost.",
+     "start": 54.95,
+     "end": 55.29
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "\"It's Bjorn. Get out and *seal it.* Whatever came out of that box is still inside.\"",
+   "voice": "n",
+   "start": 55.97,
+   "end": 60.15,
+   "words": [
+    {
+     "w": "\"It's",
+     "start": 56.05,
+     "end": 56.17
+    },
+    {
+     "w": "Bjorn.",
+     "start": 56.17,
+     "end": 56.49
+    },
+    {
+     "w": "Get",
+     "start": 56.89,
+     "end": 56.95
+    },
+    {
+     "w": "out",
+     "start": 56.95,
+     "end": 57.13
+    },
+    {
+     "w": "and",
+     "start": 57.13,
+     "end": 57.35
+    },
+    {
+     "w": "*seal",
+     "start": 57.35,
+     "end": 57.59
+    },
+    {
+     "w": "it.*",
+     "start": 57.59,
+     "end": 57.77
+    },
+    {
+     "w": "Whatever",
+     "start": 58.07,
+     "end": 58.23
+    },
+    {
+     "w": "came",
+     "start": 58.23,
+     "end": 58.51
+    },
+    {
+     "w": "out",
+     "start": 58.51,
+     "end": 58.67
+    },
+    {
+     "w": "of",
+     "start": 58.67,
+     "end": 58.75
+    },
+    {
+     "w": "that",
+     "start": 58.75,
+     "end": 58.89
+    },
+    {
+     "w": "box",
+     "start": 58.89,
+     "end": 59.15
+    },
+    {
+     "w": "is",
+     "start": 59.15,
+     "end": 59.33
+    },
+    {
+     "w": "still",
+     "start": 59.33,
+     "end": 59.61
+    },
+    {
+     "w": "inside.\"",
+     "start": 59.61,
+     "end": 60.05
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "The footprints stop exactly where I'm standing. I look down. *No boots.* And I'm not cold.",
+   "voice": "n",
+   "start": 60.79,
+   "end": 66.6,
+   "words": [
+    {
+     "w": "The",
+     "start": 60.79,
+     "end": 60.87
+    },
+    {
+     "w": "footprints",
+     "start": 60.87,
+     "end": 61.25
+    },
+    {
+     "w": "stop",
+     "start": 61.25,
+     "end": 61.59
+    },
+    {
+     "w": "exactly",
+     "start": 61.59,
+     "end": 62.11
+    },
+    {
+     "w": "where",
+     "start": 62.11,
+     "end": 62.43
+    },
+    {
+     "w": "I'm",
+     "start": 62.43,
+     "end": 62.57
+    },
+    {
+     "w": "standing.",
+     "start": 62.57,
+     "end": 62.93
+    },
+    {
+     "w": "I",
+     "start": 63.53,
+     "end": 63.63
+    },
+    {
+     "w": "look",
+     "start": 63.63,
+     "end": 63.75
+    },
+    {
+     "w": "down.",
+     "start": 63.75,
+     "end": 64.07
+    },
+    {
+     "w": "*No",
+     "start": 64.55,
+     "end": 64.81
+    },
+    {
+     "w": "boots.*",
+     "start": 64.81,
+     "end": 65.15
+    },
+    {
+     "w": "And",
+     "start": 65.63,
+     "end": 65.89
+    },
+    {
+     "w": "I'm",
+     "start": 65.89,
+     "end": 66.03
+    },
+    {
+     "w": "not",
+     "start": 66.03,
+     "end": 66.21
+    },
+    {
+     "w": "cold.",
+     "start": 66.21,
+     "end": 66.59
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "\"Wait. I've got you on camera. You're at the outer door... *right next to me.*\"",
+   "voice": "n",
+   "start": 67.59,
+   "end": 71.34,
+   "words": [
+    {
+     "w": "\"Wait.",
+     "start": 67.63,
+     "end": 67.75
+    },
+    {
+     "w": "I've",
+     "start": 68.15,
+     "end": 68.41
+    },
+    {
+     "w": "got",
+     "start": 68.41,
+     "end": 68.53
+    },
+    {
+     "w": "you",
+     "start": 68.53,
+     "end": 68.65
+    },
+    {
+     "w": "on",
+     "start": 68.65,
+     "end": 68.79
+    },
+    {
+     "w": "camera.",
+     "start": 68.79,
+     "end": 69.09
+    },
+    {
+     "w": "You're",
+     "start": 69.53,
+     "end": 69.67
+    },
+    {
+     "w": "at",
+     "start": 69.67,
+     "end": 69.75
+    },
+    {
+     "w": "the",
+     "start": 69.75,
+     "end": 69.87
+    },
+    {
+     "w": "outer",
+     "start": 69.87,
+     "end": 70.09
+    },
+    {
+     "w": "door...",
+     "start": 70.09,
+     "end": 70.41
+    },
+    {
+     "w": "*right",
+     "start": 70.57,
+     "end": 70.83
+    },
+    {
+     "w": "next",
+     "start": 70.83,
+     "end": 71.05
+    },
+    {
+     "w": "to",
+     "start": 71.05,
+     "end": 71.27
+    },
+    {
+     "w": "me.*\"",
+     "start": 71.27,
+     "end": 71.34
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "The original was never lost. It's outside, with its hand on the *seal.*",
+   "voice": "n",
+   "start": 72.33,
+   "end": 76.25,
+   "words": [
+    {
+     "w": "The",
+     "start": 72.33,
+     "end": 72.41
+    },
+    {
+     "w": "original",
+     "start": 72.41,
+     "end": 72.75
+    },
+    {
+     "w": "was",
+     "start": 72.75,
+     "end": 72.99
+    },
+    {
+     "w": "never",
+     "start": 72.99,
+     "end": 73.31
+    },
+    {
+     "w": "lost.",
+     "start": 73.31,
+     "end": 73.69
+    },
+    {
+     "w": "It's",
+     "start": 74.17,
+     "end": 74.33
+    },
+    {
+     "w": "outside,",
+     "start": 74.33,
+     "end": 74.89
+    },
+    {
+     "w": "with",
+     "start": 75.09,
+     "end": 75.23
+    },
+    {
+     "w": "its",
+     "start": 75.23,
+     "end": 75.41
+    },
+    {
+     "w": "hand",
+     "start": 75.41,
+     "end": 75.63
+    },
+    {
+     "w": "on",
+     "start": 75.63,
+     "end": 75.79
+    },
+    {
+     "w": "the",
+     "start": 75.79,
+     "end": 75.95
+    },
+    {
+     "w": "*seal.*",
+     "start": 75.95,
+     "end": 76.19
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "Do you *run for the door,* or let it seal you in?",
+   "voice": "n",
+   "start": 77.43,
+   "end": 79.91,
+   "words": [
+    {
+     "w": "Do",
+     "start": 77.43,
+     "end": 77.51
+    },
+    {
+     "w": "you",
+     "start": 77.51,
+     "end": 77.63
+    },
+    {
+     "w": "*run",
+     "start": 77.63,
+     "end": 77.81
+    },
+    {
+     "w": "for",
+     "start": 77.81,
+     "end": 77.99
+    },
+    {
+     "w": "the",
+     "start": 77.99,
+     "end": 78.11
+    },
+    {
+     "w": "door,*",
+     "start": 78.11,
+     "end": 78.37
+    },
+    {
+     "w": "or",
+     "start": 78.75,
+     "end": 78.95
+    },
+    {
+     "w": "let",
+     "start": 78.95,
+     "end": 79.11
+    },
+    {
+     "w": "it",
+     "start": 79.11,
+     "end": 79.27
+    },
+    {
+     "w": "seal",
+     "start": 79.27,
+     "end": 79.47
+    },
+    {
+     "w": "you",
+     "start": 79.47,
+     "end": 79.69
+    },
+    {
+     "w": "in?",
+     "start": 79.69,
+     "end": 79.91
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 6.63
+  },
+  {
+   "id": "s2",
+   "start": 6.68,
+   "end": 12.03
+  },
+  {
+   "id": "s3",
+   "start": 12.08,
+   "end": 22.12
+  },
+  {
+   "id": "s4",
+   "start": 22.17,
+   "end": 26.11
+  },
+  {
+   "id": "s5",
+   "start": 26.16,
+   "end": 36.15
+  },
+  {
+   "id": "s6",
+   "start": 36.2,
+   "end": 42.01
+  },
+  {
+   "id": "s7",
+   "start": 42.06,
+   "end": 49.31
+  },
+  {
+   "id": "s8",
+   "start": 49.36,
+   "end": 55.92
+  },
+  {
+   "id": "s9",
+   "start": 55.97,
+   "end": 60.74
+  },
+  {
+   "id": "s10",
+   "start": 60.79,
+   "end": 67.54
+  },
+  {
+   "id": "s11",
+   "start": 67.59,
+   "end": 72.28
+  },
+  {
+   "id": "s12",
+   "start": 72.33,
+   "end": 77.38
+  },
+  {
+   "id": "s13",
+   "start": 77.43,
+   "end": 83.91
+  }
+ ]
+}
