@@ -1,0 +1,918 @@
+{
+ "total": 69.2,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "Dad's satellite beacon just sent an SOS. It's been in my *kitchen drawer* for four years.",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.84,
+   "words": [
+    {
+     "w": "Dad's",
+     "start": 0.17,
+     "end": 0.58
+    },
+    {
+     "w": "satellite",
+     "start": 0.58,
+     "end": 0.94
+    },
+    {
+     "w": "beacon",
+     "start": 0.94,
+     "end": 1.26
+    },
+    {
+     "w": "just",
+     "start": 1.26,
+     "end": 1.62
+    },
+    {
+     "w": "sent",
+     "start": 1.62,
+     "end": 1.88
+    },
+    {
+     "w": "an",
+     "start": 1.88,
+     "end": 2.12
+    },
+    {
+     "w": "SOS.",
+     "start": 2.12,
+     "end": 2.48
+    },
+    {
+     "w": "It's",
+     "start": 3.4,
+     "end": 3.62
+    },
+    {
+     "w": "been",
+     "start": 3.62,
+     "end": 3.76
+    },
+    {
+     "w": "in",
+     "start": 3.76,
+     "end": 3.88
+    },
+    {
+     "w": "my",
+     "start": 3.88,
+     "end": 4.0
+    },
+    {
+     "w": "*kitchen",
+     "start": 4.0,
+     "end": 4.28
+    },
+    {
+     "w": "drawer*",
+     "start": 4.28,
+     "end": 4.6
+    },
+    {
+     "w": "for",
+     "start": 4.6,
+     "end": 4.84
+    },
+    {
+     "w": "four",
+     "start": 4.84,
+     "end": 5.2
+    },
+    {
+     "w": "years.",
+     "start": 5.2,
+     "end": 5.72
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "Four years ago, Dad never came back from Hollow Ridge. They found his tent. *Not him.*",
+   "voice": "n",
+   "start": 6.71,
+   "end": 12.47,
+   "words": [
+    {
+     "w": "Four",
+     "start": 6.71,
+     "end": 6.92
+    },
+    {
+     "w": "years",
+     "start": 6.92,
+     "end": 7.16
+    },
+    {
+     "w": "ago,",
+     "start": 7.16,
+     "end": 7.52
+    },
+    {
+     "w": "Dad",
+     "start": 7.88,
+     "end": 8.14
+    },
+    {
+     "w": "never",
+     "start": 8.14,
+     "end": 8.5
+    },
+    {
+     "w": "came",
+     "start": 8.5,
+     "end": 8.74
+    },
+    {
+     "w": "back",
+     "start": 8.74,
+     "end": 9.02
+    },
+    {
+     "w": "from",
+     "start": 9.02,
+     "end": 9.28
+    },
+    {
+     "w": "Hollow",
+     "start": 9.28,
+     "end": 9.48
+    },
+    {
+     "w": "Ridge.",
+     "start": 9.48,
+     "end": 9.78
+    },
+    {
+     "w": "They",
+     "start": 10.4,
+     "end": 10.64
+    },
+    {
+     "w": "found",
+     "start": 10.64,
+     "end": 10.86
+    },
+    {
+     "w": "his",
+     "start": 10.86,
+     "end": 11.04
+    },
+    {
+     "w": "tent.",
+     "start": 11.04,
+     "end": 11.36
+    },
+    {
+     "w": "*Not",
+     "start": 11.94,
+     "end": 12.18
+    },
+    {
+     "w": "him.*",
+     "start": 12.18,
+     "end": 12.47
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "My phone lights up. *SOS received.* Are you injured?",
+   "voice": "n",
+   "start": 13.41,
+   "end": 16.89,
+   "words": [
+    {
+     "w": "My",
+     "start": 13.41,
+     "end": 13.52
+    },
+    {
+     "w": "phone",
+     "start": 13.52,
+     "end": 13.78
+    },
+    {
+     "w": "lights",
+     "start": 13.78,
+     "end": 14.08
+    },
+    {
+     "w": "up.",
+     "start": 14.08,
+     "end": 14.4
+    },
+    {
+     "w": "*SOS",
+     "start": 15.04,
+     "end": 15.36
+    },
+    {
+     "w": "received.*",
+     "start": 15.36,
+     "end": 15.82
+    },
+    {
+     "w": "Are",
+     "start": 16.32,
+     "end": 16.42
+    },
+    {
+     "w": "you",
+     "start": 16.42,
+     "end": 16.56
+    },
+    {
+     "w": "injured?",
+     "start": 16.56,
+     "end": 16.8
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "The coordinates: Hollow Ridge, *mile nine.* Where his tent was.",
+   "voice": "n",
+   "start": 17.55,
+   "end": 21.8,
+   "words": [
+    {
+     "w": "The",
+     "start": 17.55,
+     "end": 17.66
+    },
+    {
+     "w": "coordinates:",
+     "start": 17.66,
+     "end": 18.06
+    },
+    {
+     "w": "Hollow",
+     "start": 18.84,
+     "end": 18.9
+    },
+    {
+     "w": "Ridge,",
+     "start": 18.9,
+     "end": 19.34
+    },
+    {
+     "w": "*mile",
+     "start": 19.74,
+     "end": 19.78
+    },
+    {
+     "w": "nine.*",
+     "start": 19.78,
+     "end": 20.18
+    },
+    {
+     "w": "Where",
+     "start": 20.82,
+     "end": 20.96
+    },
+    {
+     "w": "his",
+     "start": 20.96,
+     "end": 21.14
+    },
+    {
+     "w": "tent",
+     "start": 21.14,
+     "end": 21.38
+    },
+    {
+     "w": "was.",
+     "start": 21.38,
+     "end": 21.72
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Dad's rules, on the back.",
+   "voice": "n",
+   "start": 22.46,
+   "end": 23.83,
+   "words": [
+    {
+     "w": "Dad's",
+     "start": 22.46,
+     "end": 22.78
+    },
+    {
+     "w": "rules,",
+     "start": 22.78,
+     "end": 22.98
+    },
+    {
+     "w": "on",
+     "start": 22.98,
+     "end": 23.5
+    },
+    {
+     "w": "the",
+     "start": 23.5,
+     "end": 23.62
+    },
+    {
+     "w": "back.",
+     "start": 23.62,
+     "end": 23.83
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "One. Never cancel an SOS *you didn't send.*",
+   "voice": "n",
+   "start": 24.55,
+   "end": 27.68,
+   "words": [
+    {
+     "w": "One.",
+     "start": 24.56,
+     "end": 24.8
+    },
+    {
+     "w": "Never",
+     "start": 25.48,
+     "end": 25.64
+    },
+    {
+     "w": "cancel",
+     "start": 25.64,
+     "end": 25.96
+    },
+    {
+     "w": "an",
+     "start": 25.96,
+     "end": 26.28
+    },
+    {
+     "w": "SOS",
+     "start": 26.28,
+     "end": 26.68
+    },
+    {
+     "w": "*you",
+     "start": 26.68,
+     "end": 27.04
+    },
+    {
+     "w": "didn't",
+     "start": 27.04,
+     "end": 27.42
+    },
+    {
+     "w": "send.*",
+     "start": 27.42,
+     "end": 27.68
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Two. Always answer *the check-in.*",
+   "voice": "n",
+   "start": 27.69,
+   "end": 30.54,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 27.72,
+     "end": 28.56
+    },
+    {
+     "w": "Always",
+     "start": 29.2,
+     "end": 29.54
+    },
+    {
+     "w": "answer",
+     "start": 29.54,
+     "end": 29.98
+    },
+    {
+     "w": "*the",
+     "start": 29.98,
+     "end": 30.14
+    },
+    {
+     "w": "check-in.*",
+     "start": 30.14,
+     "end": 30.38
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "I texted: It's in my drawer. They replied: *We can see it moving.*",
+   "voice": "n",
+   "start": 31.31,
+   "end": 35.83,
+   "words": [
+    {
+     "w": "I",
+     "start": 31.38,
+     "end": 31.4
+    },
+    {
+     "w": "texted:",
+     "start": 31.4,
+     "end": 31.78
+    },
+    {
+     "w": "It's",
+     "start": 32.38,
+     "end": 32.52
+    },
+    {
+     "w": "in",
+     "start": 32.52,
+     "end": 32.64
+    },
+    {
+     "w": "my",
+     "start": 32.64,
+     "end": 32.78
+    },
+    {
+     "w": "drawer.",
+     "start": 32.78,
+     "end": 33.14
+    },
+    {
+     "w": "They",
+     "start": 33.7,
+     "end": 33.92
+    },
+    {
+     "w": "replied:",
+     "start": 33.92,
+     "end": 34.3
+    },
+    {
+     "w": "*We",
+     "start": 34.86,
+     "end": 34.94
+    },
+    {
+     "w": "can",
+     "start": 34.94,
+     "end": 35.08
+    },
+    {
+     "w": "see",
+     "start": 35.08,
+     "end": 35.3
+    },
+    {
+     "w": "it",
+     "start": 35.3,
+     "end": 35.42
+    },
+    {
+     "w": "moving.*",
+     "start": 35.42,
+     "end": 35.72
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "A new dot every ten minutes. Down the ridge. *Toward my house.*",
+   "voice": "n",
+   "start": 36.27,
+   "end": 40.32,
+   "words": [
+    {
+     "w": "A",
+     "start": 36.27,
+     "end": 36.38
+    },
+    {
+     "w": "new",
+     "start": 36.38,
+     "end": 36.6
+    },
+    {
+     "w": "dot",
+     "start": 36.6,
+     "end": 36.84
+    },
+    {
+     "w": "every",
+     "start": 36.84,
+     "end": 37.24
+    },
+    {
+     "w": "ten",
+     "start": 37.24,
+     "end": 37.52
+    },
+    {
+     "w": "minutes.",
+     "start": 37.52,
+     "end": 37.94
+    },
+    {
+     "w": "Down",
+     "start": 37.94,
+     "end": 38.52
+    },
+    {
+     "w": "the",
+     "start": 38.52,
+     "end": 38.72
+    },
+    {
+     "w": "ridge.",
+     "start": 38.72,
+     "end": 39.02
+    },
+    {
+     "w": "*Toward",
+     "start": 39.12,
+     "end": 39.62
+    },
+    {
+     "w": "my",
+     "start": 39.62,
+     "end": 39.88
+    },
+    {
+     "w": "house.*",
+     "start": 39.88,
+     "end": 40.24
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "Forty miles. Twelve. *Three.* Impossible.",
+   "voice": "n",
+   "start": 40.69,
+   "end": 45.12,
+   "words": [
+    {
+     "w": "Forty",
+     "start": 40.76,
+     "end": 41.04
+    },
+    {
+     "w": "miles.",
+     "start": 41.04,
+     "end": 41.56
+    },
+    {
+     "w": "Twelve.",
+     "start": 42.04,
+     "end": 42.44
+    },
+    {
+     "w": "*Three.*",
+     "start": 43.26,
+     "end": 43.78
+    },
+    {
+     "w": "Impossible.",
+     "start": 44.34,
+     "end": 44.67
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Then the beacon buzzed: *Leave the porch light on, kiddo.* Dad always said that.",
+   "voice": "n",
+   "start": 45.91,
+   "end": 50.65,
+   "words": [
+    {
+     "w": "Then",
+     "start": 45.91,
+     "end": 46.14
+    },
+    {
+     "w": "the",
+     "start": 46.14,
+     "end": 46.34
+    },
+    {
+     "w": "beacon",
+     "start": 46.34,
+     "end": 46.6
+    },
+    {
+     "w": "buzzed:",
+     "start": 46.6,
+     "end": 47.64
+    },
+    {
+     "w": "*Leave",
+     "start": 47.72,
+     "end": 47.86
+    },
+    {
+     "w": "the",
+     "start": 47.86,
+     "end": 48.02
+    },
+    {
+     "w": "porch",
+     "start": 48.02,
+     "end": 48.24
+    },
+    {
+     "w": "light",
+     "start": 48.24,
+     "end": 48.46
+    },
+    {
+     "w": "on,",
+     "start": 48.46,
+     "end": 48.7
+    },
+    {
+     "w": "kiddo.*",
+     "start": 48.76,
+     "end": 49.06
+    },
+    {
+     "w": "Dad",
+     "start": 49.58,
+     "end": 49.74
+    },
+    {
+     "w": "always",
+     "start": 49.74,
+     "end": 50.12
+    },
+    {
+     "w": "said",
+     "start": 50.12,
+     "end": 50.42
+    },
+    {
+     "w": "that.",
+     "start": 50.42,
+     "end": 50.65
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "Distance: *zero.* Three slow knocks.",
+   "voice": "n",
+   "start": 51.84,
+   "end": 54.62,
+   "words": [
+    {
+     "w": "Distance:",
+     "start": 51.88,
+     "end": 52.2
+    },
+    {
+     "w": "*zero.*",
+     "start": 52.5,
+     "end": 53.0
+    },
+    {
+     "w": "Three",
+     "start": 53.62,
+     "end": 53.9
+    },
+    {
+     "w": "slow",
+     "start": 53.9,
+     "end": 54.32
+    },
+    {
+     "w": "knocks.",
+     "start": 54.32,
+     "end": 54.62
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "Last check-in: Our team reached mile nine. Your dad is here, *with us.* So who's at your door?",
+   "voice": "n",
+   "start": 55.71,
+   "end": 62.01,
+   "words": [
+    {
+     "w": "Last",
+     "start": 55.71,
+     "end": 56.62
+    },
+    {
+     "w": "check-in:",
+     "start": 56.62,
+     "end": 56.9
+    },
+    {
+     "w": "Our",
+     "start": 56.9,
+     "end": 57.12
+    },
+    {
+     "w": "team",
+     "start": 57.58,
+     "end": 57.64
+    },
+    {
+     "w": "reached",
+     "start": 57.64,
+     "end": 57.86
+    },
+    {
+     "w": "mile",
+     "start": 57.86,
+     "end": 58.18
+    },
+    {
+     "w": "nine.",
+     "start": 58.18,
+     "end": 58.44
+    },
+    {
+     "w": "Your",
+     "start": 58.44,
+     "end": 58.8
+    },
+    {
+     "w": "dad",
+     "start": 59.22,
+     "end": 59.3
+    },
+    {
+     "w": "is",
+     "start": 59.3,
+     "end": 59.52
+    },
+    {
+     "w": "here,",
+     "start": 59.52,
+     "end": 59.72
+    },
+    {
+     "w": "*with",
+     "start": 59.72,
+     "end": 60.04
+    },
+    {
+     "w": "us.*",
+     "start": 60.14,
+     "end": 60.34
+    },
+    {
+     "w": "So",
+     "start": 60.34,
+     "end": 60.62
+    },
+    {
+     "w": "who's",
+     "start": 61.02,
+     "end": 61.1
+    },
+    {
+     "w": "at",
+     "start": 61.1,
+     "end": 61.38
+    },
+    {
+     "w": "your",
+     "start": 61.38,
+     "end": 61.48
+    },
+    {
+     "w": "door?",
+     "start": 61.48,
+     "end": 61.62
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "Do you *open the door,* or cancel the SOS?",
+   "voice": "n",
+   "start": 62.75,
+   "end": 65.2,
+   "words": [
+    {
+     "w": "Do",
+     "start": 62.75,
+     "end": 62.84
+    },
+    {
+     "w": "you",
+     "start": 62.84,
+     "end": 62.96
+    },
+    {
+     "w": "*open",
+     "start": 62.96,
+     "end": 63.22
+    },
+    {
+     "w": "the",
+     "start": 63.22,
+     "end": 63.4
+    },
+    {
+     "w": "door,*",
+     "start": 63.4,
+     "end": 63.62
+    },
+    {
+     "w": "or",
+     "start": 63.62,
+     "end": 64.22
+    },
+    {
+     "w": "cancel",
+     "start": 64.22,
+     "end": 64.54
+    },
+    {
+     "w": "the",
+     "start": 64.54,
+     "end": 64.74
+    },
+    {
+     "w": "SOS?",
+     "start": 64.74,
+     "end": 65.02
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 6.66
+  },
+  {
+   "id": "s3",
+   "start": 6.71,
+   "end": 13.36
+  },
+  {
+   "id": "s4",
+   "start": 13.41,
+   "end": 17.5
+  },
+  {
+   "id": "s5",
+   "start": 17.55,
+   "end": 22.41
+  },
+  {
+   "id": "s6",
+   "start": 22.46,
+   "end": 31.26
+  },
+  {
+   "id": "s7",
+   "start": 31.31,
+   "end": 36.22
+  },
+  {
+   "id": "s8",
+   "start": 36.27,
+   "end": 40.64
+  },
+  {
+   "id": "s9",
+   "start": 40.69,
+   "end": 45.86
+  },
+  {
+   "id": "s10",
+   "start": 45.91,
+   "end": 51.79
+  },
+  {
+   "id": "s11",
+   "start": 51.84,
+   "end": 55.66
+  },
+  {
+   "id": "s12",
+   "start": 55.71,
+   "end": 62.7
+  },
+  {
+   "id": "s13",
+   "start": 62.75,
+   "end": 69.2
+  }
+ ]
+}
