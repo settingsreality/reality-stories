@@ -8,6 +8,8 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 ## Problems
 - 2026-11-06 10:00 universe-ends (408232815 TikTok/IG, 409645878 YouTube) failed on every network: Metricool "You have reached your Metricool account limit." Owner notified Nov 6; needs a plan/limit check, then a re-post.
 
+- 2026-11-13: ElevenLabs is out of credits (854 left after a 1,191-credit estimate; Mile Nine was cut to 844 characters to fit). Speko refuses ElevenLabs voices until the workspace's first top-up (402, any amount from $5). Until one is fixed, no new stories can be voiced. Open slots: Nov 19 10:00, Nov 20 10:00 and on.
+
 ## On hold (don't schedule)
 - rizz-x2: the owner wants a crazier, effects-heavy opening and is sending his own audio. Its Nov 7 10:00 posts are Metricool **drafts** (410471371 TikTok/IG, 410471383 YouTube) and won't publish. The slot now has lady-midday (Oct 30).
 
@@ -75,6 +77,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-18 | 10:00 | moon-terms | v2 fictional high concept (Updated Terms), 1:46 | 424295397 |
 | 2026-11-18 | 18:00 | one-light-day | reserved date | 407097652 |
 | 2026-11-19 | 18:00 | seed-vault | v2 (The Backup), 1:24 | 425527557 |
+| 2026-11-20 | 18:00 | mile-nine | v2 (Mile Nine), 1:09 | 426804380 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
 YouTube-only Shorts posts, separate from the TikTok/Instagram posts. They follow the same slots, except:
@@ -143,6 +146,7 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-18 | 10:00 | moon-terms |  | 424295417 |
 | 2026-11-18 | 18:00 | one-light-day |  | 409645932 |
 | 2026-11-19 | 18:00 | seed-vault |  | 425527661 |
+| 2026-11-20 | 18:00 | mile-nine |  | 426804493 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
 - 2-7-seconds (pt. 1) + 2-7-seconds-pt2-A / -B

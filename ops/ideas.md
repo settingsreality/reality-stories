@@ -54,6 +54,7 @@
 - 8 Minutes, 20 Seconds (vertical explainer, Nov 11): if the Sun vanished (sunlight takes ~8 min 20 s over 150 million km; gravity also moves at light speed, so Earth keeps circling an empty spot until then; GW170817, 2017: neutron-star merger ~130 million ly away, gamma rays 1.7 s after the gravitational waves, speeds equal to ~1 part in 10^15; at 8:20 the sky goes black and Earth leaves in a straight line at ~30 km/s; Jupiter stays lit 1+ hour, Saturn 2+ hours (longer light path Sun→planet→Earth); ~freezing in a week, colder than the South Pole winter in a year; deep ocean stays liquid from Earth's own heat); twist: the Sun you see is already 8 minutes old; "Tell me / Let me watch"
 - Updated Terms (v2 fictional high concept, Nov 11): at 11:58 every phone gets "The Moon has updated its Terms"; everyone taps Accept, I read it (cl. 1 moonlight is licensed, cl. 4 tides may change without notice, cl. 9 accepted users help Support find users who haven't); I'm the 1 who declined out of 8 billion; moonlight hits every house but mine, the tide comes up my street and stops one step from my door; "Remind me later" brings the Moon closer each time (200,000 → 50,000 km, fills the window); neighbors walk to my house (clause 9); clause 14: users who decline become the new Moon; the last one has been up there 4.5 billion years and wants to come down; "Accept / Decline"
 - The Backup (v2, Nov 12): Svalbard Global Seed Vault (real: ~120 m into the mountain, over a million seed samples at −18°C, no permanent staff); winter watch; door log says the inner door opened at 3:14 a.m. from the inside; Bjorn's rules (inner door only opens from outside / never go in alone / if the vault gets warm, seal the outer door); temp −18 → −2; bare footprints in the frost coming out; one open crate labeled 'Backup. Open only if the original is lost'; the footprints stop where I stand, no boots, not cold; Bjorn sees me on camera at the outer door next to him; the original has its hand on the seal; "Run for the door / Stay inside"
+- Mile Nine (v2, Nov 13): Dad's satellite beacon (real: SOS goes over satellites to a 24/7 rescue center that texts back; tracking points every ~10 min) sends an SOS from my kitchen drawer 4 years after Dad vanished on Hollow Ridge; coordinates = mile nine, where his tent was found; Dad's rules on the back (never cancel an SOS you didn't send / always answer the check-in); 'we can see it moving'; tracking dots walk off the ridge toward my house, 40/12/3 miles at 3 mph; the beacon types 'Leave the porch light on, kiddo'; distance zero, three knocks, a faceless shape in Dad's flannel in the door glass; last check-in: the team found Dad at mile nine, 'he's with us. So who's at your door?'; 'Open the door / Cancel the SOS'. Short take (~69 s) because ElevenLabs credits ran out
 - Sims (Reality Settings page): Phone Settings 1–4 (brightness, volume, zoom, storage), Settings Duel round 1, Glitch 01
 - Posted by the owner from another chat: the atmosphere disappears; falling into a black hole
 
@@ -74,6 +75,7 @@
 - Dial-up modem screech horror (horror film *Modem*, Raindance 2026)
 - Creature under the ice while ice fishing, in general (film *Hypothermia*, 2010); our Fish Finder kept to the flasher/upside-down-fisher twist
 - A siren pole that is itself a creature (Siren Head, Trevor Henderson); Only a Test kept to the real tower + the town as the audience
+- Finding your own face on a missing poster ("I Found A Picture Of Myself On A Missing Persons Poster", Creepy Catalog), so skip the lost-pet-poster-with-your-face idea
 - Common creepypasta territory, assume done: texts from your own number, baby monitor voices, trail-cam figures, Emergency Alert System horror, elevator games, Flannan Isles lighthouse, the man on the airplane wing
 
 ## Idea bank (search each one before using; move to Done or skip when used)
@@ -88,12 +90,13 @@
   - **A teaspoon of neutron star** (explainer), **Everyone who ever lived** (about 117 billion people ever born; explainer), **The 7-year myth** (your cells don't all replace every 7 years; explainer).
   - The owner passed on: Carousel (suitcase on the baggage belt), Free Trial (gravity free trial ends at midnight). Don't make those.
 - (Seed vault: done Nov 12 as The Backup)
-- **Satellite SOS**: my hiking messenger sends an SOS with GPS coordinates while it's in a drawer at home; the coordinates are a trail I'm hiking next week.
+- (Satellite SOS: done Nov 13 as Mile Nine)
 - (Tsunami siren test: done Nov 10 as Only a Test)
+- Domovoi (Slavic house spirit) checked Nov 13: it can take the owner's likeness, too close to The Fetch; only use a different angle (carried to the new home in an old shoe or with coals from the old stove).
 - **Fictional high concepts to try:** (Moon terms of service: done Nov 11 as Updated Terms); everyone's phone gets the same new contact overnight; a lost-pet poster with your face; (hotel do-not-disturb sign: done Nov 7 as Do Not Disturb).
 - **Myths to retell (search each first):** (Will-o'-the-wisp: done Nov 5 as 0.4 Miles); (the Irish fetch: done Nov 10 as The Fetch); (Lady Midday: done Oct 30).
 - **Vertical explainers in the How Time Works look** (the owner loves that style: clean diagrams, the toon characters, real numbers, a weird twist of real physics). Check every number before making one:
-  - **Your head is older than your feet**: gravity slows time; NIST measured it over 33 cm; GPS +45/−7 = +38 µs a day. Ends "How tall are you?"
+  - **Your head is older than your feet**: SCRIPT READY in stories/head-older/script.py (14 lines, 1,217 characters, facts checked Nov 13: NIST 2010 ~33 cm, 90 billionths of a second over 79 years; GPS +45/−7 = +38 µs/day, ~10 km/day drift; JILA 2022 across 1 mm; Earth's core ~2.5 years younger, Uggerhøj 2016). Not voiced yet (ElevenLabs had 854 credits left, Speko needs a top-up for ElevenLabs). Voice it, then write art/scenes/audio. Choice: Top floor / Basement.
   - (A tunnel through Earth takes 42 minutes: done Nov 6 as The 42-Minute Fall)
   - **Sunlight is old**: the light hitting you left the Sun's surface 8 min 20 s ago, but its energy spent thousands of years (estimates vary a lot) bouncing out of the core.
   - (If the Sun vanished: done Nov 11 as 8 Minutes, 20 Seconds)
