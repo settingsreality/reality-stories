@@ -9,6 +9,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 - 2026-11-06 10:00 universe-ends (408232815 TikTok/IG, 409645878 YouTube) failed on every network: Metricool "You have reached your Metricool account limit." Owner notified Nov 6; needs a plan/limit check, then a re-post.
 
 - 2026-11-13: ElevenLabs is out of credits (854 left after a 1,191-credit estimate; Mile Nine was cut to 844 characters to fit). Speko refuses ElevenLabs voices until the workspace's first top-up (402, any amount from $5). Until one is fixed, no new stories can be voiced. Open slots: Nov 19 10:00, Nov 20 10:00 and on.
+- 2026-11-14: still blocked. ElevenLabs generation failed with "10 credits remaining" (needed 1,217 for head-older; nothing charged). Speko still returns 402 for ElevenLabs voices (balance $9.19 is free credit; a $5+ top-up unlocks it). No story made. Last scheduled post is Nov 20 18:00; open: Nov 19 10:00, Nov 20 10:00, Nov 21 on. head-older script is ready to voice first.
 
 ## On hold (don't schedule)
 - rizz-x2: the owner wants a crazier, effects-heavy opening and is sending his own audio. Its Nov 7 10:00 posts are Metricool **drafts** (410471371 TikTok/IG, 410471383 YouTube) and won't publish. The slot now has lady-midday (Oct 30).
