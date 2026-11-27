@@ -1,0 +1,1278 @@
+{
+ "total": 83.22,
+ "lines": [
+  {
+   "scene": "c1",
+   "text": "Right now, your head is aging *faster* than your feet. And scientists have *measured it.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.04,
+   "words": [
+    {
+     "w": "Right",
+     "start": 0.17,
+     "end": 0.35
+    },
+    {
+     "w": "now,",
+     "start": 0.35,
+     "end": 0.73
+    },
+    {
+     "w": "your",
+     "start": 1.09,
+     "end": 1.19
+    },
+    {
+     "w": "head",
+     "start": 1.19,
+     "end": 1.55
+    },
+    {
+     "w": "is",
+     "start": 1.55,
+     "end": 1.75
+    },
+    {
+     "w": "aging",
+     "start": 1.75,
+     "end": 2.11
+    },
+    {
+     "w": "*faster*",
+     "start": 2.11,
+     "end": 2.49
+    },
+    {
+     "w": "than",
+     "start": 2.49,
+     "end": 2.81
+    },
+    {
+     "w": "your",
+     "start": 2.81,
+     "end": 2.93
+    },
+    {
+     "w": "feet.",
+     "start": 2.93,
+     "end": 3.27
+    },
+    {
+     "w": "And",
+     "start": 3.71,
+     "end": 3.91
+    },
+    {
+     "w": "scientists",
+     "start": 3.91,
+     "end": 4.39
+    },
+    {
+     "w": "have",
+     "start": 4.39,
+     "end": 4.61
+    },
+    {
+     "w": "*measured",
+     "start": 4.61,
+     "end": 4.91
+    },
+    {
+     "w": "it.*",
+     "start": 4.91,
+     "end": 5.04
+    }
+   ]
+  },
+  {
+   "scene": "c2",
+   "text": "Einstein said gravity *slows time.* The closer you are to something heavy, the slower your clock ticks.",
+   "voice": "n",
+   "start": 5.74,
+   "end": 11.5,
+   "words": [
+    {
+     "w": "Einstein",
+     "start": 5.79,
+     "end": 6.09
+    },
+    {
+     "w": "said",
+     "start": 6.09,
+     "end": 6.49
+    },
+    {
+     "w": "gravity",
+     "start": 6.49,
+     "end": 6.93
+    },
+    {
+     "w": "*slows",
+     "start": 6.93,
+     "end": 7.35
+    },
+    {
+     "w": "time.*",
+     "start": 7.35,
+     "end": 7.87
+    },
+    {
+     "w": "The",
+     "start": 8.45,
+     "end": 8.49
+    },
+    {
+     "w": "closer",
+     "start": 8.49,
+     "end": 8.75
+    },
+    {
+     "w": "you",
+     "start": 8.75,
+     "end": 8.99
+    },
+    {
+     "w": "are",
+     "start": 8.99,
+     "end": 9.15
+    },
+    {
+     "w": "to",
+     "start": 9.15,
+     "end": 9.27
+    },
+    {
+     "w": "something",
+     "start": 9.27,
+     "end": 9.53
+    },
+    {
+     "w": "heavy,",
+     "start": 9.53,
+     "end": 9.91
+    },
+    {
+     "w": "the",
+     "start": 10.17,
+     "end": 10.27
+    },
+    {
+     "w": "slower",
+     "start": 10.27,
+     "end": 10.59
+    },
+    {
+     "w": "your",
+     "start": 10.59,
+     "end": 10.85
+    },
+    {
+     "w": "clock",
+     "start": 10.85,
+     "end": 11.09
+    },
+    {
+     "w": "ticks.",
+     "start": 11.09,
+     "end": 11.35
+    }
+   ]
+  },
+  {
+   "scene": "c3",
+   "text": "Your feet are closer to the Earth than your head. So your feet live in *slower time.*",
+   "voice": "n",
+   "start": 12.04,
+   "end": 16.63,
+   "words": [
+    {
+     "w": "Your",
+     "start": 12.04,
+     "end": 12.15
+    },
+    {
+     "w": "feet",
+     "start": 12.15,
+     "end": 12.47
+    },
+    {
+     "w": "are",
+     "start": 12.47,
+     "end": 12.67
+    },
+    {
+     "w": "closer",
+     "start": 12.67,
+     "end": 12.99
+    },
+    {
+     "w": "to",
+     "start": 12.99,
+     "end": 13.23
+    },
+    {
+     "w": "the",
+     "start": 13.23,
+     "end": 13.39
+    },
+    {
+     "w": "Earth",
+     "start": 13.39,
+     "end": 13.55
+    },
+    {
+     "w": "than",
+     "start": 13.55,
+     "end": 13.79
+    },
+    {
+     "w": "your",
+     "start": 13.79,
+     "end": 13.89
+    },
+    {
+     "w": "head.",
+     "start": 13.89,
+     "end": 14.21
+    },
+    {
+     "w": "So",
+     "start": 14.53,
+     "end": 14.83
+    },
+    {
+     "w": "your",
+     "start": 14.83,
+     "end": 15.13
+    },
+    {
+     "w": "feet",
+     "start": 15.13,
+     "end": 15.43
+    },
+    {
+     "w": "live",
+     "start": 15.43,
+     "end": 15.71
+    },
+    {
+     "w": "in",
+     "start": 15.71,
+     "end": 15.87
+    },
+    {
+     "w": "*slower",
+     "start": 15.87,
+     "end": 16.13
+    },
+    {
+     "w": "time.*",
+     "start": 16.13,
+     "end": 16.61
+    }
+   ]
+  },
+  {
+   "scene": "c4",
+   "text": "In 2010, scientists at NIST compared two atomic clocks, then lifted one by about *a foot.*",
+   "voice": "n",
+   "start": 17.3,
+   "end": 22.71,
+   "words": [
+    {
+     "w": "In",
+     "start": 17.3,
+     "end": 17.39
+    },
+    {
+     "w": "2010,",
+     "start": 17.39,
+     "end": 17.95
+    },
+    {
+     "w": "scientists",
+     "start": 18.39,
+     "end": 18.73
+    },
+    {
+     "w": "at",
+     "start": 18.73,
+     "end": 18.97
+    },
+    {
+     "w": "NIST",
+     "start": 18.97,
+     "end": 19.27
+    },
+    {
+     "w": "compared",
+     "start": 19.27,
+     "end": 19.65
+    },
+    {
+     "w": "two",
+     "start": 19.65,
+     "end": 19.99
+    },
+    {
+     "w": "atomic",
+     "start": 19.99,
+     "end": 20.45
+    },
+    {
+     "w": "clocks,",
+     "start": 20.45,
+     "end": 20.85
+    },
+    {
+     "w": "then",
+     "start": 21.13,
+     "end": 21.31
+    },
+    {
+     "w": "lifted",
+     "start": 21.31,
+     "end": 21.63
+    },
+    {
+     "w": "one",
+     "start": 21.63,
+     "end": 21.97
+    },
+    {
+     "w": "by",
+     "start": 21.97,
+     "end": 22.15
+    },
+    {
+     "w": "about",
+     "start": 22.15,
+     "end": 22.37
+    },
+    {
+     "w": "*a",
+     "start": 22.37,
+     "end": 22.53
+    },
+    {
+     "w": "foot.*",
+     "start": 22.53,
+     "end": 22.71
+    }
+   ]
+  },
+  {
+   "scene": "c5",
+   "text": "The higher clock ran faster. *Exactly* as Einstein predicted.",
+   "voice": "n",
+   "start": 23.26,
+   "end": 26.84,
+   "words": [
+    {
+     "w": "The",
+     "start": 23.26,
+     "end": 23.33
+    },
+    {
+     "w": "higher",
+     "start": 23.33,
+     "end": 23.63
+    },
+    {
+     "w": "clock",
+     "start": 23.63,
+     "end": 23.99
+    },
+    {
+     "w": "ran",
+     "start": 23.99,
+     "end": 24.27
+    },
+    {
+     "w": "faster.",
+     "start": 24.27,
+     "end": 24.81
+    },
+    {
+     "w": "*Exactly*",
+     "start": 25.21,
+     "end": 25.69
+    },
+    {
+     "w": "as",
+     "start": 25.69,
+     "end": 26.05
+    },
+    {
+     "w": "Einstein",
+     "start": 26.05,
+     "end": 26.49
+    },
+    {
+     "w": "predicted.",
+     "start": 26.49,
+     "end": 26.84
+    }
+   ]
+  },
+  {
+   "scene": "c6",
+   "text": "Over a *79-year* life, one foot of height adds up to about *90 billionths* of a second.",
+   "voice": "n",
+   "start": 26.91,
+   "end": 32.64,
+   "words": [
+    {
+     "w": "Over",
+     "start": 26.91,
+     "end": 27.71
+    },
+    {
+     "w": "a",
+     "start": 27.71,
+     "end": 27.95
+    },
+    {
+     "w": "*79-year*",
+     "start": 27.95,
+     "end": 28.43
+    },
+    {
+     "w": "life,",
+     "start": 28.43,
+     "end": 28.67
+    },
+    {
+     "w": "one",
+     "start": 28.67,
+     "end": 29.05
+    },
+    {
+     "w": "foot",
+     "start": 29.35,
+     "end": 29.57
+    },
+    {
+     "w": "of",
+     "start": 29.57,
+     "end": 29.79
+    },
+    {
+     "w": "height",
+     "start": 29.79,
+     "end": 29.95
+    },
+    {
+     "w": "adds",
+     "start": 29.95,
+     "end": 30.21
+    },
+    {
+     "w": "up",
+     "start": 30.21,
+     "end": 30.49
+    },
+    {
+     "w": "to",
+     "start": 30.49,
+     "end": 30.65
+    },
+    {
+     "w": "about",
+     "start": 30.65,
+     "end": 30.79
+    },
+    {
+     "w": "*90",
+     "start": 30.79,
+     "end": 31.01
+    },
+    {
+     "w": "billionths*",
+     "start": 31.01,
+     "end": 31.45
+    },
+    {
+     "w": "of",
+     "start": 31.45,
+     "end": 32.13
+    },
+    {
+     "w": "a",
+     "start": 32.13,
+     "end": 32.21
+    },
+    {
+     "w": "second.",
+     "start": 32.21,
+     "end": 32.33
+    }
+   ]
+  },
+  {
+   "scene": "c7",
+   "text": "Tiny. But GPS satellites fly *20,000 kilometers* up, in weaker gravity, so their clocks gain *45 microseconds* every day.",
+   "voice": "n",
+   "start": 33.13,
+   "end": 41.71,
+   "words": [
+    {
+     "w": "Tiny.",
+     "start": 33.13,
+     "end": 33.41
+    },
+    {
+     "w": "But",
+     "start": 34.05,
+     "end": 34.21
+    },
+    {
+     "w": "GPS",
+     "start": 34.21,
+     "end": 34.67
+    },
+    {
+     "w": "satellites",
+     "start": 34.67,
+     "end": 35.19
+    },
+    {
+     "w": "fly",
+     "start": 35.19,
+     "end": 35.53
+    },
+    {
+     "w": "*20,000",
+     "start": 35.53,
+     "end": 35.97
+    },
+    {
+     "w": "kilometers*",
+     "start": 35.97,
+     "end": 36.43
+    },
+    {
+     "w": "up,",
+     "start": 36.43,
+     "end": 36.79
+    },
+    {
+     "w": "in",
+     "start": 36.79,
+     "end": 37.17
+    },
+    {
+     "w": "weaker",
+     "start": 37.33,
+     "end": 37.47
+    },
+    {
+     "w": "gravity,",
+     "start": 37.47,
+     "end": 37.77
+    },
+    {
+     "w": "so",
+     "start": 37.77,
+     "end": 38.25
+    },
+    {
+     "w": "their",
+     "start": 38.57,
+     "end": 38.75
+    },
+    {
+     "w": "clocks",
+     "start": 38.75,
+     "end": 38.97
+    },
+    {
+     "w": "gain",
+     "start": 38.97,
+     "end": 39.29
+    },
+    {
+     "w": "*45",
+     "start": 39.29,
+     "end": 39.57
+    },
+    {
+     "w": "microseconds*",
+     "start": 39.57,
+     "end": 40.21
+    },
+    {
+     "w": "every",
+     "start": 40.21,
+     "end": 40.85
+    },
+    {
+     "w": "day.",
+     "start": 40.85,
+     "end": 41.35
+    }
+   ]
+  },
+  {
+   "scene": "c8",
+   "text": "Their speed takes away about *7.* So they run *38 microseconds* fast, every single day.",
+   "voice": "n",
+   "start": 42.18,
+   "end": 47.82,
+   "words": [
+    {
+     "w": "Their",
+     "start": 42.18,
+     "end": 42.33
+    },
+    {
+     "w": "speed",
+     "start": 42.33,
+     "end": 42.63
+    },
+    {
+     "w": "takes",
+     "start": 42.63,
+     "end": 42.87
+    },
+    {
+     "w": "away",
+     "start": 42.87,
+     "end": 43.13
+    },
+    {
+     "w": "about",
+     "start": 43.13,
+     "end": 43.39
+    },
+    {
+     "w": "*7.*",
+     "start": 43.39,
+     "end": 43.73
+    },
+    {
+     "w": "So",
+     "start": 44.15,
+     "end": 44.43
+    },
+    {
+     "w": "they",
+     "start": 44.43,
+     "end": 44.73
+    },
+    {
+     "w": "run",
+     "start": 44.73,
+     "end": 44.93
+    },
+    {
+     "w": "*38",
+     "start": 44.93,
+     "end": 45.53
+    },
+    {
+     "w": "microseconds*",
+     "start": 45.53,
+     "end": 46.15
+    },
+    {
+     "w": "fast,",
+     "start": 46.15,
+     "end": 46.57
+    },
+    {
+     "w": "every",
+     "start": 46.57,
+     "end": 47.15
+    },
+    {
+     "w": "single",
+     "start": 47.15,
+     "end": 47.49
+    },
+    {
+     "w": "day.",
+     "start": 47.49,
+     "end": 47.81
+    }
+   ]
+  },
+  {
+   "scene": "c9",
+   "text": "If nobody corrected that, your map would drift about *10 kilometers* a day.",
+   "voice": "n",
+   "start": 48.37,
+   "end": 52.2,
+   "words": [
+    {
+     "w": "If",
+     "start": 48.37,
+     "end": 48.47
+    },
+    {
+     "w": "nobody",
+     "start": 48.47,
+     "end": 48.73
+    },
+    {
+     "w": "corrected",
+     "start": 48.73,
+     "end": 49.19
+    },
+    {
+     "w": "that,",
+     "start": 49.19,
+     "end": 49.53
+    },
+    {
+     "w": "your",
+     "start": 49.75,
+     "end": 49.91
+    },
+    {
+     "w": "map",
+     "start": 49.91,
+     "end": 50.21
+    },
+    {
+     "w": "would",
+     "start": 50.21,
+     "end": 50.43
+    },
+    {
+     "w": "drift",
+     "start": 50.43,
+     "end": 50.65
+    },
+    {
+     "w": "about",
+     "start": 50.65,
+     "end": 50.89
+    },
+    {
+     "w": "*10",
+     "start": 50.89,
+     "end": 51.23
+    },
+    {
+     "w": "kilometers*",
+     "start": 51.23,
+     "end": 51.67
+    },
+    {
+     "w": "a",
+     "start": 51.67,
+     "end": 51.95
+    },
+    {
+     "w": "day.",
+     "start": 51.95,
+     "end": 52.17
+    }
+   ]
+  },
+  {
+   "scene": "c10",
+   "text": "In 2022, scientists measured the difference across just *one millimeter.*",
+   "voice": "n",
+   "start": 52.75,
+   "end": 56.8,
+   "words": [
+    {
+     "w": "In",
+     "start": 52.75,
+     "end": 52.85
+    },
+    {
+     "w": "2022,",
+     "start": 52.85,
+     "end": 53.61
+    },
+    {
+     "w": "scientists",
+     "start": 54.01,
+     "end": 54.35
+    },
+    {
+     "w": "measured",
+     "start": 54.35,
+     "end": 54.73
+    },
+    {
+     "w": "the",
+     "start": 54.73,
+     "end": 54.91
+    },
+    {
+     "w": "difference",
+     "start": 54.91,
+     "end": 55.19
+    },
+    {
+     "w": "across",
+     "start": 55.19,
+     "end": 55.53
+    },
+    {
+     "w": "just",
+     "start": 55.53,
+     "end": 55.85
+    },
+    {
+     "w": "*one",
+     "start": 55.85,
+     "end": 56.19
+    },
+    {
+     "w": "millimeter.*",
+     "start": 56.19,
+     "end": 56.8
+    }
+   ]
+  },
+  {
+   "scene": "c11",
+   "text": "So time runs at a different speed for *every inch* of you.",
+   "voice": "n",
+   "start": 57.21,
+   "end": 60.33,
+   "words": [
+    {
+     "w": "So",
+     "start": 57.21,
+     "end": 57.41
+    },
+    {
+     "w": "time",
+     "start": 57.41,
+     "end": 57.83
+    },
+    {
+     "w": "runs",
+     "start": 57.83,
+     "end": 58.07
+    },
+    {
+     "w": "at",
+     "start": 58.07,
+     "end": 58.25
+    },
+    {
+     "w": "a",
+     "start": 58.25,
+     "end": 58.39
+    },
+    {
+     "w": "different",
+     "start": 58.39,
+     "end": 58.67
+    },
+    {
+     "w": "speed",
+     "start": 58.67,
+     "end": 59.05
+    },
+    {
+     "w": "for",
+     "start": 59.05,
+     "end": 59.35
+    },
+    {
+     "w": "*every",
+     "start": 59.35,
+     "end": 59.77
+    },
+    {
+     "w": "inch*",
+     "start": 59.77,
+     "end": 60.03
+    },
+    {
+     "w": "of",
+     "start": 60.03,
+     "end": 60.21
+    },
+    {
+     "w": "you.",
+     "start": 60.21,
+     "end": 60.33
+    }
+   ]
+  },
+  {
+   "scene": "c12",
+   "text": "Now go down. The center of the Earth sits at the bottom of its gravity, where time runs *slowest of all.*",
+   "voice": "n",
+   "start": 61.02,
+   "end": 67.07,
+   "words": [
+    {
+     "w": "Now",
+     "start": 61.03,
+     "end": 61.25
+    },
+    {
+     "w": "go",
+     "start": 61.25,
+     "end": 61.67
+    },
+    {
+     "w": "down.",
+     "start": 61.67,
+     "end": 62.01
+    },
+    {
+     "w": "The",
+     "start": 62.71,
+     "end": 62.83
+    },
+    {
+     "w": "center",
+     "start": 62.83,
+     "end": 63.05
+    },
+    {
+     "w": "of",
+     "start": 63.05,
+     "end": 63.25
+    },
+    {
+     "w": "the",
+     "start": 63.25,
+     "end": 63.37
+    },
+    {
+     "w": "Earth",
+     "start": 63.37,
+     "end": 63.59
+    },
+    {
+     "w": "sits",
+     "start": 63.59,
+     "end": 63.87
+    },
+    {
+     "w": "at",
+     "start": 63.87,
+     "end": 64.05
+    },
+    {
+     "w": "the",
+     "start": 64.05,
+     "end": 64.19
+    },
+    {
+     "w": "bottom",
+     "start": 64.19,
+     "end": 64.47
+    },
+    {
+     "w": "of",
+     "start": 64.47,
+     "end": 64.67
+    },
+    {
+     "w": "its",
+     "start": 64.67,
+     "end": 64.81
+    },
+    {
+     "w": "gravity,",
+     "start": 64.81,
+     "end": 65.23
+    },
+    {
+     "w": "where",
+     "start": 65.37,
+     "end": 65.59
+    },
+    {
+     "w": "time",
+     "start": 65.59,
+     "end": 65.93
+    },
+    {
+     "w": "runs",
+     "start": 65.93,
+     "end": 66.19
+    },
+    {
+     "w": "*slowest",
+     "start": 66.19,
+     "end": 66.73
+    },
+    {
+     "w": "of",
+     "start": 66.73,
+     "end": 66.87
+    },
+    {
+     "w": "all.*",
+     "start": 66.87,
+     "end": 67.07
+    }
+   ]
+  },
+  {
+   "scene": "c13",
+   "text": "Over 4.5 billion years, the core has fallen about *2.5 years* behind the surface. The planet's heart is *younger* than its skin.",
+   "voice": "n",
+   "start": 67.55,
+   "end": 75.83,
+   "words": [
+    {
+     "w": "Over",
+     "start": 67.55,
+     "end": 67.75
+    },
+    {
+     "w": "4.5",
+     "start": 67.75,
+     "end": 68.09
+    },
+    {
+     "w": "billion",
+     "start": 68.09,
+     "end": 68.65
+    },
+    {
+     "w": "years,",
+     "start": 68.65,
+     "end": 68.99
+    },
+    {
+     "w": "the",
+     "start": 68.99,
+     "end": 69.53
+    },
+    {
+     "w": "core",
+     "start": 69.83,
+     "end": 69.93
+    },
+    {
+     "w": "has",
+     "start": 69.93,
+     "end": 70.21
+    },
+    {
+     "w": "fallen",
+     "start": 70.21,
+     "end": 70.41
+    },
+    {
+     "w": "about",
+     "start": 70.41,
+     "end": 70.69
+    },
+    {
+     "w": "*2.5",
+     "start": 70.69,
+     "end": 70.95
+    },
+    {
+     "w": "years*",
+     "start": 70.95,
+     "end": 71.25
+    },
+    {
+     "w": "behind",
+     "start": 71.85,
+     "end": 72.05
+    },
+    {
+     "w": "the",
+     "start": 72.05,
+     "end": 72.43
+    },
+    {
+     "w": "surface.",
+     "start": 72.43,
+     "end": 72.61
+    },
+    {
+     "w": "The",
+     "start": 72.61,
+     "end": 72.93
+    },
+    {
+     "w": "planet's",
+     "start": 73.47,
+     "end": 73.61
+    },
+    {
+     "w": "heart",
+     "start": 73.61,
+     "end": 74.09
+    },
+    {
+     "w": "is",
+     "start": 74.09,
+     "end": 74.35
+    },
+    {
+     "w": "*younger*",
+     "start": 74.35,
+     "end": 74.71
+    },
+    {
+     "w": "than",
+     "start": 74.71,
+     "end": 75.01
+    },
+    {
+     "w": "its",
+     "start": 75.01,
+     "end": 75.31
+    },
+    {
+     "w": "skin.",
+     "start": 75.31,
+     "end": 75.45
+    }
+   ]
+  },
+  {
+   "scene": "c14",
+   "text": "So would you live on the *top floor,* or in the basement?",
+   "voice": "n",
+   "start": 76.53,
+   "end": 79.22,
+   "words": [
+    {
+     "w": "So",
+     "start": 76.53,
+     "end": 76.69
+    },
+    {
+     "w": "would",
+     "start": 76.69,
+     "end": 76.97
+    },
+    {
+     "w": "you",
+     "start": 76.97,
+     "end": 77.13
+    },
+    {
+     "w": "live",
+     "start": 77.13,
+     "end": 77.27
+    },
+    {
+     "w": "on",
+     "start": 77.27,
+     "end": 77.43
+    },
+    {
+     "w": "the",
+     "start": 77.43,
+     "end": 77.57
+    },
+    {
+     "w": "*top",
+     "start": 77.57,
+     "end": 77.79
+    },
+    {
+     "w": "floor,*",
+     "start": 77.79,
+     "end": 78.15
+    },
+    {
+     "w": "or",
+     "start": 78.15,
+     "end": 78.67
+    },
+    {
+     "w": "in",
+     "start": 78.67,
+     "end": 78.77
+    },
+    {
+     "w": "the",
+     "start": 78.77,
+     "end": 78.87
+    },
+    {
+     "w": "basement?",
+     "start": 78.87,
+     "end": 79.11
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "c1",
+   "start": 0,
+   "end": 5.69
+  },
+  {
+   "id": "c2",
+   "start": 5.74,
+   "end": 11.99
+  },
+  {
+   "id": "c3",
+   "start": 12.04,
+   "end": 17.25
+  },
+  {
+   "id": "c4",
+   "start": 17.3,
+   "end": 23.21
+  },
+  {
+   "id": "c5",
+   "start": 23.26,
+   "end": 26.86
+  },
+  {
+   "id": "c6",
+   "start": 26.91,
+   "end": 33.08
+  },
+  {
+   "id": "c7",
+   "start": 33.13,
+   "end": 42.13
+  },
+  {
+   "id": "c8",
+   "start": 42.18,
+   "end": 48.32
+  },
+  {
+   "id": "c9",
+   "start": 48.37,
+   "end": 52.7
+  },
+  {
+   "id": "c10",
+   "start": 52.75,
+   "end": 57.16
+  },
+  {
+   "id": "c11",
+   "start": 57.21,
+   "end": 60.97
+  },
+  {
+   "id": "c12",
+   "start": 61.02,
+   "end": 67.5
+  },
+  {
+   "id": "c13",
+   "start": 67.55,
+   "end": 76.48
+  },
+  {
+   "id": "c14",
+   "start": 76.53,
+   "end": 83.22
+  }
+ ]
+}
