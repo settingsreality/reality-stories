@@ -1,0 +1,1385 @@
+{
+ "total": 89.57,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "There's no ice on the lake tonight. And the *300-kilo* rock behind my truck just *moved.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.83,
+   "words": [
+    {
+     "w": "There's",
+     "start": 0.17,
+     "end": 0.4
+    },
+    {
+     "w": "no",
+     "start": 0.4,
+     "end": 0.66
+    },
+    {
+     "w": "ice",
+     "start": 0.66,
+     "end": 1.04
+    },
+    {
+     "w": "on",
+     "start": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "start": 1.28,
+     "end": 1.38
+    },
+    {
+     "w": "lake",
+     "start": 1.38,
+     "end": 1.6
+    },
+    {
+     "w": "tonight.",
+     "start": 1.6,
+     "end": 1.98
+    },
+    {
+     "w": "And",
+     "start": 2.44,
+     "end": 2.82
+    },
+    {
+     "w": "the",
+     "start": 2.82,
+     "end": 2.96
+    },
+    {
+     "w": "*300-kilo*",
+     "start": 2.96,
+     "end": 3.54
+    },
+    {
+     "w": "rock",
+     "start": 3.54,
+     "end": 3.98
+    },
+    {
+     "w": "behind",
+     "start": 3.98,
+     "end": 4.18
+    },
+    {
+     "w": "my",
+     "start": 4.18,
+     "end": 4.5
+    },
+    {
+     "w": "truck",
+     "start": 4.5,
+     "end": 4.68
+    },
+    {
+     "w": "just",
+     "start": 4.68,
+     "end": 5.04
+    },
+    {
+     "w": "*moved.*",
+     "start": 5.04,
+     "end": 5.26
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "I'm a night ranger at the Racetrack, in Death Valley. A dry lake bed where *rocks slide by themselves,* and leave trails in the mud.",
+   "voice": "n",
+   "start": 6.75,
+   "end": 13.8,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 6.75,
+     "end": 6.9
+    },
+    {
+     "w": "a",
+     "start": 6.9,
+     "end": 7.0
+    },
+    {
+     "w": "night",
+     "start": 7.0,
+     "end": 7.18
+    },
+    {
+     "w": "ranger",
+     "start": 7.18,
+     "end": 7.5
+    },
+    {
+     "w": "at",
+     "start": 7.5,
+     "end": 7.7
+    },
+    {
+     "w": "the",
+     "start": 7.7,
+     "end": 7.82
+    },
+    {
+     "w": "Racetrack,",
+     "start": 7.82,
+     "end": 8.38
+    },
+    {
+     "w": "in",
+     "start": 8.38,
+     "end": 8.68
+    },
+    {
+     "w": "Death",
+     "start": 8.68,
+     "end": 8.82
+    },
+    {
+     "w": "Valley.",
+     "start": 8.82,
+     "end": 9.2
+    },
+    {
+     "w": "A",
+     "start": 9.66,
+     "end": 9.88
+    },
+    {
+     "w": "dry",
+     "start": 9.88,
+     "end": 10.12
+    },
+    {
+     "w": "lake",
+     "start": 10.12,
+     "end": 10.38
+    },
+    {
+     "w": "bed",
+     "start": 10.38,
+     "end": 10.62
+    },
+    {
+     "w": "where",
+     "start": 10.62,
+     "end": 10.9
+    },
+    {
+     "w": "*rocks",
+     "start": 10.9,
+     "end": 11.24
+    },
+    {
+     "w": "slide",
+     "start": 11.24,
+     "end": 11.58
+    },
+    {
+     "w": "by",
+     "start": 11.58,
+     "end": 11.8
+    },
+    {
+     "w": "themselves,*",
+     "start": 11.8,
+     "end": 12.24
+    },
+    {
+     "w": "and",
+     "start": 12.24,
+     "end": 12.76
+    },
+    {
+     "w": "leave",
+     "start": 12.76,
+     "end": 12.9
+    },
+    {
+     "w": "trails",
+     "start": 12.9,
+     "end": 13.26
+    },
+    {
+     "w": "in",
+     "start": 13.26,
+     "end": 13.48
+    },
+    {
+     "w": "the",
+     "start": 13.48,
+     "end": 13.58
+    },
+    {
+     "w": "mud.",
+     "start": 13.58,
+     "end": 13.8
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "That part's real. On cold winter nights, thin sheets of ice and a light wind push them, a few *meters a minute.*",
+   "voice": "n",
+   "start": 14.45,
+   "end": 20.9,
+   "words": [
+    {
+     "w": "That",
+     "start": 14.45,
+     "end": 14.56
+    },
+    {
+     "w": "part's",
+     "start": 14.56,
+     "end": 14.86
+    },
+    {
+     "w": "real.",
+     "start": 14.86,
+     "end": 15.1
+    },
+    {
+     "w": "On",
+     "start": 15.78,
+     "end": 15.94
+    },
+    {
+     "w": "cold",
+     "start": 15.94,
+     "end": 16.22
+    },
+    {
+     "w": "winter",
+     "start": 16.22,
+     "end": 16.48
+    },
+    {
+     "w": "nights,",
+     "start": 16.48,
+     "end": 16.94
+    },
+    {
+     "w": "thin",
+     "start": 17.26,
+     "end": 17.4
+    },
+    {
+     "w": "sheets",
+     "start": 17.4,
+     "end": 17.72
+    },
+    {
+     "w": "of",
+     "start": 17.72,
+     "end": 17.9
+    },
+    {
+     "w": "ice",
+     "start": 17.9,
+     "end": 18.2
+    },
+    {
+     "w": "and",
+     "start": 18.2,
+     "end": 18.4
+    },
+    {
+     "w": "a",
+     "start": 18.4,
+     "end": 18.52
+    },
+    {
+     "w": "light",
+     "start": 18.52,
+     "end": 18.72
+    },
+    {
+     "w": "wind",
+     "start": 18.72,
+     "end": 19.08
+    },
+    {
+     "w": "push",
+     "start": 19.08,
+     "end": 19.38
+    },
+    {
+     "w": "them,",
+     "start": 19.38,
+     "end": 19.68
+    },
+    {
+     "w": "a",
+     "start": 19.68,
+     "end": 20.06
+    },
+    {
+     "w": "few",
+     "start": 20.06,
+     "end": 20.26
+    },
+    {
+     "w": "*meters",
+     "start": 20.26,
+     "end": 20.5
+    },
+    {
+     "w": "a",
+     "start": 20.5,
+     "end": 20.7
+    },
+    {
+     "w": "minute.*",
+     "start": 20.7,
+     "end": 20.9
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "My boss, Dot, taped three rules to my dashboard.",
+   "voice": "n",
+   "start": 21.65,
+   "end": 24.52,
+   "words": [
+    {
+     "w": "My",
+     "start": 21.65,
+     "end": 21.78
+    },
+    {
+     "w": "boss,",
+     "start": 21.78,
+     "end": 22.18
+    },
+    {
+     "w": "Dot,",
+     "start": 22.52,
+     "end": 22.56
+    },
+    {
+     "w": "taped",
+     "start": 22.82,
+     "end": 23.08
+    },
+    {
+     "w": "three",
+     "start": 23.08,
+     "end": 23.4
+    },
+    {
+     "w": "rules",
+     "start": 23.4,
+     "end": 23.72
+    },
+    {
+     "w": "to",
+     "start": 23.72,
+     "end": 23.92
+    },
+    {
+     "w": "my",
+     "start": 23.92,
+     "end": 24.06
+    },
+    {
+     "w": "dashboard.",
+     "start": 24.06,
+     "end": 24.5
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "One. Count the stones at sundown, and *again at sunrise.*",
+   "voice": "n",
+   "start": 24.55,
+   "end": 28.63,
+   "words": [
+    {
+     "w": "One.",
+     "start": 24.55,
+     "end": 25.4
+    },
+    {
+     "w": "Count",
+     "start": 25.96,
+     "end": 26.14
+    },
+    {
+     "w": "the",
+     "start": 26.14,
+     "end": 26.32
+    },
+    {
+     "w": "stones",
+     "start": 26.32,
+     "end": 26.56
+    },
+    {
+     "w": "at",
+     "start": 26.56,
+     "end": 26.8
+    },
+    {
+     "w": "sundown,",
+     "start": 26.8,
+     "end": 27.28
+    },
+    {
+     "w": "and",
+     "start": 27.28,
+     "end": 27.56
+    },
+    {
+     "w": "*again",
+     "start": 27.56,
+     "end": 27.86
+    },
+    {
+     "w": "at",
+     "start": 27.86,
+     "end": 28.04
+    },
+    {
+     "w": "sunrise.*",
+     "start": 28.04,
+     "end": 28.48
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Two. Never fall *asleep* on the playa.",
+   "voice": "n",
+   "start": 29.22,
+   "end": 31.6,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 29.22,
+     "end": 29.44
+    },
+    {
+     "w": "Never",
+     "start": 30.12,
+     "end": 30.34
+    },
+    {
+     "w": "fall",
+     "start": 30.34,
+     "end": 30.68
+    },
+    {
+     "w": "*asleep*",
+     "start": 30.68,
+     "end": 31.0
+    },
+    {
+     "w": "on",
+     "start": 31.0,
+     "end": 31.18
+    },
+    {
+     "w": "the",
+     "start": 31.18,
+     "end": 31.3
+    },
+    {
+     "w": "playa.",
+     "start": 31.3,
+     "end": 31.6
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Three. If a stone moves with no ice, *never stand in its trail.*",
+   "voice": "n",
+   "start": 32.37,
+   "end": 36.57,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 32.37,
+     "end": 32.62
+    },
+    {
+     "w": "If",
+     "start": 33.12,
+     "end": 33.26
+    },
+    {
+     "w": "a",
+     "start": 33.26,
+     "end": 33.42
+    },
+    {
+     "w": "stone",
+     "start": 33.42,
+     "end": 33.66
+    },
+    {
+     "w": "moves",
+     "start": 33.66,
+     "end": 33.98
+    },
+    {
+     "w": "with",
+     "start": 33.98,
+     "end": 34.22
+    },
+    {
+     "w": "no",
+     "start": 34.22,
+     "end": 34.48
+    },
+    {
+     "w": "ice,",
+     "start": 34.48,
+     "end": 34.82
+    },
+    {
+     "w": "*never",
+     "start": 35.38,
+     "end": 35.5
+    },
+    {
+     "w": "stand",
+     "start": 35.5,
+     "end": 35.92
+    },
+    {
+     "w": "in",
+     "start": 35.92,
+     "end": 36.1
+    },
+    {
+     "w": "its",
+     "start": 36.1,
+     "end": 36.24
+    },
+    {
+     "w": "trail.*",
+     "start": 36.24,
+     "end": 36.54
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "At sundown, I counted *162.* At two a.m., the map showed *163.*",
+   "voice": "n",
+   "start": 37.4,
+   "end": 43.29,
+   "words": [
+    {
+     "w": "At",
+     "start": 37.4,
+     "end": 37.5
+    },
+    {
+     "w": "sundown,",
+     "start": 37.5,
+     "end": 38.02
+    },
+    {
+     "w": "I",
+     "start": 38.26,
+     "end": 38.34
+    },
+    {
+     "w": "counted",
+     "start": 38.34,
+     "end": 38.58
+    },
+    {
+     "w": "*162.*",
+     "start": 38.58,
+     "end": 39.46
+    },
+    {
+     "w": "At",
+     "start": 40.44,
+     "end": 40.64
+    },
+    {
+     "w": "two",
+     "start": 40.64,
+     "end": 40.84
+    },
+    {
+     "w": "a.m.,",
+     "start": 40.84,
+     "end": 40.98
+    },
+    {
+     "w": "the",
+     "start": 40.98,
+     "end": 41.44
+    },
+    {
+     "w": "map",
+     "start": 41.44,
+     "end": 41.58
+    },
+    {
+     "w": "showed",
+     "start": 41.58,
+     "end": 41.76
+    },
+    {
+     "w": "*163.*",
+     "start": 41.76,
+     "end": 42.1
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "The new one sat by the old campsite. Its trail started at an *empty sleeping bag.*",
+   "voice": "n",
+   "start": 44.05,
+   "end": 48.55,
+   "words": [
+    {
+     "w": "The",
+     "start": 44.05,
+     "end": 44.12
+    },
+    {
+     "w": "new",
+     "start": 44.12,
+     "end": 44.34
+    },
+    {
+     "w": "one",
+     "start": 44.34,
+     "end": 44.56
+    },
+    {
+     "w": "sat",
+     "start": 44.56,
+     "end": 44.82
+    },
+    {
+     "w": "by",
+     "start": 44.82,
+     "end": 45.02
+    },
+    {
+     "w": "the",
+     "start": 45.02,
+     "end": 45.14
+    },
+    {
+     "w": "old",
+     "start": 45.14,
+     "end": 45.34
+    },
+    {
+     "w": "campsite.",
+     "start": 45.34,
+     "end": 45.96
+    },
+    {
+     "w": "Its",
+     "start": 46.36,
+     "end": 46.5
+    },
+    {
+     "w": "trail",
+     "start": 46.5,
+     "end": 46.82
+    },
+    {
+     "w": "started",
+     "start": 46.82,
+     "end": 47.24
+    },
+    {
+     "w": "at",
+     "start": 47.24,
+     "end": 47.46
+    },
+    {
+     "w": "an",
+     "start": 47.46,
+     "end": 47.62
+    },
+    {
+     "w": "*empty",
+     "start": 47.62,
+     "end": 47.88
+    },
+    {
+     "w": "sleeping",
+     "start": 47.88,
+     "end": 48.2
+    },
+    {
+     "w": "bag.*",
+     "start": 48.2,
+     "end": 48.55
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "Then every trail on the map turned. All of them, pointing at *my truck.*",
+   "voice": "n",
+   "start": 49.27,
+   "end": 53.42,
+   "words": [
+    {
+     "w": "Then",
+     "start": 49.27,
+     "end": 49.58
+    },
+    {
+     "w": "every",
+     "start": 49.66,
+     "end": 50.08
+    },
+    {
+     "w": "trail",
+     "start": 50.08,
+     "end": 50.36
+    },
+    {
+     "w": "on",
+     "start": 50.36,
+     "end": 50.54
+    },
+    {
+     "w": "the",
+     "start": 50.54,
+     "end": 50.66
+    },
+    {
+     "w": "map",
+     "start": 50.66,
+     "end": 50.94
+    },
+    {
+     "w": "turned.",
+     "start": 50.94,
+     "end": 51.34
+    },
+    {
+     "w": "All",
+     "start": 51.78,
+     "end": 52.04
+    },
+    {
+     "w": "of",
+     "start": 52.04,
+     "end": 52.2
+    },
+    {
+     "w": "them,",
+     "start": 52.2,
+     "end": 52.4
+    },
+    {
+     "w": "pointing",
+     "start": 52.4,
+     "end": 52.78
+    },
+    {
+     "w": "at",
+     "start": 52.78,
+     "end": 53.0
+    },
+    {
+     "w": "*my",
+     "start": 53.0,
+     "end": 53.14
+    },
+    {
+     "w": "truck.*",
+     "start": 53.14,
+     "end": 53.42
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "Something scraped. The big one was at my bumper. *Two meters.* I grabbed the radio.",
+   "voice": "n",
+   "start": 54.21,
+   "end": 59.12,
+   "words": [
+    {
+     "w": "Something",
+     "start": 54.21,
+     "end": 54.66
+    },
+    {
+     "w": "scraped.",
+     "start": 54.66,
+     "end": 55.14
+    },
+    {
+     "w": "The",
+     "start": 55.46,
+     "end": 55.58
+    },
+    {
+     "w": "big",
+     "start": 55.58,
+     "end": 55.8
+    },
+    {
+     "w": "one",
+     "start": 55.8,
+     "end": 56.0
+    },
+    {
+     "w": "was",
+     "start": 56.0,
+     "end": 56.16
+    },
+    {
+     "w": "at",
+     "start": 56.16,
+     "end": 56.28
+    },
+    {
+     "w": "my",
+     "start": 56.28,
+     "end": 56.42
+    },
+    {
+     "w": "bumper.",
+     "start": 56.42,
+     "end": 56.74
+    },
+    {
+     "w": "*Two",
+     "start": 57.2,
+     "end": 57.38
+    },
+    {
+     "w": "meters.*",
+     "start": 57.38,
+     "end": 57.64
+    },
+    {
+     "w": "I",
+     "start": 58.28,
+     "end": 58.38
+    },
+    {
+     "w": "grabbed",
+     "start": 58.38,
+     "end": 58.58
+    },
+    {
+     "w": "the",
+     "start": 58.58,
+     "end": 58.78
+    },
+    {
+     "w": "radio.",
+     "start": 58.78,
+     "end": 59.12
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "\"Don't run. Their trails only go straight. *Step sideways.*\"",
+   "voice": "n",
+   "start": 59.56,
+   "end": 62.8,
+   "words": [
+    {
+     "w": "\"Don't",
+     "start": 59.66,
+     "end": 59.76
+    },
+    {
+     "w": "run.",
+     "start": 59.76,
+     "end": 59.98
+    },
+    {
+     "w": "Their",
+     "start": 60.38,
+     "end": 60.46
+    },
+    {
+     "w": "trails",
+     "start": 60.46,
+     "end": 60.72
+    },
+    {
+     "w": "only",
+     "start": 60.72,
+     "end": 61.02
+    },
+    {
+     "w": "go",
+     "start": 61.02,
+     "end": 61.24
+    },
+    {
+     "w": "straight.",
+     "start": 61.24,
+     "end": 61.6
+    },
+    {
+     "w": "*Step",
+     "start": 62.04,
+     "end": 62.08
+    },
+    {
+     "w": "sideways.*\"",
+     "start": 62.08,
+     "end": 62.52
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "I stepped out, sideways. And my boot didn't leave a print. It left a *groove.*",
+   "voice": "n",
+   "start": 63.22,
+   "end": 67.68,
+   "words": [
+    {
+     "w": "I",
+     "start": 63.22,
+     "end": 63.32
+    },
+    {
+     "w": "stepped",
+     "start": 63.32,
+     "end": 63.56
+    },
+    {
+     "w": "out,",
+     "start": 63.56,
+     "end": 63.88
+    },
+    {
+     "w": "sideways.",
+     "start": 64.12,
+     "end": 64.46
+    },
+    {
+     "w": "And",
+     "start": 65.02,
+     "end": 65.12
+    },
+    {
+     "w": "my",
+     "start": 65.12,
+     "end": 65.28
+    },
+    {
+     "w": "boot",
+     "start": 65.28,
+     "end": 65.5
+    },
+    {
+     "w": "didn't",
+     "start": 65.5,
+     "end": 65.8
+    },
+    {
+     "w": "leave",
+     "start": 65.8,
+     "end": 65.96
+    },
+    {
+     "w": "a",
+     "start": 65.96,
+     "end": 66.12
+    },
+    {
+     "w": "print.",
+     "start": 66.12,
+     "end": 66.4
+    },
+    {
+     "w": "It",
+     "start": 66.84,
+     "end": 66.92
+    },
+    {
+     "w": "left",
+     "start": 66.92,
+     "end": 67.06
+    },
+    {
+     "w": "a",
+     "start": 67.06,
+     "end": 67.26
+    },
+    {
+     "w": "*groove.*",
+     "start": 67.26,
+     "end": 67.62
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "Behind me, a long, smooth trail ran back to the driver's seat... where I'd *dozed off,* just for a minute.",
+   "voice": "n",
+   "start": 68.37,
+   "end": 74.04,
+   "words": [
+    {
+     "w": "Behind",
+     "start": 68.37,
+     "end": 68.66
+    },
+    {
+     "w": "me,",
+     "start": 68.66,
+     "end": 68.9
+    },
+    {
+     "w": "a",
+     "start": 69.08,
+     "end": 69.24
+    },
+    {
+     "w": "long,",
+     "start": 69.24,
+     "end": 69.58
+    },
+    {
+     "w": "smooth",
+     "start": 69.84,
+     "end": 70.06
+    },
+    {
+     "w": "trail",
+     "start": 70.06,
+     "end": 70.46
+    },
+    {
+     "w": "ran",
+     "start": 70.46,
+     "end": 70.74
+    },
+    {
+     "w": "back",
+     "start": 70.74,
+     "end": 71.0
+    },
+    {
+     "w": "to",
+     "start": 71.0,
+     "end": 71.14
+    },
+    {
+     "w": "the",
+     "start": 71.14,
+     "end": 71.28
+    },
+    {
+     "w": "driver's",
+     "start": 71.28,
+     "end": 71.7
+    },
+    {
+     "w": "seat...",
+     "start": 71.7,
+     "end": 71.92
+    },
+    {
+     "w": "where",
+     "start": 72.08,
+     "end": 72.36
+    },
+    {
+     "w": "I'd",
+     "start": 72.43,
+     "end": 72.48
+    },
+    {
+     "w": "*dozed",
+     "start": 72.5,
+     "end": 72.8
+    },
+    {
+     "w": "off,*",
+     "start": 72.8,
+     "end": 73.08
+    },
+    {
+     "w": "just",
+     "start": 73.4,
+     "end": 73.58
+    },
+    {
+     "w": "for",
+     "start": 73.58,
+     "end": 73.76
+    },
+    {
+     "w": "a",
+     "start": 73.76,
+     "end": 73.9
+    },
+    {
+     "w": "minute.",
+     "start": 73.9,
+     "end": 74.04
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "\"Ranger, I'm at the playa. I count *164.*\"",
+   "voice": "n",
+   "start": 74.77,
+   "end": 77.82,
+   "words": [
+    {
+     "w": "\"Ranger,",
+     "start": 74.82,
+     "end": 75.0
+    },
+    {
+     "w": "I'm",
+     "start": 75.3,
+     "end": 75.46
+    },
+    {
+     "w": "at",
+     "start": 75.46,
+     "end": 75.58
+    },
+    {
+     "w": "the",
+     "start": 75.58,
+     "end": 75.7
+    },
+    {
+     "w": "playa.",
+     "start": 75.7,
+     "end": 76.04
+    },
+    {
+     "w": "I",
+     "start": 76.34,
+     "end": 76.44
+    },
+    {
+     "w": "count",
+     "start": 76.44,
+     "end": 76.6
+    },
+    {
+     "w": "*164.*\"",
+     "start": 76.6,
+     "end": 77.36
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "The stones weren't coming for me. They were *making room.*",
+   "voice": "n",
+   "start": 78.79,
+   "end": 81.51,
+   "words": [
+    {
+     "w": "The",
+     "start": 78.79,
+     "end": 78.87
+    },
+    {
+     "w": "stones",
+     "start": 78.87,
+     "end": 79.13
+    },
+    {
+     "w": "weren't",
+     "start": 79.13,
+     "end": 79.41
+    },
+    {
+     "w": "coming",
+     "start": 79.41,
+     "end": 79.75
+    },
+    {
+     "w": "for",
+     "start": 79.75,
+     "end": 80.03
+    },
+    {
+     "w": "me.",
+     "start": 80.03,
+     "end": 80.21
+    },
+    {
+     "w": "They",
+     "start": 80.55,
+     "end": 80.69
+    },
+    {
+     "w": "were",
+     "start": 80.69,
+     "end": 80.79
+    },
+    {
+     "w": "*making",
+     "start": 80.79,
+     "end": 81.07
+    },
+    {
+     "w": "room.*",
+     "start": 81.07,
+     "end": 81.51
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "Dot's still counting. Do I tell her *which one is me?*",
+   "voice": "n",
+   "start": 82.76,
+   "end": 85.57,
+   "words": [
+    {
+     "w": "Dot's",
+     "start": 82.81,
+     "end": 83.07
+    },
+    {
+     "w": "still",
+     "start": 83.07,
+     "end": 83.21
+    },
+    {
+     "w": "counting.",
+     "start": 83.21,
+     "end": 83.61
+    },
+    {
+     "w": "Do",
+     "start": 84.35,
+     "end": 84.43
+    },
+    {
+     "w": "I",
+     "start": 84.43,
+     "end": 84.51
+    },
+    {
+     "w": "tell",
+     "start": 84.51,
+     "end": 84.71
+    },
+    {
+     "w": "her",
+     "start": 84.71,
+     "end": 84.81
+    },
+    {
+     "w": "*which",
+     "start": 84.81,
+     "end": 84.97
+    },
+    {
+     "w": "one",
+     "start": 84.97,
+     "end": 85.15
+    },
+    {
+     "w": "is",
+     "start": 85.15,
+     "end": 85.29
+    },
+    {
+     "w": "me?*",
+     "start": 85.29,
+     "end": 85.53
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 6.7
+  },
+  {
+   "id": "s2",
+   "start": 6.75,
+   "end": 14.4
+  },
+  {
+   "id": "s3",
+   "start": 14.45,
+   "end": 21.6
+  },
+  {
+   "id": "s4",
+   "start": 21.65,
+   "end": 37.35
+  },
+  {
+   "id": "s5",
+   "start": 37.4,
+   "end": 44.0
+  },
+  {
+   "id": "s6",
+   "start": 44.05,
+   "end": 49.22
+  },
+  {
+   "id": "s7",
+   "start": 49.27,
+   "end": 54.16
+  },
+  {
+   "id": "s8",
+   "start": 54.21,
+   "end": 59.51
+  },
+  {
+   "id": "s9",
+   "start": 59.56,
+   "end": 63.17
+  },
+  {
+   "id": "s10",
+   "start": 63.22,
+   "end": 74.72
+  },
+  {
+   "id": "s11",
+   "start": 74.77,
+   "end": 78.74
+  },
+  {
+   "id": "s12",
+   "start": 78.79,
+   "end": 82.71
+  },
+  {
+   "id": "s13",
+   "start": 82.76,
+   "end": 89.57
+  }
+ ]
+}

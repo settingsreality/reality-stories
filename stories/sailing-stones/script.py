@@ -1,0 +1,20 @@
+# Sailing Stones. (scene, caption, voice). First person. *word* = yellow on screen. [whispers] etc. = ElevenLabs direction, never shown.
+SCRIPT = [
+ ('s1', "[whispers] There's no ice on the lake tonight. And the *300-kilo* rock behind my truck just *moved.*", 'n'),
+ ('s2', "I'm a night ranger at the Racetrack, in Death Valley. A dry lake bed where *rocks slide by themselves,* and leave trails in the mud.", 'n'),
+ ('s3', "That part's real. On cold winter nights, thin sheets of ice and a light wind push them, a few *meters a minute.*", 'n'),
+ ('s4', "My boss, Dot, taped three rules to my dashboard.", 'n'),
+ ('s4', "One. Count the stones at sundown, and *again at sunrise.*", 'n'),
+ ('s4', "Two. Never fall *asleep* on the playa.", 'n'),
+ ('s4', "Three. If a stone moves with no ice, *never stand in its trail.*", 'n'),
+ ('s5', "At sundown, I counted *162.* At two a.m., the map showed *163.*", 'n'),
+ ('s6', "The new one sat by the old campsite. Its trail started at an *empty sleeping bag.*", 'n'),
+ ('s7', "Then every trail on the map turned. All of them, pointing at *my truck.*", 'n'),
+ ('s8', "Something scraped. The big one was at my bumper. *Two meters.* I grabbed the radio.", 'n'),
+ ('s9', "[urgent] \"Don't run. Their trails only go straight. *Step sideways.*\"", 'n'),
+ ('s10', "I stepped out, sideways. And my boot didn't leave a print. It left a *groove.*", 'n'),
+ ('s10', "Behind me, a long, smooth trail ran back to the driver's seat... where I'd *dozed off,* just for a minute.", 'n'),
+ ('s11', "\"Ranger, I'm at the playa. I count *164.*\"", 'n'),
+ ('s12', "The stones weren't coming for me. They were *making room.*", 'n'),
+ ('s13', "[quietly] Dot's still counting. Do I tell her *which one is me?*", 'n'),
+]
