@@ -23,6 +23,7 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 - 2026-11-25: still blocked (12th day). ElevenLabs generation failed again ("10 credits remaining" of 40,000, needed 1,217 for head-older; nothing charged; usage tool still needs reconnect). Speko still 402 for ElevenLabs voices (balance $9.19 free credit, no top-up). No story made. Metricool calendar still empty (nothing scheduled Nov 25 to Dec 9).
 - 2026-11-26: still blocked (13th day). ElevenLabs generation failed again ("10 credits remaining" of 40,000, needed 1,217 for head-older; nothing charged; usage tool still needs reconnect). Speko still 402 for ElevenLabs voices (balance $9.19 free credit; a one-time $5+ top-up unlocks it). No story made. Metricool calendar still empty (nothing scheduled Nov 26 to Dec 10).
 - 2026-11-27: unblocked. ElevenLabs credits are back (monthly reset; head-older 1,217 + sailing-stones 1,260 = 2,477 credits used; usage tool still needs the connector reconnected to read the balance). Speko balance $9.19 (unused). Calendar was empty Nov 21–27; filled Nov 27 10:00 + 18:00. Open from Nov 28.
+- 2026-11-28: ElevenLabs OK (shaking-in-8 1,299 + letters-home 1,247 = 2,546 credits; usage tool still needs the connector reconnected). Speko $9.19 (unused). Filled Nov 28 10:00 + 18:00; open from Nov 29.
 
 ## On hold (don't schedule)
 - rizz-x2: the owner wants a crazier, effects-heavy opening and is sending his own audio. Its Nov 7 10:00 posts are Metricool **drafts** (410471371 TikTok/IG, 410471383 YouTube) and won't publish. The slot now has lady-midday (Oct 30).
@@ -94,6 +95,8 @@ TikTok + Instagram Reels unless noted (YouTube has its own table below). Metrico
 | 2026-11-20 | 18:00 | mile-nine | v2 (Mile Nine), 1:09 | 426804380 |
 | 2026-11-27 | 10:00 | head-older | vertical explainer (Your Head Is Older), 1:23 | 444210570 |
 | 2026-11-27 | 18:00 | sailing-stones | v2 (Sailing Stones), 1:30 | 444219381 |
+| 2026-11-28 | 10:00 | letters-home | v2 myth (Letters Home, Flying Dutchman), 1:31 | 445342535 |
+| 2026-11-28 | 18:00 | shaking-in-8 | v2 (Shaking in 8), 1:28 | 445338152 |
 
 ## YouTube (Universe Settings, @Universe.Settings)
 YouTube-only Shorts posts, separate from the TikTok/Instagram posts. They follow the same slots, except:
@@ -165,6 +168,8 @@ New videos: one YouTube post at the same slot as the TikTok/Instagram post.
 | 2026-11-20 | 18:00 | mile-nine |  | 426804493 |
 | 2026-11-27 | 10:00 | head-older | Short, SCIENCE_TECHNOLOGY | 444210883 |
 | 2026-11-27 | 18:00 | sailing-stones |  | 444219417 |
+| 2026-11-28 | 10:00 | letters-home |  | 445342554 |
+| 2026-11-28 | 18:00 | shaking-in-8 |  | 445338171 |
 
 ## Not auto-posted (the owner posts these by hand with a poll)
 - 2-7-seconds (pt. 1) + 2-7-seconds-pt2-A / -B
