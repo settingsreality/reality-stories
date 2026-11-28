@@ -1,0 +1,1341 @@
+{
+ "total": 91.18,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "The ship on my screen has no lights, no crew... and it just asked me to *carry its mail.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.52,
+   "words": [
+    {
+     "w": "The",
+     "start": 0.17,
+     "end": 0.29
+    },
+    {
+     "w": "ship",
+     "start": 0.29,
+     "end": 0.49
+    },
+    {
+     "w": "on",
+     "start": 0.49,
+     "end": 0.69
+    },
+    {
+     "w": "my",
+     "start": 0.69,
+     "end": 0.85
+    },
+    {
+     "w": "screen",
+     "start": 0.85,
+     "end": 1.19
+    },
+    {
+     "w": "has",
+     "start": 1.19,
+     "end": 1.45
+    },
+    {
+     "w": "no",
+     "start": 1.45,
+     "end": 1.71
+    },
+    {
+     "w": "lights,",
+     "start": 1.71,
+     "end": 2.11
+    },
+    {
+     "w": "no",
+     "start": 2.57,
+     "end": 2.75
+    },
+    {
+     "w": "crew...",
+     "start": 2.75,
+     "end": 3.13
+    },
+    {
+     "w": "and",
+     "start": 3.61,
+     "end": 3.85
+    },
+    {
+     "w": "it",
+     "start": 3.85,
+     "end": 3.97
+    },
+    {
+     "w": "just",
+     "start": 3.97,
+     "end": 4.15
+    },
+    {
+     "w": "asked",
+     "start": 4.15,
+     "end": 4.45
+    },
+    {
+     "w": "me",
+     "start": 4.45,
+     "end": 4.63
+    },
+    {
+     "w": "to",
+     "start": 4.63,
+     "end": 4.81
+    },
+    {
+     "w": "*carry",
+     "start": 4.81,
+     "end": 4.97
+    },
+    {
+     "w": "its",
+     "start": 4.97,
+     "end": 5.21
+    },
+    {
+     "w": "mail.*",
+     "start": 5.21,
+     "end": 5.52
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "I'm on night watch on a cargo ship, rounding the *Cape of Good Hope.* Where sailors say the *Flying Dutchman* still sails.",
+   "voice": "n",
+   "start": 6.75,
+   "end": 13.03,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 6.75,
+     "end": 6.89
+    },
+    {
+     "w": "on",
+     "start": 6.89,
+     "end": 7.05
+    },
+    {
+     "w": "night",
+     "start": 7.183,
+     "end": 7.233
+    },
+    {
+     "w": "watch",
+     "start": 7.317,
+     "end": 7.367
+    },
+    {
+     "w": "on",
+     "start": 7.45,
+     "end": 7.65
+    },
+    {
+     "w": "a",
+     "start": 7.65,
+     "end": 7.93
+    },
+    {
+     "w": "cargo",
+     "start": 7.93,
+     "end": 8.05
+    },
+    {
+     "w": "ship,",
+     "start": 8.05,
+     "end": 8.43
+    },
+    {
+     "w": "rounding",
+     "start": 8.43,
+     "end": 8.85
+    },
+    {
+     "w": "the",
+     "start": 8.85,
+     "end": 9.13
+    },
+    {
+     "w": "*Cape",
+     "start": 9.13,
+     "end": 9.27
+    },
+    {
+     "w": "of",
+     "start": 9.27,
+     "end": 9.47
+    },
+    {
+     "w": "Good",
+     "start": 9.47,
+     "end": 9.63
+    },
+    {
+     "w": "Hope.*",
+     "start": 9.63,
+     "end": 9.91
+    },
+    {
+     "w": "Where",
+     "start": 10.37,
+     "end": 10.59
+    },
+    {
+     "w": "sailors",
+     "start": 10.59,
+     "end": 10.85
+    },
+    {
+     "w": "say",
+     "start": 10.85,
+     "end": 11.21
+    },
+    {
+     "w": "the",
+     "start": 11.21,
+     "end": 11.39
+    },
+    {
+     "w": "*Flying",
+     "start": 11.39,
+     "end": 11.69
+    },
+    {
+     "w": "Dutchman*",
+     "start": 11.69,
+     "end": 12.21
+    },
+    {
+     "w": "still",
+     "start": 12.21,
+     "end": 12.47
+    },
+    {
+     "w": "sails.",
+     "start": 12.47,
+     "end": 12.87
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "The legend: a captain swore he'd round the Cape *if it took until doomsday.* So he never stops. He never makes port.",
+   "voice": "n",
+   "start": 13.76,
+   "end": 20.83,
+   "words": [
+    {
+     "w": "The",
+     "start": 13.76,
+     "end": 13.85
+    },
+    {
+     "w": "legend:",
+     "start": 13.85,
+     "end": 14.13
+    },
+    {
+     "w": "a",
+     "start": 14.71,
+     "end": 14.87
+    },
+    {
+     "w": "captain",
+     "start": 14.87,
+     "end": 15.13
+    },
+    {
+     "w": "swore",
+     "start": 15.13,
+     "end": 15.63
+    },
+    {
+     "w": "he'd",
+     "start": 15.63,
+     "end": 15.93
+    },
+    {
+     "w": "round",
+     "start": 15.93,
+     "end": 16.11
+    },
+    {
+     "w": "the",
+     "start": 16.11,
+     "end": 16.31
+    },
+    {
+     "w": "Cape",
+     "start": 16.31,
+     "end": 16.51
+    },
+    {
+     "w": "*if",
+     "start": 16.51,
+     "end": 16.73
+    },
+    {
+     "w": "it",
+     "start": 16.73,
+     "end": 16.85
+    },
+    {
+     "w": "took",
+     "start": 16.85,
+     "end": 16.99
+    },
+    {
+     "w": "until",
+     "start": 16.99,
+     "end": 17.31
+    },
+    {
+     "w": "doomsday.*",
+     "start": 17.31,
+     "end": 17.83
+    },
+    {
+     "w": "So",
+     "start": 18.31,
+     "end": 18.57
+    },
+    {
+     "w": "he",
+     "start": 18.57,
+     "end": 18.71
+    },
+    {
+     "w": "never",
+     "start": 18.71,
+     "end": 18.99
+    },
+    {
+     "w": "stops.",
+     "start": 18.99,
+     "end": 19.41
+    },
+    {
+     "w": "He",
+     "start": 19.81,
+     "end": 19.95
+    },
+    {
+     "w": "never",
+     "start": 19.95,
+     "end": 20.27
+    },
+    {
+     "w": "makes",
+     "start": 20.27,
+     "end": 20.51
+    },
+    {
+     "w": "port.",
+     "start": 20.51,
+     "end": 20.83
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "And when his ship meets yours, his crew begs you to carry *letters home.*",
+   "voice": "n",
+   "start": 21.41,
+   "end": 24.97,
+   "words": [
+    {
+     "w": "And",
+     "start": 21.41,
+     "end": 21.49
+    },
+    {
+     "w": "when",
+     "start": 21.49,
+     "end": 21.61
+    },
+    {
+     "w": "his",
+     "start": 21.61,
+     "end": 21.79
+    },
+    {
+     "w": "ship",
+     "start": 21.79,
+     "end": 21.99
+    },
+    {
+     "w": "meets",
+     "start": 21.99,
+     "end": 22.25
+    },
+    {
+     "w": "yours,",
+     "start": 22.25,
+     "end": 22.55
+    },
+    {
+     "w": "his",
+     "start": 22.93,
+     "end": 23.13
+    },
+    {
+     "w": "crew",
+     "start": 23.13,
+     "end": 23.39
+    },
+    {
+     "w": "begs",
+     "start": 23.39,
+     "end": 23.75
+    },
+    {
+     "w": "you",
+     "start": 23.75,
+     "end": 23.97
+    },
+    {
+     "w": "to",
+     "start": 23.97,
+     "end": 24.09
+    },
+    {
+     "w": "carry",
+     "start": 24.09,
+     "end": 24.31
+    },
+    {
+     "w": "*letters",
+     "start": 24.31,
+     "end": 24.55
+    },
+    {
+     "w": "home.*",
+     "start": 24.55,
+     "end": 24.97
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Our bosun, Nkosi, wrote three rules in the log.",
+   "voice": "n",
+   "start": 25.93,
+   "end": 28.7,
+   "words": [
+    {
+     "w": "Our",
+     "start": 25.93,
+     "end": 26.05
+    },
+    {
+     "w": "bosun,",
+     "start": 26.05,
+     "end": 26.53
+    },
+    {
+     "w": "Nkosi,",
+     "start": 26.53,
+     "end": 27.05
+    },
+    {
+     "w": "wrote",
+     "start": 27.05,
+     "end": 27.43
+    },
+    {
+     "w": "three",
+     "start": 27.43,
+     "end": 27.79
+    },
+    {
+     "w": "rules",
+     "start": 27.79,
+     "end": 28.15
+    },
+    {
+     "w": "in",
+     "start": 28.15,
+     "end": 28.33
+    },
+    {
+     "w": "the",
+     "start": 28.33,
+     "end": 28.43
+    },
+    {
+     "w": "log.",
+     "start": 28.43,
+     "end": 28.7
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "One. Every ship on the screen *must have a name.*",
+   "voice": "n",
+   "start": 29.37,
+   "end": 32.27,
+   "words": [
+    {
+     "w": "One.",
+     "start": 29.63,
+     "end": 29.63
+    },
+    {
+     "w": "Every",
+     "start": 30.23,
+     "end": 30.45
+    },
+    {
+     "w": "ship",
+     "start": 30.45,
+     "end": 30.67
+    },
+    {
+     "w": "on",
+     "start": 30.67,
+     "end": 30.83
+    },
+    {
+     "w": "the",
+     "start": 30.83,
+     "end": 30.95
+    },
+    {
+     "w": "screen",
+     "start": 30.95,
+     "end": 31.29
+    },
+    {
+     "w": "*must",
+     "start": 31.29,
+     "end": 31.65
+    },
+    {
+     "w": "have",
+     "start": 31.65,
+     "end": 31.89
+    },
+    {
+     "w": "a",
+     "start": 31.89,
+     "end": 32.03
+    },
+    {
+     "w": "name.*",
+     "start": 32.03,
+     "end": 32.27
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Two. Never answer a ship that sails *against the wind.*",
+   "voice": "n",
+   "start": 32.93,
+   "end": 36.24,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 32.93,
+     "end": 33.17
+    },
+    {
+     "w": "Never",
+     "start": 33.81,
+     "end": 34.01
+    },
+    {
+     "w": "answer",
+     "start": 34.01,
+     "end": 34.41
+    },
+    {
+     "w": "a",
+     "start": 34.41,
+     "end": 34.61
+    },
+    {
+     "w": "ship",
+     "start": 34.61,
+     "end": 34.77
+    },
+    {
+     "w": "that",
+     "start": 34.77,
+     "end": 34.95
+    },
+    {
+     "w": "sails",
+     "start": 34.95,
+     "end": 35.23
+    },
+    {
+     "w": "*against",
+     "start": 35.23,
+     "end": 35.71
+    },
+    {
+     "w": "the",
+     "start": 35.71,
+     "end": 35.95
+    },
+    {
+     "w": "wind.*",
+     "start": 35.95,
+     "end": 36.23
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Three. If someone hands you letters, *never read who they're for.*",
+   "voice": "n",
+   "start": 36.96,
+   "end": 40.79,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 36.96,
+     "end": 37.27
+    },
+    {
+     "w": "If",
+     "start": 37.79,
+     "end": 37.97
+    },
+    {
+     "w": "someone",
+     "start": 37.97,
+     "end": 38.27
+    },
+    {
+     "w": "hands",
+     "start": 38.27,
+     "end": 38.51
+    },
+    {
+     "w": "you",
+     "start": 38.51,
+     "end": 38.69
+    },
+    {
+     "w": "letters,",
+     "start": 38.69,
+     "end": 39.05
+    },
+    {
+     "w": "*never",
+     "start": 39.43,
+     "end": 39.73
+    },
+    {
+     "w": "read",
+     "start": 39.73,
+     "end": 40.09
+    },
+    {
+     "w": "who",
+     "start": 40.09,
+     "end": 40.29
+    },
+    {
+     "w": "they're",
+     "start": 40.29,
+     "end": 40.51
+    },
+    {
+     "w": "for.*",
+     "start": 40.51,
+     "end": 40.79
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "At four a.m., a contact appeared. *No name.* Nine knots, straight into the storm.",
+   "voice": "n",
+   "start": 41.86,
+   "end": 47.24,
+   "words": [
+    {
+     "w": "At",
+     "start": 41.86,
+     "end": 41.95
+    },
+    {
+     "w": "four",
+     "start": 41.95,
+     "end": 42.25
+    },
+    {
+     "w": "a.m.,",
+     "start": 42.25,
+     "end": 42.37
+    },
+    {
+     "w": "a",
+     "start": 42.37,
+     "end": 42.75
+    },
+    {
+     "w": "contact",
+     "start": 42.75,
+     "end": 42.89
+    },
+    {
+     "w": "appeared.",
+     "start": 42.89,
+     "end": 43.29
+    },
+    {
+     "w": "*No",
+     "start": 43.29,
+     "end": 43.69
+    },
+    {
+     "w": "name.*",
+     "start": 44.27,
+     "end": 44.45
+    },
+    {
+     "w": "Nine",
+     "start": 44.45,
+     "end": 44.73
+    },
+    {
+     "w": "knots,",
+     "start": 45.31,
+     "end": 45.55
+    },
+    {
+     "w": "straight",
+     "start": 45.55,
+     "end": 45.93
+    },
+    {
+     "w": "into",
+     "start": 45.93,
+     "end": 46.51
+    },
+    {
+     "w": "the",
+     "start": 46.51,
+     "end": 46.73
+    },
+    {
+     "w": "storm.",
+     "start": 46.73,
+     "end": 46.91
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Then a message printed out: *Will you carry our letters home?*",
+   "voice": "n",
+   "start": 48.0,
+   "end": 51.2,
+   "words": [
+    {
+     "w": "Then",
+     "start": 48.0,
+     "end": 48.13
+    },
+    {
+     "w": "a",
+     "start": 48.13,
+     "end": 48.27
+    },
+    {
+     "w": "message",
+     "start": 48.27,
+     "end": 48.57
+    },
+    {
+     "w": "printed",
+     "start": 48.57,
+     "end": 48.85
+    },
+    {
+     "w": "out:",
+     "start": 48.85,
+     "end": 49.17
+    },
+    {
+     "w": "*Will",
+     "start": 49.77,
+     "end": 49.93
+    },
+    {
+     "w": "you",
+     "start": 49.93,
+     "end": 50.13
+    },
+    {
+     "w": "carry",
+     "start": 50.13,
+     "end": 50.39
+    },
+    {
+     "w": "our",
+     "start": 50.39,
+     "end": 50.61
+    },
+    {
+     "w": "letters",
+     "start": 50.61,
+     "end": 50.85
+    },
+    {
+     "w": "home?*",
+     "start": 50.85,
+     "end": 51.15
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "Nkosi said, don't answer. But the radio was already answering. *In my voice.* Yes.",
+   "voice": "n",
+   "start": 52.13,
+   "end": 58.3,
+   "words": [
+    {
+     "w": "Nkosi",
+     "start": 52.13,
+     "end": 52.47
+    },
+    {
+     "w": "said,",
+     "start": 52.47,
+     "end": 52.79
+    },
+    {
+     "w": "don't",
+     "start": 52.89,
+     "end": 53.25
+    },
+    {
+     "w": "answer.",
+     "start": 53.25,
+     "end": 53.59
+    },
+    {
+     "w": "But",
+     "start": 53.59,
+     "end": 54.21
+    },
+    {
+     "w": "the",
+     "start": 54.21,
+     "end": 54.35
+    },
+    {
+     "w": "radio",
+     "start": 54.35,
+     "end": 54.71
+    },
+    {
+     "w": "was",
+     "start": 54.71,
+     "end": 54.93
+    },
+    {
+     "w": "already",
+     "start": 54.93,
+     "end": 55.33
+    },
+    {
+     "w": "answering.",
+     "start": 55.33,
+     "end": 55.85
+    },
+    {
+     "w": "*In",
+     "start": 56.35,
+     "end": 56.57
+    },
+    {
+     "w": "my",
+     "start": 56.57,
+     "end": 56.79
+    },
+    {
+     "w": "voice.*",
+     "start": 56.79,
+     "end": 57.17
+    },
+    {
+     "w": "Yes.",
+     "start": 57.97,
+     "end": 58.15
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "By dawn, the deck was covered in wet envelopes. *Hundreds.* Addressed to people dead *for centuries.*",
+   "voice": "n",
+   "start": 59.27,
+   "end": 65.02,
+   "words": [
+    {
+     "w": "By",
+     "start": 59.27,
+     "end": 59.37
+    },
+    {
+     "w": "dawn,",
+     "start": 59.37,
+     "end": 59.67
+    },
+    {
+     "w": "the",
+     "start": 59.93,
+     "end": 60.01
+    },
+    {
+     "w": "deck",
+     "start": 60.01,
+     "end": 60.19
+    },
+    {
+     "w": "was",
+     "start": 60.19,
+     "end": 60.37
+    },
+    {
+     "w": "covered",
+     "start": 60.37,
+     "end": 60.77
+    },
+    {
+     "w": "in",
+     "start": 60.77,
+     "end": 60.99
+    },
+    {
+     "w": "wet",
+     "start": 60.99,
+     "end": 61.15
+    },
+    {
+     "w": "envelopes.",
+     "start": 61.15,
+     "end": 61.83
+    },
+    {
+     "w": "*Hundreds.*",
+     "start": 62.13,
+     "end": 62.43
+    },
+    {
+     "w": "Addressed",
+     "start": 62.95,
+     "end": 63.23
+    },
+    {
+     "w": "to",
+     "start": 63.23,
+     "end": 63.49
+    },
+    {
+     "w": "people",
+     "start": 63.49,
+     "end": 63.73
+    },
+    {
+     "w": "dead",
+     "start": 63.73,
+     "end": 64.05
+    },
+    {
+     "w": "*for",
+     "start": 64.05,
+     "end": 64.29
+    },
+    {
+     "w": "centuries.*",
+     "start": 64.29,
+     "end": 64.85
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "I broke rule three. I read the one on top. It was addressed *to me.*",
+   "voice": "n",
+   "start": 66.08,
+   "end": 70.35,
+   "words": [
+    {
+     "w": "I",
+     "start": 66.08,
+     "end": 66.17
+    },
+    {
+     "w": "broke",
+     "start": 66.17,
+     "end": 66.41
+    },
+    {
+     "w": "rule",
+     "start": 66.41,
+     "end": 66.63
+    },
+    {
+     "w": "three.",
+     "start": 66.63,
+     "end": 66.99
+    },
+    {
+     "w": "I",
+     "start": 67.51,
+     "end": 67.71
+    },
+    {
+     "w": "read",
+     "start": 67.71,
+     "end": 67.87
+    },
+    {
+     "w": "the",
+     "start": 67.87,
+     "end": 68.01
+    },
+    {
+     "w": "one",
+     "start": 68.01,
+     "end": 68.13
+    },
+    {
+     "w": "on",
+     "start": 68.13,
+     "end": 68.33
+    },
+    {
+     "w": "top.",
+     "start": 68.33,
+     "end": 68.61
+    },
+    {
+     "w": "It",
+     "start": 69.29,
+     "end": 69.43
+    },
+    {
+     "w": "was",
+     "start": 69.43,
+     "end": 69.51
+    },
+    {
+     "w": "addressed",
+     "start": 69.51,
+     "end": 69.81
+    },
+    {
+     "w": "*to",
+     "start": 69.81,
+     "end": 70.07
+    },
+    {
+     "w": "me.*",
+     "start": 70.07,
+     "end": 70.35
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "In my handwriting. Postmarked *tomorrow.* Sent from that ship.",
+   "voice": "n",
+   "start": 70.82,
+   "end": 74.99,
+   "words": [
+    {
+     "w": "In",
+     "start": 70.82,
+     "end": 70.91
+    },
+    {
+     "w": "my",
+     "start": 70.91,
+     "end": 71.21
+    },
+    {
+     "w": "handwriting.",
+     "start": 71.21,
+     "end": 71.71
+    },
+    {
+     "w": "Postmarked",
+     "start": 72.41,
+     "end": 72.79
+    },
+    {
+     "w": "*tomorrow.*",
+     "start": 72.79,
+     "end": 73.21
+    },
+    {
+     "w": "Sent",
+     "start": 73.73,
+     "end": 73.97
+    },
+    {
+     "w": "from",
+     "start": 73.97,
+     "end": 74.25
+    },
+    {
+     "w": "that",
+     "start": 74.25,
+     "end": 74.55
+    },
+    {
+     "w": "ship.",
+     "start": 74.55,
+     "end": 74.91
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "The Dutchman doesn't sink you. It *signs you on.* Somebody has to write the letters.",
+   "voice": "n",
+   "start": 76.37,
+   "end": 80.86,
+   "words": [
+    {
+     "w": "The",
+     "start": 76.37,
+     "end": 76.45
+    },
+    {
+     "w": "Dutchman",
+     "start": 76.45,
+     "end": 76.81
+    },
+    {
+     "w": "doesn't",
+     "start": 76.81,
+     "end": 77.13
+    },
+    {
+     "w": "sink",
+     "start": 77.13,
+     "end": 77.41
+    },
+    {
+     "w": "you.",
+     "start": 77.41,
+     "end": 77.69
+    },
+    {
+     "w": "It",
+     "start": 77.99,
+     "end": 78.19
+    },
+    {
+     "w": "*signs",
+     "start": 78.19,
+     "end": 78.45
+    },
+    {
+     "w": "you",
+     "start": 78.45,
+     "end": 78.65
+    },
+    {
+     "w": "on.*",
+     "start": 78.65,
+     "end": 78.91
+    },
+    {
+     "w": "Somebody",
+     "start": 79.63,
+     "end": 79.93
+    },
+    {
+     "w": "has",
+     "start": 79.93,
+     "end": 80.17
+    },
+    {
+     "w": "to",
+     "start": 80.17,
+     "end": 80.35
+    },
+    {
+     "w": "write",
+     "start": 80.35,
+     "end": 80.47
+    },
+    {
+     "w": "the",
+     "start": 80.47,
+     "end": 80.65
+    },
+    {
+     "w": "letters.",
+     "start": 80.65,
+     "end": 80.86
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "The contact is back, waiting for my answer. Do I *open it... or burn it?*",
+   "voice": "n",
+   "start": 81.47,
+   "end": 87.18,
+   "words": [
+    {
+     "w": "The",
+     "start": 81.47,
+     "end": 82.43
+    },
+    {
+     "w": "contact",
+     "start": 82.43,
+     "end": 82.83
+    },
+    {
+     "w": "is",
+     "start": 82.83,
+     "end": 83.09
+    },
+    {
+     "w": "back,",
+     "start": 83.09,
+     "end": 83.41
+    },
+    {
+     "w": "waiting",
+     "start": 83.83,
+     "end": 84.03
+    },
+    {
+     "w": "for",
+     "start": 84.03,
+     "end": 84.27
+    },
+    {
+     "w": "my",
+     "start": 84.27,
+     "end": 84.43
+    },
+    {
+     "w": "answer.",
+     "start": 84.43,
+     "end": 84.79
+    },
+    {
+     "w": "Do",
+     "start": 85.57,
+     "end": 85.67
+    },
+    {
+     "w": "I",
+     "start": 85.67,
+     "end": 85.79
+    },
+    {
+     "w": "*open",
+     "start": 85.79,
+     "end": 86.03
+    },
+    {
+     "w": "it...",
+     "start": 86.03,
+     "end": 86.29
+    },
+    {
+     "w": "or",
+     "start": 86.29,
+     "end": 86.85
+    },
+    {
+     "w": "burn",
+     "start": 86.85,
+     "end": 87.17
+    },
+    {
+     "w": "it?*",
+     "start": 87.17,
+     "end": 87.18
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 6.7
+  },
+  {
+   "id": "s2",
+   "start": 6.75,
+   "end": 13.71
+  },
+  {
+   "id": "s3",
+   "start": 13.76,
+   "end": 25.88
+  },
+  {
+   "id": "s4",
+   "start": 25.93,
+   "end": 41.81
+  },
+  {
+   "id": "s5",
+   "start": 41.86,
+   "end": 47.95
+  },
+  {
+   "id": "s6",
+   "start": 48.0,
+   "end": 52.08
+  },
+  {
+   "id": "s7",
+   "start": 52.13,
+   "end": 59.22
+  },
+  {
+   "id": "s8",
+   "start": 59.27,
+   "end": 66.03
+  },
+  {
+   "id": "s9",
+   "start": 66.08,
+   "end": 70.77
+  },
+  {
+   "id": "s10",
+   "start": 70.82,
+   "end": 76.32
+  },
+  {
+   "id": "s11",
+   "start": 76.37,
+   "end": 81.42
+  },
+  {
+   "id": "s12",
+   "start": 81.47,
+   "end": 91.18
+  }
+ ]
+}
