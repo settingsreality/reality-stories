@@ -1,0 +1,1316 @@
+{
+ "total": 88.11,
+ "lines": [
+  {
+   "scene": "s1",
+   "text": "My phone screamed: *Earthquake. Shaking in eight seconds.* And the epicenter was *my backyard.*",
+   "voice": "n",
+   "start": 0.17,
+   "end": 5.95,
+   "words": [
+    {
+     "w": "My",
+     "start": 0.17,
+     "end": 0.33
+    },
+    {
+     "w": "phone",
+     "start": 0.33,
+     "end": 0.59
+    },
+    {
+     "w": "screamed:",
+     "start": 0.59,
+     "end": 1.21
+    },
+    {
+     "w": "*Earthquake.",
+     "start": 1.59,
+     "end": 1.95
+    },
+    {
+     "w": "Shaking",
+     "start": 2.51,
+     "end": 2.69
+    },
+    {
+     "w": "in",
+     "start": 2.69,
+     "end": 2.95
+    },
+    {
+     "w": "eight",
+     "start": 2.95,
+     "end": 3.15
+    },
+    {
+     "w": "seconds.*",
+     "start": 3.15,
+     "end": 3.67
+    },
+    {
+     "w": "And",
+     "start": 4.01,
+     "end": 4.17
+    },
+    {
+     "w": "the",
+     "start": 4.17,
+     "end": 4.27
+    },
+    {
+     "w": "epicenter",
+     "start": 4.27,
+     "end": 4.77
+    },
+    {
+     "w": "was",
+     "start": 4.77,
+     "end": 5.15
+    },
+    {
+     "w": "*my",
+     "start": 5.15,
+     "end": 5.33
+    },
+    {
+     "w": "backyard.*",
+     "start": 5.33,
+     "end": 5.89
+    }
+   ]
+  },
+  {
+   "scene": "s2",
+   "text": "That alert is real. Millions of phones, lying still on their chargers, work as *tiny seismometers.*",
+   "voice": "n",
+   "start": 6.64,
+   "end": 12.91,
+   "words": [
+    {
+     "w": "That",
+     "start": 6.71,
+     "end": 6.85
+    },
+    {
+     "w": "alert",
+     "start": 6.85,
+     "end": 7.15
+    },
+    {
+     "w": "is",
+     "start": 7.15,
+     "end": 7.53
+    },
+    {
+     "w": "real.",
+     "start": 7.53,
+     "end": 7.97
+    },
+    {
+     "w": "Millions",
+     "start": 8.67,
+     "end": 8.83
+    },
+    {
+     "w": "of",
+     "start": 8.83,
+     "end": 9.15
+    },
+    {
+     "w": "phones,",
+     "start": 9.15,
+     "end": 9.53
+    },
+    {
+     "w": "lying",
+     "start": 9.79,
+     "end": 9.95
+    },
+    {
+     "w": "still",
+     "start": 9.95,
+     "end": 10.29
+    },
+    {
+     "w": "on",
+     "start": 10.29,
+     "end": 10.45
+    },
+    {
+     "w": "their",
+     "start": 10.45,
+     "end": 10.59
+    },
+    {
+     "w": "chargers,",
+     "start": 10.59,
+     "end": 11.07
+    },
+    {
+     "w": "work",
+     "start": 11.19,
+     "end": 11.45
+    },
+    {
+     "w": "as",
+     "start": 11.45,
+     "end": 11.63
+    },
+    {
+     "w": "*tiny",
+     "start": 11.63,
+     "end": 12.01
+    },
+    {
+     "w": "seismometers.*",
+     "start": 12.01,
+     "end": 12.73
+    }
+   ]
+  },
+  {
+   "scene": "s3",
+   "text": "When enough of them feel the first, fast wave, they warn everyone else *before the strong shaking* arrives.",
+   "voice": "n",
+   "start": 13.25,
+   "end": 18.58,
+   "words": [
+    {
+     "w": "When",
+     "start": 13.25,
+     "end": 13.35
+    },
+    {
+     "w": "enough",
+     "start": 13.35,
+     "end": 13.59
+    },
+    {
+     "w": "of",
+     "start": 13.59,
+     "end": 13.75
+    },
+    {
+     "w": "them",
+     "start": 13.75,
+     "end": 13.89
+    },
+    {
+     "w": "feel",
+     "start": 13.89,
+     "end": 14.09
+    },
+    {
+     "w": "the",
+     "start": 14.09,
+     "end": 14.25
+    },
+    {
+     "w": "first,",
+     "start": 14.25,
+     "end": 14.61
+    },
+    {
+     "w": "fast",
+     "start": 14.61,
+     "end": 15.07
+    },
+    {
+     "w": "wave,",
+     "start": 15.07,
+     "end": 15.51
+    },
+    {
+     "w": "they",
+     "start": 15.75,
+     "end": 15.87
+    },
+    {
+     "w": "warn",
+     "start": 15.87,
+     "end": 16.05
+    },
+    {
+     "w": "everyone",
+     "start": 16.05,
+     "end": 16.55
+    },
+    {
+     "w": "else",
+     "start": 16.55,
+     "end": 16.83
+    },
+    {
+     "w": "*before",
+     "start": 16.83,
+     "end": 17.11
+    },
+    {
+     "w": "the",
+     "start": 17.11,
+     "end": 17.29
+    },
+    {
+     "w": "strong",
+     "start": 17.29,
+     "end": 17.63
+    },
+    {
+     "w": "shaking*",
+     "start": 17.63,
+     "end": 17.99
+    },
+    {
+     "w": "arrives.",
+     "start": 17.99,
+     "end": 18.43
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "I was house-sitting for my grandpa, a retired seismologist. His rules were on the fridge.",
+   "voice": "n",
+   "start": 19.07,
+   "end": 23.73,
+   "words": [
+    {
+     "w": "I",
+     "start": 19.07,
+     "end": 19.17
+    },
+    {
+     "w": "was",
+     "start": 19.17,
+     "end": 19.29
+    },
+    {
+     "w": "house-sitting",
+     "start": 19.29,
+     "end": 19.55
+    },
+    {
+     "w": "for",
+     "start": 19.55,
+     "end": 19.73
+    },
+    {
+     "w": "my",
+     "start": 19.73,
+     "end": 19.93
+    },
+    {
+     "w": "grandpa,",
+     "start": 19.93,
+     "end": 20.07
+    },
+    {
+     "w": "a",
+     "start": 20.07,
+     "end": 20.51
+    },
+    {
+     "w": "retired",
+     "start": 20.77,
+     "end": 20.87
+    },
+    {
+     "w": "seismologist.",
+     "start": 20.87,
+     "end": 21.19
+    },
+    {
+     "w": "His",
+     "start": 21.19,
+     "end": 21.93
+    },
+    {
+     "w": "rules",
+     "start": 22.39,
+     "end": 22.53
+    },
+    {
+     "w": "were",
+     "start": 22.53,
+     "end": 22.83
+    },
+    {
+     "w": "on",
+     "start": 22.83,
+     "end": 23.09
+    },
+    {
+     "w": "the",
+     "start": 23.09,
+     "end": 23.25
+    },
+    {
+     "w": "fridge.",
+     "start": 23.25,
+     "end": 23.37
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "One. When the phone says drop, *drop, cover, and hold on.*",
+   "voice": "n",
+   "start": 24.21,
+   "end": 28.16,
+   "words": [
+    {
+     "w": "One.",
+     "start": 24.31,
+     "end": 24.47
+    },
+    {
+     "w": "When",
+     "start": 24.91,
+     "end": 25.03
+    },
+    {
+     "w": "the",
+     "start": 25.03,
+     "end": 25.15
+    },
+    {
+     "w": "phone",
+     "start": 25.15,
+     "end": 25.35
+    },
+    {
+     "w": "says",
+     "start": 25.35,
+     "end": 25.63
+    },
+    {
+     "w": "drop,",
+     "start": 25.63,
+     "end": 26.03
+    },
+    {
+     "w": "*drop,",
+     "start": 26.35,
+     "end": 26.69
+    },
+    {
+     "w": "cover,",
+     "start": 27.01,
+     "end": 27.23
+    },
+    {
+     "w": "and",
+     "start": 27.47,
+     "end": 27.63
+    },
+    {
+     "w": "hold",
+     "start": 27.63,
+     "end": 27.87
+    },
+    {
+     "w": "on.*",
+     "start": 27.87,
+     "end": 28.16
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Two. The alerts are *never wrong.*",
+   "voice": "n",
+   "start": 28.69,
+   "end": 30.91,
+   "words": [
+    {
+     "w": "Two.",
+     "start": 28.69,
+     "end": 28.95
+    },
+    {
+     "w": "The",
+     "start": 28.95,
+     "end": 29.43
+    },
+    {
+     "w": "alerts",
+     "start": 29.43,
+     "end": 29.77
+    },
+    {
+     "w": "are",
+     "start": 29.77,
+     "end": 30.13
+    },
+    {
+     "w": "*never",
+     "start": 30.13,
+     "end": 30.49
+    },
+    {
+     "w": "wrong.*",
+     "start": 30.49,
+     "end": 30.91
+    }
+   ]
+  },
+  {
+   "scene": "s4",
+   "text": "Three. If it warns you and nothing shakes, *put the phone down and don't move.*",
+   "voice": "n",
+   "start": 31.45,
+   "end": 35.79,
+   "words": [
+    {
+     "w": "Three.",
+     "start": 31.45,
+     "end": 31.71
+    },
+    {
+     "w": "If",
+     "start": 31.71,
+     "end": 32.23
+    },
+    {
+     "w": "it",
+     "start": 32.23,
+     "end": 32.35
+    },
+    {
+     "w": "warns",
+     "start": 32.35,
+     "end": 32.61
+    },
+    {
+     "w": "you",
+     "start": 32.61,
+     "end": 32.85
+    },
+    {
+     "w": "and",
+     "start": 32.85,
+     "end": 33.07
+    },
+    {
+     "w": "nothing",
+     "start": 33.07,
+     "end": 33.39
+    },
+    {
+     "w": "shakes,",
+     "start": 33.39,
+     "end": 33.77
+    },
+    {
+     "w": "*put",
+     "start": 33.77,
+     "end": 34.23
+    },
+    {
+     "w": "the",
+     "start": 34.23,
+     "end": 34.41
+    },
+    {
+     "w": "phone",
+     "start": 34.41,
+     "end": 34.61
+    },
+    {
+     "w": "down",
+     "start": 34.61,
+     "end": 34.87
+    },
+    {
+     "w": "and",
+     "start": 34.87,
+     "end": 35.13
+    },
+    {
+     "w": "don't",
+     "start": 35.13,
+     "end": 35.53
+    },
+    {
+     "w": "move.*",
+     "start": 35.53,
+     "end": 35.79
+    }
+   ]
+  },
+  {
+   "scene": "s5",
+   "text": "At 2:10 a.m., the first alert. Eight seconds. Seven. Zero. *Nothing shook.*",
+   "voice": "n",
+   "start": 36.62,
+   "end": 42.44,
+   "words": [
+    {
+     "w": "At",
+     "start": 36.62,
+     "end": 36.62
+    },
+    {
+     "w": "2:10",
+     "start": 36.62,
+     "end": 36.627
+    },
+    {
+     "w": "a.m.,",
+     "start": 36.863,
+     "end": 36.913
+    },
+    {
+     "w": "the",
+     "start": 37.15,
+     "end": 37.33
+    },
+    {
+     "w": "first",
+     "start": 37.33,
+     "end": 37.55
+    },
+    {
+     "w": "alert.",
+     "start": 37.59,
+     "end": 37.91
+    },
+    {
+     "w": "Eight",
+     "start": 38.23,
+     "end": 38.61
+    },
+    {
+     "w": "seconds.",
+     "start": 38.61,
+     "end": 39.21
+    },
+    {
+     "w": "Seven.",
+     "start": 39.21,
+     "end": 39.73
+    },
+    {
+     "w": "Zero.",
+     "start": 39.73,
+     "end": 40.53
+    },
+    {
+     "w": "*Nothing",
+     "start": 40.53,
+     "end": 41.35
+    },
+    {
+     "w": "shook.*",
+     "start": 41.35,
+     "end": 42.13
+    }
+   ]
+  },
+  {
+   "scene": "s6",
+   "text": "Then another. And another. One every minute. On the map, the epicenters made a line, *walking toward the house.*",
+   "voice": "n",
+   "start": 42.99,
+   "end": 50.35,
+   "words": [
+    {
+     "w": "Then",
+     "start": 42.99,
+     "end": 43.25
+    },
+    {
+     "w": "another.",
+     "start": 43.25,
+     "end": 43.85
+    },
+    {
+     "w": "And",
+     "start": 43.85,
+     "end": 44.53
+    },
+    {
+     "w": "another.",
+     "start": 44.53,
+     "end": 45.13
+    },
+    {
+     "w": "One",
+     "start": 45.13,
+     "end": 45.81
+    },
+    {
+     "w": "every",
+     "start": 45.81,
+     "end": 46.33
+    },
+    {
+     "w": "minute.",
+     "start": 46.33,
+     "end": 46.79
+    },
+    {
+     "w": "On",
+     "start": 46.79,
+     "end": 47.33
+    },
+    {
+     "w": "the",
+     "start": 47.33,
+     "end": 47.45
+    },
+    {
+     "w": "map,",
+     "start": 47.45,
+     "end": 47.73
+    },
+    {
+     "w": "the",
+     "start": 47.73,
+     "end": 48.01
+    },
+    {
+     "w": "epicenters",
+     "start": 48.01,
+     "end": 48.57
+    },
+    {
+     "w": "made",
+     "start": 48.57,
+     "end": 48.73
+    },
+    {
+     "w": "a",
+     "start": 48.73,
+     "end": 48.87
+    },
+    {
+     "w": "line,",
+     "start": 48.87,
+     "end": 49.21
+    },
+    {
+     "w": "*walking",
+     "start": 49.21,
+     "end": 49.69
+    },
+    {
+     "w": "toward",
+     "start": 49.69,
+     "end": 49.97
+    },
+    {
+     "w": "the",
+     "start": 49.97,
+     "end": 50.13
+    },
+    {
+     "w": "house.*",
+     "start": 50.13,
+     "end": 50.35
+    }
+   ]
+  },
+  {
+   "scene": "s7",
+   "text": "I got under the table. The glasses in the sink started to ring. *Closer.*",
+   "voice": "n",
+   "start": 50.42,
+   "end": 54.71,
+   "words": [
+    {
+     "w": "I",
+     "start": 50.47,
+     "end": 51.01
+    },
+    {
+     "w": "got",
+     "start": 51.01,
+     "end": 51.13
+    },
+    {
+     "w": "under",
+     "start": 51.13,
+     "end": 51.31
+    },
+    {
+     "w": "the",
+     "start": 51.31,
+     "end": 51.47
+    },
+    {
+     "w": "table.",
+     "start": 51.47,
+     "end": 51.83
+    },
+    {
+     "w": "The",
+     "start": 51.83,
+     "end": 52.21
+    },
+    {
+     "w": "glasses",
+     "start": 52.21,
+     "end": 52.49
+    },
+    {
+     "w": "in",
+     "start": 52.49,
+     "end": 52.73
+    },
+    {
+     "w": "the",
+     "start": 52.73,
+     "end": 52.87
+    },
+    {
+     "w": "sink",
+     "start": 52.87,
+     "end": 53.07
+    },
+    {
+     "w": "started",
+     "start": 53.07,
+     "end": 53.39
+    },
+    {
+     "w": "to",
+     "start": 53.39,
+     "end": 53.63
+    },
+    {
+     "w": "ring.",
+     "start": 53.63,
+     "end": 53.99
+    },
+    {
+     "w": "*Closer.*",
+     "start": 53.99,
+     "end": 54.71
+    }
+   ]
+  },
+  {
+   "scene": "s8",
+   "text": "Then everything went still. And a text came in from *Grandpa.*",
+   "voice": "n",
+   "start": 54.71,
+   "end": 58.8,
+   "words": [
+    {
+     "w": "Then",
+     "start": 54.71,
+     "end": 55.49
+    },
+    {
+     "w": "everything",
+     "start": 55.73,
+     "end": 56.13
+    },
+    {
+     "w": "went",
+     "start": 56.13,
+     "end": 56.47
+    },
+    {
+     "w": "still.",
+     "start": 56.47,
+     "end": 56.89
+    },
+    {
+     "w": "And",
+     "start": 57.29,
+     "end": 57.41
+    },
+    {
+     "w": "a",
+     "start": 57.41,
+     "end": 57.55
+    },
+    {
+     "w": "text",
+     "start": 57.55,
+     "end": 57.79
+    },
+    {
+     "w": "came",
+     "start": 57.79,
+     "end": 58.03
+    },
+    {
+     "w": "in",
+     "start": 58.03,
+     "end": 58.19
+    },
+    {
+     "w": "from",
+     "start": 58.19,
+     "end": 58.35
+    },
+    {
+     "w": "*Grandpa.*",
+     "start": 58.35,
+     "end": 58.77
+    }
+   ]
+  },
+  {
+   "scene": "s9",
+   "text": "\"It doesn't feel the ground. It feels the *phones.* Whatever shakes, *it walks to.*\"",
+   "voice": "n",
+   "start": 59.19,
+   "end": 64.07,
+   "words": [
+    {
+     "w": "\"It",
+     "start": 59.19,
+     "end": 59.25
+    },
+    {
+     "w": "doesn't",
+     "start": 59.25,
+     "end": 59.59
+    },
+    {
+     "w": "feel",
+     "start": 59.59,
+     "end": 59.79
+    },
+    {
+     "w": "the",
+     "start": 59.79,
+     "end": 59.99
+    },
+    {
+     "w": "ground.",
+     "start": 59.99,
+     "end": 60.33
+    },
+    {
+     "w": "It",
+     "start": 60.79,
+     "end": 60.89
+    },
+    {
+     "w": "feels",
+     "start": 60.89,
+     "end": 61.15
+    },
+    {
+     "w": "the",
+     "start": 61.15,
+     "end": 61.37
+    },
+    {
+     "w": "*phones.*",
+     "start": 61.37,
+     "end": 61.79
+    },
+    {
+     "w": "Whatever",
+     "start": 62.31,
+     "end": 62.65
+    },
+    {
+     "w": "shakes,",
+     "start": 62.65,
+     "end": 62.99
+    },
+    {
+     "w": "*it",
+     "start": 63.45,
+     "end": 63.57
+    },
+    {
+     "w": "walks",
+     "start": 63.57,
+     "end": 63.87
+    },
+    {
+     "w": "to.*\"",
+     "start": 63.87,
+     "end": 64.07
+    }
+   ]
+  },
+  {
+   "scene": "s10",
+   "text": "I looked down. My hand was shaking so hard, the phone thought *I* was the earthquake.",
+   "voice": "n",
+   "start": 65.24,
+   "end": 69.54,
+   "words": [
+    {
+     "w": "I",
+     "start": 65.24,
+     "end": 65.33
+    },
+    {
+     "w": "looked",
+     "start": 65.33,
+     "end": 65.47
+    },
+    {
+     "w": "down.",
+     "start": 65.47,
+     "end": 65.81
+    },
+    {
+     "w": "My",
+     "start": 66.19,
+     "end": 66.39
+    },
+    {
+     "w": "hand",
+     "start": 66.39,
+     "end": 66.63
+    },
+    {
+     "w": "was",
+     "start": 66.63,
+     "end": 66.83
+    },
+    {
+     "w": "shaking",
+     "start": 66.83,
+     "end": 67.07
+    },
+    {
+     "w": "so",
+     "start": 67.07,
+     "end": 67.47
+    },
+    {
+     "w": "hard,",
+     "start": 67.47,
+     "end": 67.81
+    },
+    {
+     "w": "the",
+     "start": 67.93,
+     "end": 68.03
+    },
+    {
+     "w": "phone",
+     "start": 68.03,
+     "end": 68.33
+    },
+    {
+     "w": "thought",
+     "start": 68.33,
+     "end": 68.57
+    },
+    {
+     "w": "*I*",
+     "start": 68.57,
+     "end": 68.85
+    },
+    {
+     "w": "was",
+     "start": 68.85,
+     "end": 69.03
+    },
+    {
+     "w": "the",
+     "start": 69.03,
+     "end": 69.17
+    },
+    {
+     "w": "earthquake.",
+     "start": 69.17,
+     "end": 69.53
+    }
+   ]
+  },
+  {
+   "scene": "s11",
+   "text": "New alert. Epicenter: *my kitchen.* And right outside the window, the footsteps *stopped.*",
+   "voice": "n",
+   "start": 70.09,
+   "end": 75.38,
+   "words": [
+    {
+     "w": "New",
+     "start": 70.13,
+     "end": 70.27
+    },
+    {
+     "w": "alert.",
+     "start": 70.27,
+     "end": 70.57
+    },
+    {
+     "w": "Epicenter:",
+     "start": 71.09,
+     "end": 71.41
+    },
+    {
+     "w": "*my",
+     "start": 71.79,
+     "end": 71.93
+    },
+    {
+     "w": "kitchen.*",
+     "start": 71.93,
+     "end": 72.25
+    },
+    {
+     "w": "And",
+     "start": 72.81,
+     "end": 72.95
+    },
+    {
+     "w": "right",
+     "start": 72.95,
+     "end": 73.15
+    },
+    {
+     "w": "outside",
+     "start": 73.15,
+     "end": 73.47
+    },
+    {
+     "w": "the",
+     "start": 73.47,
+     "end": 73.65
+    },
+    {
+     "w": "window,",
+     "start": 73.65,
+     "end": 73.93
+    },
+    {
+     "w": "the",
+     "start": 74.29,
+     "end": 74.39
+    },
+    {
+     "w": "footsteps",
+     "start": 74.39,
+     "end": 74.77
+    },
+    {
+     "w": "*stopped.*",
+     "start": 74.77,
+     "end": 75.27
+    }
+   ]
+  },
+  {
+   "scene": "s12",
+   "text": "The alerts were never warning me. They were telling it *where I am.*",
+   "voice": "n",
+   "start": 76.23,
+   "end": 79.19,
+   "words": [
+    {
+     "w": "The",
+     "start": 76.23,
+     "end": 76.31
+    },
+    {
+     "w": "alerts",
+     "start": 76.31,
+     "end": 76.55
+    },
+    {
+     "w": "were",
+     "start": 76.55,
+     "end": 76.77
+    },
+    {
+     "w": "never",
+     "start": 76.77,
+     "end": 76.99
+    },
+    {
+     "w": "warning",
+     "start": 76.99,
+     "end": 77.33
+    },
+    {
+     "w": "me.",
+     "start": 77.33,
+     "end": 77.67
+    },
+    {
+     "w": "They",
+     "start": 77.89,
+     "end": 78.03
+    },
+    {
+     "w": "were",
+     "start": 78.03,
+     "end": 78.13
+    },
+    {
+     "w": "telling",
+     "start": 78.13,
+     "end": 78.41
+    },
+    {
+     "w": "it",
+     "start": 78.41,
+     "end": 78.63
+    },
+    {
+     "w": "*where",
+     "start": 78.63,
+     "end": 78.79
+    },
+    {
+     "w": "I",
+     "start": 78.79,
+     "end": 78.99
+    },
+    {
+     "w": "am.*",
+     "start": 78.99,
+     "end": 79.19
+    }
+   ]
+  },
+  {
+   "scene": "s13",
+   "text": "My hand won't stop shaking. Do I put the phone down... *or run?*",
+   "voice": "n",
+   "start": 80.94,
+   "end": 84.11,
+   "words": [
+    {
+     "w": "My",
+     "start": 80.94,
+     "end": 80.94
+    },
+    {
+     "w": "hand",
+     "start": 80.94,
+     "end": 80.94
+    },
+    {
+     "w": "won't",
+     "start": 80.94,
+     "end": 80.97
+    },
+    {
+     "w": "stop",
+     "start": 80.97,
+     "end": 81.19
+    },
+    {
+     "w": "shaking.",
+     "start": 81.19,
+     "end": 81.61
+    },
+    {
+     "w": "Do",
+     "start": 82.13,
+     "end": 82.23
+    },
+    {
+     "w": "I",
+     "start": 82.23,
+     "end": 82.33
+    },
+    {
+     "w": "put",
+     "start": 82.33,
+     "end": 82.47
+    },
+    {
+     "w": "the",
+     "start": 82.47,
+     "end": 82.65
+    },
+    {
+     "w": "phone",
+     "start": 82.65,
+     "end": 82.87
+    },
+    {
+     "w": "down...",
+     "start": 82.87,
+     "end": 83.17
+    },
+    {
+     "w": "*or",
+     "start": 83.17,
+     "end": 83.83
+    },
+    {
+     "w": "run?*",
+     "start": 83.83,
+     "end": 84.11
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0,
+   "end": 6.59
+  },
+  {
+   "id": "s2",
+   "start": 6.64,
+   "end": 13.2
+  },
+  {
+   "id": "s3",
+   "start": 13.25,
+   "end": 19.02
+  },
+  {
+   "id": "s4",
+   "start": 19.07,
+   "end": 36.57
+  },
+  {
+   "id": "s5",
+   "start": 36.62,
+   "end": 42.94
+  },
+  {
+   "id": "s6",
+   "start": 42.99,
+   "end": 50.37
+  },
+  {
+   "id": "s7",
+   "start": 50.42,
+   "end": 54.66
+  },
+  {
+   "id": "s8",
+   "start": 54.71,
+   "end": 59.14
+  },
+  {
+   "id": "s9",
+   "start": 59.19,
+   "end": 65.19
+  },
+  {
+   "id": "s10",
+   "start": 65.24,
+   "end": 70.04
+  },
+  {
+   "id": "s11",
+   "start": 70.09,
+   "end": 76.18
+  },
+  {
+   "id": "s12",
+   "start": 76.23,
+   "end": 80.89
+  },
+  {
+   "id": "s13",
+   "start": 80.94,
+   "end": 88.11
+  }
+ ]
+}
